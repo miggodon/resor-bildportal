@@ -1,58 +1,296 @@
 {
-  "generated_at": "2026-06-04T07:40:02.342764+00:00",
+  "generated_at": "2026-06-04T20:57:04.202635+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/torremolinos",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/redo/apartamentos-bajondillo-torremolinos.jpg",
-      "filename": "apartamentos-bajondillo-torremolinos.jpg",
-      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:apartamentos-bajondillo",
+      "source": "bilder/inbox/bajondillo-passar-dig-som-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg",
+      "filename": "bajondillo-passar-dig-som-torremolinos.jpg",
+      "brief_id": "torremolinos:omraden-torremolinos:bajondillo-passar-dig-som",
       "domain": "torremolinos",
       "site": "torremolinos.se",
       "destination": "Torremolinos",
-      "page": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-      "page_id": 60,
-      "page_title": "Bästa hotellen i Torremolinos",
-      "page_slug": "basta-hotellen-i-torremolinos-2",
-      "h3": "7. Apartamentos Bajondillo",
-      "h3_slug": "apartamentos-bajondillo",
-      "place": "Apartamentos Bajondillo i Torremolinos",
+      "page": "https://torremolinos.se/omraden-torremolinos/",
+      "page_id": 185,
+      "page_title": "Torremolinos områden – karta och guide till stadsdelarna",
+      "page_slug": "omraden-torremolinos",
+      "h3": "Bajondillo passar dig som…",
+      "h3_slug": "bajondillo-passar-dig-som",
+      "place": "Bajondillo passar dig som… i Torremolinos",
       "gps": "36.6218, -4.5003",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
-      "caption": "Apartamentos Bajondillo i Torremolinos",
-      "seo": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Bajondillo passar dig som… i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents bajondillo passar dig som… with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: bajondillo-passar-dig-som-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Bajondillo passar dig som… i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents bajondillo passar dig som… with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Bajondillo passar dig som… i Torremolinos",
+      "caption": "Bajondillo passar dig som… i Torremolinos",
+      "seo": "Bajondillo passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/redo/apartamentos-bajondillo-torremolinos.jpg",
+        "preferred_source_download": "bilder/inbox/bajondillo-passar-dig-som-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg",
         "wordpress_target": {
-          "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-          "page_slug": "basta-hotellen-i-torremolinos-2",
-          "section_h3": "7. Apartamentos Bajondillo",
+          "page_url": "https://torremolinos.se/omraden-torremolinos/",
+          "page_slug": "omraden-torremolinos",
+          "section_h3": "Bajondillo passar dig som…",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Apartamentos Bajondillo i Torremolinos",
-          "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
-          "caption": "Apartamentos Bajondillo i Torremolinos",
-          "description": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Bajondillo passar dig som… i Torremolinos",
+          "alt": "Bajondillo passar dig som… i Torremolinos",
+          "caption": "Bajondillo passar dig som… i Torremolinos",
+          "description": "Bajondillo passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/torremolinos/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide. Target filename after download: apartamentos-bajondillo-torremolinos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Apartamentos Bajondillo i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents apartamentos bajondillo with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide. Target filename after download: apartamentos-bajondillo-torremolinos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Apartamentos Bajondillo i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents apartamentos bajondillo with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/redo/casa-de-los-navajas-torremolinos.jpg",
-      "filename": "casa-de-los-navajas-torremolinos.jpg",
-      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:casa-de-los-navajas",
+      "source": "bilder/inbox/basta-stranderna-for-barnfamiljer-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg",
+      "filename": "basta-stranderna-for-barnfamiljer-torremolinos.jpg",
+      "brief_id": "torremolinos:torremolinos-med-barn:basta-stranderna-for-barnfamiljer",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/torremolinos-med-barn/",
+      "page_id": 180,
+      "page_title": "Torremolinos med barn – familjevänlig guide till Costa del Sol",
+      "page_slug": "torremolinos-med-barn",
+      "h3": "Bästa stränderna för barnfamiljer",
+      "h3_slug": "basta-stranderna-for-barnfamiljer",
+      "place": "Bästa stränderna för barnfamiljer i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "street-level documentary evening photograph",
+      "prompt": "A realistic street-level documentary travel photograph at Bästa stränderna för barnfamiljer i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents bästa stränderna för barnfamiljer with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: basta-stranderna-for-barnfamiljer-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Bästa stränderna för barnfamiljer i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents bästa stränderna för barnfamiljer with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Bästa stränderna för barnfamiljer i Torremolinos",
+      "caption": "Bästa stränderna för barnfamiljer i Torremolinos",
+      "seo": "Bästa stränderna för barnfamiljer i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/basta-stranderna-for-barnfamiljer-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/torremolinos-med-barn/",
+          "page_slug": "torremolinos-med-barn",
+          "section_h3": "Bästa stränderna för barnfamiljer",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Bästa stränderna för barnfamiljer i Torremolinos",
+          "alt": "Bästa stränderna för barnfamiljer i Torremolinos",
+          "caption": "Bästa stränderna för barnfamiljer i Torremolinos",
+          "description": "Bästa stränderna för barnfamiljer i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/benalmadena-pueblo-och-kabinbanan-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
+      "filename": "benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
+      "brief_id": "torremolinos:torremolinos-med-barn:benalmadena-pueblo-och-kabinbanan",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/torremolinos-med-barn/",
+      "page_id": 180,
+      "page_title": "Torremolinos med barn – familjevänlig guide till Costa del Sol",
+      "page_slug": "torremolinos-med-barn",
+      "h3": "Benalmádena Pueblo och kabinbanan",
+      "h3_slug": "benalmadena-pueblo-och-kabinbanan",
+      "place": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "street-level documentary evening photograph",
+      "prompt": "A realistic street-level documentary travel photograph at Benalmádena Pueblo och kabinbanan i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents benalmádena pueblo och kabinbanan with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: benalmadena-pueblo-och-kabinbanan-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Benalmádena Pueblo och kabinbanan i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents benalmádena pueblo och kabinbanan with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+      "caption": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+      "seo": "Benalmádena Pueblo och kabinbanan i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/benalmadena-pueblo-och-kabinbanan-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/torremolinos-med-barn/",
+          "page_slug": "torremolinos-med-barn",
+          "section_h3": "Benalmádena Pueblo och kabinbanan",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+          "alt": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+          "caption": "Benalmádena Pueblo och kabinbanan i Torremolinos",
+          "description": "Benalmádena Pueblo och kabinbanan i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
+      "filename": "centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
+      "brief_id": "torremolinos:shopping-torremolinos:centro-comercial-nevada-granada-for-stora-shoppingdagar",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/shopping-torremolinos/",
+      "page_id": 182,
+      "page_title": "Shopping i Torremolinos – marknader, butiker och köpcentrum",
+      "page_slug": "shopping-torremolinos",
+      "h3": "Centro Comercial Nevada (Granada) – för stora shoppingdagar",
+      "h3_slug": "centro-comercial-nevada-granada-for-stora-shoppingdagar",
+      "place": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents centro comercial nevada (granada) – för stora shoppingdagar with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents centro comercial nevada (granada) – för stora shoppingdagar with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+      "caption": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+      "seo": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/shopping-torremolinos/",
+          "page_slug": "shopping-torremolinos",
+          "section_h3": "Centro Comercial Nevada (Granada) – för stora shoppingdagar",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+          "alt": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+          "caption": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
+          "description": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/craft-beer-och-lokalt-bryggeri-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
+      "filename": "craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
+      "brief_id": "torremolinos:mat-torremolinos:craft-beer-och-lokalt-bryggeri",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/mat-torremolinos/",
+      "page_id": 184,
+      "page_title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
+      "page_slug": "mat-torremolinos",
+      "h3": "Craft beer och lokalt bryggeri",
+      "h3_slug": "craft-beer-och-lokalt-bryggeri",
+      "place": "Craft beer och lokalt bryggeri i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Craft beer och lokalt bryggeri i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents craft beer och lokalt bryggeri with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: craft-beer-och-lokalt-bryggeri-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Craft beer och lokalt bryggeri i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents craft beer och lokalt bryggeri with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Craft beer och lokalt bryggeri i Torremolinos",
+      "caption": "Craft beer och lokalt bryggeri i Torremolinos",
+      "seo": "Craft beer och lokalt bryggeri i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/craft-beer-och-lokalt-bryggeri-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/mat-torremolinos/",
+          "page_slug": "mat-torremolinos",
+          "section_h3": "Craft beer och lokalt bryggeri",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Craft beer och lokalt bryggeri i Torremolinos",
+          "alt": "Craft beer och lokalt bryggeri i Torremolinos",
+          "caption": "Craft beer och lokalt bryggeri i Torremolinos",
+          "description": "Craft beer och lokalt bryggeri i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/fritura-malaguena-blandad-stekt-fisk-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
+      "filename": "fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
+      "brief_id": "torremolinos:mat-torremolinos:fritura-malaguena-blandad-stekt-fisk",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/mat-torremolinos/",
+      "page_id": 184,
+      "page_title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
+      "page_slug": "mat-torremolinos",
+      "h3": "Fritura malagueña – blandad stekt fisk",
+      "h3_slug": "fritura-malaguena-blandad-stekt-fisk",
+      "place": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Fritura malagueña – blandad stekt fisk i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents fritura malagueña – blandad stekt fisk with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: fritura-malaguena-blandad-stekt-fisk-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Fritura malagueña – blandad stekt fisk i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents fritura malagueña – blandad stekt fisk with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+      "caption": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+      "seo": "Fritura malagueña – blandad stekt fisk i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/fritura-malaguena-blandad-stekt-fisk-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/mat-torremolinos/",
+          "page_slug": "mat-torremolinos",
+          "section_h3": "Fritura malagueña – blandad stekt fisk",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+          "alt": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+          "caption": "Fritura malagueña – blandad stekt fisk i Torremolinos",
+          "description": "Fritura malagueña – blandad stekt fisk i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hotel-ritual-torremolinos-adults-only-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
+      "filename": "hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
+      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:hotel-ritual-torremolinos-adults-only",
       "domain": "torremolinos",
       "site": "torremolinos.se",
       "destination": "Torremolinos",
@@ -60,37 +298,463 @@
       "page_id": 60,
       "page_title": "Bästa hotellen i Torremolinos",
       "page_slug": "basta-hotellen-i-torremolinos-2",
-      "h3": "8. Casa de los Navajas",
-      "h3_slug": "casa-de-los-navajas",
-      "place": "Casa de los Navajas i Torremolinos",
+      "h3": "1. Hotel Ritual Torremolinos – Adults Only",
+      "h3_slug": "hotel-ritual-torremolinos-adults-only",
+      "place": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
       "gps": "36.6218, -4.5003",
       "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
-      "caption": "Casa de los Navajas i Torremolinos",
-      "seo": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Ritual Torremolinos – Adults Only i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents hotel ritual torremolinos – adults only with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: hotel-ritual-torremolinos-adults-only-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Ritual Torremolinos – Adults Only i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents hotel ritual torremolinos – adults only with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
+      "caption": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
+      "seo": "Hotel Ritual Torremolinos – Adults Only i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/redo/casa-de-los-navajas-torremolinos.jpg",
+        "preferred_source_download": "bilder/inbox/hotel-ritual-torremolinos-adults-only-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
           "page_slug": "basta-hotellen-i-torremolinos-2",
-          "section_h3": "8. Casa de los Navajas",
+          "section_h3": "1. Hotel Ritual Torremolinos – Adults Only",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Casa de los Navajas i Torremolinos",
-          "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
-          "caption": "Casa de los Navajas i Torremolinos",
-          "description": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
+          "alt": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
+          "caption": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
+          "description": "Hotel Ritual Torremolinos – Adults Only i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/torremolinos/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide. Target filename after download: casa-de-los-navajas-torremolinos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Casa de los Navajas i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents casa de los navajas with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide. Target filename after download: casa-de-los-navajas-torremolinos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Casa de los Navajas i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents casa de los navajas with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/los-alamos-passar-dig-som-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg",
+      "filename": "los-alamos-passar-dig-som-torremolinos.jpg",
+      "brief_id": "torremolinos:omraden-torremolinos:los-alamos-passar-dig-som",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/omraden-torremolinos/",
+      "page_id": 185,
+      "page_title": "Torremolinos områden – karta och guide till stadsdelarna",
+      "page_slug": "omraden-torremolinos",
+      "h3": "Los Álamos passar dig som…",
+      "h3_slug": "los-alamos-passar-dig-som",
+      "place": "Los Álamos passar dig som… i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Los Álamos passar dig som… i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents los álamos passar dig som… with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: los-alamos-passar-dig-som-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Los Álamos passar dig som… i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents los álamos passar dig som… with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Los Álamos passar dig som… i Torremolinos",
+      "caption": "Los Álamos passar dig som… i Torremolinos",
+      "seo": "Los Álamos passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/los-alamos-passar-dig-som-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/omraden-torremolinos/",
+          "page_slug": "omraden-torremolinos",
+          "section_h3": "Los Álamos passar dig som…",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Los Álamos passar dig som… i Torremolinos",
+          "alt": "Los Álamos passar dig som… i Torremolinos",
+          "caption": "Los Álamos passar dig som… i Torremolinos",
+          "description": "Los Álamos passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/marbella-puerto-banus-for-lyx-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg",
+      "filename": "marbella-puerto-banus-for-lyx-torremolinos.jpg",
+      "brief_id": "torremolinos:shopping-torremolinos:marbella-puerto-banus-for-lyx",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/shopping-torremolinos/",
+      "page_id": 182,
+      "page_title": "Shopping i Torremolinos – marknader, butiker och köpcentrum",
+      "page_slug": "shopping-torremolinos",
+      "h3": "Marbella – Puerto Banús för lyx",
+      "h3_slug": "marbella-puerto-banus-for-lyx",
+      "place": "Marbella – Puerto Banús för lyx i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Marbella – Puerto Banús för lyx i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents marbella – puerto banús för lyx with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: marbella-puerto-banus-for-lyx-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Marbella – Puerto Banús för lyx i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents marbella – puerto banús för lyx with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Marbella – Puerto Banús för lyx i Torremolinos",
+      "caption": "Marbella – Puerto Banús för lyx i Torremolinos",
+      "seo": "Marbella – Puerto Banús för lyx i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/marbella-puerto-banus-for-lyx-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/shopping-torremolinos/",
+          "page_slug": "shopping-torremolinos",
+          "section_h3": "Marbella – Puerto Banús för lyx",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Marbella – Puerto Banús för lyx i Torremolinos",
+          "alt": "Marbella – Puerto Banús för lyx i Torremolinos",
+          "caption": "Marbella – Puerto Banús för lyx i Torremolinos",
+          "description": "Marbella – Puerto Banús för lyx i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/populara-tapas-i-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg",
+      "filename": "populara-tapas-i-torremolinos.jpg",
+      "brief_id": "torremolinos:mat-torremolinos:populara-tapas-i-torremolinos",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/mat-torremolinos/",
+      "page_id": 184,
+      "page_title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
+      "page_slug": "mat-torremolinos",
+      "h3": "Populära tapas i Torremolinos",
+      "h3_slug": "populara-tapas-i-torremolinos",
+      "place": "Populära tapas i Torremolinos i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "street-level documentary evening photograph",
+      "prompt": "A realistic street-level documentary travel photograph at Populära tapas i Torremolinos i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents populära tapas i torremolinos with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: populara-tapas-i-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Populära tapas i Torremolinos i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents populära tapas i torremolinos with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Populära tapas i Torremolinos i Torremolinos",
+      "caption": "Populära tapas i Torremolinos i Torremolinos",
+      "seo": "Populära tapas i Torremolinos i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/populara-tapas-i-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/mat-torremolinos/",
+          "page_slug": "mat-torremolinos",
+          "section_h3": "Populära tapas i Torremolinos",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Populära tapas i Torremolinos i Torremolinos",
+          "alt": "Populära tapas i Torremolinos i Torremolinos",
+          "caption": "Populära tapas i Torremolinos i Torremolinos",
+          "description": "Populära tapas i Torremolinos i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/populara-val-i-centrum-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg",
+      "filename": "populara-val-i-centrum-torremolinos.jpg",
+      "brief_id": "torremolinos:restauranger-torremolinos:populara-val-i-centrum",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/restauranger-torremolinos/",
+      "page_id": 178,
+      "page_title": "Restauranger i Torremolinos – bästa ställena att äta 2025",
+      "page_slug": "restauranger-torremolinos",
+      "h3": "Populära val i centrum",
+      "h3_slug": "populara-val-i-centrum",
+      "place": "Populära val i centrum i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Populära val i centrum i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents populära val i centrum with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: populara-val-i-centrum-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Populära val i centrum i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents populära val i centrum with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Populära val i centrum i Torremolinos",
+      "caption": "Populära val i centrum i Torremolinos",
+      "seo": "Populära val i centrum i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/populara-val-i-centrum-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/restauranger-torremolinos/",
+          "page_slug": "restauranger-torremolinos",
+          "section_h3": "Populära val i centrum",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Populära val i centrum i Torremolinos",
+          "alt": "Populära val i centrum i Torremolinos",
+          "caption": "Populära val i centrum i Torremolinos",
+          "description": "Populära val i centrum i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/praktisk-info-om-sondagsmarknaden-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
+      "filename": "praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
+      "brief_id": "torremolinos:shopping-torremolinos:praktisk-info-om-sondagsmarknaden",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/shopping-torremolinos/",
+      "page_id": 182,
+      "page_title": "Shopping i Torremolinos – marknader, butiker och köpcentrum",
+      "page_slug": "shopping-torremolinos",
+      "h3": "Praktisk info om söndagsmarknaden",
+      "h3_slug": "praktisk-info-om-sondagsmarknaden",
+      "place": "Praktisk info om söndagsmarknaden i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Praktisk info om söndagsmarknaden i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents praktisk info om söndagsmarknaden with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: praktisk-info-om-sondagsmarknaden-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Praktisk info om söndagsmarknaden i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents praktisk info om söndagsmarknaden with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Praktisk info om söndagsmarknaden i Torremolinos",
+      "caption": "Praktisk info om söndagsmarknaden i Torremolinos",
+      "seo": "Praktisk info om söndagsmarknaden i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/praktisk-info-om-sondagsmarknaden-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/shopping-torremolinos/",
+          "page_slug": "shopping-torremolinos",
+          "section_h3": "Praktisk info om söndagsmarknaden",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Praktisk info om söndagsmarknaden i Torremolinos",
+          "alt": "Praktisk info om söndagsmarknaden i Torremolinos",
+          "caption": "Praktisk info om söndagsmarknaden i Torremolinos",
+          "description": "Praktisk info om söndagsmarknaden i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/rabo-de-toro-oxsvanssgryta-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
+      "filename": "rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
+      "brief_id": "torremolinos:mat-torremolinos:rabo-de-toro-oxsvanssgryta",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/mat-torremolinos/",
+      "page_id": 184,
+      "page_title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
+      "page_slug": "mat-torremolinos",
+      "h3": "Rabo de toro – oxsvanssgryta",
+      "h3_slug": "rabo-de-toro-oxsvanssgryta",
+      "place": "Rabo de toro – oxsvanssgryta i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Rabo de toro – oxsvanssgryta i Torremolinos in Torremolinos, Spain, during the mild winter travel season. The scene clearly represents rabo de toro – oxsvanssgryta with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: rabo-de-toro-oxsvanssgryta-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Rabo de toro – oxsvanssgryta i Torremolinos in Torremolinos, Spain, during the mild winter travel season. The scene clearly represents rabo de toro – oxsvanssgryta with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Rabo de toro – oxsvanssgryta i Torremolinos",
+      "caption": "Rabo de toro – oxsvanssgryta i Torremolinos",
+      "seo": "Rabo de toro – oxsvanssgryta i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/rabo-de-toro-oxsvanssgryta-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/mat-torremolinos/",
+          "page_slug": "mat-torremolinos",
+          "section_h3": "Rabo de toro – oxsvanssgryta",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rabo de toro – oxsvanssgryta i Torremolinos",
+          "alt": "Rabo de toro – oxsvanssgryta i Torremolinos",
+          "caption": "Rabo de toro – oxsvanssgryta i Torremolinos",
+          "description": "Rabo de toro – oxsvanssgryta i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
+      "filename": "rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
+      "brief_id": "torremolinos:hyrbil-i-torremolinos:rutt-2-costa-del-sol-marbella-puerto-banus-a-7",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/hyrbil-i-torremolinos/",
+      "page_id": 62,
+      "page_title": "Hyrbil i Torremolinos",
+      "page_slug": "hyrbil-i-torremolinos",
+      "h3": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7)",
+      "h3_slug": "rutt-2-costa-del-sol-marbella-puerto-banus-a-7",
+      "place": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents rutt 2: costa del sol – marbella + puerto banús (a-7) with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents rutt 2: costa del sol – marbella + puerto banús (a-7) with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+      "caption": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+      "seo": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/hyrbil-i-torremolinos/",
+          "page_slug": "hyrbil-i-torremolinos",
+          "section_h3": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+          "alt": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+          "caption": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
+          "description": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
+      "filename": "rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
+      "brief_id": "torremolinos:hyrbil-i-torremolinos:rutt-3-malaga-gibralfaro-storstad-pa-20-min",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/hyrbil-i-torremolinos/",
+      "page_id": 62,
+      "page_title": "Hyrbil i Torremolinos",
+      "page_slug": "hyrbil-i-torremolinos",
+      "h3": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min",
+      "h3_slug": "rutt-3-malaga-gibralfaro-storstad-pa-20-min",
+      "place": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 3: málaga + gibralfaro – storstad på 20 min with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 3: málaga + gibralfaro – storstad på 20 min with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+      "caption": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+      "seo": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/hyrbil-i-torremolinos/",
+          "page_slug": "hyrbil-i-torremolinos",
+          "section_h3": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+          "alt": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+          "caption": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
+          "description": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/viner-fran-malaga-provinsen-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg",
+      "filename": "viner-fran-malaga-provinsen-torremolinos.jpg",
+      "brief_id": "torremolinos:mat-torremolinos:viner-fran-malaga-provinsen",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/mat-torremolinos/",
+      "page_id": 184,
+      "page_title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
+      "page_slug": "mat-torremolinos",
+      "h3": "Viner från Málaga-provinsen",
+      "h3_slug": "viner-fran-malaga-provinsen",
+      "place": "Viner från Málaga-provinsen i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Viner från Málaga-provinsen i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents viner från málaga-provinsen with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Torremolinos travel guide.\n\nTarget filename after download: viner-fran-malaga-provinsen-torremolinos.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Viner från Málaga-provinsen i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents viner från málaga-provinsen with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.",
+      "alt": "Viner från Málaga-provinsen i Torremolinos",
+      "caption": "Viner från Málaga-provinsen i Torremolinos",
+      "seo": "Viner från Málaga-provinsen i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/viner-fran-malaga-provinsen-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/mat-torremolinos/",
+          "page_slug": "mat-torremolinos",
+          "section_h3": "Viner från Málaga-provinsen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Viner från Málaga-provinsen i Torremolinos",
+          "alt": "Viner från Málaga-provinsen i Torremolinos",
+          "caption": "Viner från Málaga-provinsen i Torremolinos",
+          "description": "Viner från Málaga-provinsen i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
