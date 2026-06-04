@@ -1,3 +1,196 @@
 {
-  "items": []
+  "generated_at": "2026-06-04T18:31:58.283209+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/grancanaria",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/att-underskatta-bergsvagar-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg",
+      "filename": "att-underskatta-bergsvagar-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:att-underskatta-bergsvagar",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
+      "page_id": 111,
+      "page_title": "Gran Canarias bästa dagsutflykter med hyrbil: rutter, stopp och praktiska tips",
+      "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
+      "h3": "Att underskatta bergsvägar",
+      "h3_slug": "att-underskatta-bergsvagar",
+      "place": "Att underskatta bergsvägar i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att underskatta bergsvägar i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents att underskatta bergsvägar with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: att-underskatta-bergsvagar-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att underskatta bergsvägar i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents att underskatta bergsvägar with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Att underskatta bergsvägar i Gran Canaria",
+      "caption": "Att underskatta bergsvägar i Gran Canaria",
+      "seo": "Att underskatta bergsvägar i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/att-underskatta-bergsvagar-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
+          "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
+          "section_h3": "Att underskatta bergsvägar",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Att underskatta bergsvägar i Gran Canaria",
+          "alt": "Att underskatta bergsvägar i Gran Canaria",
+          "caption": "Att underskatta bergsvägar i Gran Canaria",
+          "description": "Att underskatta bergsvägar i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
+      "filename": "basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:att-starta-for-sent",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
+      "page_id": 111,
+      "page_title": "Gran Canarias bästa dagsutflykter med hyrbil: rutter, stopp och praktiska tips",
+      "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
+      "h3": "Att starta för sent",
+      "h3_slug": "att-starta-for-sent",
+      "place": "Att starta för sent i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att starta för sent i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents att starta för sent with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att starta för sent i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents att starta för sent with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Att starta för sent i Gran Canaria",
+      "caption": "Att starta för sent i Gran Canaria",
+      "seo": "Att starta för sent i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
+          "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
+          "section_h3": "Att starta för sent",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Att starta för sent i Gran Canaria",
+          "alt": "Att starta för sent i Gran Canaria",
+          "caption": "Att starta för sent i Gran Canaria",
+          "description": "Att starta för sent i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/lopesan-costa-meloneras-resort-spa-casino-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
+      "filename": "lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
+      "brief_id": "grancanaria:meloneras:lopesan-costa-meloneras-resort-spa-casino",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/meloneras/",
+      "page_id": 623,
+      "page_title": "Meloneras Gran Canaria – lyxkvarteret vid havet",
+      "page_slug": "meloneras",
+      "h3": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐",
+      "h3_slug": "lopesan-costa-meloneras-resort-spa-casino",
+      "place": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents lopesan costa meloneras resort spa & casino ⭐⭐⭐⭐⭐ with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: lopesan-costa-meloneras-resort-spa-casino-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents lopesan costa meloneras resort spa & casino ⭐⭐⭐⭐⭐ with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+      "caption": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+      "seo": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/lopesan-costa-meloneras-resort-spa-casino-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/meloneras/",
+          "page_slug": "meloneras",
+          "section_h3": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+          "alt": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+          "caption": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
+          "description": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/priser-campo-internacional-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg",
+      "filename": "priser-campo-internacional-grancanaria.jpg",
+      "brief_id": "grancanaria:hyra-i-maspalomas:priser-campo-internacional",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyra-i-maspalomas/",
+      "page_id": 617,
+      "page_title": "Hyra lägenhet i Maspalomas – bästa bostäder, priser och insider-tips",
+      "page_slug": "hyra-i-maspalomas",
+      "h3": "Priser Campo Internacional",
+      "h3_slug": "priser-campo-internacional",
+      "place": "Priser Campo Internacional i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Priser Campo Internacional i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents priser campo internacional with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: priser-campo-internacional-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Priser Campo Internacional i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents priser campo internacional with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Priser Campo Internacional i Gran Canaria",
+      "caption": "Priser Campo Internacional i Gran Canaria",
+      "seo": "Priser Campo Internacional i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/priser-campo-internacional-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyra-i-maspalomas/",
+          "page_slug": "hyra-i-maspalomas",
+          "section_h3": "Priser Campo Internacional",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Priser Campo Internacional i Gran Canaria",
+          "alt": "Priser Campo Internacional i Gran Canaria",
+          "caption": "Priser Campo Internacional i Gran Canaria",
+          "description": "Priser Campo Internacional i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
 }

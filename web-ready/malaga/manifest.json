@@ -1,14 +1,249 @@
 {
-  "generated_at": "2026-06-04T00:54:28.914169+00:00",
+  "generated_at": "2026-06-04T18:31:58.700018+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/malaga",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
-      "file": "bilder/web-ready/malaga/redo/el-ejido-universitet-takterrasser-malaga.jpg",
-      "filename": "el-ejido-universitet-takterrasser-malaga.jpg",
-      "brief_id": "malaga:var-ska-man-bo-i-malaga:el-ejido-universitetet-och-takterrasserna",
+      "source": "bilder/inbox/dag-1-historiska-malaga-alcazaba-katedral-malaga.png",
+      "file": "bilder/web-ready/malaga/dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg",
+      "filename": "dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg",
+      "brief_id": "malaga:sevardheter-malaga-topp-10:dag-1-historiska-malaga",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/sevardheter-malaga-topp-10/",
+      "page_id": 208,
+      "page_title": "10 bästa sevärdheterna i Málaga 2026 — komplett guide",
+      "page_slug": "sevardheter-malaga-topp-10",
+      "h3": "Dag 1 — historiska Málaga",
+      "h3_slug": "dag-1-historiska-malaga",
+      "place": "historiska Málaga runt Alcazaba, katedralen och romerska teatern",
+      "gps": "36.7218, -4.4183",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at historiska Málaga runt Alcazaba, katedralen och romerska teatern in Málaga, Spain, during the spring travel season. The scene clearly represents dag 1 — historiska málaga with turister på sightseeing, Alcazaba, katedralen, romerska teatern, soliga gränder och caféer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: dag-1-historiska-malaga-alcazaba-katedral-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at historiska Málaga runt Alcazaba, katedralen och romerska teatern in Málaga, Spain, during the spring travel season. The scene clearly represents dag 1 — historiska málaga with turister på sightseeing, Alcazaba, katedralen, romerska teatern, soliga gränder och caféer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Dag 1 — historiska Málaga i Málaga",
+      "caption": "Dag 1 — historiska Málaga i Málaga",
+      "seo": "Dag 1 — historiska Málaga i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dag-1-historiska-malaga-alcazaba-katedral-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/sevardheter-malaga-topp-10/",
+          "page_slug": "sevardheter-malaga-topp-10",
+          "section_h3": "Dag 1 — historiska Málaga",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Dag 1 — historiska Málaga i Málaga",
+          "alt": "Dag 1 — historiska Málaga i Málaga",
+          "caption": "Dag 1 — historiska Málaga i Málaga",
+          "description": "Dag 1 — historiska Málaga i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/dag-2-konst-strand-pompidou-la-malagueta-malaga.png",
+      "file": "bilder/web-ready/malaga/dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg",
+      "filename": "dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg",
+      "brief_id": "malaga:sevardheter-malaga-topp-10:dag-2-konst-strand",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/sevardheter-malaga-topp-10/",
+      "page_id": 208,
+      "page_title": "10 bästa sevärdheterna i Málaga 2026 — komplett guide",
+      "page_slug": "sevardheter-malaga-topp-10",
+      "h3": "Dag 2 — konst & strand",
+      "h3_slug": "dag-2-konst-strand",
+      "place": "Málaga från Soho och Centre Pompidou till La Malagueta",
+      "gps": "36.7168, -4.4132",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Málaga från Soho och Centre Pompidou till La Malagueta in Málaga, Spain, during the spring travel season. The scene clearly represents dag 2 — konst & strand with konstkvarter, Centre Pompidou, hamnpromenad, strandfolk och Medelhavet i samma reseguidekänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: dag-2-konst-strand-pompidou-la-malagueta-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Málaga från Soho och Centre Pompidou till La Malagueta in Málaga, Spain, during the spring travel season. The scene clearly represents dag 2 — konst & strand with konstkvarter, Centre Pompidou, hamnpromenad, strandfolk och Medelhavet i samma reseguidekänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Dag 2 — konst & strand i Málaga",
+      "caption": "Dag 2 — konst & strand i Málaga",
+      "seo": "Dag 2 — konst & strand i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dag-2-konst-strand-pompidou-la-malagueta-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/sevardheter-malaga-topp-10/",
+          "page_slug": "sevardheter-malaga-topp-10",
+          "section_h3": "Dag 2 — konst & strand",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Dag 2 — konst & strand i Málaga",
+          "alt": "Dag 2 — konst & strand i Málaga",
+          "caption": "Dag 2 — konst & strand i Málaga",
+          "description": "Dag 2 — konst & strand i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.png",
+      "file": "bilder/web-ready/malaga/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg",
+      "filename": "hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg",
+      "brief_id": "malaga:hyrbil-i-malaga:rutt-3-costa-del-sol-nerja-marbella-a-7",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/hyrbil-i-malaga/",
+      "page_id": 77,
+      "page_title": "Hyrbil i Málaga 2026 — priser, försäkring & bästa rutter",
+      "page_slug": "hyrbil-i-malaga",
+      "h3": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7)",
+      "h3_slug": "rutt-3-costa-del-sol-nerja-marbella-a-7",
+      "place": "kustvägen A-7 längs Costa del Sol mellan Nerja och Marbella",
+      "gps": "36.7313, -4.2582",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at kustvägen A-7 längs Costa del Sol mellan Nerja och Marbella in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 3: costa del sol – nerja & marbella (a-7) with Medelhavet, kustväg, hyrbilar, strandorter, berg nära havet och tydlig roadtrip-känsla längs Costa del Sol. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: hyrbil-costa-del-sol-nerja-marbella-a7-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at kustvägen A-7 längs Costa del Sol mellan Nerja och Marbella in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 3: costa del sol – nerja & marbella (a-7) with Medelhavet, kustväg, hyrbilar, strandorter, berg nära havet och tydlig roadtrip-känsla längs Costa del Sol. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga",
+      "caption": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga",
+      "seo": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/hyrbil-i-malaga/",
+          "page_slug": "hyrbil-i-malaga",
+          "section_h3": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga",
+          "alt": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga",
+          "caption": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga",
+          "description": "Rutt 3: Costa del Sol – Nerja & Marbella (A-7) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hyrbil-malaga-granada-alhambra-dagstur-malaga.png",
+      "file": "bilder/web-ready/malaga/hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg",
+      "filename": "hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg",
+      "brief_id": "malaga:hyrbil-i-malaga:rutt-1-granada-alhambra-en-dagstur",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/hyrbil-i-malaga/",
+      "page_id": 77,
+      "page_title": "Hyrbil i Málaga 2026 — priser, försäkring & bästa rutter",
+      "page_slug": "hyrbil-i-malaga",
+      "h3": "Rutt 1: Granada & Alhambra (en dagstur)",
+      "h3_slug": "rutt-1-granada-alhambra-en-dagstur",
+      "place": "A-92-rutten från Málaga mot Granada och Alhambra",
+      "gps": "36.7362, -4.4215",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at A-92-rutten från Málaga mot Granada och Alhambra in Málaga, Spain, during the spring travel season. The scene clearly represents rutt 1: granada & alhambra (en dagstur) with hyrbil som lämnar Málaga, motorväg mot inlandet, Sierra Nevada i fjärran, resenärer vid rastplats och tydlig dagsturskänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: hyrbil-malaga-granada-alhambra-dagstur-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at A-92-rutten från Málaga mot Granada och Alhambra in Málaga, Spain, during the spring travel season. The scene clearly represents rutt 1: granada & alhambra (en dagstur) with hyrbil som lämnar Málaga, motorväg mot inlandet, Sierra Nevada i fjärran, resenärer vid rastplats och tydlig dagsturskänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga",
+      "caption": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga",
+      "seo": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hyrbil-malaga-granada-alhambra-dagstur-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/hyrbil-i-malaga/",
+          "page_slug": "hyrbil-i-malaga",
+          "section_h3": "Rutt 1: Granada & Alhambra (en dagstur)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga",
+          "alt": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga",
+          "caption": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga",
+          "description": "Rutt 1: Granada & Alhambra (en dagstur) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hyrbil-ronda-vita-byar-a397-malaga.png",
+      "file": "bilder/web-ready/malaga/hyrbil-ronda-vita-byar-a397-malaga.jpg",
+      "filename": "hyrbil-ronda-vita-byar-a397-malaga.jpg",
+      "brief_id": "malaga:hyrbil-i-malaga:rutt-2-ronda-vita-byar-a-397",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/hyrbil-i-malaga/",
+      "page_id": 77,
+      "page_title": "Hyrbil i Málaga 2026 — priser, försäkring & bästa rutter",
+      "page_slug": "hyrbil-i-malaga",
+      "h3": "Rutt 2: Ronda & vita byar (A-397)",
+      "h3_slug": "rutt-2-ronda-vita-byar-a-397",
+      "place": "bergsvägen A-397 mellan Costa del Sol och Ronda",
+      "gps": "36.6648, -5.0033",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at bergsvägen A-397 mellan Costa del Sol och Ronda in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 2: ronda & vita byar (a-397) with slingrande bergsväg, vit by i fjärran, hyrbil på utsiktsplats, torra andalusiska landskap och dramatisk ravinkänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: hyrbil-ronda-vita-byar-a397-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at bergsvägen A-397 mellan Costa del Sol och Ronda in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 2: ronda & vita byar (a-397) with slingrande bergsväg, vit by i fjärran, hyrbil på utsiktsplats, torra andalusiska landskap och dramatisk ravinkänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Rutt 2: Ronda & vita byar (A-397) i Málaga",
+      "caption": "Rutt 2: Ronda & vita byar (A-397) i Málaga",
+      "seo": "Rutt 2: Ronda & vita byar (A-397) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hyrbil-ronda-vita-byar-a397-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/hyrbil-ronda-vita-byar-a397-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/hyrbil-i-malaga/",
+          "page_slug": "hyrbil-i-malaga",
+          "section_h3": "Rutt 2: Ronda & vita byar (A-397)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rutt 2: Ronda & vita byar (A-397) i Málaga",
+          "alt": "Rutt 2: Ronda & vita byar (A-397) i Málaga",
+          "caption": "Rutt 2: Ronda & vita byar (A-397) i Málaga",
+          "description": "Rutt 2: Ronda & vita byar (A-397) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/hyrbil-ronda-vita-byar-a397-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/teatinos-universitet-digitala-nomader-malaga.png",
+      "file": "bilder/web-ready/malaga/teatinos-universitet-digitala-nomader-malaga.jpg",
+      "filename": "teatinos-universitet-digitala-nomader-malaga.jpg",
+      "brief_id": "malaga:var-ska-man-bo-i-malaga:teatinos-malagas-silicon-valley",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
@@ -16,286 +251,40 @@
       "page_id": 76,
       "page_title": "Var ska man bo i Malaga",
       "page_slug": "var-ska-man-bo-i-malaga",
-      "h3": "El Ejido – Universitetet och takterrasserna",
-      "h3_slug": "el-ejido-universitetet-och-takterrasserna",
-      "place": "El Ejido ovanför Málagas historiska centrum",
-      "gps": "36.7268, -4.4213",
+      "h3": "Teatinos – Málagas Silicon Valley",
+      "h3_slug": "teatinos-malagas-silicon-valley",
+      "place": "Teatinos och universitetsområdet i västra Málaga",
+      "gps": "36.7189, -4.4787",
       "shot_type": "wide neighbourhood overview photograph",
-      "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
-      "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
-      "seo": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Teatinos och universitetsområdet i västra Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents teatinos – málagas silicon valley with moderna bostadskvarter, campusmiljö, coworking-känsla, spårvägsgator, unga människor och bredare avenyer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: teatinos-universitet-digitala-nomader-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Teatinos och universitetsområdet i västra Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents teatinos – málagas silicon valley with moderna bostadskvarter, campusmiljö, coworking-känsla, spårvägsgator, unga människor och bredare avenyer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "Teatinos – Málagas Silicon Valley i Málaga",
+      "caption": "Teatinos – Málagas Silicon Valley i Málaga",
+      "seo": "Teatinos – Málagas Silicon Valley i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/redo/el-ejido-universitet-takterrasser-malaga.jpg",
+        "preferred_source_download": "bilder/inbox/teatinos-universitet-digitala-nomader-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/teatinos-universitet-digitala-nomader-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
           "page_slug": "var-ska-man-bo-i-malaga",
-          "section_h3": "El Ejido – Universitetet och takterrasserna",
+          "section_h3": "Teatinos – Málagas Silicon Valley",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "El Ejido – Universitetet och takterrasserna i Málaga",
-          "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
-          "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
-          "description": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/malaga/redo"
-      },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: el-ejido-universitet-takterrasser-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at El Ejido ovanför Málagas historiska centrum in Málaga, Spain, during the spring travel season. The scene clearly represents el ejido – universitetet och takterrasserna with universitetsbyggnader, takterrasser, studenter, lokala bostadsgator och gångavstånd ner mot gamla stan. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: el-ejido-universitet-takterrasser-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at El Ejido ovanför Málagas historiska centrum in Málaga, Spain, during the spring travel season. The scene clearly represents el ejido – universitetet och takterrasserna with universitetsbyggnader, takterrasser, studenter, lokala bostadsgator och gångavstånd ner mot gamla stan. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
-      "file": "bilder/web-ready/malaga/redo/lagunillas-gatukonst-distrikt-malaga.jpg",
-      "filename": "lagunillas-gatukonst-distrikt-malaga.jpg",
-      "brief_id": "malaga:var-ska-man-bo-i-malaga:lagunillas-malagas-gatukonst-distrikt",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/var-ska-man-bo-i-malaga/",
-      "page_id": 76,
-      "page_title": "Var ska man bo i Malaga",
-      "page_slug": "var-ska-man-bo-i-malaga",
-      "h3": "Lagunillas – Málagas gatukonst-distrikt",
-      "h3_slug": "lagunillas-malagas-gatukonst-distrikt",
-      "place": "Lagunillas mellan gamla stan och Gibralfaro i Málaga",
-      "gps": "36.7250, -4.4197",
-      "shot_type": "wide neighbourhood overview photograph",
-      "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
-      "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-      "seo": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/redo/lagunillas-gatukonst-distrikt-malaga.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
-          "page_slug": "var-ska-man-bo-i-malaga",
-          "section_h3": "Lagunillas – Málagas gatukonst-distrikt",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-          "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
-          "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-          "description": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/malaga/redo"
-      },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: lagunillas-gatukonst-distrikt-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Lagunillas mellan gamla stan och Gibralfaro i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents lagunillas – málagas gatukonst-distrikt with street art på fasader, små lokala barer, unga boende och resenärer, smala gator och kreativ men vardaglig stadsdelskänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: lagunillas-gatukonst-distrikt-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Lagunillas mellan gamla stan och Gibralfaro i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents lagunillas – málagas gatukonst-distrikt with street art på fasader, små lokala barer, unga boende och resenärer, smala gator och kreativ men vardaglig stadsdelskänsla. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
-      "file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
-      "filename": "ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
-      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:ac-hotel-malaga-palacio-takterrass-med-basta-utsikten",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-      "page_id": null,
-      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
-      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-      "h3": "AC Hotel Málaga Palacio — takterrass med bästa utsikten",
-      "h3_slug": "ac-hotel-malaga-palacio-takterrass-med-basta-utsikten",
-      "place": "AC Hotel Málaga Palacio vid katedralen och hamnen",
-      "gps": "36.7181, -4.4193",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga med människor och realistisk resemiljö",
-      "caption": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
-      "seo": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
-        "web_ready_file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-          "section_h3": "AC Hotel Málaga Palacio — takterrass med bästa utsikten",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
-          "alt": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga med människor och realistisk resemiljö",
-          "caption": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
-          "description": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Teatinos – Málagas Silicon Valley i Málaga",
+          "alt": "Teatinos – Málagas Silicon Valley i Málaga",
+          "caption": "Teatinos – Málagas Silicon Valley i Málaga",
+          "description": "Teatinos – Málagas Silicon Valley i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: ac-hotel-malaga-palacio-takterrass-hamn-katedral-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at AC Hotel Málaga Palacio vid katedralen och hamnen in Málaga, Spain, during a busy warm-season evening. The scene clearly represents ac hotel málaga palacio — takterrass med bästa utsikten with takterrass med pool, gäster vid räcket, Málagas katedral, hamnen och Medelhavet i bakgrunden. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: ac-hotel-malaga-palacio-takterrass-hamn-katedral-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at AC Hotel Málaga Palacio vid katedralen och hamnen in Málaga, Spain, during a busy warm-season evening. The scene clearly represents ac hotel málaga palacio — takterrass med bästa utsikten with takterrass med pool, gäster vid räcket, Málagas katedral, hamnen och Medelhavet i bakgrunden. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/alegria-flamenco-show-malaga.png",
-      "file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
-      "filename": "alegria-flamenco-show-malaga.jpg",
-      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:alegria-flamenco-bast-for-forstagangsbesokare",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-      "page_id": null,
-      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
-      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-      "h3": "Alegría Flamenco — bäst för förstagångsbesökare",
-      "h3_slug": "alegria-flamenco-bast-for-forstagangsbesokare",
-      "place": "Alegría Flamenco nära Málagas hamn och centrum",
-      "gps": "36.7166, -4.4172",
-      "shot_type": "street-level documentary evening photograph",
-      "alt": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga med människor och realistisk resemiljö",
-      "caption": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
-      "seo": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/alegria-flamenco-show-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-          "section_h3": "Alegría Flamenco — bäst för förstagångsbesökare",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
-          "alt": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga med människor och realistisk resemiljö",
-          "caption": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
-          "description": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: alegria-flamenco-show-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Alegría Flamenco nära Málagas hamn och centrum in Málaga, Spain, during a busy warm-season evening. The scene clearly represents alegría flamenco — bäst för förstagångsbesökare with flamencolokal, kvällsbesökare, små grupper utanför entrén, stadsljus och historisk miljö. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: alegria-flamenco-show-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Alegría Flamenco nära Málagas hamn och centrum in Málaga, Spain, during a busy warm-season evening. The scene clearly represents alegría flamenco — bäst för förstagångsbesökare with flamencolokal, kvällsbesökare, små grupper utanför entrén, stadsljus och historisk miljö. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
-      "file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
-      "filename": "anden-klubb-maria-zambrano-tagstation-malaga.jpg",
-      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:anden-klubben-i-tagstationen",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-      "page_id": null,
-      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
-      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-      "h3": "Andén — klubben i tågstationen",
-      "h3_slug": "anden-klubben-i-tagstationen",
-      "place": "Andén vid Málaga María Zambrano tågstation",
-      "gps": "36.7115, -4.4310",
-      "shot_type": "street-level documentary evening photograph",
-      "alt": "Andén — klubben i tågstationen i Málaga med människor och realistisk resemiljö",
-      "caption": "Andén — klubben i tågstationen i Málaga",
-      "seo": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-          "section_h3": "Andén — klubben i tågstationen",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Andén — klubben i tågstationen i Málaga",
-          "alt": "Andén — klubben i tågstationen i Málaga med människor och realistisk resemiljö",
-          "caption": "Andén — klubben i tågstationen i Málaga",
-          "description": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: anden-klubb-maria-zambrano-tagstation-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Andén vid Málaga María Zambrano tågstation in Málaga, Spain, during a busy warm-season evening. The scene clearly represents andén — klubben i tågstationen with modern tågstation, nattliv, ungdomar på väg in, taxibilar och bilar utanför, stadsljus. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: anden-klubb-maria-zambrano-tagstation-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Andén vid Málaga María Zambrano tågstation in Málaga, Spain, during a busy warm-season evening. The scene clearly represents andén — klubben i tågstationen with modern tågstation, nattliv, ungdomar på väg in, taxibilar och bilar utanför, stadsljus. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
-      "file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
-      "filename": "casa-lola-tapasbar-calle-granada-malaga.jpg",
-      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:casa-lola-tapasbarernas-drottning",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-      "page_id": null,
-      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
-      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-      "h3": "Casa Lola — tapasbarernas drottning",
-      "h3_slug": "casa-lola-tapasbarernas-drottning",
-      "place": "Casa Lola på Calle Granada i gamla stan",
-      "gps": "36.7217, -4.4194",
-      "shot_type": "street-level documentary evening photograph",
-      "alt": "Casa Lola — tapasbarernas drottning i Málaga med människor och realistisk resemiljö",
-      "caption": "Casa Lola — tapasbarernas drottning i Málaga",
-      "seo": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-          "section_h3": "Casa Lola — tapasbarernas drottning",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Casa Lola — tapasbarernas drottning i Málaga",
-          "alt": "Casa Lola — tapasbarernas drottning i Málaga med människor och realistisk resemiljö",
-          "caption": "Casa Lola — tapasbarernas drottning i Málaga",
-          "description": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: casa-lola-tapasbar-calle-granada-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Casa Lola på Calle Granada i gamla stan in Málaga, Spain, during a busy warm-season evening. The scene clearly represents casa lola — tapasbarernas drottning with livlig tapasbar, kö utanför entrén, uteservering, människor med tapas och dryck, smala gator i gamla stan. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: casa-lola-tapasbar-calle-granada-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Casa Lola på Calle Granada i gamla stan in Málaga, Spain, during a busy warm-season evening. The scene clearly represents casa lola — tapasbarernas drottning with livlig tapasbar, kö utanför entrén, uteservering, människor med tapas och dryck, smala gator i gamla stan. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
-    },
-    {
-      "source": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
-      "file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
-      "filename": "el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
-      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:el-pimpi-malagas-mest-ikoniska-bodega",
-      "domain": "malaga",
-      "site": "malaga.se",
-      "destination": "Málaga",
-      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-      "page_id": null,
-      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
-      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-      "h3": "El Pimpi — Málagas mest ikoniska bodega",
-      "h3_slug": "el-pimpi-malagas-mest-ikoniska-bodega",
-      "place": "El Pimpi vid romerska teatern och Alcazaba",
-      "gps": "36.7223, -4.4177",
-      "shot_type": "street-level documentary evening photograph",
-      "alt": "El Pimpi — Málagas mest ikoniska bodega i Málaga med människor och realistisk resemiljö",
-      "caption": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
-      "seo": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
-        "wordpress_target": {
-          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
-          "section_h3": "El Pimpi — Málagas mest ikoniska bodega",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
-          "alt": "El Pimpi — Málagas mest ikoniska bodega i Málaga med människor och realistisk resemiljö",
-          "caption": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
-          "description": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
-      "prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at El Pimpi vid romerska teatern och Alcazaba in Málaga, Spain, during a busy warm-season evening. The scene clearly represents el pimpi — málagas mest ikoniska bodega with klassisk bodega, uteservering, romerska teatern, Alcazaba i bakgrunden, kvällsliv och människor vid borden. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide. Target filename after download: el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at El Pimpi vid romerska teatern och Alcazaba in Málaga, Spain, during a busy warm-season evening. The scene clearly represents el pimpi — málagas mest ikoniska bodega with klassisk bodega, uteservering, romerska teatern, Alcazaba i bakgrunden, kvällsliv och människor vid borden. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "bilder/web-ready/malaga/teatinos-universitet-digitala-nomader-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
