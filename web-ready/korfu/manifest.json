@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-06-04T08:04:00.969777+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/korfu",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
+      "file": "bilder/web-ready/korfu/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
+      "h3_slug": "arcadion-hotel-basta-lage-i-gamla-stan",
+      "place": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
+      "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+      "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+          "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
+          "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+          "description": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
+      "file": "bilder/web-ready/korfu/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "5. Bella Venezia — Charm i Gamla stan",
+      "h3_slug": "bella-venezia-charm-i-gamla-stan",
+      "place": "Bella Venezia — Charm i Gamla stan i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
+      "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
+      "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "5. Bella Venezia — Charm i Gamla stan",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Bella Venezia — Charm i Gamla stan i Korfu",
+          "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
+          "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
+          "description": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/bella-venezia-charm-i-gamla-stan-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

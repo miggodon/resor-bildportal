@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-06-04T07:40:02.342764+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/torremolinos",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/apartamentos-bajondillo-torremolinos.jpg",
+      "filename": "apartamentos-bajondillo-torremolinos.jpg",
+      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:apartamentos-bajondillo",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
+      "page_id": 60,
+      "page_title": "Bästa hotellen i Torremolinos",
+      "page_slug": "basta-hotellen-i-torremolinos-2",
+      "h3": "7. Apartamentos Bajondillo",
+      "h3_slug": "apartamentos-bajondillo",
+      "place": "Apartamentos Bajondillo i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Apartamentos Bajondillo i Torremolinos",
+      "seo": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/apartamentos-bajondillo-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
+          "page_slug": "basta-hotellen-i-torremolinos-2",
+          "section_h3": "7. Apartamentos Bajondillo",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Apartamentos Bajondillo i Torremolinos",
+          "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Apartamentos Bajondillo i Torremolinos",
+          "description": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/apartamentos-bajondillo-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/casa-de-los-navajas-torremolinos.jpg",
+      "filename": "casa-de-los-navajas-torremolinos.jpg",
+      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:casa-de-los-navajas",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
+      "page_id": 60,
+      "page_title": "Bästa hotellen i Torremolinos",
+      "page_slug": "basta-hotellen-i-torremolinos-2",
+      "h3": "8. Casa de los Navajas",
+      "h3_slug": "casa-de-los-navajas",
+      "place": "Casa de los Navajas i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Casa de los Navajas i Torremolinos",
+      "seo": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/casa-de-los-navajas-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
+          "page_slug": "basta-hotellen-i-torremolinos-2",
+          "section_h3": "8. Casa de los Navajas",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Casa de los Navajas i Torremolinos",
+          "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Casa de los Navajas i Torremolinos",
+          "description": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/casa-de-los-navajas-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

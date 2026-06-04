@@ -1,0 +1,164 @@
+{
+  "generated_at": "2026-06-04T08:18:35.684957+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/lanzarote",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/barnfamiljer-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+      "filename": "barnfamiljer-lanzarote.jpg",
+      "brief_id": "lanzarote:7-dagar-pa-lanzarote:barnfamiljer",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/7-dagar-pa-lanzarote/",
+      "page_id": 102,
+      "page_title": "7 dagar på Lanzarote – komplett dag-för-dag-guide",
+      "page_slug": "7-dagar-pa-lanzarote",
+      "h3": "Barnfamiljer",
+      "h3_slug": "barnfamiljer",
+      "place": "Barnfamiljer i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Barnfamiljer i Lanzarote med människor och realistisk resemiljö",
+      "caption": "Barnfamiljer i Lanzarote",
+      "seo": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/barnfamiljer-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
+          "page_slug": "7-dagar-pa-lanzarote",
+          "section_h3": "Barnfamiljer",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Barnfamiljer i Lanzarote",
+          "alt": "Barnfamiljer i Lanzarote med människor och realistisk resemiljö",
+          "caption": "Barnfamiljer i Lanzarote",
+          "description": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/for-marknad-kultur-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+      "filename": "for-marknad-kultur-lanzarote.jpg",
+      "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-marknad-kultur",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/7-dagar-pa-lanzarote/",
+      "page_id": 102,
+      "page_title": "7 dagar på Lanzarote – komplett dag-för-dag-guide",
+      "page_slug": "7-dagar-pa-lanzarote",
+      "h3": "För marknad/kultur",
+      "h3_slug": "for-marknad-kultur",
+      "place": "För marknad/kultur i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "editorial travel photograph",
+      "alt": "För marknad/kultur i Lanzarote med människor och realistisk resemiljö",
+      "caption": "För marknad/kultur i Lanzarote",
+      "seo": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/for-marknad-kultur-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
+          "page_slug": "7-dagar-pa-lanzarote",
+          "section_h3": "För marknad/kultur",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "För marknad/kultur i Lanzarote",
+          "alt": "För marknad/kultur i Lanzarote med människor och realistisk resemiljö",
+          "caption": "För marknad/kultur i Lanzarote",
+          "description": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+      "filename": "om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+      "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-puerto-del-carmen",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/5-dagar-pa-lanzarote/",
+      "page_id": 101,
+      "page_title": "5 dagar på Lanzarote – perfekt rutt dag för dag",
+      "page_slug": "5-dagar-pa-lanzarote",
+      "h3": "Om du bor i Puerto del Carmen",
+      "h3_slug": "om-du-bor-i-puerto-del-carmen",
+      "place": "Om du bor i Puerto del Carmen i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Om du bor i Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+      "caption": "Om du bor i Puerto del Carmen i Lanzarote",
+      "seo": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
+          "page_slug": "5-dagar-pa-lanzarote",
+          "section_h3": "Om du bor i Puerto del Carmen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Om du bor i Puerto del Carmen i Lanzarote",
+          "alt": "Om du bor i Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+          "caption": "Om du bor i Puerto del Carmen i Lanzarote",
+          "description": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+      "filename": "racker-5-dagar-pa-lanzarote.jpg",
+      "brief_id": "lanzarote:5-dagar-pa-lanzarote:racker-5-dagar-pa-lanzarote",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/5-dagar-pa-lanzarote/",
+      "page_id": 101,
+      "page_title": "5 dagar på Lanzarote – perfekt rutt dag för dag",
+      "page_slug": "5-dagar-pa-lanzarote",
+      "h3": "Räcker 5 dagar på Lanzarote?",
+      "h3_slug": "racker-5-dagar-pa-lanzarote",
+      "place": "Räcker 5 dagar på Lanzarote? i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "editorial travel photograph",
+      "alt": "Räcker 5 dagar på Lanzarote? i Lanzarote med människor och realistisk resemiljö",
+      "caption": "Räcker 5 dagar på Lanzarote? i Lanzarote",
+      "seo": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
+          "page_slug": "5-dagar-pa-lanzarote",
+          "section_h3": "Räcker 5 dagar på Lanzarote?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Räcker 5 dagar på Lanzarote? i Lanzarote",
+          "alt": "Räcker 5 dagar på Lanzarote? i Lanzarote med människor och realistisk resemiljö",
+          "caption": "Räcker 5 dagar på Lanzarote? i Lanzarote",
+          "description": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}
