@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/bajondillo-passar-dig-som-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\bajondillo-passar-dig-som-torremolinos.jpg",
       "filename": "bajondillo-passar-dig-som-torremolinos.jpg",
       "brief_id": "torremolinos:omraden-torremolinos:bajondillo-passar-dig-som",
       "domain": "torremolinos",
@@ -34,7 +34,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/bajondillo-passar-dig-som-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\bajondillo-passar-dig-som-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/omraden-torremolinos/",
           "page_slug": "omraden-torremolinos",
@@ -47,13 +47,16 @@
           "caption": "Bajondillo passar dig som… i Torremolinos",
           "description": "Bajondillo passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/bajondillo-passar-dig-som-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/basta-stranderna-for-barnfamiljer-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\basta-stranderna-for-barnfamiljer-torremolinos.jpg",
       "filename": "basta-stranderna-for-barnfamiljer-torremolinos.jpg",
       "brief_id": "torremolinos:torremolinos-med-barn:basta-stranderna-for-barnfamiljer",
       "domain": "torremolinos",
@@ -81,7 +84,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-stranderna-for-barnfamiljer-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\basta-stranderna-for-barnfamiljer-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/torremolinos-med-barn/",
           "page_slug": "torremolinos-med-barn",
@@ -94,13 +97,16 @@
           "caption": "Bästa stränderna för barnfamiljer i Torremolinos",
           "description": "Bästa stränderna för barnfamiljer i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/basta-stranderna-for-barnfamiljer-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/benalmadena-pueblo-och-kabinbanan-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
       "filename": "benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
       "brief_id": "torremolinos:torremolinos-med-barn:benalmadena-pueblo-och-kabinbanan",
       "domain": "torremolinos",
@@ -128,7 +134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/benalmadena-pueblo-och-kabinbanan-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\benalmadena-pueblo-och-kabinbanan-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/torremolinos-med-barn/",
           "page_slug": "torremolinos-med-barn",
@@ -141,13 +147,16 @@
           "caption": "Benalmádena Pueblo och kabinbanan i Torremolinos",
           "description": "Benalmádena Pueblo och kabinbanan i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/benalmadena-pueblo-och-kabinbanan-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
       "filename": "centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
       "brief_id": "torremolinos:shopping-torremolinos:centro-comercial-nevada-granada-for-stora-shoppingdagar",
       "domain": "torremolinos",
@@ -175,7 +184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/shopping-torremolinos/",
           "page_slug": "shopping-torremolinos",
@@ -188,13 +197,16 @@
           "caption": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos",
           "description": "Centro Comercial Nevada (Granada) – för stora shoppingdagar i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/centro-comercial-nevada-granada-for-stora-shoppingdagar-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/craft-beer-och-lokalt-bryggeri-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
       "filename": "craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
       "brief_id": "torremolinos:mat-torremolinos:craft-beer-och-lokalt-bryggeri",
       "domain": "torremolinos",
@@ -222,7 +234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/craft-beer-och-lokalt-bryggeri-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\craft-beer-och-lokalt-bryggeri-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/mat-torremolinos/",
           "page_slug": "mat-torremolinos",
@@ -235,13 +247,16 @@
           "caption": "Craft beer och lokalt bryggeri i Torremolinos",
           "description": "Craft beer och lokalt bryggeri i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/craft-beer-och-lokalt-bryggeri-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fritura-malaguena-blandad-stekt-fisk-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
       "filename": "fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
       "brief_id": "torremolinos:mat-torremolinos:fritura-malaguena-blandad-stekt-fisk",
       "domain": "torremolinos",
@@ -269,7 +284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/fritura-malaguena-blandad-stekt-fisk-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/mat-torremolinos/",
           "page_slug": "mat-torremolinos",
@@ -282,13 +297,16 @@
           "caption": "Fritura malagueña – blandad stekt fisk i Torremolinos",
           "description": "Fritura malagueña – blandad stekt fisk i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/fritura-malaguena-blandad-stekt-fisk-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotel-ritual-torremolinos-adults-only-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
       "filename": "hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
       "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:hotel-ritual-torremolinos-adults-only",
       "domain": "torremolinos",
@@ -316,7 +334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-ritual-torremolinos-adults-only-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\hotel-ritual-torremolinos-adults-only-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
           "page_slug": "basta-hotellen-i-torremolinos-2",
@@ -329,13 +347,16 @@
           "caption": "Hotel Ritual Torremolinos – Adults Only i Torremolinos",
           "description": "Hotel Ritual Torremolinos – Adults Only i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/los-alamos-passar-dig-som-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\los-alamos-passar-dig-som-torremolinos.jpg",
       "filename": "los-alamos-passar-dig-som-torremolinos.jpg",
       "brief_id": "torremolinos:omraden-torremolinos:los-alamos-passar-dig-som",
       "domain": "torremolinos",
@@ -363,7 +384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/los-alamos-passar-dig-som-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\los-alamos-passar-dig-som-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/omraden-torremolinos/",
           "page_slug": "omraden-torremolinos",
@@ -376,13 +397,16 @@
           "caption": "Los Álamos passar dig som… i Torremolinos",
           "description": "Los Álamos passar dig som… i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/los-alamos-passar-dig-som-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/marbella-puerto-banus-for-lyx-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\marbella-puerto-banus-for-lyx-torremolinos.jpg",
       "filename": "marbella-puerto-banus-for-lyx-torremolinos.jpg",
       "brief_id": "torremolinos:shopping-torremolinos:marbella-puerto-banus-for-lyx",
       "domain": "torremolinos",
@@ -410,7 +434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/marbella-puerto-banus-for-lyx-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\marbella-puerto-banus-for-lyx-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/shopping-torremolinos/",
           "page_slug": "shopping-torremolinos",
@@ -423,13 +447,16 @@
           "caption": "Marbella – Puerto Banús för lyx i Torremolinos",
           "description": "Marbella – Puerto Banús för lyx i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/marbella-puerto-banus-for-lyx-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/populara-tapas-i-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\populara-tapas-i-torremolinos.jpg",
       "filename": "populara-tapas-i-torremolinos.jpg",
       "brief_id": "torremolinos:mat-torremolinos:populara-tapas-i-torremolinos",
       "domain": "torremolinos",
@@ -457,7 +484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/populara-tapas-i-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\populara-tapas-i-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/mat-torremolinos/",
           "page_slug": "mat-torremolinos",
@@ -470,13 +497,16 @@
           "caption": "Populära tapas i Torremolinos i Torremolinos",
           "description": "Populära tapas i Torremolinos i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/populara-tapas-i-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/populara-val-i-centrum-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\populara-val-i-centrum-torremolinos.jpg",
       "filename": "populara-val-i-centrum-torremolinos.jpg",
       "brief_id": "torremolinos:restauranger-torremolinos:populara-val-i-centrum",
       "domain": "torremolinos",
@@ -504,7 +534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/populara-val-i-centrum-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\populara-val-i-centrum-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/restauranger-torremolinos/",
           "page_slug": "restauranger-torremolinos",
@@ -517,13 +547,16 @@
           "caption": "Populära val i centrum i Torremolinos",
           "description": "Populära val i centrum i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/populara-val-i-centrum-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/praktisk-info-om-sondagsmarknaden-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
       "filename": "praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
       "brief_id": "torremolinos:shopping-torremolinos:praktisk-info-om-sondagsmarknaden",
       "domain": "torremolinos",
@@ -551,7 +584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/praktisk-info-om-sondagsmarknaden-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\praktisk-info-om-sondagsmarknaden-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/shopping-torremolinos/",
           "page_slug": "shopping-torremolinos",
@@ -564,13 +597,16 @@
           "caption": "Praktisk info om söndagsmarknaden i Torremolinos",
           "description": "Praktisk info om söndagsmarknaden i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/praktisk-info-om-sondagsmarknaden-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rabo-de-toro-oxsvanssgryta-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
       "filename": "rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
       "brief_id": "torremolinos:mat-torremolinos:rabo-de-toro-oxsvanssgryta",
       "domain": "torremolinos",
@@ -598,7 +634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/rabo-de-toro-oxsvanssgryta-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\rabo-de-toro-oxsvanssgryta-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/mat-torremolinos/",
           "page_slug": "mat-torremolinos",
@@ -611,13 +647,16 @@
           "caption": "Rabo de toro – oxsvanssgryta i Torremolinos",
           "description": "Rabo de toro – oxsvanssgryta i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/rabo-de-toro-oxsvanssgryta-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
       "filename": "rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
       "brief_id": "torremolinos:hyrbil-i-torremolinos:rutt-2-costa-del-sol-marbella-puerto-banus-a-7",
       "domain": "torremolinos",
@@ -645,7 +684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/hyrbil-i-torremolinos/",
           "page_slug": "hyrbil-i-torremolinos",
@@ -658,13 +697,16 @@
           "caption": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos",
           "description": "Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
       "filename": "rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
       "brief_id": "torremolinos:hyrbil-i-torremolinos:rutt-3-malaga-gibralfaro-storstad-pa-20-min",
       "domain": "torremolinos",
@@ -692,7 +734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/hyrbil-i-torremolinos/",
           "page_slug": "hyrbil-i-torremolinos",
@@ -705,13 +747,16 @@
           "caption": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos",
           "description": "Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/viner-fran-malaga-provinsen-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg",
+      "file": "bilder\\web-ready\\torremolinos\\redo\\viner-fran-malaga-provinsen-torremolinos.jpg",
       "filename": "viner-fran-malaga-provinsen-torremolinos.jpg",
       "brief_id": "torremolinos:mat-torremolinos:viner-fran-malaga-provinsen",
       "domain": "torremolinos",
@@ -739,7 +784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/viner-fran-malaga-provinsen-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg",
+        "web_ready_file": "bilder\\web-ready\\torremolinos\\redo\\viner-fran-malaga-provinsen-torremolinos.jpg",
         "wordpress_target": {
           "page_url": "https://torremolinos.se/mat-torremolinos/",
           "page_slug": "mat-torremolinos",
@@ -752,9 +797,12 @@
           "caption": "Viner från Málaga-provinsen i Torremolinos",
           "description": "Viner från Málaga-provinsen i Torremolinos. En del av reseguiden om Torremolinos med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\torremolinos\\redo"
       },
-      "inspection": "bilder/web-ready/torremolinos/viner-fran-malaga-provinsen-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

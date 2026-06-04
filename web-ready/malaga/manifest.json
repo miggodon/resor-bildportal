@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/alhaurin-el-grande-coin-lantlig-andalusien-malaga.png",
-      "file": "bilder/web-ready/malaga/alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg",
       "filename": "alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg",
       "brief_id": "malaga:semestervilla-malaga:alhaurin-el-grande-coin-lantlig-andalusien",
       "domain": "malaga",
@@ -34,7 +34,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/alhaurin-el-grande-coin-lantlig-andalusien-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/semestervilla-malaga/",
           "page_slug": "semestervilla-malaga",
@@ -47,13 +47,16 @@
           "caption": "Alhaurín el Grande / Coín – lantlig Andalusien i Málaga",
           "description": "Alhaurín el Grande / Coín – lantlig Andalusien i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/alhaurin-el-grande-coin-lantlig-andalusien-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/benahavis-och-la-zagaleta-lyxsegmentet-malaga.png",
-      "file": "bilder/web-ready/malaga/benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg",
       "filename": "benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg",
       "brief_id": "malaga:semestervilla-malaga:benahavis-och-la-zagaleta-lyxsegmentet",
       "domain": "malaga",
@@ -81,7 +84,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/benahavis-och-la-zagaleta-lyxsegmentet-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/semestervilla-malaga/",
           "page_slug": "semestervilla-malaga",
@@ -94,13 +97,16 @@
           "caption": "Benahavís och La Zagaleta – lyxsegmentet i Málaga",
           "description": "Benahavís och La Zagaleta – lyxsegmentet i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/benahavis-och-la-zagaleta-lyxsegmentet-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boutique-hotell-och-pensioner-malaga.png",
-      "file": "bilder/web-ready/malaga/boutique-hotell-och-pensioner-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\boutique-hotell-och-pensioner-malaga.jpg",
       "filename": "boutique-hotell-och-pensioner-malaga.jpg",
       "brief_id": "malaga:malaga-solo:boutique-hotell-och-pensioner",
       "domain": "malaga",
@@ -128,7 +134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boutique-hotell-och-pensioner-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/boutique-hotell-och-pensioner-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\boutique-hotell-och-pensioner-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-solo/",
           "page_slug": "malaga-solo",
@@ -141,13 +147,16 @@
           "caption": "Boutique-hotell och pensioner i Málaga",
           "description": "Boutique-hotell och pensioner i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/boutique-hotell-och-pensioner-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/caminito-del-rey-obligatorisk-malaga.png",
-      "file": "bilder/web-ready/malaga/caminito-del-rey-obligatorisk-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\caminito-del-rey-obligatorisk-malaga.jpg",
       "filename": "caminito-del-rey-obligatorisk-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:caminito-del-rey-obligatorisk",
       "domain": "malaga",
@@ -175,7 +184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/caminito-del-rey-obligatorisk-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/caminito-del-rey-obligatorisk-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\caminito-del-rey-obligatorisk-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -188,13 +197,16 @@
           "caption": "🪨 Caminito del Rey — obligatorisk i Málaga",
           "description": "🪨 Caminito del Rey — obligatorisk i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/caminito-del-rey-obligatorisk-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/centro-historico-mitt-i-allt-malaga.png",
-      "file": "bilder/web-ready/malaga/centro-historico-mitt-i-allt-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\centro-historico-mitt-i-allt-malaga.jpg",
       "filename": "centro-historico-mitt-i-allt-malaga.jpg",
       "brief_id": "malaga:hyra-lagenhet-malaga:centro-historico-mitt-i-allt",
       "domain": "malaga",
@@ -222,7 +234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/centro-historico-mitt-i-allt-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/centro-historico-mitt-i-allt-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\centro-historico-mitt-i-allt-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/hyra-lagenhet-malaga/",
           "page_slug": "hyra-lagenhet-malaga",
@@ -235,13 +247,16 @@
           "caption": "Centro Histórico – mitt i allt i Málaga",
           "description": "Centro Histórico – mitt i allt i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/centro-historico-mitt-i-allt-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/centro-historico-mitt-i-stadens-liv-malaga.png",
-      "file": "bilder/web-ready/malaga/centro-historico-mitt-i-stadens-liv-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\centro-historico-mitt-i-stadens-liv-malaga.jpg",
       "filename": "centro-historico-mitt-i-stadens-liv-malaga.jpg",
       "brief_id": "malaga:malaga-hbtq:centro-historico-mitt-i-stadens-liv",
       "domain": "malaga",
@@ -269,7 +284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/centro-historico-mitt-i-stadens-liv-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/centro-historico-mitt-i-stadens-liv-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\centro-historico-mitt-i-stadens-liv-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-hbtq/",
           "page_slug": "malaga-hbtq",
@@ -282,13 +297,16 @@
           "caption": "Centro Histórico – mitt i stadens liv i Málaga",
           "description": "Centro Histórico – mitt i stadens liv i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/centro-historico-mitt-i-stadens-liv-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-1-ankomst-och-soho-malaga.png",
-      "file": "bilder/web-ready/malaga/dag-1-ankomst-och-soho-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\dag-1-ankomst-och-soho-malaga.jpg",
       "filename": "dag-1-ankomst-och-soho-malaga.jpg",
       "brief_id": "malaga:malaga-med-vanner:dag-1-ankomst-och-soho",
       "domain": "malaga",
@@ -316,7 +334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-1-ankomst-och-soho-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/dag-1-ankomst-och-soho-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\dag-1-ankomst-och-soho-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-vanner/",
           "page_slug": "malaga-med-vanner",
@@ -329,13 +347,16 @@
           "caption": "Dag 1 – Ankomst och Soho i Málaga",
           "description": "Dag 1 – Ankomst och Soho i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/dag-1-ankomst-och-soho-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-3-strand-och-vattenaktiviteter-malaga.png",
-      "file": "bilder/web-ready/malaga/dag-3-strand-och-vattenaktiviteter-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\dag-3-strand-och-vattenaktiviteter-malaga.jpg",
       "filename": "dag-3-strand-och-vattenaktiviteter-malaga.jpg",
       "brief_id": "malaga:malaga-med-vanner:dag-3-strand-och-vattenaktiviteter",
       "domain": "malaga",
@@ -363,7 +384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-3-strand-och-vattenaktiviteter-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/dag-3-strand-och-vattenaktiviteter-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\dag-3-strand-och-vattenaktiviteter-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-vanner/",
           "page_slug": "malaga-med-vanner",
@@ -376,13 +397,16 @@
           "caption": "Dag 3 – Strand och vattenaktiviteter i Málaga",
           "description": "Dag 3 – Strand och vattenaktiviteter i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/dag-3-strand-och-vattenaktiviteter-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-4-dagsutflykt-ronda-eller-nerja-malaga.png",
-      "file": "bilder/web-ready/malaga/dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg",
       "filename": "dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg",
       "brief_id": "malaga:malaga-med-vanner:dag-4-dagsutflykt-ronda-eller-nerja",
       "domain": "malaga",
@@ -410,7 +434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-4-dagsutflykt-ronda-eller-nerja-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-vanner/",
           "page_slug": "malaga-med-vanner",
@@ -423,13 +447,16 @@
           "caption": "Dag 4 – Dagsutflykt: Ronda eller Nerja i Málaga",
           "description": "Dag 4 – Dagsutflykt: Ronda eller Nerja i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/dag-4-dagsutflykt-ronda-eller-nerja-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/digital-nomad-guide-malaga-espacio-open-malaga-3.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga-3.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-espacio-open-malaga-3.jpg",
       "filename": "digital-nomad-guide-malaga-espacio-open-malaga-3.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:espacio-open",
       "domain": "malaga",
@@ -457,7 +484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-espacio-open-malaga-3.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga-3.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-espacio-open-malaga-3.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -470,13 +497,16 @@
           "caption": "Espacio Open i Málaga",
           "description": "Espacio Open i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga-3.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/digital-nomad-guide-malaga-espacio-open-malaga.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-espacio-open-malaga.jpg",
       "filename": "digital-nomad-guide-malaga-espacio-open-malaga.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:espacio-open",
       "domain": "malaga",
@@ -504,7 +534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-espacio-open-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-espacio-open-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -517,13 +547,16 @@
           "caption": "Espacio Open i Málaga",
           "description": "Espacio Open i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-espacio-open-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg",
       "filename": "digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:regus-malaga-centro",
       "domain": "malaga",
@@ -551,7 +584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -564,13 +597,16 @@
           "caption": "Regus Málaga Centro i Málaga",
           "description": "Regus Málaga Centro i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga-3.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/digital-nomad-guide-malaga-regus-malaga-centro-malaga.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg",
       "filename": "digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:regus-malaga-centro",
       "domain": "malaga",
@@ -598,7 +634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-regus-malaga-centro-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -611,13 +647,16 @@
           "caption": "Regus Málaga Centro i Málaga",
           "description": "Regus Málaga Centro i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-regus-malaga-centro-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/golfresort-hotell-malaga.png",
-      "file": "bilder/web-ready/malaga/golfresort-hotell-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\golfresort-hotell-malaga.jpg",
       "filename": "golfresort-hotell-malaga.jpg",
       "brief_id": "malaga:golf-malaga:golfresort-hotell",
       "domain": "malaga",
@@ -645,7 +684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/golfresort-hotell-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/golfresort-hotell-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\golfresort-hotell-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/golf-malaga/",
           "page_slug": "golf-malaga",
@@ -658,13 +697,16 @@
           "caption": "Golfresort-hotell i Málaga",
           "description": "Golfresort-hotell i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/golfresort-hotell-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotell-i-marbella-eller-estepona-malaga.png",
-      "file": "bilder/web-ready/malaga/hotell-i-marbella-eller-estepona-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\hotell-i-marbella-eller-estepona-malaga.jpg",
       "filename": "hotell-i-marbella-eller-estepona-malaga.jpg",
       "brief_id": "malaga:golf-malaga:hotell-i-marbella-eller-estepona",
       "domain": "malaga",
@@ -692,7 +734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotell-i-marbella-eller-estepona-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/hotell-i-marbella-eller-estepona-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\hotell-i-marbella-eller-estepona-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/golf-malaga/",
           "page_slug": "golf-malaga",
@@ -705,13 +747,16 @@
           "caption": "Hotell i Marbella eller Estepona i Málaga",
           "description": "Hotell i Marbella eller Estepona i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/hotell-i-marbella-eller-estepona-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kultur-och-museer-malaga.png",
-      "file": "bilder/web-ready/malaga/kultur-och-museer-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\kultur-och-museer-malaga.jpg",
       "filename": "kultur-och-museer-malaga.jpg",
       "brief_id": "malaga:malaga-for-seniorer:kultur-och-museer",
       "domain": "malaga",
@@ -739,7 +784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/kultur-och-museer-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/kultur-och-museer-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\kultur-och-museer-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-for-seniorer/",
           "page_slug": "malaga-for-seniorer",
@@ -752,13 +797,16 @@
           "caption": "Kultur och museer i Málaga",
           "description": "Kultur och museer i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/kultur-och-museer-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/langs-costa-del-sol-malaga.png",
-      "file": "bilder/web-ready/malaga/langs-costa-del-sol-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\langs-costa-del-sol-malaga.jpg",
       "filename": "langs-costa-del-sol-malaga.jpg",
       "brief_id": "malaga:malaga-forsta-gangen:langs-costa-del-sol",
       "domain": "malaga",
@@ -786,7 +834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/langs-costa-del-sol-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/langs-costa-del-sol-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\langs-costa-del-sol-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-forsta-gangen/",
           "page_slug": "malaga-forsta-gangen",
@@ -799,13 +847,16 @@
           "caption": "Längs Costa del Sol i Málaga",
           "description": "Längs Costa del Sol i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/langs-costa-del-sol-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.png",
-      "file": "bilder/web-ready/malaga/malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg",
       "filename": "malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg",
       "brief_id": "malaga:malaga-i-april-och-maj:feria-de-malaga-august-men-abril-feria-finns",
       "domain": "malaga",
@@ -833,7 +884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-i-april-och-maj/",
           "page_slug": "malaga-i-april-och-maj",
@@ -846,13 +897,16 @@
           "caption": "Feria de Málaga (August) — Men Abril Feria finns! i Málaga",
           "description": "Feria de Málaga (August) — Men Abril Feria finns! i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-i-april-och-maj-feria-de-malaga-august-men-abril-feria-finns-malaga-2.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.png",
-      "file": "bilder/web-ready/malaga/malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg",
       "filename": "malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg",
       "brief_id": "malaga:malaga-i-april-och-maj:fiesta-de-la-vendimia-feria-del-libro-maj",
       "domain": "malaga",
@@ -880,7 +934,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-i-april-och-maj/",
           "page_slug": "malaga-i-april-och-maj",
@@ -893,13 +947,16 @@
           "caption": "Fiesta de la Vendimia / Feria del Libro (maj) i Málaga",
           "description": "Fiesta de la Vendimia / Feria del Libro (maj) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-i-april-och-maj-fiesta-de-la-vendimia-feria-del-libro-maj-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-dagsutflykt-ronda-malaga.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg",
       "filename": "malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:dagsutflykt-ronda",
       "domain": "malaga",
@@ -927,7 +984,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-dagsutflykt-ronda-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -940,13 +997,16 @@
           "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
           "description": "🗺️ Dagsutflykt: Ronda i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-dagsutflykt-ronda-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-escape-rooms-malaga.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-escape-rooms-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-escape-rooms-malaga.jpg",
       "filename": "malaga-med-tonaringar-escape-rooms-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:escape-rooms",
       "domain": "malaga",
@@ -974,7 +1034,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-escape-rooms-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-escape-rooms-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-escape-rooms-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -987,13 +1047,16 @@
           "caption": "🏰 Escape rooms i Málaga",
           "description": "🏰 Escape rooms i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-escape-rooms-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg",
       "filename": "malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:laser-tag-och-bowling",
       "domain": "malaga",
@@ -1021,7 +1084,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -1034,13 +1097,16 @@
           "caption": "🎳 Laser tag och bowling i Málaga",
           "description": "🎳 Laser tag och bowling i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga-3.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-laser-tag-och-bowling-malaga.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg",
       "filename": "malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:laser-tag-och-bowling",
       "domain": "malaga",
@@ -1068,7 +1134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-laser-tag-och-bowling-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -1081,13 +1147,16 @@
           "caption": "🎳 Laser tag och bowling i Málaga",
           "description": "🎳 Laser tag och bowling i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-laser-tag-och-bowling-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg",
       "filename": "malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:street-art-tur-i-soho",
       "domain": "malaga",
@@ -1115,7 +1184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -1128,13 +1197,16 @@
           "caption": "🎭 Street Art-tur i Soho i Málaga",
           "description": "🎭 Street Art-tur i Soho i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga-2.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-street-art-tur-i-soho-malaga.png",
-      "file": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg",
       "filename": "malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:street-art-tur-i-soho",
       "domain": "malaga",
@@ -1162,7 +1234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/malaga-med-tonaringar-street-art-tur-i-soho-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -1175,13 +1247,16 @@
           "caption": "🎭 Street Art-tur i Soho i Málaga",
           "description": "🎭 Street Art-tur i Soho i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/malaga-med-tonaringar-street-art-tur-i-soho-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/nerja-och-axarquia-ostkustens-parlor-malaga.png",
-      "file": "bilder/web-ready/malaga/nerja-och-axarquia-ostkustens-parlor-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\nerja-och-axarquia-ostkustens-parlor-malaga.jpg",
       "filename": "nerja-och-axarquia-ostkustens-parlor-malaga.jpg",
       "brief_id": "malaga:semestervilla-malaga:nerja-och-axarquia-ostkustens-parlor",
       "domain": "malaga",
@@ -1209,7 +1284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/nerja-och-axarquia-ostkustens-parlor-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/nerja-och-axarquia-ostkustens-parlor-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\nerja-och-axarquia-ostkustens-parlor-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/semestervilla-malaga/",
           "page_slug": "semestervilla-malaga",
@@ -1222,13 +1297,16 @@
           "caption": "Nerja och Axarquía – Östkustens pärlor i Málaga",
           "description": "Nerja och Axarquía – Östkustens pärlor i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/nerja-och-axarquia-ostkustens-parlor-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/pedregalejo-och-el-palo-lugnt-strandliv-malaga.png",
-      "file": "bilder/web-ready/malaga/pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg",
       "filename": "pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg",
       "brief_id": "malaga:malaga-for-seniorer:pedregalejo-och-el-palo-lugnt-strandliv",
       "domain": "malaga",
@@ -1256,7 +1334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/pedregalejo-och-el-palo-lugnt-strandliv-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-for-seniorer/",
           "page_slug": "malaga-for-seniorer",
@@ -1269,13 +1347,16 @@
           "caption": "Pedregalejo och El Palo – lugnt strandliv i Málaga",
           "description": "Pedregalejo och El Palo – lugnt strandliv i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/pedregalejo-och-el-palo-lugnt-strandliv-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/soho-det-kreativa-och-inkluderande-kvarteret-malaga.png",
-      "file": "bilder/web-ready/malaga/soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg",
       "filename": "soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg",
       "brief_id": "malaga:malaga-hbtq:soho-det-kreativa-och-inkluderande-kvarteret",
       "domain": "malaga",
@@ -1303,7 +1384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/soho-det-kreativa-och-inkluderande-kvarteret-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-hbtq/",
           "page_slug": "malaga-hbtq",
@@ -1316,13 +1397,16 @@
           "caption": "Soho – det kreativa och inkluderande kvarteret i Málaga",
           "description": "Soho – det kreativa och inkluderande kvarteret i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/soho-det-kreativa-och-inkluderande-kvarteret-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/svenska-gemenskaper-malaga.png",
-      "file": "bilder/web-ready/malaga/svenska-gemenskaper-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\svenska-gemenskaper-malaga.jpg",
       "filename": "svenska-gemenskaper-malaga.jpg",
       "brief_id": "malaga:malaga-for-seniorer:svenska-gemenskaper",
       "domain": "malaga",
@@ -1350,7 +1434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/svenska-gemenskaper-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/svenska-gemenskaper-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\svenska-gemenskaper-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-for-seniorer/",
           "page_slug": "malaga-for-seniorer",
@@ -1363,13 +1447,16 @@
           "caption": "Svenska gemenskaper i Málaga",
           "description": "Svenska gemenskaper i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/svenska-gemenskaper-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/tapasrundan-spar-socialt-umgange-malaga.png",
-      "file": "bilder/web-ready/malaga/tapasrundan-spar-socialt-umgange-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\tapasrundan-spar-socialt-umgange-malaga.jpg",
       "filename": "tapasrundan-spar-socialt-umgange-malaga.jpg",
       "brief_id": "malaga:malaga-solo:tapasrundan-spar-socialt-umgange",
       "domain": "malaga",
@@ -1397,7 +1484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/tapasrundan-spar-socialt-umgange-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/tapasrundan-spar-socialt-umgange-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\tapasrundan-spar-socialt-umgange-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-solo/",
           "page_slug": "malaga-solo",
@@ -1410,13 +1497,16 @@
           "caption": "Tapasrundan – spår socialt umgänge i Málaga",
           "description": "Tapasrundan – spår socialt umgänge i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/tapasrundan-spar-socialt-umgange-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/torremolinos-och-benalmadena-resortkomfort-malaga.png",
-      "file": "bilder/web-ready/malaga/torremolinos-och-benalmadena-resortkomfort-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\torremolinos-och-benalmadena-resortkomfort-malaga.jpg",
       "filename": "torremolinos-och-benalmadena-resortkomfort-malaga.jpg",
       "brief_id": "malaga:malaga-for-seniorer:torremolinos-och-benalmadena-resortkomfort",
       "domain": "malaga",
@@ -1444,7 +1534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/torremolinos-och-benalmadena-resortkomfort-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/torremolinos-och-benalmadena-resortkomfort-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\torremolinos-och-benalmadena-resortkomfort-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-for-seniorer/",
           "page_slug": "malaga-for-seniorer",
@@ -1457,13 +1547,16 @@
           "caption": "Torremolinos och Benalmádena – resortkomfort i Málaga",
           "description": "Torremolinos och Benalmádena – resortkomfort i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/torremolinos-och-benalmadena-resortkomfort-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/valderrama-europas-mest-kanda-bana-malaga.png",
-      "file": "bilder/web-ready/malaga/valderrama-europas-mest-kanda-bana-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\valderrama-europas-mest-kanda-bana-malaga.jpg",
       "filename": "valderrama-europas-mest-kanda-bana-malaga.jpg",
       "brief_id": "malaga:golf-malaga:valderrama-europas-mest-kanda-bana",
       "domain": "malaga",
@@ -1491,7 +1584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/valderrama-europas-mest-kanda-bana-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/valderrama-europas-mest-kanda-bana-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\valderrama-europas-mest-kanda-bana-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/golf-malaga/",
           "page_slug": "golf-malaga",
@@ -1504,13 +1597,16 @@
           "caption": "Valderrama – Europas mest kända bana i Málaga",
           "description": "Valderrama – Europas mest kända bana i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/valderrama-europas-mest-kanda-bana-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.png",
-      "file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg",
       "filename": "vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:montes-de-malaga-naturpark",
       "domain": "malaga",
@@ -1538,7 +1634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.png",
-        "web_ready_file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -1551,13 +1647,16 @@
           "caption": "Montes de Málaga naturpark i Málaga",
           "description": "Montes de Málaga naturpark i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-14.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.png",
-      "file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg",
       "filename": "vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:montes-de-malaga-naturpark",
       "domain": "malaga",
@@ -1585,7 +1684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.png",
-        "web_ready_file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -1598,13 +1697,16 @@
           "caption": "Montes de Málaga naturpark i Málaga",
           "description": "Montes de Málaga naturpark i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-montes-de-malaga-naturpark-malaga-5.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.png",
-      "file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg",
       "filename": "vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:sendero-rio-chillar-nerja",
       "domain": "malaga",
@@ -1632,7 +1734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.png",
-        "web_ready_file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -1645,13 +1747,16 @@
           "caption": "Sendero Río Chillar (Nerja) i Málaga",
           "description": "Sendero Río Chillar (Nerja) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-10.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.png",
-      "file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg",
       "filename": "vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:sendero-rio-chillar-nerja",
       "domain": "malaga",
@@ -1679,7 +1784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.png",
-        "web_ready_file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -1692,13 +1797,16 @@
           "caption": "Sendero Río Chillar (Nerja) i Málaga",
           "description": "Sendero Río Chillar (Nerja) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga-3.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.png",
-      "file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg",
       "filename": "vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:sendero-rio-chillar-nerja",
       "domain": "malaga",
@@ -1726,7 +1834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -1739,13 +1847,16 @@
           "caption": "Sendero Río Chillar (Nerja) i Málaga",
           "description": "Sendero Río Chillar (Nerja) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vandring-malaga-caminito-del-rey-sendero-rio-chillar-nerja-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vattensporter-pa-stranden-malaga.png",
-      "file": "bilder/web-ready/malaga/vattensporter-pa-stranden-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\vattensporter-pa-stranden-malaga.jpg",
       "filename": "vattensporter-pa-stranden-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:vattensporter-pa-stranden",
       "domain": "malaga",
@@ -1773,7 +1884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vattensporter-pa-stranden-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/vattensporter-pa-stranden-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\vattensporter-pa-stranden-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -1786,9 +1897,12 @@
           "caption": "🏄 Vattensporter på stranden i Málaga",
           "description": "🏄 Vattensporter på stranden i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/vattensporter-pa-stranden-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

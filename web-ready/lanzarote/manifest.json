@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/7-dagar-pa-lanzarote-par-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-par-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-par-lanzarote.jpg",
       "filename": "7-dagar-pa-lanzarote-par-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:par",
       "domain": "lanzarote",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Par i Lanzarote. Bilden visar Par i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-lanzarote-par-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-par-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-par-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -42,7 +42,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: 7-dagar-pa-lanzarote-par-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Par i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents par with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -50,7 +50,7 @@
     },
     {
       "source": "bilder/inbox/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
       "filename": "7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:utan-hyrbil",
       "domain": "lanzarote",
@@ -70,7 +70,7 @@
       "seo": "En realistisk resebild från Utan hyrbil i Lanzarote. Bilden visar Utan hyrbil i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -86,7 +86,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: 7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Utan hyrbil i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents utan hyrbil with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -94,7 +94,7 @@
     },
     {
       "source": "bilder/inbox/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
       "filename": "apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:apartamentos-livvo-morromar-puerto-del-carmen",
       "domain": "lanzarote",
@@ -114,7 +114,7 @@
       "seo": "En realistisk resebild från Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote. Bilden visar Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -130,7 +130,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents apartamentos livvo morromar — puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -138,7 +138,7 @@
     },
     {
       "source": "bilder/inbox/aqua-suites-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/aqua-suites-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\aqua-suites-puerto-del-carmen-lanzarote.jpg",
       "filename": "aqua-suites-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:aqua-suites-puerto-del-carmen",
       "domain": "lanzarote",
@@ -158,7 +158,7 @@
       "seo": "En realistisk resebild från Aqua Suites — Puerto del Carmen i Lanzarote. Bilden visar Aqua Suites — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/aqua-suites-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/aqua-suites-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\aqua-suites-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -174,7 +174,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: aqua-suites-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Aqua Suites — Puerto del Carmen i Lanzarote in Lanzarote, Spain, during a busy warm-season evening. The scene clearly represents aqua suites — puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -182,7 +182,7 @@
     },
     {
       "source": "bilder/inbox/arrecife-gran-hotel-spa-arrecife-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
       "filename": "arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:arrecife-gran-hotel-spa-arrecife",
       "domain": "lanzarote",
@@ -202,7 +202,7 @@
       "seo": "En realistisk resebild från Arrecife Gran Hotel & Spa — Arrecife i Lanzarote. Bilden visar Arrecife Gran Hotel & Spa — Arrecife i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/arrecife-gran-hotel-spa-arrecife-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -218,7 +218,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: arrecife-gran-hotel-spa-arrecife-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Arrecife Gran Hotel & Spa — Arrecife i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents arrecife gran hotel & spa — arrecife with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -226,7 +226,7 @@
     },
     {
       "source": "bilder/inbox/barcelo-teguise-beach-costa-teguise-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
       "filename": "barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:barcelo-teguise-beach-costa-teguise",
       "domain": "lanzarote",
@@ -246,7 +246,7 @@
       "seo": "En realistisk resebild från Barceló Teguise Beach — Costa Teguise i Lanzarote. Bilden visar Barceló Teguise Beach — Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barcelo-teguise-beach-costa-teguise-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -262,7 +262,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: barcelo-teguise-beach-costa-teguise-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Barceló Teguise Beach — Costa Teguise i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents barceló teguise beach — costa teguise with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -270,7 +270,7 @@
     },
     {
       "source": "bilder/inbox/for-strand-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/for-strand-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\for-strand-lanzarote.jpg",
       "filename": "for-strand-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-strand",
       "domain": "lanzarote",
@@ -290,7 +290,7 @@
       "seo": "En realistisk resebild från För strand i Lanzarote. Bilden visar För strand i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-strand-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/for-strand-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\for-strand-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -306,7 +306,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: for-strand-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at För strand i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents för strand with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -314,7 +314,7 @@
     },
     {
       "source": "bilder/inbox/for-surf-foto-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/for-surf-foto-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\for-surf-foto-lanzarote.jpg",
       "filename": "for-surf-foto-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-surf-foto",
       "domain": "lanzarote",
@@ -334,7 +334,7 @@
       "seo": "En realistisk resebild från För surf/foto i Lanzarote. Bilden visar För surf/foto i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-surf-foto-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/for-surf-foto-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\for-surf-foto-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -350,7 +350,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: for-surf-foto-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at För surf/foto i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents för surf/foto with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -358,7 +358,7 @@
     },
     {
       "source": "bilder/inbox/h10-rubicon-palace-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/h10-rubicon-palace-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\h10-rubicon-palace-playa-blanca-lanzarote.jpg",
       "filename": "h10-rubicon-palace-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:h10-rubicon-palace-playa-blanca",
       "domain": "lanzarote",
@@ -378,7 +378,7 @@
       "seo": "En realistisk resebild från H10 Rubicón Palace — Playa Blanca i Lanzarote. Bilden visar H10 Rubicón Palace — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/h10-rubicon-palace-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/h10-rubicon-palace-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\h10-rubicon-palace-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -394,7 +394,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: h10-rubicon-palace-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at H10 Rubicón Palace — Playa Blanca i Lanzarote in Lanzarote, Spain, during a busy warm-season evening. The scene clearly represents h10 rubicón palace — playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -402,7 +402,7 @@
     },
     {
       "source": "bilder/inbox/h10-timanfaya-palace-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
       "filename": "h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:h10-timanfaya-palace-playa-blanca",
       "domain": "lanzarote",
@@ -422,7 +422,7 @@
       "seo": "En realistisk resebild från H10 Timanfaya Palace — Playa Blanca i Lanzarote. Bilden visar H10 Timanfaya Palace — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/h10-timanfaya-palace-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -438,7 +438,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: h10-timanfaya-palace-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at H10 Timanfaya Palace — Playa Blanca i Lanzarote in Lanzarote, Spain, during the autumn travel season. The scene clearly represents h10 timanfaya palace — playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -446,7 +446,7 @@
     },
     {
       "source": "bilder/inbox/hotel-fariones-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/hotel-fariones-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\hotel-fariones-puerto-del-carmen-lanzarote.jpg",
       "filename": "hotel-fariones-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:hotel-fariones-puerto-del-carmen",
       "domain": "lanzarote",
@@ -466,7 +466,7 @@
       "seo": "En realistisk resebild från Hotel Fariones — Puerto del Carmen i Lanzarote. Bilden visar Hotel Fariones — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-fariones-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/hotel-fariones-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\hotel-fariones-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -482,7 +482,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: hotel-fariones-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Fariones — Puerto del Carmen i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents hotel fariones — puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -490,7 +490,7 @@
     },
     {
       "source": "bilder/inbox/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
       "filename": "kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:kan-man-bada-pa-lanzarote-aret-runt",
       "domain": "lanzarote",
@@ -510,7 +510,7 @@
       "seo": "En realistisk resebild från Kan man bada på Lanzarote året runt? i Lanzarote. Bilden visar Kan man bada på Lanzarote året runt? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -526,7 +526,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: kan-man-bada-pa-lanzarote-aret-runt-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Kan man bada på Lanzarote året runt? i Lanzarote in Lanzarote, Spain, during the mild winter travel season. The scene clearly represents kan man bada på lanzarote året runt? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -534,7 +534,7 @@
     },
     {
       "source": "bilder/inbox/kan-man-bada-pa-lanzarote-i-januari-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
       "filename": "kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
       "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:kan-man-bada-pa-lanzarote-i-januari",
       "domain": "lanzarote",
@@ -554,7 +554,7 @@
       "seo": "En realistisk resebild från Kan man bada på Lanzarote i januari? i Lanzarote. Bilden visar Kan man bada på Lanzarote i januari? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-bada-pa-lanzarote-i-januari-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
           "page_slug": "basta-stranderna-pa-lanzarote",
@@ -570,7 +570,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: kan-man-bada-pa-lanzarote-i-januari-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Kan man bada på Lanzarote i januari? i Lanzarote in Lanzarote, Spain, during the mild winter travel season. The scene clearly represents kan man bada på lanzarote i januari? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -578,7 +578,7 @@
     },
     {
       "source": "bilder/inbox/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
       "filename": "lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:lanis-suites-de-luxe-puerto-del-carmen",
       "domain": "lanzarote",
@@ -598,7 +598,7 @@
       "seo": "En realistisk resebild från Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote. Bilden visar Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -614,7 +614,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: lanis-suites-de-luxe-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents lani’s suites de luxe — puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -622,7 +622,7 @@
     },
     {
       "source": "bilder/inbox/pensionarer-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/pensionarer-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\pensionarer-lanzarote.jpg",
       "filename": "pensionarer-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:pensionarer",
       "domain": "lanzarote",
@@ -642,7 +642,7 @@
       "seo": "En realistisk resebild från Pensionärer i Lanzarote. Bilden visar Pensionärer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/pensionarer-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/pensionarer-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\pensionarer-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -658,7 +658,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: pensionarer-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Pensionärer i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents pensionärer with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -666,7 +666,7 @@
     },
     {
       "source": "bilder/inbox/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
       "filename": "princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:princesa-yaiza-suite-hotel-resort-playa-blanca",
       "domain": "lanzarote",
@@ -686,7 +686,7 @@
       "seo": "En realistisk resebild från Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote. Bilden visar Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -702,7 +702,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote in Lanzarote, Spain, during a busy warm-season evening. The scene clearly represents princesa yaiza suite hotel resort — playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -710,7 +710,7 @@
     },
     {
       "source": "bilder/inbox/racker-en-vecka-pa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/racker-en-vecka-pa-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\racker-en-vecka-pa-lanzarote.jpg",
       "filename": "racker-en-vecka-pa-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:racker-en-vecka-pa-lanzarote",
       "domain": "lanzarote",
@@ -730,7 +730,7 @@
       "seo": "En realistisk resebild från Räcker en vecka på Lanzarote? i Lanzarote. Bilden visar Räcker en vecka på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/racker-en-vecka-pa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/racker-en-vecka-pa-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\racker-en-vecka-pa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -746,7 +746,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: racker-en-vecka-pa-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Räcker en vecka på Lanzarote? i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents räcker en vecka på lanzarote? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -754,7 +754,7 @@
     },
     {
       "source": "bilder/inbox/sandos-papagayo-beach-resort-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
       "filename": "sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:sandos-papagayo-beach-resort-playa-blanca",
       "domain": "lanzarote",
@@ -774,7 +774,7 @@
       "seo": "En realistisk resebild från Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote. Bilden visar Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sandos-papagayo-beach-resort-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -790,7 +790,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: sandos-papagayo-beach-resort-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote in Lanzarote, Spain, during a busy warm-season evening. The scene clearly represents sandos papagayo beach resort — playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -798,7 +798,7 @@
     },
     {
       "source": "bilder/inbox/ska-man-gora-la-graciosa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/ska-man-gora-la-graciosa-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\ska-man-gora-la-graciosa-lanzarote.jpg",
       "filename": "ska-man-gora-la-graciosa-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:ska-man-gora-la-graciosa",
       "domain": "lanzarote",
@@ -818,7 +818,7 @@
       "seo": "En realistisk resebild från Ska man göra La Graciosa? i Lanzarote. Bilden visar Ska man göra La Graciosa? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/ska-man-gora-la-graciosa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/ska-man-gora-la-graciosa-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\ska-man-gora-la-graciosa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -834,7 +834,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: ska-man-gora-la-graciosa-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Ska man göra La Graciosa? i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents ska man göra la graciosa? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -842,7 +842,7 @@
     },
     {
       "source": "bilder/inbox/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
       "filename": "sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:sol-lanzarote-puerto-del-carmen-matagorda",
       "domain": "lanzarote",
@@ -862,7 +862,7 @@
       "seo": "En realistisk resebild från Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote. Bilden visar Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -878,7 +878,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents sol lanzarote — puerto del carmen (matagorda) with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -886,7 +886,7 @@
     },
     {
       "source": "bilder/inbox/vilken-dag-ska-timanfaya-ligga-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
       "filename": "vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:vilken-dag-ska-timanfaya-ligga",
       "domain": "lanzarote",
@@ -906,7 +906,7 @@
       "seo": "En realistisk resebild från Vilken dag ska Timanfaya ligga? i Lanzarote. Bilden visar Vilken dag ska Timanfaya ligga? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/vilken-dag-ska-timanfaya-ligga-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -922,7 +922,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: vilken-dag-ska-timanfaya-ligga-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Vilken dag ska Timanfaya ligga? i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken dag ska timanfaya ligga? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -930,7 +930,7 @@
     },
     {
       "source": "bilder/inbox/barnfamiljer-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\barnfamiljer-lanzarote.jpg",
       "filename": "barnfamiljer-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:barnfamiljer",
       "domain": "lanzarote",
@@ -950,7 +950,7 @@
       "seo": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barnfamiljer-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\barnfamiljer-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -963,15 +963,18 @@
           "caption": "Barnfamiljer i Lanzarote",
           "description": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: barnfamiljer-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Barnfamiljer i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents barnfamiljer with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: barnfamiljer-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Barnfamiljer i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents barnfamiljer with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/for-marknad-kultur-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\for-marknad-kultur-lanzarote.jpg",
       "filename": "for-marknad-kultur-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-marknad-kultur",
       "domain": "lanzarote",
@@ -991,7 +994,7 @@
       "seo": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-marknad-kultur-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\for-marknad-kultur-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -1004,15 +1007,18 @@
           "caption": "För marknad/kultur i Lanzarote",
           "description": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: for-marknad-kultur-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at För marknad/kultur i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents för marknad/kultur with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: for-marknad-kultur-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at För marknad/kultur i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents för marknad/kultur with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/om-du-bor-i-costa-teguise-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-costa-teguise-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-costa-teguise-lanzarote.jpg",
       "filename": "om-du-bor-i-costa-teguise-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-costa-teguise",
       "domain": "lanzarote",
@@ -1032,7 +1038,7 @@
       "seo": "En realistisk resebild från Om du bor i Costa Teguise i Lanzarote. Bilden visar Om du bor i Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-costa-teguise-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-costa-teguise-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-costa-teguise-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -1045,15 +1051,18 @@
           "caption": "Om du bor i Costa Teguise i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Costa Teguise i Lanzarote. Bilden visar Om du bor i Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-costa-teguise-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Om du bor i Costa Teguise i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i costa teguise with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-costa-teguise-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Om du bor i Costa Teguise i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i costa teguise with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/om-du-bor-i-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-playa-blanca-lanzarote.jpg",
       "filename": "om-du-bor-i-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-playa-blanca",
       "domain": "lanzarote",
@@ -1073,7 +1082,7 @@
       "seo": "En realistisk resebild från Om du bor i Playa Blanca i Lanzarote. Bilden visar Om du bor i Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -1086,15 +1095,18 @@
           "caption": "Om du bor i Playa Blanca i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Playa Blanca i Lanzarote. Bilden visar Om du bor i Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Om du bor i Playa Blanca i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-playa-blanca-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Om du bor i Playa Blanca i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
       "filename": "om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-puerto-del-carmen",
       "domain": "lanzarote",
@@ -1114,7 +1126,7 @@
       "seo": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -1127,15 +1139,18 @@
           "caption": "Om du bor i Puerto del Carmen i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Om du bor i Puerto del Carmen i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: om-du-bor-i-puerto-del-carmen-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Om du bor i Puerto del Carmen i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents om du bor i puerto del carmen with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\racker-5-dagar-pa-lanzarote.jpg",
       "filename": "racker-5-dagar-pa-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:racker-5-dagar-pa-lanzarote",
       "domain": "lanzarote",
@@ -1155,7 +1170,7 @@
       "seo": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\racker-5-dagar-pa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -1168,9 +1183,12 @@
           "caption": "Räcker 5 dagar på Lanzarote? i Lanzarote",
           "description": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: racker-5-dagar-pa-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Räcker 5 dagar på Lanzarote? i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents räcker 5 dagar på lanzarote? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide. Target filename after download: racker-5-dagar-pa-lanzarote.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Räcker 5 dagar på Lanzarote? i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents räcker 5 dagar på lanzarote? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     }

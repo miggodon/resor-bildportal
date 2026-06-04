@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/barnfamiljer-juni-september-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/barnfamiljer-juni-september-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\barnfamiljer-juni-september-rhodos.jpg",
       "filename": "barnfamiljer-juni-september-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:barnfamiljer-juni-september",
       "domain": "rhodos",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Barnfamiljer: Juni & September i Rhodos. Bilden visar Barnfamiljer: Juni & September i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barnfamiljer-juni-september-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/barnfamiljer-juni-september-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\barnfamiljer-juni-september-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -42,7 +42,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: barnfamiljer-juni-september-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic street-level documentary travel photograph at Barnfamiljer: Juni & September i Rhodos in Rhodos, Greece, during the autumn travel season. The scene clearly represents barnfamiljer: juni & september with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -50,7 +50,7 @@
     },
     {
       "source": "bilder/inbox/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
       "filename": "casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:casa-cook-rhodes-modern-lyx-vid-kolymbia",
       "domain": "rhodos",
@@ -70,7 +70,7 @@
       "seo": "En realistisk resebild från Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos. Bilden visar Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -86,7 +86,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents casa cook rhodes — modern lyx vid kolymbia with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -94,7 +94,7 @@
     },
     {
       "source": "bilder/inbox/lindos-akropolis-solnedgangsvigsel-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
       "filename": "lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:lindos-akropolis-solnedgangsvigsel",
       "domain": "rhodos",
@@ -114,7 +114,7 @@
       "seo": "En realistisk resebild från Lindos Akropolis solnedgångsvigsel i Rhodos. Bilden visar Lindos Akropolis solnedgångsvigsel i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-akropolis-solnedgangsvigsel-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -130,7 +130,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-akropolis-solnedgangsvigsel-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Lindos Akropolis solnedgångsvigsel i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents lindos akropolis solnedgångsvigsel with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -138,7 +138,7 @@
     },
     {
       "source": "bilder/inbox/lindos-blu-adults-only-med-infinity-pool-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
       "filename": "lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:lindos-blu-adults-only-med-infinity-pool",
       "domain": "rhodos",
@@ -158,7 +158,7 @@
       "seo": "En realistisk resebild från Lindos Blu — adults-only med infinity pool i Rhodos. Bilden visar Lindos Blu — adults-only med infinity pool i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-blu-adults-only-med-infinity-pool-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -174,7 +174,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-blu-adults-only-med-infinity-pool-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Lindos Blu — adults-only med infinity pool i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents lindos blu — adults-only med infinity pool with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -182,7 +182,7 @@
     },
     {
       "source": "bilder/inbox/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
       "filename": "marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:marco-polo-mansion-ottomansk-herrgard-i-gamla-stan",
       "domain": "rhodos",
@@ -202,7 +202,7 @@
       "seo": "En realistisk resebild från Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos. Bilden visar Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -218,7 +218,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents marco polo mansion — ottomansk herrgård i gamla stan with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -226,7 +226,7 @@
     },
     {
       "source": "bilder/inbox/melenos-lindos-12-rum-i-byn-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/melenos-lindos-12-rum-i-byn-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\melenos-lindos-12-rum-i-byn-rhodos.jpg",
       "filename": "melenos-lindos-12-rum-i-byn-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:melenos-lindos-12-rum-i-byn",
       "domain": "rhodos",
@@ -246,7 +246,7 @@
       "seo": "En realistisk resebild från Melenos Lindos — 12 rum i byn i Rhodos. Bilden visar Melenos Lindos — 12 rum i byn i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/melenos-lindos-12-rum-i-byn-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/melenos-lindos-12-rum-i-byn-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\melenos-lindos-12-rum-i-byn-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -262,7 +262,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: melenos-lindos-12-rum-i-byn-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Melenos Lindos — 12 rum i byn i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents melenos lindos — 12 rum i byn with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -270,7 +270,7 @@
     },
     {
       "source": "bilder/inbox/middag-pa-mavrikos-i-lindos-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/middag-pa-mavrikos-i-lindos-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\middag-pa-mavrikos-i-lindos-rhodos.jpg",
       "filename": "middag-pa-mavrikos-i-lindos-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:middag-pa-mavrikos-i-lindos",
       "domain": "rhodos",
@@ -290,7 +290,7 @@
       "seo": "En realistisk resebild från Middag på Mavrikos i Lindos i Rhodos. Bilden visar Middag på Mavrikos i Lindos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/middag-pa-mavrikos-i-lindos-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/middag-pa-mavrikos-i-lindos-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\middag-pa-mavrikos-i-lindos-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -306,7 +306,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: middag-pa-mavrikos-i-lindos-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Middag på Mavrikos i Lindos i Rhodos in Rhodos, Greece, during a busy warm-season evening. The scene clearly represents middag på mavrikos i lindos with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -314,7 +314,7 @@
     },
     {
       "source": "bilder/inbox/par-romantiker-maj-september-oktober-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/par-romantiker-maj-september-oktober-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\par-romantiker-maj-september-oktober-rhodos.jpg",
       "filename": "par-romantiker-maj-september-oktober-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:par-romantiker-maj-september-oktober",
       "domain": "rhodos",
@@ -334,7 +334,7 @@
       "seo": "En realistisk resebild från Par & romantiker: Maj, September, Oktober i Rhodos. Bilden visar Par & romantiker: Maj, September, Oktober i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/par-romantiker-maj-september-oktober-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/par-romantiker-maj-september-oktober-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\par-romantiker-maj-september-oktober-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -350,7 +350,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: par-romantiker-maj-september-oktober-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Par & romantiker: Maj, September, Oktober i Rhodos in Rhodos, Greece, during the autumn travel season. The scene clearly represents par & romantiker: maj, september, oktober with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -358,7 +358,7 @@
     },
     {
       "source": "bilder/inbox/prisjagare-april-oktober-november-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/prisjagare-april-oktober-november-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\prisjagare-april-oktober-november-rhodos.jpg",
       "filename": "prisjagare-april-oktober-november-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:prisjagare-april-oktober-november",
       "domain": "rhodos",
@@ -378,7 +378,7 @@
       "seo": "En realistisk resebild från Prisjägare: April, Oktober, November i Rhodos. Bilden visar Prisjägare: April, Oktober, November i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/prisjagare-april-oktober-november-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/prisjagare-april-oktober-november-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\prisjagare-april-oktober-november-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -394,7 +394,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: prisjagare-april-oktober-november-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Prisjägare: April, Oktober, November i Rhodos in Rhodos, Greece, during the autumn travel season. The scene clearly represents prisjägare: april, oktober, november with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -402,7 +402,7 @@
     },
     {
       "source": "bilder/inbox/privat-solnedgangskryssning-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/privat-solnedgangskryssning-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\privat-solnedgangskryssning-rhodos.jpg",
       "filename": "privat-solnedgangskryssning-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:privat-solnedgangskryssning",
       "domain": "rhodos",
@@ -422,7 +422,7 @@
       "seo": "En realistisk resebild från Privat solnedgångskryssning i Rhodos. Bilden visar Privat solnedgångskryssning i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/privat-solnedgangskryssning-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/privat-solnedgangskryssning-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\privat-solnedgangskryssning-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -438,7 +438,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: privat-solnedgangskryssning-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at Privat solnedgångskryssning i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents privat solnedgångskryssning with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -446,7 +446,7 @@
     },
     {
       "source": "bilder/inbox/rodos-park-suites-spa-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
       "filename": "rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:rodos-park-suites-spa-rhodos-stad",
       "domain": "rhodos",
@@ -466,7 +466,7 @@
       "seo": "En realistisk resebild från Rodos Park Suites & Spa – Rhodos stad i Rhodos. Bilden visar Rodos Park Suites & Spa – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/rodos-park-suites-spa-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -482,7 +482,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: rodos-park-suites-spa-rhodos-stad-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Rodos Park Suites & Spa – Rhodos stad i Rhodos in Rhodos, Greece, during a busy warm-season evening. The scene clearly represents rodos park suites & spa – rhodos stad with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -490,7 +490,7 @@
     },
     {
       "source": "bilder/inbox/solbadare-juliaugusti-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/solbadare-juliaugusti-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\solbadare-juliaugusti-rhodos.jpg",
       "filename": "solbadare-juliaugusti-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:solbadare-juliaugusti",
       "domain": "rhodos",
@@ -510,7 +510,7 @@
       "seo": "En realistisk resebild från Solbadare: Juli–Augusti i Rhodos. Bilden visar Solbadare: Juli–Augusti i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/solbadare-juliaugusti-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/solbadare-juliaugusti-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\solbadare-juliaugusti-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -526,7 +526,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: solbadare-juliaugusti-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Solbadare: Juli–Augusti i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents solbadare: juli–augusti with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -534,7 +534,7 @@
     },
     {
       "source": "bilder/inbox/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
       "filename": "st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:st-pauls-bay-i-lindos-det-ultimata-ceremonilaget",
       "domain": "rhodos",
@@ -554,7 +554,7 @@
       "seo": "En realistisk resebild från St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos. Bilden visar St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -570,7 +570,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic editorial travel photograph at St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents st paul’s bay i lindos — det ultimata ceremoniläget with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -578,7 +578,7 @@
     },
     {
       "source": "bilder/inbox/vinprovning-i-embonas-vid-solnedgangen-rhodos.png",
-      "file": "bilder/web-ready/rhodos/redo/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
       "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:vinprovning-i-embonas-vid-solnedgangen",
       "domain": "rhodos",
@@ -598,7 +598,7 @@
       "seo": "En realistisk resebild från Vinprovning i Embonas vid solnedgången i Rhodos. Bilden visar Vinprovning i Embonas vid solnedgången i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/vinprovning-i-embonas-vid-solnedgangen-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/redo/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -614,7 +614,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/rhodos/redo"
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: vinprovning-i-embonas-vid-solnedgangen-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Vinprovning i Embonas vid solnedgången i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents vinprovning i embonas vid solnedgången with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -622,7 +622,7 @@
     },
     {
       "source": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\atrium-platinum-resort-spa-ixia-rhodos.jpg",
       "filename": "atrium-platinum-resort-spa-ixia-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:atrium-platinum-resort-spa-ixia",
       "domain": "rhodos",
@@ -642,7 +642,7 @@
       "seo": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\atrium-platinum-resort-spa-ixia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -655,15 +655,18 @@
           "caption": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
           "description": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: atrium-platinum-resort-spa-ixia-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Atrium Platinum Resort & Spa – Ixia i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents atrium platinum resort & spa – ixia with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: atrium-platinum-resort-spa-ixia-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Atrium Platinum Resort & Spa – Ixia i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents atrium platinum resort & spa – ixia with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
-      "file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\esperos-village-blue-spa-faliraki-rhodos.jpg",
       "filename": "esperos-village-blue-spa-faliraki-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:esperos-village-blue-spa-faliraki",
       "domain": "rhodos",
@@ -683,7 +686,7 @@
       "seo": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\esperos-village-blue-spa-faliraki-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -696,15 +699,18 @@
           "caption": "Esperos Village Blue & Spa – Faliraki i Rhodos",
           "description": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: esperos-village-blue-spa-faliraki-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Esperos Village Blue & Spa – Faliraki i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents esperos village blue & spa – faliraki with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: esperos-village-blue-spa-faliraki-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Esperos Village Blue & Spa – Faliraki i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents esperos village blue & spa – faliraki with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/hotel-anastasia-faliraki-rhodos.png",
-      "file": "bilder/web-ready/rhodos/hotel-anastasia-faliraki-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\hotel-anastasia-faliraki-rhodos.jpg",
       "filename": "hotel-anastasia-faliraki-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:hotel-anastasia-faliraki",
       "domain": "rhodos",
@@ -724,7 +730,7 @@
       "seo": "En realistisk resebild från Hotel Anastasia – Faliraki i Rhodos. Bilden visar Hotel Anastasia – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-anastasia-faliraki-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/hotel-anastasia-faliraki-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\hotel-anastasia-faliraki-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -737,15 +743,18 @@
           "caption": "Hotel Anastasia – Faliraki i Rhodos",
           "description": "En realistisk resebild från Hotel Anastasia – Faliraki i Rhodos. Bilden visar Hotel Anastasia – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: hotel-anastasia-faliraki-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Anastasia – Faliraki i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents hotel anastasia – faliraki with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: hotel-anastasia-faliraki-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Anastasia – Faliraki i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents hotel anastasia – faliraki with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/jimmys-garden-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/jimmys-garden-rhodos-stad-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\jimmys-garden-rhodos-stad-rhodos.jpg",
       "filename": "jimmys-garden-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:jimmys-garden-rhodos-stad",
       "domain": "rhodos",
@@ -765,7 +774,7 @@
       "seo": "En realistisk resebild från Jimmy’s Garden – Rhodos stad i Rhodos. Bilden visar Jimmy’s Garden – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/jimmys-garden-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/jimmys-garden-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\jimmys-garden-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -778,15 +787,18 @@
           "caption": "Jimmy’s Garden – Rhodos stad i Rhodos",
           "description": "En realistisk resebild från Jimmy’s Garden – Rhodos stad i Rhodos. Bilden visar Jimmy’s Garden – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: jimmys-garden-rhodos-stad-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Jimmy’s Garden – Rhodos stad i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents jimmy’s garden – rhodos stad with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: jimmys-garden-rhodos-stad-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Jimmy’s Garden – Rhodos stad i Rhodos in Rhodos, Greece, during the most relevant travel season for the scene. The scene clearly represents jimmy’s garden – rhodos stad with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/kolymbia-star-hotel-kolymbia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/kolymbia-star-hotel-kolymbia-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\kolymbia-star-hotel-kolymbia-rhodos.jpg",
       "filename": "kolymbia-star-hotel-kolymbia-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:kolymbia-star-hotel-kolymbia",
       "domain": "rhodos",
@@ -806,7 +818,7 @@
       "seo": "En realistisk resebild från Kolymbia Star Hotel – Kolymbia i Rhodos. Bilden visar Kolymbia Star Hotel – Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kolymbia-star-hotel-kolymbia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/kolymbia-star-hotel-kolymbia-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\kolymbia-star-hotel-kolymbia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -819,15 +831,18 @@
           "caption": "Kolymbia Star Hotel – Kolymbia i Rhodos",
           "description": "En realistisk resebild från Kolymbia Star Hotel – Kolymbia i Rhodos. Bilden visar Kolymbia Star Hotel – Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: kolymbia-star-hotel-kolymbia-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Kolymbia Star Hotel – Kolymbia i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents kolymbia star hotel – kolymbia with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: kolymbia-star-hotel-kolymbia-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Kolymbia Star Hotel – Kolymbia i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents kolymbia star hotel – kolymbia with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/lindos-allure-boutique-i-lindos-gamla-by-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
       "filename": "lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:lindos-allure-boutique-i-lindos-gamla-by",
       "domain": "rhodos",
@@ -847,7 +862,7 @@
       "seo": "En realistisk resebild från Lindos Allure – Boutique i Lindos gamla by i Rhodos. Bilden visar Lindos Allure – Boutique i Lindos gamla by i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-allure-boutique-i-lindos-gamla-by-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -860,15 +875,18 @@
           "caption": "Lindos Allure – Boutique i Lindos gamla by i Rhodos",
           "description": "En realistisk resebild från Lindos Allure – Boutique i Lindos gamla by i Rhodos. Bilden visar Lindos Allure – Boutique i Lindos gamla by i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-allure-boutique-i-lindos-gamla-by-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lindos Allure – Boutique i Lindos gamla by i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents lindos allure – boutique i lindos gamla by with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-allure-boutique-i-lindos-gamla-by-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lindos Allure – Boutique i Lindos gamla by i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents lindos allure – boutique i lindos gamla by with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
       "filename": "lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:lindos-blu-luxury-hotel-suites-vlicha-bay",
       "domain": "rhodos",
@@ -888,7 +906,7 @@
       "seo": "En realistisk resebild från Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos. Bilden visar Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -901,15 +919,18 @@
           "caption": "Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos",
           "description": "En realistisk resebild från Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos. Bilden visar Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents lindos blu luxury hotel & suites – vlicha bay with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents lindos blu luxury hotel & suites – vlicha bay with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     },
     {
       "source": "bilder/inbox/mitsis-petit-palais-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
+      "file": "bilder\\web-ready\\rhodos\\redo\\mitsis-petit-palais-rhodos-stad-rhodos.jpg",
       "filename": "mitsis-petit-palais-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:mitsis-petit-palais-rhodos-stad",
       "domain": "rhodos",
@@ -929,7 +950,7 @@
       "seo": "En realistisk resebild från Mitsis Petit Palais – Rhodos stad i Rhodos. Bilden visar Mitsis Petit Palais – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mitsis-petit-palais-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder\\web-ready\\rhodos\\redo\\mitsis-petit-palais-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -942,9 +963,12 @@
           "caption": "Mitsis Petit Palais – Rhodos stad i Rhodos",
           "description": "En realistisk resebild från Mitsis Petit Palais – Rhodos stad i Rhodos. Bilden visar Mitsis Petit Palais – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\rhodos\\redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: mitsis-petit-palais-rhodos-stad-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Mitsis Petit Palais – Rhodos stad i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents mitsis petit palais – rhodos stad with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Rhodos travel guide. Target filename after download: mitsis-petit-palais-rhodos-stad-rhodos.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Mitsis Petit Palais – Rhodos stad i Rhodos in Rhodos, Greece, during busy summer peak season. The scene clearly represents mitsis petit palais – rhodos stad with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
     }

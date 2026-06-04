@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
       "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
       "domain": "korfu",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -42,7 +42,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: arcadion-hotel-basta-lage-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Arcadion Hotel — Bästa läge i Gamla stan i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents arcadion hotel — bästa läge i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
@@ -50,7 +50,7 @@
     },
     {
       "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
       "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
       "domain": "korfu",
@@ -70,7 +70,7 @@
       "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -86,7 +86,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
       "prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: bella-venezia-charm-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bella Venezia — Charm i Gamla stan i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents bella venezia — charm i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",

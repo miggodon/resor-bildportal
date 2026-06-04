@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/att-underskatta-bergsvagar-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-underskatta-bergsvagar-grancanaria.jpg",
       "filename": "att-underskatta-bergsvagar-grancanaria.jpg",
       "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:att-underskatta-bergsvagar",
       "domain": "grancanaria",
@@ -34,7 +34,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-underskatta-bergsvagar-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-underskatta-bergsvagar-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
           "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
@@ -47,13 +47,16 @@
           "caption": "Att underskatta bergsvägar i Gran Canaria",
           "description": "Att underskatta bergsvägar i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-underskatta-bergsvagar-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
       "filename": "basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
       "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:att-starta-for-sent",
       "domain": "grancanaria",
@@ -81,7 +84,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
           "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
@@ -94,13 +97,16 @@
           "caption": "Att starta för sent i Gran Canaria",
           "description": "Att starta för sent i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-att-starta-for-sent-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lopesan-costa-meloneras-resort-spa-casino-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
       "filename": "lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
       "brief_id": "grancanaria:meloneras:lopesan-costa-meloneras-resort-spa-casino",
       "domain": "grancanaria",
@@ -128,7 +134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/lopesan-costa-meloneras-resort-spa-casino-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/meloneras/",
           "page_slug": "meloneras",
@@ -141,13 +147,16 @@
           "caption": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria",
           "description": "Lopesan Costa Meloneras Resort Spa & Casino ⭐⭐⭐⭐⭐ i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/lopesan-costa-meloneras-resort-spa-casino-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/priser-campo-internacional-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\priser-campo-internacional-grancanaria.jpg",
       "filename": "priser-campo-internacional-grancanaria.jpg",
       "brief_id": "grancanaria:hyra-i-maspalomas:priser-campo-internacional",
       "domain": "grancanaria",
@@ -175,7 +184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/priser-campo-internacional-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\priser-campo-internacional-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hyra-i-maspalomas/",
           "page_slug": "hyra-i-maspalomas",
@@ -188,9 +197,12 @@
           "caption": "Priser Campo Internacional i Gran Canaria",
           "description": "Priser Campo Internacional i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/priser-campo-internacional-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
