@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-06-04T00:54:28.914169+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/malaga",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
+      "file": "bilder/web-ready/malaga/el-ejido-universitet-takterrasser-malaga.jpg",
+      "filename": "el-ejido-universitet-takterrasser-malaga.jpg",
+      "brief_id": "malaga:var-ska-man-bo-i-malaga:el-ejido-universitetet-och-takterrasserna",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/var-ska-man-bo-i-malaga/",
+      "page_id": 76,
+      "page_title": "Var ska man bo i Malaga",
+      "page_slug": "var-ska-man-bo-i-malaga",
+      "h3": "El Ejido – Universitetet och takterrasserna",
+      "h3_slug": "el-ejido-universitetet-och-takterrasserna",
+      "place": "El Ejido ovanför Málagas historiska centrum",
+      "gps": "36.7268, -4.4213",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
+      "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
+      "seo": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/el-ejido-universitet-takterrasser-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
+          "page_slug": "var-ska-man-bo-i-malaga",
+          "section_h3": "El Ejido – Universitetet och takterrasserna",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "El Ejido – Universitetet och takterrasserna i Málaga",
+          "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
+          "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
+          "description": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/el-ejido-universitet-takterrasser-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
+      "file": "bilder/web-ready/malaga/lagunillas-gatukonst-distrikt-malaga.jpg",
+      "filename": "lagunillas-gatukonst-distrikt-malaga.jpg",
+      "brief_id": "malaga:var-ska-man-bo-i-malaga:lagunillas-malagas-gatukonst-distrikt",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/var-ska-man-bo-i-malaga/",
+      "page_id": 76,
+      "page_title": "Var ska man bo i Malaga",
+      "page_slug": "var-ska-man-bo-i-malaga",
+      "h3": "Lagunillas – Málagas gatukonst-distrikt",
+      "h3_slug": "lagunillas-malagas-gatukonst-distrikt",
+      "place": "Lagunillas mellan gamla stan och Gibralfaro i Málaga",
+      "gps": "36.7250, -4.4197",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
+      "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
+      "seo": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/lagunillas-gatukonst-distrikt-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
+          "page_slug": "var-ska-man-bo-i-malaga",
+          "section_h3": "Lagunillas – Málagas gatukonst-distrikt",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
+          "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
+          "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
+          "description": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/lagunillas-gatukonst-distrikt-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

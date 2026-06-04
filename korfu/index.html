@@ -1,0 +1,1083 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>korfu image dashboard</title>
+  <style>
+    :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#ffffff; --ready:#0f766e; --downloaded:#b45309; --todo:#475467; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); }
+    header { padding:24px 28px 18px; border-bottom:1px solid var(--line); background:var(--panel); position:sticky; top:0; z-index:1; }
+    h1 { margin:0 0 8px; font-size:24px; line-height:1.2; letter-spacing:0; }
+    .summary { display:flex; flex-wrap:wrap; gap:8px; color:var(--muted); font-size:14px; }
+    .pill { border:1px solid var(--line); border-radius:6px; padding:5px 8px; background:#fff; }
+    main { max-width:1180px; margin:0 auto; padding:18px; }
+    .item { display:grid; grid-template-columns:220px 1fr; gap:16px; background:var(--panel); border:1px solid var(--line); border-left:5px solid var(--todo); border-radius:8px; padding:14px; margin-bottom:14px; }
+    .item.ready { border-left-color:var(--ready); }
+    .item.downloaded { border-left-color:var(--downloaded); }
+    .preview { width:100%; aspect-ratio:3/2; border:1px solid var(--line); border-radius:6px; background:#eef1f5; display:grid; place-items:center; overflow:hidden; }
+    .preview:empty::after { content:"Ingen bild ännu"; color:var(--muted); font-size:13px; }
+    .preview img { width:100%; height:100%; object-fit:cover; }
+    .topline { display:flex; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:6px; }
+    .number,.status,.domain { font-size:12px; border-radius:6px; padding:4px 7px; background:#f2f4f7; color:#344054; }
+    .ready .status { background:#ccfbf1; color:#134e4a; }
+    .downloaded .status { background:#fef3c7; color:#92400e; }
+    h2 { margin:0 0 8px; font-size:19px; line-height:1.25; letter-spacing:0; }
+    .meta { margin:0 0 12px; color:var(--muted); font-size:14px; line-height:1.45; }
+    .files { display:grid; grid-template-columns:120px minmax(0,1fr); gap:6px 10px; align-items:center; margin:10px 0 12px; }
+    label, dt { color:var(--muted); font-size:13px; }
+    code { display:block; overflow-wrap:anywhere; background:#f8fafc; border:1px solid var(--line); border-radius:6px; padding:6px 8px; font-size:13px; }
+    .copy-line { display:grid; grid-template-columns:minmax(0, 1fr) auto; gap:8px; align-items:center; }
+    .copy-line.prompt-copy { display:flex; justify-content:flex-start; margin-top:10px; }
+    input { min-width:0; border:1px solid var(--line); border-radius:6px; padding:8px 9px; font:13px ui-monospace, SFMono-Regular, Menlo, monospace; background:#fff; color:var(--ink); }
+    button { border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#f8fafc; color:#075985; font:650 13px Inter, ui-sans-serif, system-ui, sans-serif; cursor:pointer; }
+    button.copied { border-color:#99f6e4; background:#ccfbf1; color:#134e4a; }
+    details { border-top:1px solid var(--line); padding-top:10px; margin-top:10px; }
+    summary { cursor:pointer; color:#344054; font-weight:650; }
+    textarea { width:100%; min-height:220px; margin-top:10px; resize:vertical; border:1px solid var(--line); border-radius:6px; padding:10px; font:13px/1.45 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    dl { display:grid; grid-template-columns:90px 1fr; gap:8px 12px; margin:10px 0 0; }
+    dd { margin:0; line-height:1.45; }
+    @media (max-width:760px) { header { position:static; padding:18px; } main { padding:12px; } .item { grid-template-columns:1fr; } .files, dl, .copy-line { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>korfu image dashboard</h1>
+    <div class="summary">
+      <span class="pill">Generated 2026-06-04T00:54:33.068571+00:00</span>
+      <span class="pill">20 briefs</span>
+      <span class="pill">0 JPG klara</span>
+      <span class="pill">0 PNG finns</span>
+      <span class="pill">20 att skapa</span>
+    </div>
+  </header>
+  <main>
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">1</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>7. Arcadion Hotel — Bästa läge i Gamla stan</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Arcadion Hotel — Bästa läge i Gamla stan i Korfu</p>
+                <div class="files">
+                  <label for="filename-1">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-1" readonly value="arcadion-hotel-basta-lage-i-gamla-stan-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-1">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-1">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: arcadion-hotel-basta-lage-i-gamla-stan-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Arcadion Hotel — Bästa läge i Gamla stan i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents arcadion hotel — bästa läge i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Arcadion Hotel — Bästa läge i Gamla stan i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / arcadion-hotel-basta-lage-i-gamla-stan</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">2</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>5. Bella Venezia — Charm i Gamla stan</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Bella Venezia — Charm i Gamla stan i Korfu</p>
+                <div class="files">
+                  <label for="filename-2">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-2" readonly value="bella-venezia-charm-i-gamla-stan-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-2">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/bella-venezia-charm-i-gamla-stan-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-2">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: bella-venezia-charm-i-gamla-stan-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bella Venezia — Charm i Gamla stan i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents bella venezia — charm i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Bella Venezia — Charm i Gamla stan i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / bella-venezia-charm-i-gamla-stan</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">3</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>3. Domes Miramare — Design vid stranden</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Domes Miramare — Design vid stranden i Korfu</p>
+                <div class="files">
+                  <label for="filename-3">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-3" readonly value="domes-miramare-design-vid-stranden-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-3">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-3">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-3" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: domes-miramare-design-vid-stranden-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Domes Miramare — Design vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents domes miramare — design vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Domes Miramare — Design vid stranden i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Domes Miramare — Design vid stranden i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Domes Miramare — Design vid stranden i Korfu. Bilden visar Domes Miramare — Design vid stranden i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / domes-miramare-design-vid-stranden</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">4</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>8. Hotel Atlantis — Budget vid stranden</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Hotel Atlantis — Budget vid stranden i Korfu</p>
+                <div class="files">
+                  <label for="filename-4">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-4" readonly value="hotel-atlantis-budget-vid-stranden-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-4">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-4">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-4" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: hotel-atlantis-budget-vid-stranden-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Atlantis — Budget vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hotel atlantis — budget vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Hotel Atlantis — Budget vid stranden i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hotel Atlantis — Budget vid stranden i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hotel Atlantis — Budget vid stranden i Korfu. Bilden visar Hotel Atlantis — Budget vid stranden i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / hotel-atlantis-budget-vid-stranden</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">5</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>1. Ikos Dassia — All-inclusive i världsklass</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Ikos Dassia — All-inclusive i världsklass i Korfu</p>
+                <div class="files">
+                  <label for="filename-5">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-5" readonly value="ikos-dassia-all-inclusive-i-varldsklass-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-5">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-5">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-5" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: ikos-dassia-all-inclusive-i-varldsklass-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Ikos Dassia — All-inclusive i världsklass i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents ikos dassia — all-inclusive i världsklass with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Ikos Dassia — All-inclusive i världsklass i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Ikos Dassia — All-inclusive i världsklass i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Ikos Dassia — All-inclusive i världsklass i Korfu. Bilden visar Ikos Dassia — All-inclusive i världsklass i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / ikos-dassia-all-inclusive-i-varldsklass</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">6</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-6">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-6" readonly value="basta-hotellen-pa-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-6">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-6">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-6" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: basta-hotellen-pa-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">7</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>2. MarBella Nido — Lyxigt boutiquehotell</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>MarBella Nido — Lyxigt boutiquehotell i Korfu</p>
+                <div class="files">
+                  <label for="filename-7">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-7" readonly value="marbella-nido-lyxigt-boutiquehotell-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-7">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-7">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-7" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: marbella-nido-lyxigt-boutiquehotell-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at MarBella Nido — Lyxigt boutiquehotell i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents marbella nido — lyxigt boutiquehotell with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>MarBella Nido — Lyxigt boutiquehotell i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>MarBella Nido — Lyxigt boutiquehotell i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från MarBella Nido — Lyxigt boutiquehotell i Korfu. Bilden visar MarBella Nido — Lyxigt boutiquehotell i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / marbella-nido-lyxigt-boutiquehotell</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">8</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>6. Mayor Mon Repos Palace</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Mayor Mon Repos Palace i Korfu</p>
+                <div class="files">
+                  <label for="filename-8">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-8" readonly value="mayor-mon-repos-palace-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-8">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-8">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-8" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: mayor-mon-repos-palace-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Mayor Mon Repos Palace i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents mayor mon repos palace with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Mayor Mon Repos Palace i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Mayor Mon Repos Palace i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Mayor Mon Repos Palace i Korfu. Bilden visar Mayor Mon Repos Palace i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / mayor-mon-repos-palace</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">9</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>4. Rodostamo Hotel &amp; Spa</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Rodostamo Hotel &amp; Spa i Korfu</p>
+                <div class="files">
+                  <label for="filename-9">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-9" readonly value="rodostamo-hotel-spa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-9">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-9">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-9" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: rodostamo-hotel-spa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Rodostamo Hotel &amp; Spa i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents rodostamo hotel &amp; spa with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Rodostamo Hotel &amp; Spa i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Rodostamo Hotel &amp; Spa i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Rodostamo Hotel &amp; Spa i Korfu. Bilden visar Rodostamo Hotel &amp; Spa i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / rodostamo-hotel-spa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">10</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>9. Sunrock Hostel — Bäst för backpackers</h2>
+                <p class="meta">Bästa hotellen på Korfu<br>Sunrock Hostel — Bäst för backpackers i Korfu</p>
+                <div class="files">
+                  <label for="filename-10">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-10" readonly value="sunrock-hostel-bast-for-backpackers-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-10">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-10">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-10" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: sunrock-hostel-bast-for-backpackers-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sunrock Hostel — Bäst för backpackers i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents sunrock hostel — bäst för backpackers with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Sunrock Hostel — Bäst för backpackers i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Sunrock Hostel — Bäst för backpackers i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Sunrock Hostel — Bäst för backpackers i Korfu. Bilden visar Sunrock Hostel — Bäst för backpackers i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-hotellen-pa-korfu/ / sunrock-hostel-bast-for-backpackers</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">11</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Bästa stränderna på Korfu<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-11">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-11" readonly value="basta-stranderna-pa-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-11">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-11">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-11" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: basta-stranderna-pa-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Läs också i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/basta-stranderna-pa-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">12</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Hyrbil på Korfu<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-12">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-12" readonly value="hyrbil-pa-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-12">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-12">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-12" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: hyrbil-pa-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/hyrbil-pa-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">13</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>🚌 Buss linje 15 — billigast</h2>
+                <p class="meta">Korfu flygplats, transfer och så tar du dig runt<br>Buss linje 15 — billigast i Korfu</p>
+                <div class="files">
+                  <label for="filename-13">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-13" readonly value="buss-linje-15-billigast-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-13">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-13">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-13" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: buss-linje-15-billigast-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Buss linje 15 — billigast i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents buss linje 15 — billigast with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Buss linje 15 — billigast i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Buss linje 15 — billigast i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Buss linje 15 — billigast i Korfu. Bilden visar Buss linje 15 — billigast i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/korfu-flygplats/ / buss-linje-15-billigast</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">14</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>🚗 Hyrbil — det smartaste valet</h2>
+                <p class="meta">Korfu flygplats, transfer och så tar du dig runt<br>Hyrbil — det smartaste valet i Korfu</p>
+                <div class="files">
+                  <label for="filename-14">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-14" readonly value="hyrbil-det-smartaste-valet-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-14">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-14">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-14" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: hyrbil-det-smartaste-valet-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil — det smartaste valet i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hyrbil — det smartaste valet with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Hyrbil — det smartaste valet i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hyrbil — det smartaste valet i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hyrbil — det smartaste valet i Korfu. Bilden visar Hyrbil — det smartaste valet i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/korfu-flygplats/ / hyrbil-det-smartaste-valet</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">15</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Korfu flygplats, transfer och så tar du dig runt<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-15">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-15" readonly value="korfu-flygplats-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-15">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-15">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-15" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: korfu-flygplats-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/korfu-flygplats/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">16</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>🚐 Privat transfer — bäst för grupper</h2>
+                <p class="meta">Korfu flygplats, transfer och så tar du dig runt<br>Privat transfer — bäst för grupper i Korfu</p>
+                <div class="files">
+                  <label for="filename-16">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-16" readonly value="privat-transfer-bast-for-grupper-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-16">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-16">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-16" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: privat-transfer-bast-for-grupper-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Privat transfer — bäst för grupper i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents privat transfer — bäst för grupper with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Privat transfer — bäst för grupper i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Privat transfer — bäst för grupper i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Privat transfer — bäst för grupper i Korfu. Bilden visar Privat transfer — bäst för grupper i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/korfu-flygplats/ / privat-transfer-bast-for-grupper</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">17</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>🚕 Taxi — snabbast till stan</h2>
+                <p class="meta">Korfu flygplats, transfer och så tar du dig runt<br>Taxi — snabbast till stan i Korfu</p>
+                <div class="files">
+                  <label for="filename-17">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-17" readonly value="taxi-snabbast-till-stan-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-17">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-17">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-17" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: taxi-snabbast-till-stan-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Taxi — snabbast till stan i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents taxi — snabbast till stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Taxi — snabbast till stan i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Taxi — snabbast till stan i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Taxi — snabbast till stan i Korfu. Bilden visar Taxi — snabbast till stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/korfu-flygplats/ / taxi-snabbast-till-stan</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">18</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Test title 57<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-18">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-18" readonly value="packlista-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-18">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-18">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-18" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: packlista-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/packlista-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">19</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Saker att göra på Korfu<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-19">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-19" readonly value="saker-att-gora-pa-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-19">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-19">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-19" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: saker-att-gora-pa-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/saker-att-gora-pa-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">20</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">korfu</span>
+                </div>
+                <h2>Läs också</h2>
+                <p class="meta">Var ska man bo på Korfu<br>Läs också i Korfu</p>
+                <div class="files">
+                  <label for="filename-20">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-20" readonly value="var-ska-man-bo-pa-korfu-las-ocksa-korfu.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-20">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-20">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-20" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
+
+Target filename after download: var-ska-man-bo-pa-korfu-las-ocksa-korfu.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Läs också i Korfu med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs också i Korfu</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs också i Korfu. Bilden visar Läs också i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://korfu.se/var-ska-man-bo-pa-korfu/ / las-ocksa</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            </main>
+  <script>
+    async function copyTextFrom(id, button) {
+      const field = document.getElementById(id);
+      if (!field) return;
+      field.focus();
+      field.select();
+      try {
+        await navigator.clipboard.writeText(field.value);
+      } catch (error) {
+        document.execCommand("copy");
+      }
+      const original = button.textContent;
+      button.textContent = "Kopierad";
+      button.classList.add("copied");
+      window.setTimeout(() => {
+        button.textContent = original;
+        button.classList.remove("copied");
+      }, 1200);
+    }
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-copy-target]");
+      if (!button) return;
+      copyTextFrom(button.dataset.copyTarget, button);
+    });
+  </script>
+</body>
+</html>

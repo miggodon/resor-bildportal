@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-06-04T00:54:30.831504+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/rhodos",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
+      "file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+      "filename": "atrium-platinum-resort-spa-ixia-rhodos.jpg",
+      "brief_id": "rhodos:basta-hotellen-pa-rhodos:atrium-platinum-resort-spa-ixia",
+      "domain": "rhodos",
+      "site": "rhodos.se",
+      "destination": "Rhodos",
+      "page": "https://rhodos.se/basta-hotellen-pa-rhodos/",
+      "page_id": 37,
+      "page_title": "Bästa hotellen på Rhodos 2026 — 11 utvalda från lyx till boutique",
+      "page_slug": "basta-hotellen-pa-rhodos",
+      "h3": "1. Atrium Platinum Resort & Spa – Ixia",
+      "h3_slug": "atrium-platinum-resort-spa-ixia",
+      "place": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
+      "gps": "36.4341, 28.2176",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Atrium Platinum Resort & Spa – Ixia i Rhodos med människor och realistisk resemiljö",
+      "caption": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
+      "seo": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
+        "web_ready_file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+        "wordpress_target": {
+          "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
+          "page_slug": "basta-hotellen-pa-rhodos",
+          "section_h3": "1. Atrium Platinum Resort & Spa – Ixia",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
+          "alt": "Atrium Platinum Resort & Spa – Ixia i Rhodos med människor och realistisk resemiljö",
+          "caption": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
+          "description": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
+      "file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+      "filename": "esperos-village-blue-spa-faliraki-rhodos.jpg",
+      "brief_id": "rhodos:basta-hotellen-pa-rhodos:esperos-village-blue-spa-faliraki",
+      "domain": "rhodos",
+      "site": "rhodos.se",
+      "destination": "Rhodos",
+      "page": "https://rhodos.se/basta-hotellen-pa-rhodos/",
+      "page_id": 37,
+      "page_title": "Bästa hotellen på Rhodos 2026 — 11 utvalda från lyx till boutique",
+      "page_slug": "basta-hotellen-pa-rhodos",
+      "h3": "5. Esperos Village Blue & Spa – Faliraki",
+      "h3_slug": "esperos-village-blue-spa-faliraki",
+      "place": "Esperos Village Blue & Spa – Faliraki i Rhodos",
+      "gps": "36.4341, 28.2176",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Esperos Village Blue & Spa – Faliraki i Rhodos med människor och realistisk resemiljö",
+      "caption": "Esperos Village Blue & Spa – Faliraki i Rhodos",
+      "seo": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
+        "web_ready_file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+        "wordpress_target": {
+          "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
+          "page_slug": "basta-hotellen-pa-rhodos",
+          "section_h3": "5. Esperos Village Blue & Spa – Faliraki",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Esperos Village Blue & Spa – Faliraki i Rhodos",
+          "alt": "Esperos Village Blue & Spa – Faliraki i Rhodos med människor och realistisk resemiljö",
+          "caption": "Esperos Village Blue & Spa – Faliraki i Rhodos",
+          "description": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

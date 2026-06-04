@@ -1,0 +1,1033 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>torremolinos image dashboard</title>
+  <style>
+    :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#ffffff; --ready:#0f766e; --downloaded:#b45309; --todo:#475467; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); }
+    header { padding:24px 28px 18px; border-bottom:1px solid var(--line); background:var(--panel); position:sticky; top:0; z-index:1; }
+    h1 { margin:0 0 8px; font-size:24px; line-height:1.2; letter-spacing:0; }
+    .summary { display:flex; flex-wrap:wrap; gap:8px; color:var(--muted); font-size:14px; }
+    .pill { border:1px solid var(--line); border-radius:6px; padding:5px 8px; background:#fff; }
+    main { max-width:1180px; margin:0 auto; padding:18px; }
+    .item { display:grid; grid-template-columns:220px 1fr; gap:16px; background:var(--panel); border:1px solid var(--line); border-left:5px solid var(--todo); border-radius:8px; padding:14px; margin-bottom:14px; }
+    .item.ready { border-left-color:var(--ready); }
+    .item.downloaded { border-left-color:var(--downloaded); }
+    .preview { width:100%; aspect-ratio:3/2; border:1px solid var(--line); border-radius:6px; background:#eef1f5; display:grid; place-items:center; overflow:hidden; }
+    .preview:empty::after { content:"Ingen bild ännu"; color:var(--muted); font-size:13px; }
+    .preview img { width:100%; height:100%; object-fit:cover; }
+    .topline { display:flex; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:6px; }
+    .number,.status,.domain { font-size:12px; border-radius:6px; padding:4px 7px; background:#f2f4f7; color:#344054; }
+    .ready .status { background:#ccfbf1; color:#134e4a; }
+    .downloaded .status { background:#fef3c7; color:#92400e; }
+    h2 { margin:0 0 8px; font-size:19px; line-height:1.25; letter-spacing:0; }
+    .meta { margin:0 0 12px; color:var(--muted); font-size:14px; line-height:1.45; }
+    .files { display:grid; grid-template-columns:120px minmax(0,1fr); gap:6px 10px; align-items:center; margin:10px 0 12px; }
+    label, dt { color:var(--muted); font-size:13px; }
+    code { display:block; overflow-wrap:anywhere; background:#f8fafc; border:1px solid var(--line); border-radius:6px; padding:6px 8px; font-size:13px; }
+    .copy-line { display:grid; grid-template-columns:minmax(0, 1fr) auto; gap:8px; align-items:center; }
+    .copy-line.prompt-copy { display:flex; justify-content:flex-start; margin-top:10px; }
+    input { min-width:0; border:1px solid var(--line); border-radius:6px; padding:8px 9px; font:13px ui-monospace, SFMono-Regular, Menlo, monospace; background:#fff; color:var(--ink); }
+    button { border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#f8fafc; color:#075985; font:650 13px Inter, ui-sans-serif, system-ui, sans-serif; cursor:pointer; }
+    button.copied { border-color:#99f6e4; background:#ccfbf1; color:#134e4a; }
+    details { border-top:1px solid var(--line); padding-top:10px; margin-top:10px; }
+    summary { cursor:pointer; color:#344054; font-weight:650; }
+    textarea { width:100%; min-height:220px; margin-top:10px; resize:vertical; border:1px solid var(--line); border-radius:6px; padding:10px; font:13px/1.45 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    dl { display:grid; grid-template-columns:90px 1fr; gap:8px 12px; margin:10px 0 0; }
+    dd { margin:0; line-height:1.45; }
+    @media (max-width:760px) { header { position:static; padding:18px; } main { padding:12px; } .item { grid-template-columns:1fr; } .files, dl, .copy-line { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>torremolinos image dashboard</h1>
+    <div class="summary">
+      <span class="pill">Generated 2026-06-04T00:54:34.432383+00:00</span>
+      <span class="pill">19 briefs</span>
+      <span class="pill">0 JPG klara</span>
+      <span class="pill">0 PNG finns</span>
+      <span class="pill">19 att skapa</span>
+    </div>
+  </header>
+  <main>
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">1</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>7. Apartamentos Bajondillo</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Apartamentos Bajondillo i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-1">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-1" readonly value="apartamentos-bajondillo-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-1">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/apartamentos-bajondillo-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-1">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: apartamentos-bajondillo-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Apartamentos Bajondillo i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents apartamentos bajondillo with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Apartamentos Bajondillo i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / apartamentos-bajondillo</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">2</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>8. Casa de los Navajas</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Casa de los Navajas i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-2">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-2" readonly value="casa-de-los-navajas-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-2">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/casa-de-los-navajas-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-2">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: casa-de-los-navajas-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Casa de los Navajas i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents casa de los navajas with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Casa de los Navajas i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Casa de los Navajas i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / casa-de-los-navajas</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">3</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>1. Hotel Ritual Torremolinos – Adults Only</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Hotel Ritual Torremolinos – Adults Only i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-3">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-3" readonly value="hotel-ritual-torremolinos-adults-only-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-3">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/hotel-ritual-torremolinos-adults-only-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-3">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-3" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: hotel-ritual-torremolinos-adults-only-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Ritual Torremolinos – Adults Only i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents hotel ritual torremolinos – adults only with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Hotel Ritual Torremolinos – Adults Only i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hotel Ritual Torremolinos – Adults Only i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hotel Ritual Torremolinos – Adults Only i Torremolinos. Bilden visar Hotel Ritual Torremolinos – Adults Only i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / hotel-ritual-torremolinos-adults-only</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">4</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>4. Hotel Zen Airport</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Hotel Zen Airport i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-4">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-4" readonly value="hotel-zen-airport-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-4">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/hotel-zen-airport-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-4">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-4" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: hotel-zen-airport-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Zen Airport i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents hotel zen airport with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Hotel Zen Airport i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hotel Zen Airport i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hotel Zen Airport i Torremolinos. Bilden visar Hotel Zen Airport i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / hotel-zen-airport</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">5</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>2. Meliá Costa del Sol</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Meliá Costa del Sol i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-5">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-5" readonly value="melia-costa-del-sol-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-5">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/melia-costa-del-sol-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-5">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-5" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: melia-costa-del-sol-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Meliá Costa del Sol i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents meliá costa del sol with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Meliá Costa del Sol i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Meliá Costa del Sol i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Meliá Costa del Sol i Torremolinos. Bilden visar Meliá Costa del Sol i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / melia-costa-del-sol</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">6</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>5. MS Amaragua</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>MS Amaragua i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-6">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-6" readonly value="ms-amaragua-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-6">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/ms-amaragua-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-6">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-6" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: ms-amaragua-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at MS Amaragua i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents ms amaragua with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>MS Amaragua i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>MS Amaragua i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från MS Amaragua i Torremolinos. Bilden visar MS Amaragua i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / ms-amaragua</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">7</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>9. Sandos Griego</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Sandos Griego i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-7">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-7" readonly value="sandos-griego-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-7">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/sandos-griego-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-7">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-7" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: sandos-griego-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sandos Griego i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents sandos griego with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Sandos Griego i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Sandos Griego i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Sandos Griego i Torremolinos. Bilden visar Sandos Griego i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / sandos-griego</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">8</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>3. Sol Torremolinos – Don Pablo</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>Sol Torremolinos – Don Pablo i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-8">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-8" readonly value="sol-torremolinos-don-pablo-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-8">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/sol-torremolinos-don-pablo-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-8">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-8" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: sol-torremolinos-don-pablo-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sol Torremolinos – Don Pablo i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents sol torremolinos – don pablo with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Sol Torremolinos – Don Pablo i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Sol Torremolinos – Don Pablo i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Sol Torremolinos – Don Pablo i Torremolinos. Bilden visar Sol Torremolinos – Don Pablo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / sol-torremolinos-don-pablo</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">9</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>6. tent Torremolinos</h2>
+                <p class="meta">Bästa hotellen i Torremolinos<br>tent Torremolinos i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-9">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-9" readonly value="tent-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-9">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/tent-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-9">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-9" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: tent-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at tent Torremolinos i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents tent torremolinos with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>tent Torremolinos i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>tent Torremolinos i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från tent Torremolinos i Torremolinos. Bilden visar tent Torremolinos i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-hotellen-i-torremolinos-2/ / tent-torremolinos</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">10</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Barnfamiljer: Juni &amp; September</h2>
+                <p class="meta">Bästa tiden att resa till Torremolinos<br>Barnfamiljer: Juni &amp; September i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-10">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-10" readonly value="barnfamiljer-juni-september-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-10">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/barnfamiljer-juni-september-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-10">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-10" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: barnfamiljer-juni-september-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic street-level documentary travel photograph at Barnfamiljer: Juni &amp; September i Torremolinos in Torremolinos, Spain, during the autumn travel season. The scene clearly represents barnfamiljer: juni &amp; september with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Barnfamiljer: Juni &amp; September i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Barnfamiljer: Juni &amp; September i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Barnfamiljer: Juni &amp; September i Torremolinos. Bilden visar Barnfamiljer: Juni &amp; September i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-tiden-att-resa-till-torremolinos-2/ / barnfamiljer-juni-september</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">11</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Fest &amp; nattliv: Juli–Augusti</h2>
+                <p class="meta">Bästa tiden att resa till Torremolinos<br>Fest &amp; nattliv: Juli–Augusti i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-11">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-11" readonly value="fest-nattliv-juliaugusti-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-11">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/fest-nattliv-juliaugusti-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-11">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-11" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: fest-nattliv-juliaugusti-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Fest &amp; nattliv: Juli–Augusti i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents fest &amp; nattliv: juli–augusti with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Fest &amp; nattliv: Juli–Augusti i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Fest &amp; nattliv: Juli–Augusti i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Fest &amp; nattliv: Juli–Augusti i Torremolinos. Bilden visar Fest &amp; nattliv: Juli–Augusti i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-tiden-att-resa-till-torremolinos-2/ / fest-nattliv-juliaugusti</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">12</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Golf: Oktober–Maj</h2>
+                <p class="meta">Bästa tiden att resa till Torremolinos<br>Golf: Oktober–Maj i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-12">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-12" readonly value="golf-oktobermaj-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-12">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/golf-oktobermaj-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-12">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-12" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: golf-oktobermaj-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Golf: Oktober–Maj i Torremolinos in Torremolinos, Spain, during the autumn travel season. The scene clearly represents golf: oktober–maj with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Golf: Oktober–Maj i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Golf: Oktober–Maj i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Golf: Oktober–Maj i Torremolinos. Bilden visar Golf: Oktober–Maj i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-tiden-att-resa-till-torremolinos-2/ / golf-oktobermaj</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">13</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Par &amp; romantiker: Maj, September, Oktober</h2>
+                <p class="meta">Bästa tiden att resa till Torremolinos<br>Par &amp; romantiker: Maj, September, Oktober i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-13">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-13" readonly value="par-romantiker-maj-september-oktober-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-13">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/par-romantiker-maj-september-oktober-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-13">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-13" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: par-romantiker-maj-september-oktober-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Par &amp; romantiker: Maj, September, Oktober i Torremolinos in Torremolinos, Spain, during the autumn travel season. The scene clearly represents par &amp; romantiker: maj, september, oktober with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Par &amp; romantiker: Maj, September, Oktober i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Par &amp; romantiker: Maj, September, Oktober i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Par &amp; romantiker: Maj, September, Oktober i Torremolinos. Bilden visar Par &amp; romantiker: Maj, September, Oktober i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-tiden-att-resa-till-torremolinos-2/ / par-romantiker-maj-september-oktober</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">14</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Sightseeing &amp; utflykter: April–Maj, Oktober–November</h2>
+                <p class="meta">Bästa tiden att resa till Torremolinos<br>Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-14">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-14" readonly value="sightseeing-utflykter-aprilmaj-oktobernovember-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-14">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/sightseeing-utflykter-aprilmaj-oktobernovember-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-14">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-14" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: sightseeing-utflykter-aprilmaj-oktobernovember-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos in Torremolinos, Spain, during the autumn travel season. The scene clearly represents sightseeing &amp; utflykter: april–maj, oktober–november with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos. Bilden visar Sightseeing &amp; utflykter: April–Maj, Oktober–November i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/basta-tiden-att-resa-till-torremolinos-2/ / sightseeing-utflykter-aprilmaj-oktobernovember</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">15</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Behövs bil för att ta sig runt i Torremolinos?</h2>
+                <p class="meta">Hyrbil i Torremolinos<br>Behövs bil för att ta sig runt i Torremolinos? i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-15">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-15" readonly value="behovs-bil-for-att-ta-sig-runt-i-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-15">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/behovs-bil-for-att-ta-sig-runt-i-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-15">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-15" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: behovs-bil-for-att-ta-sig-runt-i-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Behövs bil för att ta sig runt i Torremolinos? i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents behövs bil för att ta sig runt i torremolinos? with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Behövs bil för att ta sig runt i Torremolinos? i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Behövs bil för att ta sig runt i Torremolinos? i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Behövs bil för att ta sig runt i Torremolinos? i Torremolinos. Bilden visar Behövs bil för att ta sig runt i Torremolinos? i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/hyrbil-i-torremolinos/ / behovs-bil-for-att-ta-sig-runt-i-torremolinos</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">16</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Kan jag hämta bilen i Torremolinos och lämna i Málaga?</h2>
+                <p class="meta">Hyrbil i Torremolinos<br>Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-16">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-16" readonly value="kan-jag-hamta-bilen-i-torremolinos-och-lamna-i-malaga-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-16">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/kan-jag-hamta-bilen-i-torremolinos-och-lamna-i-malaga-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-16">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-16" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: kan-jag-hamta-bilen-i-torremolinos-och-lamna-i-malaga-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents kan jag hämta bilen i torremolinos och lämna i málaga? with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos. Bilden visar Kan jag hämta bilen i Torremolinos och lämna i Málaga? i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/hyrbil-i-torremolinos/ / kan-jag-hamta-bilen-i-torremolinos-och-lamna-i-malaga</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">17</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda</h2>
+                <p class="meta">Hyrbil i Torremolinos<br>Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-17">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-17" readonly value="rutt-1-vita-byar-berg-mijas-pueblo-ronda-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-17">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/rutt-1-vita-byar-berg-mijas-pueblo-ronda-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-17">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-17" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: rutt-1-vita-byar-berg-mijas-pueblo-ronda-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 1: vita byar &amp; berg – mijas pueblo + ronda with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos. Bilden visar Rutt 1: Vita byar &amp; berg – Mijas Pueblo + Ronda i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/hyrbil-i-torremolinos/ / rutt-1-vita-byar-berg-mijas-pueblo-ronda</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">18</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7)</h2>
+                <p class="meta">Hyrbil i Torremolinos<br>Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-18">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-18" readonly value="rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-18">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-18">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-18" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: rutt-2-costa-del-sol-marbella-puerto-banus-a-7-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents rutt 2: costa del sol – marbella + puerto banús (a-7) with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos. Bilden visar Rutt 2: Costa del Sol – Marbella + Puerto Banús (A-7) i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/hyrbil-i-torremolinos/ / rutt-2-costa-del-sol-marbella-puerto-banus-a-7</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">19</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="domain">torremolinos</span>
+                </div>
+                <h2>Rutt 3: Málaga + Gibralfaro – Storstad på 20 min</h2>
+                <p class="meta">Hyrbil i Torremolinos<br>Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos</p>
+                <div class="files">
+                  <label for="filename-19">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-19" readonly value="rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-19">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/torremolinos/rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-19">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-19" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
+
+Target filename after download: rutt-3-malaga-gibralfaro-storstad-pa-20-min-torremolinos.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents rutt 3: málaga + gibralfaro – storstad på 20 min with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Alt</dt><dd>Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos. Bilden visar Rutt 3: Málaga + Gibralfaro – Storstad på 20 min i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://torremolinos.se/hyrbil-i-torremolinos/ / rutt-3-malaga-gibralfaro-storstad-pa-20-min</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            </main>
+  <script>
+    async function copyTextFrom(id, button) {
+      const field = document.getElementById(id);
+      if (!field) return;
+      field.focus();
+      field.select();
+      try {
+        await navigator.clipboard.writeText(field.value);
+      } catch (error) {
+        document.execCommand("copy");
+      }
+      const original = button.textContent;
+      button.textContent = "Kopierad";
+      button.classList.add("copied");
+      window.setTimeout(() => {
+        button.textContent = original;
+        button.classList.remove("copied");
+      }, 1200);
+    }
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-copy-target]");
+      if (!button) return;
+      copyTextFrom(button.dataset.copyTarget, button);
+    });
+  </script>
+</body>
+</html>
