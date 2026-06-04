@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/barnfamiljer-juni-september-rhodos.png",
-      "file": "bilder/web-ready/rhodos/barnfamiljer-juni-september-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/barnfamiljer-juni-september-rhodos.jpg",
       "filename": "barnfamiljer-juni-september-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:barnfamiljer-juni-september",
       "domain": "rhodos",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Barnfamiljer: Juni & September i Rhodos. Bilden visar Barnfamiljer: Juni & September i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barnfamiljer-juni-september-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/barnfamiljer-juni-september-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/barnfamiljer-juni-september-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -39,13 +39,16 @@
           "caption": "Barnfamiljer: Juni & September i Rhodos",
           "description": "En realistisk resebild från Barnfamiljer: Juni & September i Rhodos. Bilden visar Barnfamiljer: Juni & September i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/barnfamiljer-juni-september-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
       "filename": "casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:casa-cook-rhodes-modern-lyx-vid-kolymbia",
       "domain": "rhodos",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos. Bilden visar Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -78,13 +81,16 @@
           "caption": "Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos",
           "description": "En realistisk resebild från Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos. Bilden visar Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lindos-akropolis-solnedgangsvigsel-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
       "filename": "lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:lindos-akropolis-solnedgangsvigsel",
       "domain": "rhodos",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Lindos Akropolis solnedgångsvigsel i Rhodos. Bilden visar Lindos Akropolis solnedgångsvigsel i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-akropolis-solnedgangsvigsel-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-akropolis-solnedgangsvigsel-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -117,13 +123,16 @@
           "caption": "Lindos Akropolis solnedgångsvigsel i Rhodos",
           "description": "En realistisk resebild från Lindos Akropolis solnedgångsvigsel i Rhodos. Bilden visar Lindos Akropolis solnedgångsvigsel i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/lindos-akropolis-solnedgangsvigsel-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lindos-blu-adults-only-med-infinity-pool-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
       "filename": "lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:lindos-blu-adults-only-med-infinity-pool",
       "domain": "rhodos",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Lindos Blu — adults-only med infinity pool i Rhodos. Bilden visar Lindos Blu — adults-only med infinity pool i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-blu-adults-only-med-infinity-pool-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -156,13 +165,16 @@
           "caption": "Lindos Blu — adults-only med infinity pool i Rhodos",
           "description": "En realistisk resebild från Lindos Blu — adults-only med infinity pool i Rhodos. Bilden visar Lindos Blu — adults-only med infinity pool i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/lindos-blu-adults-only-med-infinity-pool-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.png",
-      "file": "bilder/web-ready/rhodos/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
       "filename": "marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:marco-polo-mansion-ottomansk-herrgard-i-gamla-stan",
       "domain": "rhodos",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos. Bilden visar Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -195,13 +207,16 @@
           "caption": "Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos",
           "description": "En realistisk resebild från Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos. Bilden visar Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/melenos-lindos-12-rum-i-byn-rhodos.png",
-      "file": "bilder/web-ready/rhodos/melenos-lindos-12-rum-i-byn-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/melenos-lindos-12-rum-i-byn-rhodos.jpg",
       "filename": "melenos-lindos-12-rum-i-byn-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:melenos-lindos-12-rum-i-byn",
       "domain": "rhodos",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Melenos Lindos — 12 rum i byn i Rhodos. Bilden visar Melenos Lindos — 12 rum i byn i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/melenos-lindos-12-rum-i-byn-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/melenos-lindos-12-rum-i-byn-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/melenos-lindos-12-rum-i-byn-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -234,13 +249,16 @@
           "caption": "Melenos Lindos — 12 rum i byn i Rhodos",
           "description": "En realistisk resebild från Melenos Lindos — 12 rum i byn i Rhodos. Bilden visar Melenos Lindos — 12 rum i byn i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/melenos-lindos-12-rum-i-byn-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/middag-pa-mavrikos-i-lindos-rhodos.png",
-      "file": "bilder/web-ready/rhodos/middag-pa-mavrikos-i-lindos-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/middag-pa-mavrikos-i-lindos-rhodos.jpg",
       "filename": "middag-pa-mavrikos-i-lindos-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:middag-pa-mavrikos-i-lindos",
       "domain": "rhodos",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Middag på Mavrikos i Lindos i Rhodos. Bilden visar Middag på Mavrikos i Lindos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/middag-pa-mavrikos-i-lindos-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/middag-pa-mavrikos-i-lindos-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/middag-pa-mavrikos-i-lindos-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -273,13 +291,16 @@
           "caption": "Middag på Mavrikos i Lindos i Rhodos",
           "description": "En realistisk resebild från Middag på Mavrikos i Lindos i Rhodos. Bilden visar Middag på Mavrikos i Lindos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/middag-pa-mavrikos-i-lindos-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/par-romantiker-maj-september-oktober-rhodos.png",
-      "file": "bilder/web-ready/rhodos/par-romantiker-maj-september-oktober-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/par-romantiker-maj-september-oktober-rhodos.jpg",
       "filename": "par-romantiker-maj-september-oktober-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:par-romantiker-maj-september-oktober",
       "domain": "rhodos",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Par & romantiker: Maj, September, Oktober i Rhodos. Bilden visar Par & romantiker: Maj, September, Oktober i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/par-romantiker-maj-september-oktober-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/par-romantiker-maj-september-oktober-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/par-romantiker-maj-september-oktober-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -312,13 +333,16 @@
           "caption": "Par & romantiker: Maj, September, Oktober i Rhodos",
           "description": "En realistisk resebild från Par & romantiker: Maj, September, Oktober i Rhodos. Bilden visar Par & romantiker: Maj, September, Oktober i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/par-romantiker-maj-september-oktober-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/prisjagare-april-oktober-november-rhodos.png",
-      "file": "bilder/web-ready/rhodos/prisjagare-april-oktober-november-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/prisjagare-april-oktober-november-rhodos.jpg",
       "filename": "prisjagare-april-oktober-november-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:prisjagare-april-oktober-november",
       "domain": "rhodos",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Prisjägare: April, Oktober, November i Rhodos. Bilden visar Prisjägare: April, Oktober, November i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/prisjagare-april-oktober-november-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/prisjagare-april-oktober-november-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/prisjagare-april-oktober-november-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -351,13 +375,16 @@
           "caption": "Prisjägare: April, Oktober, November i Rhodos",
           "description": "En realistisk resebild från Prisjägare: April, Oktober, November i Rhodos. Bilden visar Prisjägare: April, Oktober, November i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/prisjagare-april-oktober-november-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/privat-solnedgangskryssning-rhodos.png",
-      "file": "bilder/web-ready/rhodos/privat-solnedgangskryssning-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/privat-solnedgangskryssning-rhodos.jpg",
       "filename": "privat-solnedgangskryssning-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:privat-solnedgangskryssning",
       "domain": "rhodos",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Privat solnedgångskryssning i Rhodos. Bilden visar Privat solnedgångskryssning i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/privat-solnedgangskryssning-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/privat-solnedgangskryssning-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/privat-solnedgangskryssning-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -390,13 +417,16 @@
           "caption": "Privat solnedgångskryssning i Rhodos",
           "description": "En realistisk resebild från Privat solnedgångskryssning i Rhodos. Bilden visar Privat solnedgångskryssning i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/privat-solnedgangskryssning-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rodos-park-suites-spa-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
       "filename": "rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:rodos-park-suites-spa-rhodos-stad",
       "domain": "rhodos",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Rodos Park Suites & Spa – Rhodos stad i Rhodos. Bilden visar Rodos Park Suites & Spa – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/rodos-park-suites-spa-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/rodos-park-suites-spa-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -429,13 +459,16 @@
           "caption": "Rodos Park Suites & Spa – Rhodos stad i Rhodos",
           "description": "En realistisk resebild från Rodos Park Suites & Spa – Rhodos stad i Rhodos. Bilden visar Rodos Park Suites & Spa – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/rodos-park-suites-spa-rhodos-stad-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/solbadare-juliaugusti-rhodos.png",
-      "file": "bilder/web-ready/rhodos/solbadare-juliaugusti-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/solbadare-juliaugusti-rhodos.jpg",
       "filename": "solbadare-juliaugusti-rhodos.jpg",
       "brief_id": "rhodos:basta-tiden-att-resa-till-rhodos:solbadare-juliaugusti",
       "domain": "rhodos",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Solbadare: Juli–Augusti i Rhodos. Bilden visar Solbadare: Juli–Augusti i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/solbadare-juliaugusti-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/solbadare-juliaugusti-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/solbadare-juliaugusti-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/",
           "page_slug": "basta-tiden-att-resa-till-rhodos",
@@ -468,13 +501,16 @@
           "caption": "Solbadare: Juli–Augusti i Rhodos",
           "description": "En realistisk resebild från Solbadare: Juli–Augusti i Rhodos. Bilden visar Solbadare: Juli–Augusti i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/solbadare-juliaugusti-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.png",
-      "file": "bilder/web-ready/rhodos/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
       "filename": "st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:st-pauls-bay-i-lindos-det-ultimata-ceremonilaget",
       "domain": "rhodos",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos. Bilden visar St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -507,13 +543,16 @@
           "caption": "St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos",
           "description": "En realistisk resebild från St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos. Bilden visar St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vinprovning-i-embonas-vid-solnedgangen-rhodos.png",
-      "file": "bilder/web-ready/rhodos/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
       "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
       "brief_id": "rhodos:brollopsresa-rhodos:vinprovning-i-embonas-vid-solnedgangen",
       "domain": "rhodos",
@@ -533,7 +572,7 @@
       "seo": "En realistisk resebild från Vinprovning i Embonas vid solnedgången i Rhodos. Bilden visar Vinprovning i Embonas vid solnedgången i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/vinprovning-i-embonas-vid-solnedgangen-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/brollopsresa-rhodos/",
           "page_slug": "brollopsresa-rhodos",
@@ -546,9 +585,12 @@
           "caption": "Vinprovning i Embonas vid solnedgången i Rhodos",
           "description": "En realistisk resebild från Vinprovning i Embonas vid solnedgången i Rhodos. Bilden visar Vinprovning i Embonas vid solnedgången i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/vinprovning-i-embonas-vid-solnedgangen-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
