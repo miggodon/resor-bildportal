@@ -1,31 +1,106 @@
 {
-  "generated_at": "2026-06-05T17:57:08.873456+00:00",
-  "source_dir": "bilder/inbox",
-  "out_dir": "bilder/web-ready/malaga",
+  "generated_at": "2026-06-05T18:16:12.621831+00:00",
+  "source_dir": "bilder\\inbox",
+  "out_dir": "bilder\\web-ready\\malaga",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/all-inclusive-i-benalmadena-malaga.png",
-      "file": "bilder/web-ready/malaga/all-inclusive-i-benalmadena-malaga.jpg",
-      "filename": "all-inclusive-i-benalmadena-malaga.jpg",
+      "source": "bilder\\inbox\\la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.png",
+      "file": "bilder\\web-ready\\malaga\\redo\\la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.jpg",
+      "filename": "la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:la-terraza-de-la-alcazaba-hotelltak-med-historia",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": 210,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "La Terraza de la Alcazaba — hotelltak med historia",
+      "h3_slug": "la-terraza-de-la-alcazaba-hotelltak-med-historia",
+      "place": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at La Terraza de la Alcazaba — hotelltak med historia i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents la terraza de la alcazaba — hotelltak med historia with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at La Terraza de la Alcazaba — hotelltak med historia i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents la terraza de la alcazaba — hotelltak med historia with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "alt": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+      "caption": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+      "seo": "La Terraza de la Alcazaba — hotelltak med historia i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.png",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\la-terraza-de-la-alcazaba-hotelltak-med-historia-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "La Terraza de la Alcazaba — hotelltak med historia",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+          "alt": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+          "caption": "La Terraza de la Alcazaba — hotelltak med historia i Málaga",
+          "description": "La Terraza de la Alcazaba — hotelltak med historia i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
       "brief_id": "malaga:malaga-all-inclusive:all-inclusive-i-benalmadena",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/malaga-all-inclusive/",
       "page_id": 311,
       "page_title": "All inclusive Málaga – finns det och är det värt det?",
       "page_slug": "malaga-all-inclusive",
+      "page_modified": "2026-06-04T05:14:01",
+      "page_priority": 999,
+      "page_h1": "All inclusive Málaga – finns det och är det värt det?",
       "h3": "All inclusive i Benalmádena",
       "h3_slug": "all-inclusive-i-benalmadena",
+      "parent_h2": "All inclusive i Málaga vs längs Costa del Sol",
+      "importance_score": 246,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "benalmadena",
+        "inclusive"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "2 träffar i H3-text +10",
+        "17 träffar i sidtext +34",
+        "affiliate/polish ×2 +12",
+        "sidposition 2/2 -5",
+        "satsade sökord (all inclusive, all-inclusive) +50"
+      ],
+      "source_excerpt": "Benalmádena erbjuder all inclusive-hotell med större variation – från kompakta resort-hotell till större anläggningar med spa, vattensporter och barnklubb. Närheten till Puerto Deportivo (jachthamnen) ger fin stämning.",
+      "source_body_char_count": 218,
       "place": "All inclusive i Benalmádena i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the spring travel season",
+      "light_context": "Fresh spring Mediterranean daylight, natural shadows, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at All inclusive i Benalmádena i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents all inclusive i benalmádena with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: all-inclusive-i-benalmadena-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at All inclusive i Benalmádena i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents all inclusive i benalmádena with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "All inclusive i Benalmádena i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "All inclusive i Benalmádena i Málaga",
       "caption": "All inclusive i Benalmádena i Málaga",
-      "seo": "All inclusive i Benalmádena i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "all-inclusive-i-benalmadena-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -34,7 +109,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/all-inclusive-i-benalmadena-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/all-inclusive-i-benalmadena-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\all-inclusive-i-benalmadena-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-all-inclusive/",
           "page_slug": "malaga-all-inclusive",
@@ -47,32 +122,61 @@
           "caption": "All inclusive i Benalmádena i Málaga",
           "description": "All inclusive i Benalmádena i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/all-inclusive-i-benalmadena-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\all-inclusive-i-benalmadena-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/all-inclusive-i-torremolinos-malaga.png",
-      "file": "bilder/web-ready/malaga/all-inclusive-i-torremolinos-malaga.jpg",
-      "filename": "all-inclusive-i-torremolinos-malaga.jpg",
       "brief_id": "malaga:malaga-all-inclusive:all-inclusive-i-torremolinos",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/malaga-all-inclusive/",
       "page_id": 311,
       "page_title": "All inclusive Málaga – finns det och är det värt det?",
       "page_slug": "malaga-all-inclusive",
+      "page_modified": "2026-06-04T05:14:01",
+      "page_priority": 999,
+      "page_h1": "All inclusive Málaga – finns det och är det värt det?",
       "h3": "All inclusive i Torremolinos",
       "h3_slug": "all-inclusive-i-torremolinos",
+      "parent_h2": "All inclusive i Málaga vs längs Costa del Sol",
+      "importance_score": 279,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "inclusive",
+        "torremolinos"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "3 träffar i H3-text +15",
+        "16 träffar i sidtext +32",
+        "affiliate/polish ×2 +12",
+        "sidposition 1/2 +25",
+        "satsade sökord (all inclusive, all-inclusive) +50"
+      ],
+      "source_excerpt": "Torremolinos är Costa del Sols all-inclusive-kapital. Här finns ett brett urval av hotell med allt ingående – frukost, lunch, middag, dryck och underhållning. Perfekt om du vill ha trygghet, budget-kontroll och semesterkomfort. Pris: 700–1 400 €/person/vecka all inclusive, dubbelKväll i Málaga stad: 20 min med tåg, enkelbiljett under 2 €Perfekt för: familjer, de som vill ha enkel budget, nybörjare på Spanien",
+      "source_body_char_count": 411,
       "place": "All inclusive i Torremolinos i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during a busy warm-season evening",
+      "light_context": "Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting",
       "prompt": "A realistic editorial travel photograph at All inclusive i Torremolinos i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents all inclusive i torremolinos with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: all-inclusive-i-torremolinos-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at All inclusive i Torremolinos i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents all inclusive i torremolinos with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "All inclusive i Torremolinos i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "All inclusive i Torremolinos i Málaga",
       "caption": "All inclusive i Torremolinos i Málaga",
-      "seo": "All inclusive i Torremolinos i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "all-inclusive-i-torremolinos-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -81,7 +185,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/all-inclusive-i-torremolinos-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/all-inclusive-i-torremolinos-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\all-inclusive-i-torremolinos-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-all-inclusive/",
           "page_slug": "malaga-all-inclusive",
@@ -94,32 +198,61 @@
           "caption": "All inclusive i Torremolinos i Málaga",
           "description": "All inclusive i Torremolinos i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/all-inclusive-i-torremolinos-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\all-inclusive-i-torremolinos-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
-      "filename": "digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:the-living-room-coworking",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/digital-nomad-guide-malaga/",
       "page_id": 294,
       "page_title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "page_slug": "digital-nomad-guide-malaga",
+      "page_modified": "2026-06-05T11:58:33",
+      "page_priority": 999,
+      "page_h1": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "h3": "2. The Living Room Coworking",
       "h3_slug": "the-living-room-coworking",
+      "parent_h2": "💻 Bästa coworking spaces i Málaga",
+      "importance_score": 284,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "coworking",
+        "living",
+        "room"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "48 träffar i sidtext +35",
+        "affiliate/polish ×36 +60",
+        "sidposition 6/28 +19",
+        "satsade sökord (spa) +25"
+      ],
+      "source_excerpt": "Lite mer avslappnat, populärt bland startups och frilansare. Gemenskap-events på kvällarna, rooftop-terass, bra fiber. Soho-kvarteret. Pris: 15 €/dag, 150–250 €/månad.",
+      "source_body_char_count": 167,
       "place": "The Living Room Coworking i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the spring travel season",
+      "light_context": "Fresh spring Mediterranean daylight, natural shadows, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at The Living Room Coworking i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents the living room coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at The Living Room Coworking i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents the living room coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "The Living Room Coworking i Málaga",
       "caption": "The Living Room Coworking i Málaga",
-      "seo": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -128,7 +261,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -141,32 +274,61 @@
           "caption": "The Living Room Coworking i Málaga",
           "description": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-the-living-room-coworking-malaga-2.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/digital-nomad-guide-malaga-the-living-room-coworking-malaga.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
-      "filename": "digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:the-living-room-coworking",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/digital-nomad-guide-malaga/",
       "page_id": 294,
       "page_title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "page_slug": "digital-nomad-guide-malaga",
+      "page_modified": "2026-06-05T11:58:33",
+      "page_priority": 999,
+      "page_h1": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "h3": "2. The Living Room Coworking",
       "h3_slug": "the-living-room-coworking",
+      "parent_h2": "💻 Bästa coworking spaces i Málaga",
+      "importance_score": 289,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "coworking",
+        "living",
+        "room"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "48 träffar i sidtext +35",
+        "affiliate/polish ×36 +60",
+        "sidposition 2/28 +24",
+        "satsade sökord (spa) +25"
+      ],
+      "source_excerpt": "Lite mer avslappnat, populärt bland startups och frilansare. Gemenskap-events på kvällarna, rooftop-terass, bra fiber. Soho-kvarteret. Pris: 15 €/dag, 150–250 €/månad.",
+      "source_body_char_count": 167,
       "place": "The Living Room Coworking i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the spring travel season",
+      "light_context": "Fresh spring Mediterranean daylight, natural shadows, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at The Living Room Coworking i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents the living room coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: digital-nomad-guide-malaga-the-living-room-coworking-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at The Living Room Coworking i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents the living room coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "The Living Room Coworking i Málaga",
       "caption": "The Living Room Coworking i Málaga",
-      "seo": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -175,7 +337,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-the-living-room-coworking-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -188,32 +350,60 @@
           "caption": "The Living Room Coworking i Málaga",
           "description": "The Living Room Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-the-living-room-coworking-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/digital-nomad-guide-malaga-wayco-coworking-malaga.png",
-      "file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
-      "filename": "digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
       "brief_id": "malaga:digital-nomad-guide-malaga:wayco-coworking",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/digital-nomad-guide-malaga/",
       "page_id": 294,
       "page_title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "page_slug": "digital-nomad-guide-malaga",
+      "page_modified": "2026-06-05T11:58:33",
+      "page_priority": 999,
+      "page_h1": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
       "h3": "3. Wayco Coworking",
       "h3_slug": "wayco-coworking",
+      "parent_h2": "💻 Bästa coworking spaces i Málaga",
+      "importance_score": 288,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "coworking",
+        "wayco"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "41 träffar i sidtext +35",
+        "affiliate/polish ×36 +60",
+        "sidposition 3/28 +23",
+        "satsade sökord (spa) +25"
+      ],
+      "source_excerpt": "Designfokuserat space med hög standard på kontorsstolar och skärmar. Privata rum och öppna ytor. Populärt bland tech-professionella. Pris: 20 €/dag, 200–300 €/månad.",
+      "source_body_char_count": 165,
       "place": "Wayco Coworking i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the most relevant travel season for the scene",
+      "light_context": "Bright Mediterranean daylight, authentic architecture, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at Wayco Coworking i Málaga in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents wayco coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: digital-nomad-guide-malaga-wayco-coworking-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Wayco Coworking i Málaga in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents wayco coworking with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "Wayco Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "Wayco Coworking i Málaga",
       "caption": "Wayco Coworking i Málaga",
-      "seo": "Wayco Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -222,7 +412,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digital-nomad-guide-malaga-wayco-coworking-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/digital-nomad-guide-malaga/",
           "page_slug": "digital-nomad-guide-malaga",
@@ -235,32 +425,62 @@
           "caption": "Wayco Coworking i Málaga",
           "description": "Wayco Coworking i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/digital-nomad-guide-malaga-wayco-coworking-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\digital-nomad-guide-malaga-wayco-coworking-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/kelipe-centro-de-arte-flamenco-malaga.png",
-      "file": "bilder/web-ready/malaga/kelipe-centro-de-arte-flamenco-malaga.jpg",
-      "filename": "kelipe-centro-de-arte-flamenco-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:kelipe-centro-de-arte-flamenco",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
       "page_id": 210,
       "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
       "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "page_modified": "2026-06-05T11:58:21",
+      "page_priority": 5,
+      "page_h1": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
       "h3": "Kelipe Centro de Arte Flamenco",
       "h3_slug": "kelipe-centro-de-arte-flamenco",
+      "parent_h2": "🎸 Flamenco — Málagas själ",
+      "importance_score": 266,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "arte",
+        "centro",
+        "flamenco",
+        "kelipe"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "prioriterad sida +33",
+        "matchar sidtitel/H1 +80",
+        "matchar H2-sektion +55",
+        "12 träffar i sidtext +24",
+        "affiliate/polish ×13 +60",
+        "sidposition 8/11 +4"
+      ],
+      "source_excerpt": "Mer autentiskt och mindre turistiskt än Alegría. Liten lokal i Soho-kvarteren, max 40 pers. Föreställningen är rå och känslosam — här är det konsten, inte turismen, i centrum. 25–30 €. Laddar aktiviteter från GetYourGuide…",
+      "source_body_char_count": 222,
       "place": "Kelipe Centro de Arte Flamenco i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "street-level documentary evening photograph",
+      "season_context": "during the spring travel season",
+      "light_context": "Fresh spring Mediterranean daylight, natural shadows, true-to-life colors",
       "prompt": "A realistic street-level documentary travel photograph at Kelipe Centro de Arte Flamenco i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents kelipe centro de arte flamenco with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: kelipe-centro-de-arte-flamenco-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Kelipe Centro de Arte Flamenco i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents kelipe centro de arte flamenco with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "Kelipe Centro de Arte Flamenco i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "Kelipe Centro de Arte Flamenco i Málaga",
       "caption": "Kelipe Centro de Arte Flamenco i Málaga",
-      "seo": "Kelipe Centro de Arte Flamenco i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "kelipe-centro-de-arte-flamenco-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -269,7 +489,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/kelipe-centro-de-arte-flamenco-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/kelipe-centro-de-arte-flamenco-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\kelipe-centro-de-arte-flamenco-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -282,32 +502,60 @@
           "caption": "Kelipe Centro de Arte Flamenco i Málaga",
           "description": "Kelipe Centro de Arte Flamenco i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/kelipe-centro-de-arte-flamenco-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\kelipe-centro-de-arte-flamenco-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/mijas-golf-club-malaga.png",
-      "file": "bilder/web-ready/malaga/mijas-golf-club-malaga.jpg",
-      "filename": "mijas-golf-club-malaga.jpg",
       "brief_id": "malaga:golf-malaga:mijas-golf-club",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/golf-malaga/",
       "page_id": 313,
       "page_title": "Golf i Málaga – Costa del Sol, bästa banorna och tips",
       "page_slug": "golf-malaga",
+      "page_modified": "2026-06-05T11:59:15",
+      "page_priority": 999,
+      "page_h1": "Golf i Málaga – Costa del Sol, bästa banorna och tips",
       "h3": "Mijas Golf Club",
       "h3_slug": "mijas-golf-club",
+      "parent_h2": "Bästa golfbanorna i Málaga-provinsen",
+      "importance_score": 186,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "club",
+        "golf",
+        "mijas"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "20 träffar i sidtext +35",
+        "affiliate/polish ×4 +24",
+        "sidposition 4/8 +12",
+        "satsade sökord (golf) +25"
+      ],
+      "source_excerpt": "Två banor (Los Lagos, Los Olivos) med havsutsikt och bergsbakgrund. Välskött, rimliga priser och enkel access. Green fee: 50–90 €. Perfekt för dagsspel.",
+      "source_body_char_count": 152,
       "place": "Mijas Golf Club i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the most relevant travel season for the scene",
+      "light_context": "Bright Mediterranean daylight, authentic architecture, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at Mijas Golf Club i Málaga in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents mijas golf club with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: mijas-golf-club-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Mijas Golf Club i Málaga in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents mijas golf club with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "Mijas Golf Club i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "Mijas Golf Club i Málaga",
       "caption": "Mijas Golf Club i Málaga",
-      "seo": "Mijas Golf Club i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "mijas-golf-club-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -316,7 +564,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/mijas-golf-club-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/mijas-golf-club-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\mijas-golf-club-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/golf-malaga/",
           "page_slug": "golf-malaga",
@@ -329,32 +577,62 @@
           "caption": "Mijas Golf Club i Málaga",
           "description": "Mijas Golf Club i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/mijas-golf-club-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\mijas-golf-club-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/room-mate-larios-art-deco-tak-malaga.png",
-      "file": "bilder/web-ready/malaga/room-mate-larios-art-deco-tak-malaga.jpg",
-      "filename": "room-mate-larios-art-deco-tak-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:room-mate-larios-art-deco-tak",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
       "page_id": 210,
       "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
       "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "page_modified": "2026-06-05T11:58:21",
+      "page_priority": 5,
+      "page_h1": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
       "h3": "Room Mate Larios — art déco-tak",
       "h3_slug": "room-mate-larios-art-deco-tak",
+      "parent_h2": "🌅 Takbarer — börja kvällen med utsikt",
+      "importance_score": 165,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "deco",
+        "larios",
+        "mate",
+        "room"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "prioriterad sida +33",
+        "1 träffar i H3-text +5",
+        "5 träffar i sidtext +10",
+        "affiliate/polish ×13 +60",
+        "sidposition 2/11 +22",
+        "satsade sökord (bo) +25"
+      ],
+      "source_excerpt": "Direkt ovanför Calle Larios med utsikt rakt ner på Málagas paradgata. Mindre och mer intimt än AC Palacio. Perfekt för en före-middag-drink. Drinkar från 10 €.",
+      "source_body_char_count": 159,
       "place": "Room Mate Larios — art déco-tak i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "hotel exterior and rooftop travel photograph",
+      "season_context": "during a busy warm-season evening",
+      "light_context": "Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting",
       "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Room Mate Larios — art déco-tak i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents room mate larios — art déco-tak with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: room-mate-larios-art-deco-tak-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Room Mate Larios — art déco-tak i Málaga in Málaga, Spain, during a busy warm-season evening. The scene clearly represents room mate larios — art déco-tak with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "Room Mate Larios — art déco-tak i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "Room Mate Larios — art déco-tak i Málaga",
       "caption": "Room Mate Larios — art déco-tak i Málaga",
-      "seo": "Room Mate Larios — art déco-tak i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "room-mate-larios-art-deco-tak-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -363,7 +641,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/room-mate-larios-art-deco-tak-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/room-mate-larios-art-deco-tak-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\room-mate-larios-art-deco-tak-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -376,32 +654,63 @@
           "caption": "Room Mate Larios — art déco-tak i Málaga",
           "description": "Room Mate Larios — art déco-tak i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/room-mate-larios-art-deco-tak-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\room-mate-larios-art-deco-tak-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/semana-santa-paskveckan-april-varierar-per-ar-malaga.png",
-      "file": "bilder/web-ready/malaga/semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
-      "filename": "semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
       "brief_id": "malaga:malaga-i-april-och-maj:semana-santa-paskveckan-april-varierar-per-ar",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
+      "country": "Spain",
+      "language": "sv-SE",
       "page": "https://malaga.se/malaga-i-april-och-maj/",
       "page_id": 293,
       "page_title": "Málaga i april och maj 2026 — väder, festivaler och tips",
       "page_slug": "malaga-i-april-och-maj",
+      "page_modified": "2026-06-05T11:58:40",
+      "page_priority": 999,
+      "page_h1": "Málaga i april och maj 2026 — väder, festivaler och tips",
       "h3": "Semana Santa — Påskveckan (april, varierar per år)",
       "h3_slug": "semana-santa-paskveckan-april-varierar-per-ar",
+      "parent_h2": "🎭 Festivaler och evenemang april–maj",
+      "importance_score": 180,
+      "importance_level": "Hög",
+      "importance_terms": [
+        "april",
+        "paskveckan",
+        "santa",
+        "semana",
+        "varierar"
+      ],
+      "importance_reasons": [
+        "bas 10",
+        "matchar sidtitel/H1 +80",
+        "6 träffar i H3-text +30",
+        "220 träffar i sidtext +35",
+        "lång sektion +8",
+        "affiliate/polish ×2 +12",
+        "sidposition 5/7 +5"
+      ],
+      "source_excerpt": "Málagas Semana Santa är en av Spaniens mest imponerande — och i Málaga är den annorlunda än i Sevilla. Här bär costaleros de enorma processionsflottarna (pasos) på sina axlar — ibland 5 000 kg — genom trånga gränder i gamla stan, medan tiotusentals malaqueños och turister fylker gatorna. Processioner börjar sent (21–22 på kvällen) och pågår till gryning. Bästa utsiktsplatsen: Calle Larios och Plaza de la Constitución — stå längs sidorna, kom tidigt Tips: Boka hotell månader i förväg — Semana Santa är Málagas mest bokade vecka Gratis: Alla processioner är öppna och gratis att titta på Tribuna-platser: Det finns betalplatser på läktare längs Calle Larios (50–200 € för bästa platser) — boka via",
+      "source_body_char_count": 736,
       "place": "Semana Santa — Påskveckan (april, varierar per år) i Málaga",
       "gps": "36.7213, -4.4214",
       "shot_type": "editorial travel photograph",
+      "season_context": "during the spring travel season",
+      "light_context": "Fresh spring Mediterranean daylight, natural shadows, true-to-life colors",
       "prompt": "A realistic editorial travel photograph at Semana Santa — Påskveckan (april, varierar per år) i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents semana santa — påskveckan (april, varierar per år) with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
       "chatgpt_prompt": "Create one realistic travel image for a Swedish Málaga travel guide.\n\nTarget filename after download: semana-santa-paskveckan-april-varierar-per-ar-malaga.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Semana Santa — Påskveckan (april, varierar per år) i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents semana santa — påskveckan (april, varierar per år) with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
+      "seo": "Semana Santa — Påskveckan (april, varierar per år) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
       "alt": "Semana Santa — Påskveckan (april, varierar per år) i Málaga",
       "caption": "Semana Santa — Påskveckan (april, varierar per år) i Málaga",
-      "seo": "Semana Santa — Påskveckan (april, varierar per år) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer.",
+      "filename": "semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
+      "status": "ready_for_manual_or_api_image_generation",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -410,7 +719,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/semana-santa-paskveckan-april-varierar-per-ar-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-i-april-och-maj/",
           "page_slug": "malaga-i-april-och-maj",
@@ -423,9 +732,13 @@
           "caption": "Semana Santa — Påskveckan (april, varierar per år) i Málaga",
           "description": "Semana Santa — Påskveckan (april, varierar per år) i Málaga. En del av reseguiden om Málaga med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "file": "bilder\\web-ready\\malaga\\redo\\semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
