@@ -833,8 +833,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-31",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-fuerteventura",
+        "link": "https://fuerteventura.se/basta-stranderna-pa-fuerteventura/"
+      }
+    ]
   },
   {
     "domain": "fuerteventura",
@@ -1251,8 +1256,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fuerteventura-med-barn-familjeguide",
+        "link": "https://fuerteventura.se/fuerteventura-med-barn-familjeguide/"
+      }
+    ]
   },
   {
     "domain": "fuerteventura",
@@ -1608,8 +1618,13 @@
     "w": 1920,
     "h": 2560,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fuerteventura-seniorer-guide",
+        "link": "https://fuerteventura.se/fuerteventura-seniorer-guide/"
+      }
+    ]
   },
   {
     "domain": "fuerteventura",
@@ -1621,8 +1636,13 @@
     "w": 2560,
     "h": 1707,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fuerteventura-seniorer-guide",
+        "link": "https://fuerteventura.se/fuerteventura-seniorer-guide/"
+      }
+    ]
   },
   {
     "domain": "fuerteventura",
@@ -2264,8 +2284,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-31",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "norra-lanzarote-haria-arrieta-punta-mujeres-orzola",
+        "link": "https://lanzarote.se/norra-lanzarote-haria-arrieta-punta-mujeres-orzola/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2386,8 +2411,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-lanzarote",
+        "link": "https://lanzarote.se/hyrbil-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2490,8 +2520,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-lanzarote",
+        "link": "https://lanzarote.se/saker-att-gora-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2763,8 +2798,13 @@
     "w": 2560,
     "h": 1707,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-med-barn",
+        "link": "https://lanzarote.se/lanzarote-med-barn/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2794,8 +2834,13 @@
     "w": 1600,
     "h": 1065,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "papagayo-stranderna-lanzarote",
+        "link": "https://lanzarote.se/papagayo-stranderna-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2820,8 +2865,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-lanzarote",
+        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2833,8 +2883,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-for-forsta-gangen",
+        "link": "https://lanzarote.se/lanzarote-for-forsta-gangen/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2864,8 +2919,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-for-forsta-gangen",
+        "link": "https://lanzarote.se/lanzarote-for-forsta-gangen/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2890,8 +2950,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teguise-marknad-lanzarote-marknader",
+        "link": "https://lanzarote.se/teguise-marknad-lanzarote-marknader/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2903,8 +2968,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-for-par",
+        "link": "https://lanzarote.se/lanzarote-for-par/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -2916,8 +2986,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-lanzarote",
+        "link": "https://lanzarote.se/saker-att-gora-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3600,8 +3675,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-lanzarote",
+        "link": "https://lanzarote.se/hyrbil-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3613,8 +3693,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "papagayo-stranderna-lanzarote",
+        "link": "https://lanzarote.se/papagayo-stranderna-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3666,8 +3751,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-hotellen-pa-lanzarote",
+        "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3697,8 +3787,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-lanzarote",
+        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3710,8 +3805,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "norra-lanzarote-haria-arrieta-punta-mujeres-orzola",
+        "link": "https://lanzarote.se/norra-lanzarote-haria-arrieta-punta-mujeres-orzola/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -3754,8 +3854,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-lanzarote",
+        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -4323,8 +4428,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-for-forsta-gangen",
+        "link": "https://lanzarote.se/lanzarote-for-forsta-gangen/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -4416,8 +4526,13 @@
     "w": 1600,
     "h": 1065,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lanzarote-for-forsta-gangen",
+        "link": "https://lanzarote.se/lanzarote-for-forsta-gangen/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -4447,8 +4562,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-lanzarote",
+        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -4762,7 +4882,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -5245,8 +5365,13 @@
     "w": 1537,
     "h": 1023,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "grancanaria",
@@ -5620,8 +5745,13 @@
     "w": 1024,
     "h": 1024,
     "date": "2026-05-28",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "grancanaria",
@@ -5669,8 +5799,13 @@
     "w": 2560,
     "h": 1920,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-hotellen-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
+      }
+    ]
   },
   {
     "domain": "grancanaria",
@@ -6093,8 +6228,13 @@
     "w": 1200,
     "h": 800,
     "date": "2026-05-23",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
+        "link": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "grancanaria",
@@ -6250,8 +6390,13 @@
     "w": 1200,
     "h": 1800,
     "date": "2026-05-23",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+      }
+    ]
   },
   {
     "domain": "grancanaria",
@@ -6297,8 +6442,13 @@
     "w": 1200,
     "h": 1600,
     "date": "2026-05-23",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-par",
+        "link": "https://grancanaria.se/gran-canaria-for-par/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6341,8 +6491,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6354,8 +6509,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-digital-nomad-guide",
+        "link": "https://teneriffa.se/teneriffa-digital-nomad-guide/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6385,8 +6545,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6456,8 +6621,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6872,8 +7042,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "budget-vad-kostar-teneriffa",
+        "link": "https://teneriffa.se/budget-vad-kostar-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -6916,8 +7091,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -7115,8 +7295,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -7903,8 +8088,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "los-cristianos-teneriffa",
+        "link": "https://teneriffa.se/los-cristianos-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -7916,8 +8106,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-06-01",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -7942,7 +8137,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-vandring",
@@ -8026,8 +8221,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -8039,8 +8239,13 @@
     "w": 1600,
     "h": 1067,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -8163,8 +8368,13 @@
     "w": 2560,
     "h": 1611,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -8176,8 +8386,13 @@
     "w": 2560,
     "h": 1969,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -8273,8 +8488,229 @@
     "w": 2560,
     "h": 1106,
     "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 432,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/vandring-malaga-caminito-del-rey-caminito-del-valle-el-chorro-malaga.jpg",
+    "filename": "vandring-malaga-caminito-del-rey-caminito-del-valle-el-chorro-malaga.jpg",
+    "alt": "Resebild från Caminito del Valle, El Chorro på Málaga",
+    "caption": "Caminito del Valle, El Chorro (Málaga) – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-malaga-caminito-del-rey",
+        "link": "https://malaga.se/vandring-malaga-caminito-del-rey/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 430,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/teatinos-universitet-digitala-nomader-malaga.jpg",
+    "filename": "teatinos-universitet-digitala-nomader-malaga.jpg",
+    "alt": "Översiktsvy över Teatinos på Málaga",
+    "caption": "Teatinos, Málaga – nära stränder, butiker och restauranger.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-i-malaga",
+        "link": "https://malaga.se/var-ska-man-bo-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 428,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/real-club-de-golf-las-brisas-malaga.jpg",
+    "filename": "real-club-de-golf-las-brisas-malaga.jpg",
+    "alt": "Resebild från Real Club de Golf Las Brisas på Málaga",
+    "caption": "Real Club de Golf Las Brisas, Málaga – platsen sedd i sin verkliga miljö.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "golf-malaga",
+        "link": "https://malaga.se/golf-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 426,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/mijas-pueblo-och-mijas-costa-perfekt-mittlage-malaga.jpg",
+    "filename": "mijas-pueblo-och-mijas-costa-perfekt-mittlage-malaga.jpg",
+    "alt": "Resebild från Mijas Pueblo och Mijas Costa på Málaga",
+    "caption": "Mijas Pueblo och Mijas Costa, Málaga – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "semestervilla-malaga",
+        "link": "https://malaga.se/semestervilla-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 424,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/lagenhet-for-solo-malaga.jpg",
+    "filename": "lagenhet-for-solo-malaga.jpg",
+    "alt": "Resebild från Lägenhet för solo på Málaga",
+    "caption": "Lägenhet för solo, Málaga – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-solo",
+        "link": "https://malaga.se/malaga-solo/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 422,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/la-cala-golf-tre-banor-ett-resort-malaga.jpg",
+    "filename": "la-cala-golf-tre-banor-ett-resort-malaga.jpg",
+    "alt": "Resebild från La Cala Golf på Málaga",
+    "caption": "La Cala Golf, Málaga – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "golf-malaga",
+        "link": "https://malaga.se/golf-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 420,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/hyrbil-ronda-vita-byar-a397-malaga.jpg",
+    "filename": "hyrbil-ronda-vita-byar-a397-malaga.jpg",
+    "alt": "Resevy nära Rutt 2: Ronda & vita byar, A-397 på Málaga",
+    "caption": "Rutt 2: Ronda &#038; vita byar, A-397 (Málaga) – frihet att köra mellan kust och inland.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-i-malaga",
+        "link": "https://malaga.se/hyrbil-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 418,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg",
+    "filename": "hyrbil-malaga-granada-alhambra-dagstur-malaga.jpg",
+    "alt": "Resevy nära Rutt 1: Granada & Alhambra, en dagstur på Málaga",
+    "caption": "Rutt 1: Granada &#038; Alhambra, en dagstur (Málaga) – vägar genom landskap, byar och utsikter.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-i-malaga",
+        "link": "https://malaga.se/hyrbil-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 416,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg",
+    "filename": "hyrbil-costa-del-sol-nerja-marbella-a7-malaga.jpg",
+    "alt": "Resevy nära Rutt 3: Costa del Sol, A-7 på Málaga",
+    "caption": "Rutt 3: Costa del Sol, A-7 (Málaga) – utforska Málaga fritt med hyrbil.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-i-malaga",
+        "link": "https://malaga.se/hyrbil-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 414,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg",
+    "filename": "dag-2-konst-strand-pompidou-la-malagueta-malaga.jpg",
+    "alt": "Strandvy över Dag 2 på Málaga",
+    "caption": "Dag 2, Málaga – gyllene sand och turkost vatten.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-malaga-topp-10",
+        "link": "https://malaga.se/sevardheter-malaga-topp-10/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 412,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg",
+    "filename": "dag-1-historiska-malaga-alcazaba-katedral-malaga.jpg",
+    "alt": "Resebild från Dag 1 på Málaga",
+    "caption": "Dag 1, Málaga – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-malaga-topp-10",
+        "link": "https://malaga.se/sevardheter-malaga-topp-10/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 410,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/centro-historico-kultur-och-stadsliv-malaga.jpg",
+    "filename": "centro-historico-kultur-och-stadsliv-malaga.jpg",
+    "alt": "Resebild från Centro Histórico på Málaga",
+    "caption": "Centro Histórico, Málaga – ett sevärt stopp på din Málaga-resa.",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-for-seniorer",
+        "link": "https://malaga.se/malaga-for-seniorer/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -9190,8 +9626,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-uteliv-barer-klubbar-flamenco",
+        "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -9886,8 +10327,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -9899,8 +10345,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-utan-hyrbil",
+        "link": "https://rhodos.se/rhodos-utan-hyrbil/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -9912,8 +10363,13 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-rhodos",
+        "link": "https://rhodos.se/dagsutflykter-fran-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -9997,7 +10453,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-05-30",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -10427,8 +10883,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -10440,8 +10901,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -10466,8 +10932,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -10570,8 +11041,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -10614,8 +11090,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -11741,8 +12222,13 @@
     "w": 1672,
     "h": 941,
     "date": "2026-05-29",
-    "managed": false,
-    "used_on": []
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "omraden-torremolinos",
+        "link": "https://torremolinos.se/omraden-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
