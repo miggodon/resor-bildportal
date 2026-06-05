@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-04T08:04:00.969777+00:00",
+  "generated_at": "2026-06-05T21:57:10.643843+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/korfu",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-      "file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
-      "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
-      "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
+      "source": "bilder/inbox/basta-hotellen-pa-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
+      "filename": "basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:las-ocksa",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
@@ -16,43 +16,140 @@
       "page_id": 52,
       "page_title": "Bästa hotellen på Korfu",
       "page_slug": "basta-hotellen-pa-korfu",
-      "h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
-      "h3_slug": "arcadion-hotel-basta-lage-i-gamla-stan",
-      "place": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
       "gps": "39.6243, 19.9217",
       "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
-      "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-      "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: basta-hotellen-pa-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/basta-hotellen-pa-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
-          "section_h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
+          "section_h3": "Läs också",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-          "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
-          "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-          "description": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\korfu\\redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: arcadion-hotel-basta-lage-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Arcadion Hotel — Bästa läge i Gamla stan i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents arcadion hotel — bästa läge i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: arcadion-hotel-basta-lage-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Arcadion Hotel — Bästa läge i Gamla stan i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents arcadion hotel — bästa läge i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-      "file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
-      "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
-      "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
+      "source": "bilder/inbox/basta-stranderna-pa-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
+      "filename": "basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:basta-stranderna-pa-korfu:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-stranderna-pa-korfu/",
+      "page_id": 51,
+      "page_title": "Bästa stränderna på Korfu",
+      "page_slug": "basta-stranderna-pa-korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Läs också i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: basta-stranderna-pa-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Läs också i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/basta-stranderna-pa-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-stranderna-pa-korfu/",
+          "page_slug": "basta-stranderna-pa-korfu",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/buss-linje-15-billigast-korfu.png",
+      "file": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg",
+      "filename": "buss-linje-15-billigast-korfu.jpg",
+      "brief_id": "korfu:korfu-flygplats:buss-linje-15-billigast",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/korfu-flygplats/",
+      "page_id": 55,
+      "page_title": "Korfu flygplats, transfer och så tar du dig runt",
+      "page_slug": "korfu-flygplats",
+      "h3": "🚌 Buss linje 15 — billigast",
+      "h3_slug": "buss-linje-15-billigast",
+      "place": "Buss linje 15 — billigast i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Buss linje 15 — billigast i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents buss linje 15 — billigast with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: buss-linje-15-billigast-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Buss linje 15 — billigast i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents buss linje 15 — billigast with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Buss linje 15 — billigast i Korfu",
+      "caption": "Buss linje 15 — billigast i Korfu",
+      "seo": "Buss linje 15 — billigast i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/buss-linje-15-billigast-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/korfu-flygplats/",
+          "page_slug": "korfu-flygplats",
+          "section_h3": "🚌 Buss linje 15 — billigast",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Buss linje 15 — billigast i Korfu",
+          "alt": "Buss linje 15 — billigast i Korfu",
+          "caption": "Buss linje 15 — billigast i Korfu",
+          "description": "Buss linje 15 — billigast i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/domes-miramare-design-vid-stranden-korfu.png",
+      "file": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg",
+      "filename": "domes-miramare-design-vid-stranden-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:domes-miramare-design-vid-stranden",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
@@ -60,37 +157,698 @@
       "page_id": 52,
       "page_title": "Bästa hotellen på Korfu",
       "page_slug": "basta-hotellen-pa-korfu",
-      "h3": "5. Bella Venezia — Charm i Gamla stan",
-      "h3_slug": "bella-venezia-charm-i-gamla-stan",
-      "place": "Bella Venezia — Charm i Gamla stan i Korfu",
+      "h3": "3. Domes Miramare — Design vid stranden",
+      "h3_slug": "domes-miramare-design-vid-stranden",
+      "place": "Domes Miramare — Design vid stranden i Korfu",
       "gps": "39.6243, 19.9217",
       "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
-      "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
-      "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Domes Miramare — Design vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents domes miramare — design vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: domes-miramare-design-vid-stranden-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Domes Miramare — Design vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents domes miramare — design vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Domes Miramare — Design vid stranden i Korfu",
+      "caption": "Domes Miramare — Design vid stranden i Korfu",
+      "seo": "Domes Miramare — Design vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/domes-miramare-design-vid-stranden-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
-          "section_h3": "5. Bella Venezia — Charm i Gamla stan",
+          "section_h3": "3. Domes Miramare — Design vid stranden",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Bella Venezia — Charm i Gamla stan i Korfu",
-          "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
-          "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
-          "description": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Domes Miramare — Design vid stranden i Korfu",
+          "alt": "Domes Miramare — Design vid stranden i Korfu",
+          "caption": "Domes Miramare — Design vid stranden i Korfu",
+          "description": "Domes Miramare — Design vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\korfu\\redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: bella-venezia-charm-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bella Venezia — Charm i Gamla stan i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents bella venezia — charm i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide. Target filename after download: bella-venezia-charm-i-gamla-stan-korfu.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bella Venezia — Charm i Gamla stan i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents bella venezia — charm i gamla stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Korfu. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hotel-atlantis-budget-vid-stranden-korfu.png",
+      "file": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg",
+      "filename": "hotel-atlantis-budget-vid-stranden-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:hotel-atlantis-budget-vid-stranden",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "8. Hotel Atlantis — Budget vid stranden",
+      "h3_slug": "hotel-atlantis-budget-vid-stranden",
+      "place": "Hotel Atlantis — Budget vid stranden i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Atlantis — Budget vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hotel atlantis — budget vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: hotel-atlantis-budget-vid-stranden-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotel Atlantis — Budget vid stranden i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hotel atlantis — budget vid stranden with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Hotel Atlantis — Budget vid stranden i Korfu",
+      "caption": "Hotel Atlantis — Budget vid stranden i Korfu",
+      "seo": "Hotel Atlantis — Budget vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hotel-atlantis-budget-vid-stranden-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "8. Hotel Atlantis — Budget vid stranden",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Hotel Atlantis — Budget vid stranden i Korfu",
+          "alt": "Hotel Atlantis — Budget vid stranden i Korfu",
+          "caption": "Hotel Atlantis — Budget vid stranden i Korfu",
+          "description": "Hotel Atlantis — Budget vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hyrbil-det-smartaste-valet-korfu.png",
+      "file": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg",
+      "filename": "hyrbil-det-smartaste-valet-korfu.jpg",
+      "brief_id": "korfu:korfu-flygplats:hyrbil-det-smartaste-valet",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/korfu-flygplats/",
+      "page_id": 55,
+      "page_title": "Korfu flygplats, transfer och så tar du dig runt",
+      "page_slug": "korfu-flygplats",
+      "h3": "🚗 Hyrbil — det smartaste valet",
+      "h3_slug": "hyrbil-det-smartaste-valet",
+      "place": "Hyrbil — det smartaste valet i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil — det smartaste valet i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hyrbil — det smartaste valet with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: hyrbil-det-smartaste-valet-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil — det smartaste valet i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents hyrbil — det smartaste valet with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Hyrbil — det smartaste valet i Korfu",
+      "caption": "Hyrbil — det smartaste valet i Korfu",
+      "seo": "Hyrbil — det smartaste valet i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hyrbil-det-smartaste-valet-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/korfu-flygplats/",
+          "page_slug": "korfu-flygplats",
+          "section_h3": "🚗 Hyrbil — det smartaste valet",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Hyrbil — det smartaste valet i Korfu",
+          "alt": "Hyrbil — det smartaste valet i Korfu",
+          "caption": "Hyrbil — det smartaste valet i Korfu",
+          "description": "Hyrbil — det smartaste valet i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/hyrbil-pa-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg",
+      "filename": "hyrbil-pa-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:hyrbil-pa-korfu:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/hyrbil-pa-korfu/",
+      "page_id": 54,
+      "page_title": "Hyrbil på Korfu",
+      "page_slug": "hyrbil-pa-korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: hyrbil-pa-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/hyrbil-pa-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/hyrbil-pa-korfu/",
+          "page_slug": "hyrbil-pa-korfu",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/ikos-dassia-all-inclusive-i-varldsklass-korfu.png",
+      "file": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
+      "filename": "ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:ikos-dassia-all-inclusive-i-varldsklass",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "1. Ikos Dassia — All-inclusive i världsklass",
+      "h3_slug": "ikos-dassia-all-inclusive-i-varldsklass",
+      "place": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Ikos Dassia — All-inclusive i världsklass i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents ikos dassia — all-inclusive i världsklass with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: ikos-dassia-all-inclusive-i-varldsklass-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Ikos Dassia — All-inclusive i världsklass i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents ikos dassia — all-inclusive i världsklass with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+      "caption": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+      "seo": "Ikos Dassia — All-inclusive i världsklass i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/ikos-dassia-all-inclusive-i-varldsklass-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "1. Ikos Dassia — All-inclusive i världsklass",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+          "alt": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+          "caption": "Ikos Dassia — All-inclusive i världsklass i Korfu",
+          "description": "Ikos Dassia — All-inclusive i världsklass i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/korfu-flygplats-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg",
+      "filename": "korfu-flygplats-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:korfu-flygplats:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/korfu-flygplats/",
+      "page_id": 55,
+      "page_title": "Korfu flygplats, transfer och så tar du dig runt",
+      "page_slug": "korfu-flygplats",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: korfu-flygplats-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/korfu-flygplats-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/korfu-flygplats/",
+          "page_slug": "korfu-flygplats",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/marbella-nido-lyxigt-boutiquehotell-korfu.png",
+      "file": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
+      "filename": "marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:marbella-nido-lyxigt-boutiquehotell",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "2. MarBella Nido — Lyxigt boutiquehotell",
+      "h3_slug": "marbella-nido-lyxigt-boutiquehotell",
+      "place": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at MarBella Nido — Lyxigt boutiquehotell i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents marbella nido — lyxigt boutiquehotell with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: marbella-nido-lyxigt-boutiquehotell-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at MarBella Nido — Lyxigt boutiquehotell i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents marbella nido — lyxigt boutiquehotell with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+      "caption": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+      "seo": "MarBella Nido — Lyxigt boutiquehotell i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/marbella-nido-lyxigt-boutiquehotell-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "2. MarBella Nido — Lyxigt boutiquehotell",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+          "alt": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+          "caption": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
+          "description": "MarBella Nido — Lyxigt boutiquehotell i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/mayor-mon-repos-palace-korfu.png",
+      "file": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg",
+      "filename": "mayor-mon-repos-palace-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:mayor-mon-repos-palace",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "6. Mayor Mon Repos Palace",
+      "h3_slug": "mayor-mon-repos-palace",
+      "place": "Mayor Mon Repos Palace i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Mayor Mon Repos Palace i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents mayor mon repos palace with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: mayor-mon-repos-palace-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Mayor Mon Repos Palace i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents mayor mon repos palace with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Mayor Mon Repos Palace i Korfu",
+      "caption": "Mayor Mon Repos Palace i Korfu",
+      "seo": "Mayor Mon Repos Palace i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/mayor-mon-repos-palace-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "6. Mayor Mon Repos Palace",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Mayor Mon Repos Palace i Korfu",
+          "alt": "Mayor Mon Repos Palace i Korfu",
+          "caption": "Mayor Mon Repos Palace i Korfu",
+          "description": "Mayor Mon Repos Palace i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/packlista-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg",
+      "filename": "packlista-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:packlista-korfu:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/packlista-korfu/",
+      "page_id": 57,
+      "page_title": "Test title 57",
+      "page_slug": "packlista-korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: packlista-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/packlista-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/packlista-korfu/",
+          "page_slug": "packlista-korfu",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/privat-transfer-bast-for-grupper-korfu.png",
+      "file": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg",
+      "filename": "privat-transfer-bast-for-grupper-korfu.jpg",
+      "brief_id": "korfu:korfu-flygplats:privat-transfer-bast-for-grupper",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/korfu-flygplats/",
+      "page_id": 55,
+      "page_title": "Korfu flygplats, transfer och så tar du dig runt",
+      "page_slug": "korfu-flygplats",
+      "h3": "🚐 Privat transfer — bäst för grupper",
+      "h3_slug": "privat-transfer-bast-for-grupper",
+      "place": "Privat transfer — bäst för grupper i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "road trip travel photograph",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Privat transfer — bäst för grupper i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents privat transfer — bäst för grupper with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: privat-transfer-bast-for-grupper-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Privat transfer — bäst för grupper i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents privat transfer — bäst för grupper with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Privat transfer — bäst för grupper i Korfu",
+      "caption": "Privat transfer — bäst för grupper i Korfu",
+      "seo": "Privat transfer — bäst för grupper i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/privat-transfer-bast-for-grupper-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/korfu-flygplats/",
+          "page_slug": "korfu-flygplats",
+          "section_h3": "🚐 Privat transfer — bäst för grupper",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Privat transfer — bäst för grupper i Korfu",
+          "alt": "Privat transfer — bäst för grupper i Korfu",
+          "caption": "Privat transfer — bäst för grupper i Korfu",
+          "description": "Privat transfer — bäst för grupper i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/rodostamo-hotel-spa-korfu.png",
+      "file": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg",
+      "filename": "rodostamo-hotel-spa-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:rodostamo-hotel-spa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "4. Rodostamo Hotel & Spa",
+      "h3_slug": "rodostamo-hotel-spa",
+      "place": "Rodostamo Hotel & Spa i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Rodostamo Hotel & Spa i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents rodostamo hotel & spa with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: rodostamo-hotel-spa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Rodostamo Hotel & Spa i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents rodostamo hotel & spa with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Rodostamo Hotel & Spa i Korfu",
+      "caption": "Rodostamo Hotel & Spa i Korfu",
+      "seo": "Rodostamo Hotel & Spa i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/rodostamo-hotel-spa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "4. Rodostamo Hotel & Spa",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Rodostamo Hotel & Spa i Korfu",
+          "alt": "Rodostamo Hotel & Spa i Korfu",
+          "caption": "Rodostamo Hotel & Spa i Korfu",
+          "description": "Rodostamo Hotel & Spa i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/saker-att-gora-pa-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
+      "filename": "saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:saker-att-gora-pa-korfu:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/saker-att-gora-pa-korfu/",
+      "page_id": 50,
+      "page_title": "Saker att göra på Korfu",
+      "page_slug": "saker-att-gora-pa-korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: saker-att-gora-pa-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/saker-att-gora-pa-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/saker-att-gora-pa-korfu/",
+          "page_slug": "saker-att-gora-pa-korfu",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/sunrock-hostel-bast-for-backpackers-korfu.png",
+      "file": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg",
+      "filename": "sunrock-hostel-bast-for-backpackers-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:sunrock-hostel-bast-for-backpackers",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "9. Sunrock Hostel — Bäst för backpackers",
+      "h3_slug": "sunrock-hostel-bast-for-backpackers",
+      "place": "Sunrock Hostel — Bäst för backpackers i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sunrock Hostel — Bäst för backpackers i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents sunrock hostel — bäst för backpackers with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: sunrock-hostel-bast-for-backpackers-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Sunrock Hostel — Bäst för backpackers i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents sunrock hostel — bäst för backpackers with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Sunrock Hostel — Bäst för backpackers i Korfu",
+      "caption": "Sunrock Hostel — Bäst för backpackers i Korfu",
+      "seo": "Sunrock Hostel — Bäst för backpackers i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/sunrock-hostel-bast-for-backpackers-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "9. Sunrock Hostel — Bäst för backpackers",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Sunrock Hostel — Bäst för backpackers i Korfu",
+          "alt": "Sunrock Hostel — Bäst för backpackers i Korfu",
+          "caption": "Sunrock Hostel — Bäst för backpackers i Korfu",
+          "description": "Sunrock Hostel — Bäst för backpackers i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/taxi-snabbast-till-stan-korfu.png",
+      "file": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg",
+      "filename": "taxi-snabbast-till-stan-korfu.jpg",
+      "brief_id": "korfu:korfu-flygplats:taxi-snabbast-till-stan",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/korfu-flygplats/",
+      "page_id": 55,
+      "page_title": "Korfu flygplats, transfer och så tar du dig runt",
+      "page_slug": "korfu-flygplats",
+      "h3": "🚕 Taxi — snabbast till stan",
+      "h3_slug": "taxi-snabbast-till-stan",
+      "place": "Taxi — snabbast till stan i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Taxi — snabbast till stan i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents taxi — snabbast till stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: taxi-snabbast-till-stan-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Taxi — snabbast till stan i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents taxi — snabbast till stan with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Taxi — snabbast till stan i Korfu",
+      "caption": "Taxi — snabbast till stan i Korfu",
+      "seo": "Taxi — snabbast till stan i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/taxi-snabbast-till-stan-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/korfu-flygplats/",
+          "page_slug": "korfu-flygplats",
+          "section_h3": "🚕 Taxi — snabbast till stan",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Taxi — snabbast till stan i Korfu",
+          "alt": "Taxi — snabbast till stan i Korfu",
+          "caption": "Taxi — snabbast till stan i Korfu",
+          "description": "Taxi — snabbast till stan i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/var-ska-man-bo-pa-korfu-las-ocksa-korfu.png",
+      "file": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
+      "filename": "var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
+      "brief_id": "korfu:var-ska-man-bo-pa-korfu:las-ocksa",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/var-ska-man-bo-pa-korfu/",
+      "page_id": 53,
+      "page_title": "Var ska man bo på Korfu",
+      "page_slug": "var-ska-man-bo-pa-korfu",
+      "h3": "Läs också",
+      "h3_slug": "las-ocksa",
+      "place": "Läs också i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: var-ska-man-bo-pa-korfu-las-ocksa-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Läs också i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents läs också with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
+      "alt": "Läs också i Korfu",
+      "caption": "Läs också i Korfu",
+      "seo": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/var-ska-man-bo-pa-korfu-las-ocksa-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/var-ska-man-bo-pa-korfu/",
+          "page_slug": "var-ska-man-bo-pa-korfu",
+          "section_h3": "Läs också",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Läs också i Korfu",
+          "alt": "Läs också i Korfu",
+          "caption": "Läs också i Korfu",
+          "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
