@@ -38,6 +38,8 @@
    <select id="fdom"><option value="">Alla domäner</option></select>
    <input id="q" placeholder="🔎 Sök: caption, plats, sida, filnamn, id…" style="min-width:260px" oninput="render()">
    <select id="frole"><option value="">Alla roller</option><option value="section">section</option><option value="generell">generell</option></select>
+   <select id="fq"><option value="">Alla kvaliteter</option><option value="bra">bra</option><option value="ok">ok</option><option value="byt">byt ut</option><option value="none">ej satt</option></select>
+   <select id="fplaced"><option value="">Placerade + ej</option><option value="0">Bara oplacerade</option><option value="1">Bara placerade</option></select>
    <span id="status"></span>
  </div>
  <p class="hint">Token sparas bara i din webbläsare (localStorage). Skapa en <b>fine-grained PAT</b> för repo <code>miggodon/resor</code> med behörighet <b>Contents: Read and write</b>. Funkar från vilken dator som helst.</p>
@@ -72,18 +74,19 @@ async function load(){
     render(); st(`Laddade ${DATA.images.length} bilder ✓`,"#16a34a");
   }catch(e){ st("Fel: "+e.message,"#dc2626"); }
 }
-$("fdom").addEventListener("change",render);
-$("frole").addEventListener("change",render);
+["fdom","frole","fq","fplaced"].forEach(id=>$(id).addEventListener("change",render));
 $("ovl").addEventListener("click",e=>{ if(e.target===$("ovl")) $("ovl").style.display="none"; });
 document.addEventListener("keydown",e=>{ if(e.key==="Escape") $("ovl").style.display="none"; });
 
 function render(){
   if(!DATA) return;
-  const d=$("fdom").value, role=$("frole").value, qq=($("q").value||"").toLowerCase().trim();
+  const d=$("fdom").value, role=$("frole").value, q=$("fq").value, pl=$("fplaced").value, qq=($("q").value||"").toLowerCase().trim();
   const words=qq?qq.split(/\s+/):[];
   const imgs=DATA.images.filter(i=>{
     if(d && i.destination!==d) return false;
     if(role && (i.metadata.image_role||"")!==role) return false;
+    if(q){ const iq=(i.metadata.quality||"").toLowerCase(); if(q==="none"? iq!=="" : iq!==q) return false; }
+    if(pl){ const isp=(i.placement&&i.placement.length)?"1":"0"; if(isp!==pl) return false; }
     if(!words.length) return true;
     const m=i.metadata, s=m.seo;
     const hay=[i.id,i.destination,s.caption,s.alt,s.keywords,(m.depicted_place&&m.depicted_place.value),s.filename,
