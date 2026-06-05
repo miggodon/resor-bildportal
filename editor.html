@@ -34,6 +34,8 @@
    <button class="sec" onclick="saveTok()">Spara token</button>
    <button id="load" onclick="load()">Ladda bilder</button>
    <select id="fdom"><option value="">Alla domäner</option></select>
+   <input id="q" placeholder="🔎 Sök: caption, plats, sida, filnamn, id…" style="min-width:260px" oninput="render()">
+   <select id="frole"><option value="">Alla roller</option><option value="section">section</option><option value="generell">generell</option></select>
    <span id="status"></span>
  </div>
  <p class="hint">Token sparas bara i din webbläsare (localStorage). Skapa en <b>fine-grained PAT</b> för repo <code>miggodon/resor</code> med behörighet <b>Contents: Read and write</b>. Funkar från vilken dator som helst.</p>
@@ -69,11 +71,22 @@ async function load(){
   }catch(e){ st("Fel: "+e.message,"#dc2626"); }
 }
 $("fdom").addEventListener("change",render);
+$("frole").addEventListener("change",render);
 
 function render(){
   if(!DATA) return;
-  const d=$("fdom").value;
-  const imgs=DATA.images.filter(i=>!d||i.destination===d);
+  const d=$("fdom").value, role=$("frole").value, qq=($("q").value||"").toLowerCase().trim();
+  const words=qq?qq.split(/\s+/):[];
+  const imgs=DATA.images.filter(i=>{
+    if(d && i.destination!==d) return false;
+    if(role && (i.metadata.image_role||"")!==role) return false;
+    if(!words.length) return true;
+    const m=i.metadata, s=m.seo;
+    const hay=[i.id,i.destination,s.caption,s.alt,s.keywords,(m.depicted_place&&m.depicted_place.value),s.filename,
+      ...(i.placement||[]).map(p=>(p.page_slug||"")+" "+(p.h3_section||""))].join(" ").toLowerCase();
+    return words.every(w=>hay.includes(w));
+  });
+  st(`Visar ${imgs.length} av ${DATA.images.length}`,"#6b7280");
   $("grid").innerHTML=imgs.map((i,idx)=>{
     const gi=DATA.images.indexOf(i);
     const m=i.metadata, url=(i.handoff?.wordpress_media?.url)||i.file?.published_url||"";
