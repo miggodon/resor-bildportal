@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="sv"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bild-editor — redigera photo_bank</title>
+<style>
+ *{box-sizing:border-box} body{font:14px Inter,system-ui,sans-serif;margin:0;background:#f6f7f9;color:#1f2937}
+ header{padding:14px 20px;background:#fff;border-bottom:1px solid #e5e7eb;position:sticky;top:0;z-index:5}
+ h1{font-size:18px;margin:0 0 8px} a{color:#0f766e;text-decoration:none}
+ .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+ input,select,textarea{border:1px solid #d1d5db;border-radius:6px;padding:7px 9px;font:13px Inter}
+ input.tok{min-width:280px} button{border:0;border-radius:7px;padding:8px 14px;font:600 13px Inter;cursor:pointer;background:#0f766e;color:#fff}
+ button.sec{background:#e5e7eb;color:#374151} button:disabled{opacity:.5;cursor:default}
+ #status{font-size:13px;margin-left:8px}
+ main{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;padding:16px 20px}
+ .card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;cursor:pointer}
+ .card img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block;background:#eef1f5}
+ .card .lbl{padding:6px 8px;font-size:11px}
+ .badge{display:inline-block;border-radius:4px;padding:1px 5px;font-size:10px;color:#fff;margin-right:3px}
+ .role-section{background:#2563eb}.role-generell{background:#7c3aed}
+ .q-bra{background:#16a34a}.q-ok{background:#ca8a04}.q-byt{background:#dc2626}
+ .overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;z-index:10;padding:14px}
+ .panel{background:#fff;border-radius:14px;max-width:680px;width:100%;max-height:92vh;overflow:auto;padding:20px}
+ .panel h2{font-size:16px;margin:0 0 4px} .panel .thumb img{width:100%;border-radius:8px;margin:8px 0}
+ label{display:block;font-size:12px;font-weight:600;color:#475569;margin:10px 0 3px}
+ .panel input,.panel textarea,.panel select{width:100%}
+ .placements{font-size:12px;background:#f8fafc;border:1px solid #e5e7eb;border-radius:8px;padding:8px;margin-top:8px}
+ .hint{font-size:12px;color:#6b7280;margin:4px 0}
+</style></head><body>
+<header>
+ <h1>📝 Bild-editor — redigera direkt i webbläsaren</h1>
+ <div class="row">
+   <a href="index.html">← Portal</a> · <a href="bildindex.html">Bildindex</a>
+   <input class="tok" id="tok" type="password" placeholder="GitHub fine-grained token (contents: read/write)">
+   <button class="sec" onclick="saveTok()">Spara token</button>
+   <button id="load" onclick="load()">Ladda bilder</button>
+   <select id="fdom"><option value="">Alla domäner</option></select>
+   <span id="status"></span>
+ </div>
+ <p class="hint">Token sparas bara i din webbläsare (localStorage). Skapa en <b>fine-grained PAT</b> för repo <code>miggodon/resor</code> med behörighet <b>Contents: Read and write</b>. Funkar från vilken dator som helst.</p>
+</header>
+<main id="grid"></main>
+
+<div class="overlay" id="ovl"><div class="panel" id="panel"></div></div>
+
+<script>
+const OWNER="miggodon", REPO="resor", PATH="bilder/photo_bank_v2.json", BRANCH="main";
+let DATA=null, SHA=null, CUR=null;
+const $=id=>document.getElementById(id);
+const st=(m,c)=>{$("status").textContent=m; $("status").style.color=c||"#6b7280";};
+
+function saveTok(){ localStorage.setItem("gh_tok", $("tok").value.trim()); st("Token sparad ✓","#16a34a"); }
+$("tok").value = localStorage.getItem("gh_tok")||"";
+
+function b64decode(b64){ return decodeURIComponent(escape(atob(b64.replace(/\n/g,"")))); }
+function b64encode(str){ return btoa(unescape(encodeURIComponent(str))); }
+function tok(){ const t=localStorage.getItem("gh_tok"); if(!t){st("Klistra in token + Spara först","#dc2626");} return t; }
+
+async function load(){
+  const t=tok(); if(!t) return;
+  st("Hämtar photo_bank…");
+  try{
+    const r=await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH}?ref=${BRANCH}`,
+      {headers:{Authorization:`Bearer ${t}`,Accept:"application/vnd.github+json"}});
+    if(!r.ok){ st("Fel "+r.status+" — kontrollera token/behörighet","#dc2626"); return; }
+    const j=await r.json(); SHA=j.sha; DATA=JSON.parse(b64decode(j.content));
+    const doms=[...new Set(DATA.images.map(i=>i.destination))].sort();
+    $("fdom").innerHTML='<option value="">Alla domäner</option>'+doms.map(d=>`<option>${d}</option>`).join("");
+    render(); st(`Laddade ${DATA.images.length} bilder ✓`,"#16a34a");
+  }catch(e){ st("Fel: "+e.message,"#dc2626"); }
+}
+$("fdom").addEventListener("change",render);
+
+function render(){
+  if(!DATA) return;
+  const d=$("fdom").value;
+  const imgs=DATA.images.filter(i=>!d||i.destination===d);
+  $("grid").innerHTML=imgs.map((i,idx)=>{
+    const gi=DATA.images.indexOf(i);
+    const m=i.metadata, url=(i.handoff?.wordpress_media?.url)||i.file?.published_url||"";
+    const role=m.image_role||"—", q=(m.quality||"").toLowerCase();
+    return `<div class="card" onclick="open_(${gi})">
+      <img loading="lazy" src="${url}" alt="">
+      <div class="lbl"><b>${i.id}</b><br>
+       <span class="badge role-${role}">${role}</span>
+       ${q?`<span class="badge q-${q}">${q}</span>`:""}</div></div>`;
+  }).join("")||"<p>Inga bilder.</p>";
+}
+
+function open_(gi){
+  CUR=gi; const i=DATA.images[gi], m=i.metadata, s=m.seo;
+  const url=(i.handoff?.wordpress_media?.url)||i.file?.published_url||"";
+  const pls=(i.placement||[]).map(p=>`${p.page_slug} ▸ ${p.h3_section}`).join("<br>")||"— ej placerad —";
+  $("panel").innerHTML=`
+    <h2>${i.id} <span style="font-weight:400;color:#6b7280">(${i.destination})</span></h2>
+    <div class="thumb"><img src="${url}"></div>
+    <label>Caption (syns under bilden)</label><textarea id="e-cap" rows="2">${esc(s.caption)}</textarea>
+    <label>Alt-text (SEO/skärmläsare)</label><textarea id="e-alt" rows="2">${esc(s.alt)}</textarea>
+    <label>Nyckelord / taggar (komma-separerat)</label><input id="e-kw" value="${esc(s.keywords)}">
+    <label>Plats (depicted_place)</label><input id="e-place" value="${esc((m.depicted_place&&m.depicted_place.value)||"")}">
+    <div class="row">
+      <div style="flex:1"><label>Roll</label><select id="e-role"><option ${m.image_role=="section"?"selected":""}>section</option><option ${m.image_role=="generell"?"selected":""}>generell</option></select></div>
+      <div style="flex:1"><label>Kvalitet</label><select id="e-q">
+        <option value="" ${!m.quality?"selected":""}>— ej satt</option>
+        <option ${m.quality=="bra"?"selected":""}>bra</option><option ${m.quality=="ok"?"selected":""}>ok</option><option ${m.quality=="byt"?"selected":""}>byt</option></select></div>
+    </div>
+    <div class="placements"><b>Används på:</b><br>${pls}</div>
+    <label>Önskad placering (valfritt) — sida-slug ▸ H3 (en agent/Action placerar den)</label>
+    <input id="e-pending" placeholder="t.ex. var-ska-man-bo-pa-lanzarote ▸ Costa Teguise" value="${esc((m.pending_placement&&(m.pending_placement.page_slug+' ▸ '+m.pending_placement.h3))||"")}">
+    <div class="row" style="margin-top:14px">
+      <button onclick="save()">💾 Spara &amp; committa</button>
+      <button class="sec" onclick="$('ovl').style.display='none'">Stäng</button>
+      <span id="pstatus" style="font-size:13px"></span>
+    </div>`;
+  $("ovl").style.display="flex";
+}
+function esc(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;"); }
+
+async function save(){
+  const t=tok(); if(!t) return;
+  const i=DATA.images[CUR], m=i.metadata, s=m.seo;
+  s.caption=$("e-cap").value; s.alt=$("e-alt").value; s.keywords=$("e-kw").value;
+  const pv=$("e-place").value.trim();
+  m.depicted_place={value:pv||null, source:(m.depicted_place&&m.depicted_place.source)||"manual"};
+  m.image_role=$("e-role").value; m.quality=$("e-q").value; m.city=pv||m.city;
+  const pend=$("e-pending").value.trim();
+  if(pend && pend.includes("▸")){ const[ps,h3]=pend.split("▸"); m.pending_placement={page_slug:ps.trim(),h3:h3.trim()}; }
+  else { delete m.pending_placement; }
+  $("pstatus").textContent="Sparar…"; $("pstatus").style.color="#6b7280";
+  try{
+    const body={message:`Editor: ${i.id} uppdaterad`,content:b64encode(JSON.stringify(DATA,null,2)+"\n"),sha:SHA,branch:BRANCH};
+    const r=await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH}`,
+      {method:"PUT",headers:{Authorization:`Bearer ${t}`,Accept:"application/vnd.github+json"},body:JSON.stringify(body)});
+    if(!r.ok){ const e=await r.json(); $("pstatus").textContent="Fel: "+(e.message||r.status)+(r.status==409?" (ladda om — någon ändrade samtidigt)":""); $("pstatus").style.color="#dc2626"; return; }
+    const j=await r.json(); SHA=j.content.sha;
+    $("pstatus").textContent="Sparat ✓ committat"; $("pstatus").style.color="#16a34a";
+    render();
+  }catch(e){ $("pstatus").textContent="Fel: "+e.message; $("pstatus").style.color="#dc2626"; }
+}
+// öppna direkt på en bild om ?img=ID
+const q=new URLSearchParams(location.search).get("img");
+if(localStorage.getItem("gh_tok")) load().then(()=>{ if(q&&DATA){ const gi=DATA.images.findIndex(i=>i.id===q); if(gi>=0) open_(gi);} });
+</script>
+</body></html>
