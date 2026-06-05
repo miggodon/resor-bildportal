@@ -13,8 +13,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 71,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -30,11 +40,20 @@
     "internal": 30,
     "external": 0,
     "affiliate": 0,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 45,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -50,10 +69,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Par",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -69,10 +97,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -88,10 +125,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -107,10 +153,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Målgruppsguide",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -126,10 +181,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Jämförelse",
+    "audience": "Par",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -145,10 +209,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -164,10 +237,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -183,10 +265,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 53,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -202,10 +293,19 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -221,10 +321,19 @@
     "internal": 5,
     "external": 0,
     "affiliate": 0,
+    "type": "Målgruppsguide",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -240,10 +349,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Målgruppsguide",
+    "audience": "Tonåringar",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -259,10 +377,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -278,8 +405,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 2,
+    "type": "Målgruppsguide",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -295,10 +431,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -314,10 +459,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 58,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -333,10 +487,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -352,8 +515,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -369,10 +542,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -388,10 +570,19 @@
     "internal": 5,
     "external": 0,
     "affiliate": 0,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -407,10 +598,19 @@
     "internal": 5,
     "external": 0,
     "affiliate": 0,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -426,11 +626,20 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 50,
     "flags": [
       "slutar abrupt",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -446,11 +655,20 @@
     "internal": 8,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 50,
     "flags": [
       "slutar abrupt",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -466,11 +684,20 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 50,
     "flags": [
       "slutar abrupt",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -486,8 +713,20 @@
     "internal": 9,
     "external": 0,
     "affiliate": 8,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -503,10 +742,19 @@
     "internal": 3,
     "external": 1,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 53,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -522,8 +770,20 @@
     "internal": 30,
     "external": 5,
     "affiliate": 34,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -539,8 +799,19 @@
     "internal": 15,
     "external": 26,
     "affiliate": 56,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -556,8 +827,18 @@
     "internal": 22,
     "external": 6,
     "affiliate": 27,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -573,8 +854,19 @@
     "internal": 41,
     "external": 2,
     "affiliate": 32,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -590,8 +882,19 @@
     "internal": 36,
     "external": 0,
     "affiliate": 25,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "fuerteventura",
@@ -607,8 +910,19 @@
     "internal": 14,
     "external": 3,
     "affiliate": 22,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -624,10 +938,19 @@
     "internal": 2,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 56,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -643,10 +966,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -662,8 +994,18 @@
     "internal": 11,
     "external": 2,
     "affiliate": 2,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -679,8 +1021,19 @@
     "internal": 32,
     "external": 0,
     "affiliate": 7,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 34,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -696,8 +1049,17 @@
     "internal": 9,
     "external": 0,
     "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -713,8 +1075,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -730,8 +1101,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -747,8 +1128,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -764,8 +1155,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -781,10 +1181,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -800,10 +1209,20 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -819,8 +1238,17 @@
     "internal": 2,
     "external": 0,
     "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 71,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -836,8 +1264,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -853,10 +1290,20 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -872,8 +1319,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -889,10 +1345,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -908,10 +1373,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -927,8 +1401,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -944,10 +1428,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -963,8 +1456,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -980,8 +1482,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -997,10 +1508,19 @@
     "internal": 10,
     "external": 0,
     "affiliate": 0,
+    "type": "Hotell",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1016,8 +1536,18 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1033,10 +1563,19 @@
     "internal": 9,
     "external": 0,
     "affiliate": 0,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1052,10 +1591,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1071,10 +1619,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 2,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 65,
     "flags": [
       "tunt content"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1083,15 +1640,26 @@
     "title": "Hyrbil på Lanzarote",
     "link": "https://lanzarote.se/hyrbil-pa-lanzarote/",
     "modified": "2026-06-05",
-    "words": 4298,
+    "words": 4280,
     "h2": 16,
-    "h3": 26,
+    "h3": 25,
     "images": 7,
-    "internal": 13,
+    "internal": 15,
     "external": 0,
-    "affiliate": 7,
+    "affiliate": 8,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 1,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1107,8 +1675,19 @@
     "internal": 8,
     "external": 21,
     "affiliate": 47,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1117,17 +1696,25 @@
     "title": "Bästa stränderna på Lanzarote",
     "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
     "modified": "2026-06-05",
-    "words": 3019,
+    "words": 3059,
     "h2": 10,
     "h3": 18,
     "images": 16,
-    "internal": 15,
+    "internal": 17,
     "external": 2,
-    "affiliate": 3,
-    "score": 80,
-    "flags": [
-      "slutar abrupt"
-    ]
+    "affiliate": 4,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 2,
+    "score": 100,
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1143,8 +1730,18 @@
     "internal": 43,
     "external": 0,
     "affiliate": 38,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 12,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1160,8 +1757,19 @@
     "internal": 30,
     "external": 0,
     "affiliate": 18,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 9,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "lanzarote",
@@ -1177,8 +1785,19 @@
     "internal": 46,
     "external": 0,
     "affiliate": 6,
+    "type": "Startsida",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 44,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1194,8 +1813,18 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1211,8 +1840,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1228,8 +1866,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1245,8 +1892,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1262,8 +1918,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1271,7 +1936,7 @@
     "slug": "gran-canaria-med-vanner",
     "title": "Gran Canaria med vänner – guide till den perfekta sällskapsresan",
     "link": "https://grancanaria.se/gran-canaria-med-vanner/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-05",
     "words": 771,
     "h2": 8,
     "h3": 10,
@@ -1279,8 +1944,18 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Målgruppsguide",
+    "audience": "Vänner/grupp",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1296,8 +1971,18 @@
     "internal": 9,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1313,8 +1998,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1330,8 +2024,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1347,8 +2050,17 @@
     "internal": 9,
     "external": 0,
     "affiliate": 4,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1364,10 +2076,20 @@
     "internal": 0,
     "external": 0,
     "affiliate": 7,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1383,8 +2105,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1400,8 +2132,19 @@
     "internal": 49,
     "external": 1,
     "affiliate": 5,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1417,8 +2160,18 @@
     "internal": 10,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1434,8 +2187,17 @@
     "internal": 12,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1451,8 +2213,18 @@
     "internal": 12,
     "external": 0,
     "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1468,8 +2240,17 @@
     "internal": 7,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1485,8 +2266,17 @@
     "internal": 11,
     "external": 0,
     "affiliate": 2,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1502,10 +2292,19 @@
     "internal": 9,
     "external": 0,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1521,10 +2320,19 @@
     "internal": 9,
     "external": 0,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1540,8 +2348,17 @@
     "internal": 9,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1557,8 +2374,17 @@
     "internal": 11,
     "external": 0,
     "affiliate": 1,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1574,8 +2400,17 @@
     "internal": 12,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1591,8 +2426,17 @@
     "internal": 10,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1608,8 +2452,17 @@
     "internal": 12,
     "external": 0,
     "affiliate": 2,
+    "type": "Områden",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1625,8 +2478,17 @@
     "internal": 10,
     "external": 0,
     "affiliate": 2,
+    "type": "Hotell",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1642,8 +2504,17 @@
     "internal": 11,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1659,8 +2530,18 @@
     "internal": 9,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1676,8 +2557,17 @@
     "internal": 9,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1693,8 +2583,17 @@
     "internal": 7,
     "external": 0,
     "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1710,8 +2609,18 @@
     "internal": 11,
     "external": 0,
     "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1727,8 +2636,17 @@
     "internal": 11,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1744,8 +2662,17 @@
     "internal": 12,
     "external": 0,
     "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1761,8 +2688,19 @@
     "internal": 14,
     "external": 29,
     "affiliate": 57,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1778,10 +2716,19 @@
     "internal": 4,
     "external": 1,
     "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "slutar abrupt"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1797,8 +2744,17 @@
     "internal": 4,
     "external": 1,
     "affiliate": 1,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 83,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1814,8 +2770,17 @@
     "internal": 4,
     "external": 1,
     "affiliate": 1,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1831,8 +2796,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1848,8 +2822,18 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1865,8 +2849,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1882,8 +2875,18 @@
     "internal": 8,
     "external": 0,
     "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1899,8 +2902,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1916,8 +2928,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1933,8 +2954,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1950,8 +2980,20 @@
     "internal": 16,
     "external": 0,
     "affiliate": 9,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1967,8 +3009,19 @@
     "internal": 32,
     "external": 5,
     "affiliate": 9,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -1984,8 +3037,20 @@
     "internal": 20,
     "external": 3,
     "affiliate": 12,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -2001,8 +3066,18 @@
     "internal": 8,
     "external": 4,
     "affiliate": 14,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -2018,8 +3093,19 @@
     "internal": 61,
     "external": 2,
     "affiliate": 55,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "grancanaria",
@@ -2035,8 +3121,19 @@
     "internal": 53,
     "external": 4,
     "affiliate": 42,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2052,11 +3149,21 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 48,
     "flags": [
       "tunt content",
       "få internlänkar"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2072,11 +3179,20 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 50,
     "flags": [
       "slutar abrupt",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2092,8 +3208,19 @@
     "internal": 34,
     "external": 0,
     "affiliate": 5,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 58,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2109,8 +3236,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2126,8 +3262,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2136,15 +3281,25 @@
     "title": "Teneriffa utan hyrbil – så tar du dig runt med buss och till fots",
     "link": "https://teneriffa.se/teneriffa-utan-hyrbil/",
     "modified": "2026-06-05",
-    "words": 1262,
+    "words": 1260,
     "h2": 8,
     "h3": 11,
     "images": 2,
     "internal": 3,
     "external": 2,
     "affiliate": 6,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2160,8 +3315,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2177,8 +3342,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Områden",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2194,8 +3369,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2211,8 +3395,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2228,8 +3421,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2245,8 +3448,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 4,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2262,8 +3475,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2279,8 +3502,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Aktiviteter",
+    "audience": "Tonåringar",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2296,8 +3528,19 @@
     "internal": 12,
     "external": 6,
     "affiliate": 19,
+    "type": "Målgruppsguide",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2313,8 +3556,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2330,8 +3582,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 6,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2347,8 +3608,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2364,8 +3635,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2381,10 +3662,21 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "slutar abrupt"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2400,8 +3692,19 @@
     "internal": 15,
     "external": 15,
     "affiliate": 32,
+    "type": "Målgruppsguide",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2417,8 +3720,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Hotell",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2434,8 +3747,18 @@
     "internal": 4,
     "external": 2,
     "affiliate": 6,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2451,8 +3774,18 @@
     "internal": 3,
     "external": 2,
     "affiliate": 3,
+    "type": "Hotell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2468,10 +3801,19 @@
     "internal": 7,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 60,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2487,8 +3829,18 @@
     "internal": 12,
     "external": 2,
     "affiliate": 3,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2504,8 +3856,18 @@
     "internal": 4,
     "external": 2,
     "affiliate": 5,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2521,8 +3883,17 @@
     "internal": 3,
     "external": 2,
     "affiliate": 4,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2538,8 +3909,18 @@
     "internal": 33,
     "external": 9,
     "affiliate": 36,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2555,8 +3936,19 @@
     "internal": 43,
     "external": 11,
     "affiliate": 46,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2572,8 +3964,19 @@
     "internal": 18,
     "external": 2,
     "affiliate": 21,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2589,8 +3992,20 @@
     "internal": 13,
     "external": 0,
     "affiliate": 10,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2606,8 +4021,19 @@
     "internal": 36,
     "external": 10,
     "affiliate": 27,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2623,8 +4049,20 @@
     "internal": 10,
     "external": 6,
     "affiliate": 19,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "teneriffa",
@@ -2640,8 +4078,19 @@
     "internal": 11,
     "external": 42,
     "affiliate": 76,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2657,8 +4106,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2667,15 +4125,24 @@
     "title": "Golf i Málaga – Costa del Sol, bästa banorna och tips",
     "link": "https://malaga.se/golf-malaga/",
     "modified": "2026-06-05",
-    "words": 553,
+    "words": 564,
     "h2": 6,
     "h3": 8,
-    "images": 5,
+    "images": 6,
     "internal": 7,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2691,8 +4158,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2700,16 +4176,25 @@
     "slug": "malaga-all-inclusive",
     "title": "All inclusive Málaga – finns det och är det värt det?",
     "link": "https://malaga.se/malaga-all-inclusive/",
-    "modified": "2026-06-04",
-    "words": 490,
+    "modified": "2026-06-05",
+    "words": 514,
     "h2": 6,
     "h3": 2,
-    "images": 0,
+    "images": 2,
     "internal": 5,
     "external": 0,
     "affiliate": 3,
-    "score": 68,
-    "flags": []
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "score": 78,
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2725,8 +4210,17 @@
     "internal": 7,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2742,8 +4236,18 @@
     "internal": 7,
     "external": 0,
     "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2759,8 +4263,17 @@
     "internal": 5,
     "external": 0,
     "affiliate": 3,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2776,8 +4289,17 @@
     "internal": 7,
     "external": 0,
     "affiliate": 3,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2793,8 +4315,18 @@
     "internal": 7,
     "external": 0,
     "affiliate": 4,
+    "type": "Målgruppsguide",
+    "audience": "Vänner/grupp",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2810,8 +4342,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 5,
+    "type": "Målgruppsguide",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2827,8 +4368,17 @@
     "internal": 7,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2844,8 +4394,17 @@
     "internal": 8,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2861,8 +4420,18 @@
     "internal": 42,
     "external": 26,
     "affiliate": 90,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2878,8 +4447,18 @@
     "internal": 32,
     "external": 0,
     "affiliate": 32,
+    "type": "Hotell",
+    "audience": "Tonåringar",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2895,8 +4474,18 @@
     "internal": 78,
     "external": 46,
     "affiliate": 147,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2905,15 +4494,24 @@
     "title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
     "link": "https://malaga.se/digital-nomad-guide-malaga/",
     "modified": "2026-06-05",
-    "words": 7537,
+    "words": 7557,
     "h2": 83,
     "h3": 28,
-    "images": 4,
+    "images": 6,
     "internal": 36,
     "external": 0,
     "affiliate": 36,
+    "type": "Målgruppsguide",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2922,15 +4520,25 @@
     "title": "Málaga i april och maj 2026 — väder, festivaler och tips",
     "link": "https://malaga.se/malaga-i-april-och-maj/",
     "modified": "2026-06-05",
-    "words": 4885,
+    "words": 4899,
     "h2": 37,
     "h3": 7,
-    "images": 2,
+    "images": 3,
     "internal": 20,
     "external": 0,
     "affiliate": 2,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2946,8 +4554,18 @@
     "internal": 5,
     "external": 0,
     "affiliate": 8,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2963,8 +4581,19 @@
     "internal": 25,
     "external": 0,
     "affiliate": 3,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2980,8 +4609,19 @@
     "internal": 4,
     "external": 2,
     "affiliate": 7,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -2997,8 +4637,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Stränder",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3014,8 +4664,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3031,8 +4691,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3048,8 +4718,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Målgruppsguide",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3065,8 +4745,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3082,8 +4772,18 @@
     "internal": 4,
     "external": 2,
     "affiliate": 7,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3099,8 +4799,18 @@
     "internal": 5,
     "external": 2,
     "affiliate": 8,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3116,8 +4826,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 4,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3126,15 +4846,25 @@
     "title": "Málaga uteliv 2026 — barer, klubbar &#038; flamenco-shower",
     "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
     "modified": "2026-06-05",
-    "words": 914,
+    "words": 836,
     "h2": 8,
-    "h3": 11,
+    "h3": 9,
     "images": 6,
     "internal": 3,
     "external": 2,
     "affiliate": 7,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3150,8 +4880,18 @@
     "internal": 4,
     "external": 4,
     "affiliate": 10,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3167,8 +4907,18 @@
     "internal": 4,
     "external": 4,
     "affiliate": 10,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3184,8 +4934,19 @@
     "internal": 4,
     "external": 2,
     "affiliate": 7,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3201,11 +4962,20 @@
     "internal": 10,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 40,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3221,8 +4991,20 @@
     "internal": 11,
     "external": 0,
     "affiliate": 7,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3238,8 +5020,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 6,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3255,8 +5048,19 @@
     "internal": 5,
     "external": 0,
     "affiliate": 5,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3272,8 +5076,20 @@
     "internal": 5,
     "external": 0,
     "affiliate": 3,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3289,8 +5105,19 @@
     "internal": 12,
     "external": 4,
     "affiliate": 12,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3306,8 +5133,19 @@
     "internal": 31,
     "external": 1,
     "affiliate": 25,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3323,8 +5161,18 @@
     "internal": 7,
     "external": 2,
     "affiliate": 10,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3340,8 +5188,18 @@
     "internal": 5,
     "external": 11,
     "affiliate": 15,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "malaga",
@@ -3357,8 +5215,18 @@
     "internal": 14,
     "external": 1,
     "affiliate": 5,
+    "type": "Startsida",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3374,10 +5242,19 @@
     "internal": 27,
     "external": 0,
     "affiliate": 1,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 55,
     "flags": [
       "tunt content"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3393,8 +5270,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Hotell",
+    "audience": "Tonåringar",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3410,8 +5297,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3427,10 +5324,20 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 66,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3446,10 +5353,20 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3465,8 +5382,17 @@
     "internal": 2,
     "external": 0,
     "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Seniorer",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3482,10 +5408,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 66,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3501,10 +5436,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3520,8 +5464,18 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Generell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 71,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3537,10 +5491,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Digitala nomader",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3556,10 +5519,20 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 66,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3575,8 +5548,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 2,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3592,8 +5575,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3609,10 +5602,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3628,11 +5630,20 @@
     "internal": 0,
     "external": 0,
     "affiliate": 0,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 38,
     "flags": [
       "omonetiserad",
       "få internlänkar"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3648,10 +5659,20 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 61,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3667,8 +5688,17 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3684,8 +5714,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Målgruppsguide",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3701,8 +5741,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Hotell",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3718,8 +5768,17 @@
     "internal": 2,
     "external": 0,
     "affiliate": 2,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 66,
-    "flags": []
+    "flags": [],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3735,10 +5794,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 68,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3754,8 +5822,18 @@
     "internal": 3,
     "external": 0,
     "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 75,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3771,10 +5849,19 @@
     "internal": 1,
     "external": 0,
     "affiliate": 1,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 73,
     "flags": [
       "få internlänkar"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3790,11 +5877,20 @@
     "internal": 8,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 45,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3810,11 +5906,20 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 45,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3830,10 +5935,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3849,10 +5963,19 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3868,8 +5991,19 @@
     "internal": 8,
     "external": 0,
     "affiliate": 2,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3885,8 +6019,17 @@
     "internal": 6,
     "external": 11,
     "affiliate": 12,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3902,10 +6045,20 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 70,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3921,8 +6074,17 @@
     "internal": 15,
     "external": 0,
     "affiliate": 17,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 95,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3938,10 +6100,20 @@
     "internal": 6,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "rhodos",
@@ -3957,8 +6129,18 @@
     "internal": 13,
     "external": 0,
     "affiliate": 2,
+    "type": "Startsida",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -3974,10 +6156,19 @@
     "internal": 19,
     "external": 0,
     "affiliate": 1,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 55,
     "flags": [
       "tunt content"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -3993,8 +6184,19 @@
     "internal": 5,
     "external": 2,
     "affiliate": 7,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 80,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4010,8 +6212,19 @@
     "internal": 4,
     "external": 3,
     "affiliate": 7,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 83,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4027,8 +6240,19 @@
     "internal": 5,
     "external": 3,
     "affiliate": 8,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4044,8 +6268,19 @@
     "internal": 3,
     "external": 3,
     "affiliate": 6,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 83,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4061,8 +6296,19 @@
     "internal": 3,
     "external": 3,
     "affiliate": 6,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4078,8 +6324,18 @@
     "internal": 6,
     "external": 3,
     "affiliate": 9,
+    "type": "Generell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4095,8 +6351,18 @@
     "internal": 6,
     "external": 2,
     "affiliate": 8,
+    "type": "Stränder",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4112,8 +6378,19 @@
     "internal": 4,
     "external": 4,
     "affiliate": 8,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4129,8 +6406,19 @@
     "internal": 9,
     "external": 1,
     "affiliate": 10,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4146,8 +6434,19 @@
     "internal": 7,
     "external": 3,
     "affiliate": 7,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4163,8 +6462,18 @@
     "internal": 4,
     "external": 3,
     "affiliate": 6,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4180,11 +6489,20 @@
     "internal": 10,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 45,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4200,8 +6518,20 @@
     "internal": 11,
     "external": 2,
     "affiliate": 9,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4217,8 +6547,19 @@
     "internal": 7,
     "external": 1,
     "affiliate": 8,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4234,8 +6575,19 @@
     "internal": 13,
     "external": 3,
     "affiliate": 12,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4251,8 +6603,19 @@
     "internal": 16,
     "external": 3,
     "affiliate": 15,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4268,8 +6631,19 @@
     "internal": 20,
     "external": 3,
     "affiliate": 19,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4285,8 +6659,19 @@
     "internal": 26,
     "external": 2,
     "affiliate": 22,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4302,8 +6687,18 @@
     "internal": 14,
     "external": 15,
     "affiliate": 25,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4319,8 +6714,19 @@
     "internal": 13,
     "external": 15,
     "affiliate": 24,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 100,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "korfu",
@@ -4336,8 +6742,19 @@
     "internal": 29,
     "external": 2,
     "affiliate": 10,
+    "type": "Startsida",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4353,10 +6770,20 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4372,10 +6799,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4391,10 +6827,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 53,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4410,10 +6855,19 @@
     "internal": 3,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4429,10 +6883,19 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 53,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4448,10 +6911,19 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Målgruppsguide",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 63,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4467,10 +6939,20 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 53,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4486,10 +6968,19 @@
     "internal": 4,
     "external": 0,
     "affiliate": 0,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 58,
     "flags": [
       "omonetiserad"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4505,10 +6996,19 @@
     "internal": 9,
     "external": 0,
     "affiliate": 1,
+    "type": "Guide-hub",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 55,
     "flags": [
       "tunt content"
-    ]
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4524,11 +7024,20 @@
     "internal": 8,
     "external": 0,
     "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 45,
     "flags": [
       "tunt content",
       "omonetiserad"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4544,12 +7053,21 @@
     "internal": 0,
     "external": 0,
     "affiliate": 0,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 30,
     "flags": [
       "tunt content",
       "omonetiserad",
       "få internlänkar"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4565,11 +7083,20 @@
     "internal": 0,
     "external": 0,
     "affiliate": 0,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 38,
     "flags": [
       "omonetiserad",
       "få internlänkar"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4585,11 +7112,20 @@
     "internal": 0,
     "external": 0,
     "affiliate": 0,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 43,
     "flags": [
       "omonetiserad",
       "få internlänkar"
-    ]
+    ],
+    "tier": "Rå",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4605,8 +7141,19 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4622,8 +7169,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4639,8 +7196,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4656,8 +7223,18 @@
     "internal": 4,
     "external": 0,
     "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 85,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4673,8 +7250,17 @@
     "internal": 4,
     "external": 10,
     "affiliate": 12,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 90,
-    "flags": []
+    "flags": [],
+    "tier": "Best-in-class",
+    "contaminated": false
   },
   {
     "domain": "torremolinos",
@@ -4690,7 +7276,17 @@
     "internal": 13,
     "external": 0,
     "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
     "score": 78,
-    "flags": []
+    "flags": [],
+    "tier": "Berikad",
+    "contaminated": false
   }
 ]
