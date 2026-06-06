@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T19:41:27.273390+00:00",
+  "generated_at": "2026-06-06T19:58:08.153087+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/grancanaria",
   "quality": 86,
@@ -334,6 +334,53 @@
       "inspection": "bilder/web-ready/grancanaria/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
+      "source": "bilder/inbox/far-man-ga-i-dynerna-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/far-man-ga-i-dynerna-grancanaria.jpg",
+      "filename": "far-man-ga-i-dynerna-grancanaria.jpg",
+      "brief_id": "grancanaria:maspalomas-dynerna:far-man-ga-i-dynerna",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/maspalomas-dynerna/",
+      "page_id": 99,
+      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
+      "page_slug": "maspalomas-dynerna",
+      "h3": "Får man gå i dynerna?",
+      "h3_slug": "far-man-ga-i-dynerna",
+      "place": "Får man gå i dynerna? i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Får man gå i dynerna? i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents får man gå i dynerna? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: far-man-ga-i-dynerna-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Får man gå i dynerna? i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents får man gå i dynerna? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Får man gå i dynerna? i Gran Canaria",
+      "caption": "Får man gå i dynerna? i Gran Canaria",
+      "seo": "Får man gå i dynerna? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/far-man-ga-i-dynerna-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/far-man-ga-i-dynerna-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
+          "page_slug": "maspalomas-dynerna",
+          "section_h3": "Får man gå i dynerna?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Får man gå i dynerna? i Gran Canaria",
+          "alt": "Får man gå i dynerna? i Gran Canaria",
+          "caption": "Får man gå i dynerna? i Gran Canaria",
+          "description": "Får man gå i dynerna? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/far-man-ga-i-dynerna-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
       "source": "bilder/inbox/gran-canaria-utan-hyrbil-taxi-grancanaria.png",
       "file": "bilder/web-ready/grancanaria/gran-canaria-utan-hyrbil-taxi-grancanaria.jpg",
       "filename": "gran-canaria-utan-hyrbil-taxi-grancanaria.jpg",
@@ -379,6 +426,53 @@
         "publishing_status": "needs_manual_image"
       },
       "inspection": "bilder/web-ready/grancanaria/gran-canaria-utan-hyrbil-taxi-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/guider-maspalomas-playa-del-ingles-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+      "filename": "guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+      "brief_id": "grancanaria:guider:maspalomas-playa-del-ingles",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/guider/",
+      "page_id": 194,
+      "page_title": "Guider till Gran Canaria",
+      "page_slug": "guider",
+      "h3": "Maspalomas & Playa del Inglés",
+      "h3_slug": "maspalomas-playa-del-ingles",
+      "place": "Maspalomas & Playa del Inglés i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Maspalomas & Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents maspalomas & playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: guider-maspalomas-playa-del-ingles-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Maspalomas & Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents maspalomas & playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Maspalomas & Playa del Inglés i Gran Canaria",
+      "caption": "Maspalomas & Playa del Inglés i Gran Canaria",
+      "seo": "Maspalomas & Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/guider-maspalomas-playa-del-ingles-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/guider/",
+          "page_slug": "guider",
+          "section_h3": "Maspalomas & Playa del Inglés",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "alt": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "caption": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "description": "Maspalomas & Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/guider-maspalomas-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
       "source": "bilder/inbox/hyra-lagenhet-gran-canaria-puerto-rico-grancanaria.png",
@@ -616,6 +710,147 @@
       "inspection": "bilder/web-ready/grancanaria/langliggare-och-pensionarer-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
+      "source": "bilder/inbox/langre-vistelse-3-veckor-eller-mer-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/langre-vistelse-3-veckor-eller-mer-grancanaria.jpg",
+      "filename": "langre-vistelse-3-veckor-eller-mer-grancanaria.jpg",
+      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:langre-vistelse-3-veckor-eller-mer",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
+      "page_id": 109,
+      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
+      "page_slug": "hyra-lagenhet-gran-canaria",
+      "h3": "Längre vistelse, 3 veckor eller mer",
+      "h3_slug": "langre-vistelse-3-veckor-eller-mer",
+      "place": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Längre vistelse, 3 veckor eller mer i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents längre vistelse, 3 veckor eller mer with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: langre-vistelse-3-veckor-eller-mer-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Längre vistelse, 3 veckor eller mer i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents längre vistelse, 3 veckor eller mer with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+      "caption": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+      "seo": "Längre vistelse, 3 veckor eller mer i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/langre-vistelse-3-veckor-eller-mer-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/langre-vistelse-3-veckor-eller-mer-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
+          "page_slug": "hyra-lagenhet-gran-canaria",
+          "section_h3": "Längre vistelse, 3 veckor eller mer",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+          "alt": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+          "caption": "Längre vistelse, 3 veckor eller mer i Gran Canaria",
+          "description": "Längre vistelse, 3 veckor eller mer i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/langre-vistelse-3-veckor-eller-mer-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+      "filename": "las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:las-canteras-surfing-snorkling-och-stadsstrand",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Las Canteras — surfing, snorkling och stadsstrand",
+      "h3_slug": "las-canteras-surfing-snorkling-och-stadsstrand",
+      "place": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents las canteras — surfing, snorkling och stadsstrand with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents las canteras — surfing, snorkling och stadsstrand with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+      "caption": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+      "seo": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Las Canteras — surfing, snorkling och stadsstrand",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+          "alt": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+          "caption": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+          "description": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/lyx-200400-natt-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/lyx-200400-natt-grancanaria.jpg",
+      "filename": "lyx-200400-natt-grancanaria.jpg",
+      "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:lyx-200400-natt",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+      "page_id": 81,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget, medel, lyx 2026",
+      "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+      "h3": "Lyx (200–400 €+ /natt)",
+      "h3_slug": "lyx-200400-natt",
+      "place": "Lyx (200–400 €+ /natt) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Lyx (200–400 €+ /natt) i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents lyx (200–400 €+ /natt) with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: lyx-200400-natt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Lyx (200–400 €+ /natt) i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents lyx (200–400 €+ /natt) with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Lyx (200–400 €+ /natt) i Gran Canaria",
+      "caption": "Lyx (200–400 €+ /natt) i Gran Canaria",
+      "seo": "Lyx (200–400 €+ /natt) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/lyx-200400-natt-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/lyx-200400-natt-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+          "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+          "section_h3": "Lyx (200–400 €+ /natt)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Lyx (200–400 €+ /natt) i Gran Canaria",
+          "alt": "Lyx (200–400 €+ /natt) i Gran Canaria",
+          "caption": "Lyx (200–400 €+ /natt) i Gran Canaria",
+          "description": "Lyx (200–400 €+ /natt) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/lyx-200400-natt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
       "source": "bilder/inbox/medel-9001-400-person-grancanaria.png",
       "file": "bilder/web-ready/grancanaria/medel-9001-400-person-grancanaria.jpg",
       "filename": "medel-9001-400-person-grancanaria.jpg",
@@ -757,6 +992,53 @@
       "inspection": "bilder/web-ready/grancanaria/norra-centrala-las-canteras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
+      "source": "bilder/inbox/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg",
+      "filename": "norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg",
+      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+      "page_id": 24,
+      "page_title": "Hyrbil Gran Canaria",
+      "page_slug": "hyrbil-pa-gran-canaria",
+      "h3": "🌿 Norra kusten — Agaete, Puerto de las Nieves och Tamadaba",
+      "h3_slug": "norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba",
+      "place": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents norra kusten — agaete, puerto de las nieves och tamadaba with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents norra kusten — agaete, puerto de las nieves och tamadaba with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+      "caption": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+      "seo": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+          "page_slug": "hyrbil-pa-gran-canaria",
+          "section_h3": "🌿 Norra kusten — Agaete, Puerto de las Nieves och Tamadaba",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+          "alt": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+          "caption": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+          "description": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
       "source": "bilder/inbox/paketresa-kan-vara-billigast-nar-grancanaria.png",
       "file": "bilder/web-ready/grancanaria/paketresa-kan-vara-billigast-nar-grancanaria.jpg",
       "filename": "paketresa-kan-vara-billigast-nar-grancanaria.jpg",
@@ -802,6 +1084,53 @@
         "publishing_status": "needs_manual_image"
       },
       "inspection": "bilder/web-ready/grancanaria/paketresa-kan-vara-billigast-nar-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/palmitos-park-djur-faglar-och-botanik-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+      "filename": "palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:palmitos-park-djur-faglar-och-botanik",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Palmitos Park — djur, fåglar och botanik",
+      "h3_slug": "palmitos-park-djur-faglar-och-botanik",
+      "place": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Palmitos Park — djur, fåglar och botanik i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents palmitos park — djur, fåglar och botanik with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: palmitos-park-djur-faglar-och-botanik-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Palmitos Park — djur, fåglar och botanik i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents palmitos park — djur, fåglar och botanik with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+      "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+      "seo": "Palmitos Park — djur, fåglar och botanik i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/palmitos-park-djur-faglar-och-botanik-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Palmitos Park — djur, fåglar och botanik",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+          "alt": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+          "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+          "description": "Palmitos Park — djur, fåglar och botanik i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
       "source": "bilder/inbox/rutten-genom-calderan-roque-nublo-och-tejeda-grancanaria.png",
