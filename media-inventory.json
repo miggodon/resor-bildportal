@@ -1771,12 +1771,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -1789,12 +1784,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -1807,12 +1797,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -1869,10 +1854,6 @@
       {
         "slug": "hyrbil-lanzarote-aktiv",
         "link": "https://lanzarote.se/hyrbil-lanzarote-aktiv/"
-      },
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
       }
     ]
   },
@@ -1927,12 +1908,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -2161,12 +2137,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3061,12 +3032,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3092,12 +3058,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3110,12 +3071,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3128,12 +3084,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3146,12 +3097,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3218,12 +3164,7 @@
     "h": 1086,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3249,12 +3190,7 @@
     "h": 941,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3267,12 +3203,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3352,12 +3283,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3370,12 +3296,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3389,10 +3310,6 @@
     "date": "2026-05-30",
     "managed": false,
     "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
       {
         "slug": "basta-hotellen-pa-lanzarote",
         "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
@@ -3410,12 +3327,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3428,12 +3340,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3464,12 +3371,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3526,12 +3428,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3564,10 +3461,6 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
-      {
         "slug": "basta-hotellen-pa-lanzarote",
         "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
       }
@@ -3584,12 +3477,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3602,12 +3490,7 @@
     "h": 941,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3620,12 +3503,7 @@
     "h": 940,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -3638,12 +3516,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -4159,10 +4032,6 @@
     "date": "2026-05-30",
     "managed": false,
     "used_on": [
-      {
-        "slug": "norra-lanzarote-haria-arrieta-punta-mujeres-orzola",
-        "link": "https://lanzarote.se/norra-lanzarote-haria-arrieta-punta-mujeres-orzola/"
-      },
       {
         "slug": "basta-stranderna-pa-lanzarote",
         "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
@@ -4801,10 +4670,6 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
-      {
         "slug": "la-geria-vin-lanzarote",
         "link": "https://lanzarote.se/la-geria-vin-lanzarote/"
       },
@@ -4826,10 +4691,6 @@
     "date": "2026-05-30",
     "managed": false,
     "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
       {
         "slug": "timanfaya-nationalpark-lanzarote",
         "link": "https://lanzarote.se/timanfaya-nationalpark-lanzarote/"
@@ -4903,12 +4764,7 @@
     "h": 1024,
     "date": "2026-05-30",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -5401,12 +5257,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -6766,10 +6617,6 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
-      },
-      {
         "slug": "gran-canaria",
         "link": "https://grancanaria.se/"
       },
@@ -6918,12 +6765,7 @@
     "h": 1024,
     "date": "2026-05-28",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -7050,10 +6892,6 @@
       {
         "slug": "saker-att-gora-pa-gran-canaria",
         "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
-      },
-      {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
       }
     ]
   },
@@ -7323,10 +7161,6 @@
         "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
       },
       {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
-      },
-      {
         "slug": "hyrbil-pa-gran-canaria",
         "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
       }
@@ -7359,10 +7193,6 @@
       {
         "slug": "saker-att-gora-pa-gran-canaria",
         "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
-      },
-      {
-        "slug": "vandring-gran-canaria",
-        "link": "https://grancanaria.se/vandring-gran-canaria/"
       },
       {
         "slug": "hyrbil-pa-gran-canaria",

@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/basta-hotellen-pa-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
       "filename": "basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:las-ocksa",
       "domain": "korfu",
@@ -34,7 +34,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-hotellen-pa-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\basta-hotellen-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -47,13 +47,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/basta-hotellen-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/basta-stranderna-pa-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
       "filename": "basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:basta-stranderna-pa-korfu:las-ocksa",
       "domain": "korfu",
@@ -81,7 +84,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-stranderna-pa-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\basta-stranderna-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-stranderna-pa-korfu/",
           "page_slug": "basta-stranderna-pa-korfu",
@@ -94,13 +97,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/basta-stranderna-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/buss-linje-15-billigast-korfu.png",
-      "file": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\buss-linje-15-billigast-korfu.jpg",
       "filename": "buss-linje-15-billigast-korfu.jpg",
       "brief_id": "korfu:korfu-flygplats:buss-linje-15-billigast",
       "domain": "korfu",
@@ -128,7 +134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/buss-linje-15-billigast-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\buss-linje-15-billigast-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/korfu-flygplats/",
           "page_slug": "korfu-flygplats",
@@ -141,13 +147,16 @@
           "caption": "Buss linje 15 — billigast i Korfu",
           "description": "Buss linje 15 — billigast i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/buss-linje-15-billigast-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/domes-miramare-design-vid-stranden-korfu.png",
-      "file": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\domes-miramare-design-vid-stranden-korfu.jpg",
       "filename": "domes-miramare-design-vid-stranden-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:domes-miramare-design-vid-stranden",
       "domain": "korfu",
@@ -175,7 +184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/domes-miramare-design-vid-stranden-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\domes-miramare-design-vid-stranden-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -188,13 +197,16 @@
           "caption": "Domes Miramare — Design vid stranden i Korfu",
           "description": "Domes Miramare — Design vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/domes-miramare-design-vid-stranden-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotel-atlantis-budget-vid-stranden-korfu.png",
-      "file": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\hotel-atlantis-budget-vid-stranden-korfu.jpg",
       "filename": "hotel-atlantis-budget-vid-stranden-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:hotel-atlantis-budget-vid-stranden",
       "domain": "korfu",
@@ -222,7 +234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-atlantis-budget-vid-stranden-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\hotel-atlantis-budget-vid-stranden-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -235,13 +247,16 @@
           "caption": "Hotel Atlantis — Budget vid stranden i Korfu",
           "description": "Hotel Atlantis — Budget vid stranden i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/hotel-atlantis-budget-vid-stranden-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyrbil-det-smartaste-valet-korfu.png",
-      "file": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\hyrbil-det-smartaste-valet-korfu.jpg",
       "filename": "hyrbil-det-smartaste-valet-korfu.jpg",
       "brief_id": "korfu:korfu-flygplats:hyrbil-det-smartaste-valet",
       "domain": "korfu",
@@ -269,7 +284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyrbil-det-smartaste-valet-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\hyrbil-det-smartaste-valet-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/korfu-flygplats/",
           "page_slug": "korfu-flygplats",
@@ -282,13 +297,16 @@
           "caption": "Hyrbil — det smartaste valet i Korfu",
           "description": "Hyrbil — det smartaste valet i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/hyrbil-det-smartaste-valet-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyrbil-pa-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\hyrbil-pa-korfu-las-ocksa-korfu.jpg",
       "filename": "hyrbil-pa-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:hyrbil-pa-korfu:las-ocksa",
       "domain": "korfu",
@@ -316,7 +334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyrbil-pa-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\hyrbil-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/hyrbil-pa-korfu/",
           "page_slug": "hyrbil-pa-korfu",
@@ -329,13 +347,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/hyrbil-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/ikos-dassia-all-inclusive-i-varldsklass-korfu.png",
-      "file": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
       "filename": "ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:ikos-dassia-all-inclusive-i-varldsklass",
       "domain": "korfu",
@@ -363,7 +384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/ikos-dassia-all-inclusive-i-varldsklass-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -376,13 +397,16 @@
           "caption": "Ikos Dassia — All-inclusive i världsklass i Korfu",
           "description": "Ikos Dassia — All-inclusive i världsklass i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/ikos-dassia-all-inclusive-i-varldsklass-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/korfu-flygplats-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\korfu-flygplats-las-ocksa-korfu.jpg",
       "filename": "korfu-flygplats-las-ocksa-korfu.jpg",
       "brief_id": "korfu:korfu-flygplats:las-ocksa",
       "domain": "korfu",
@@ -410,7 +434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/korfu-flygplats-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\korfu-flygplats-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/korfu-flygplats/",
           "page_slug": "korfu-flygplats",
@@ -423,13 +447,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/korfu-flygplats-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/marbella-nido-lyxigt-boutiquehotell-korfu.png",
-      "file": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
       "filename": "marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:marbella-nido-lyxigt-boutiquehotell",
       "domain": "korfu",
@@ -457,7 +484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/marbella-nido-lyxigt-boutiquehotell-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\marbella-nido-lyxigt-boutiquehotell-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -470,13 +497,16 @@
           "caption": "MarBella Nido — Lyxigt boutiquehotell i Korfu",
           "description": "MarBella Nido — Lyxigt boutiquehotell i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/marbella-nido-lyxigt-boutiquehotell-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mayor-mon-repos-palace-korfu.png",
-      "file": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\mayor-mon-repos-palace-korfu.jpg",
       "filename": "mayor-mon-repos-palace-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:mayor-mon-repos-palace",
       "domain": "korfu",
@@ -504,7 +534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/mayor-mon-repos-palace-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\mayor-mon-repos-palace-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -517,13 +547,16 @@
           "caption": "Mayor Mon Repos Palace i Korfu",
           "description": "Mayor Mon Repos Palace i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/mayor-mon-repos-palace-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/packlista-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\packlista-korfu-las-ocksa-korfu.jpg",
       "filename": "packlista-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:packlista-korfu:las-ocksa",
       "domain": "korfu",
@@ -551,7 +584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/packlista-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\packlista-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/packlista-korfu/",
           "page_slug": "packlista-korfu",
@@ -564,13 +597,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/packlista-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/privat-transfer-bast-for-grupper-korfu.png",
-      "file": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\privat-transfer-bast-for-grupper-korfu.jpg",
       "filename": "privat-transfer-bast-for-grupper-korfu.jpg",
       "brief_id": "korfu:korfu-flygplats:privat-transfer-bast-for-grupper",
       "domain": "korfu",
@@ -598,7 +634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/privat-transfer-bast-for-grupper-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\privat-transfer-bast-for-grupper-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/korfu-flygplats/",
           "page_slug": "korfu-flygplats",
@@ -611,13 +647,16 @@
           "caption": "Privat transfer — bäst för grupper i Korfu",
           "description": "Privat transfer — bäst för grupper i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/privat-transfer-bast-for-grupper-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rodostamo-hotel-spa-korfu.png",
-      "file": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\rodostamo-hotel-spa-korfu.jpg",
       "filename": "rodostamo-hotel-spa-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:rodostamo-hotel-spa",
       "domain": "korfu",
@@ -645,7 +684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/rodostamo-hotel-spa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\rodostamo-hotel-spa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -658,13 +697,16 @@
           "caption": "Rodostamo Hotel & Spa i Korfu",
           "description": "Rodostamo Hotel & Spa i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/rodostamo-hotel-spa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/saker-att-gora-pa-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
       "filename": "saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:saker-att-gora-pa-korfu:las-ocksa",
       "domain": "korfu",
@@ -692,7 +734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/saker-att-gora-pa-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\saker-att-gora-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/saker-att-gora-pa-korfu/",
           "page_slug": "saker-att-gora-pa-korfu",
@@ -705,13 +747,16 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/saker-att-gora-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sunrock-hostel-bast-for-backpackers-korfu.png",
-      "file": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\sunrock-hostel-bast-for-backpackers-korfu.jpg",
       "filename": "sunrock-hostel-bast-for-backpackers-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:sunrock-hostel-bast-for-backpackers",
       "domain": "korfu",
@@ -739,7 +784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/sunrock-hostel-bast-for-backpackers-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\sunrock-hostel-bast-for-backpackers-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -752,13 +797,16 @@
           "caption": "Sunrock Hostel — Bäst för backpackers i Korfu",
           "description": "Sunrock Hostel — Bäst för backpackers i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/sunrock-hostel-bast-for-backpackers-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/taxi-snabbast-till-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\taxi-snabbast-till-stan-korfu.jpg",
       "filename": "taxi-snabbast-till-stan-korfu.jpg",
       "brief_id": "korfu:korfu-flygplats:taxi-snabbast-till-stan",
       "domain": "korfu",
@@ -786,7 +834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/taxi-snabbast-till-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\taxi-snabbast-till-stan-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/korfu-flygplats/",
           "page_slug": "korfu-flygplats",
@@ -799,13 +847,16 @@
           "caption": "Taxi — snabbast till stan i Korfu",
           "description": "Taxi — snabbast till stan i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/taxi-snabbast-till-stan-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/var-ska-man-bo-pa-korfu-las-ocksa-korfu.png",
-      "file": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
       "filename": "var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
       "brief_id": "korfu:var-ska-man-bo-pa-korfu:las-ocksa",
       "domain": "korfu",
@@ -833,7 +884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/var-ska-man-bo-pa-korfu-las-ocksa-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/var-ska-man-bo-pa-korfu/",
           "page_slug": "var-ska-man-bo-pa-korfu",
@@ -846,9 +897,12 @@
           "caption": "Läs också i Korfu",
           "description": "Läs också i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
-      "inspection": "bilder/web-ready/korfu/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

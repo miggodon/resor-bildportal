@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/5-dagar-utan-hyrbil-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\5-dagar-utan-hyrbil-grancanaria.jpg",
       "filename": "5-dagar-utan-hyrbil-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-utan-hyrbil:5-dagar-utan-hyrbil",
       "domain": "grancanaria",
@@ -34,7 +34,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/5-dagar-utan-hyrbil-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\5-dagar-utan-hyrbil-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
           "page_slug": "gran-canaria-utan-hyrbil",
@@ -47,13 +47,16 @@
           "caption": "5 dagar utan hyrbil i Gran Canaria",
           "description": "5 dagar utan hyrbil i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/7-dagar-utan-hyrbil-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\7-dagar-utan-hyrbil-grancanaria.jpg",
       "filename": "7-dagar-utan-hyrbil-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-utan-hyrbil:7-dagar-utan-hyrbil",
       "domain": "grancanaria",
@@ -81,7 +84,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-utan-hyrbil-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\7-dagar-utan-hyrbil-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
           "page_slug": "gran-canaria-utan-hyrbil",
@@ -94,13 +97,16 @@
           "caption": "7 dagar utan hyrbil i Gran Canaria",
           "description": "7 dagar utan hyrbil i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/all-inclusive-gran-canaria-all-inclusive-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg",
       "filename": "all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg",
       "brief_id": "grancanaria:all-inclusive-gran-canaria:all-inclusive",
       "domain": "grancanaria",
@@ -128,7 +134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/all-inclusive-gran-canaria-all-inclusive-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/all-inclusive-gran-canaria/",
           "page_slug": "all-inclusive-gran-canaria",
@@ -141,13 +147,16 @@
           "caption": "All inclusive i Gran Canaria",
           "description": "All inclusive i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-all-inclusive-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-bara-se-yumbo-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-bara-se-yumbo-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-bara-se-yumbo-grancanaria.jpg",
       "filename": "att-bara-se-yumbo-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-hbtq:att-bara-se-yumbo",
       "domain": "grancanaria",
@@ -175,7 +184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-bara-se-yumbo-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-bara-se-yumbo-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-bara-se-yumbo-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-hbtq/",
           "page_slug": "gran-canaria-hbtq",
@@ -188,13 +197,16 @@
           "caption": "Att bara se Yumbo i Gran Canaria",
           "description": "Att bara se Yumbo i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-bara-se-yumbo-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-bo-for-langt-fran-vardag-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-bo-for-langt-fran-vardag-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-bo-for-langt-fran-vardag-grancanaria.jpg",
       "filename": "att-bo-for-langt-fran-vardag-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-digitala-nomader:att-bo-for-langt-fran-vardag",
       "domain": "grancanaria",
@@ -222,7 +234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-bo-for-langt-fran-vardag-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-bo-for-langt-fran-vardag-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-bo-for-langt-fran-vardag-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-digitala-nomader/",
           "page_slug": "gran-canaria-digitala-nomader",
@@ -235,13 +247,16 @@
           "caption": "Att bo för långt från vardag i Gran Canaria",
           "description": "Att bo för långt från vardag i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-bo-for-langt-fran-vardag-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg",
       "filename": "att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg",
       "brief_id": "grancanaria:all-inclusive-gran-canaria:att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger",
       "domain": "grancanaria",
@@ -269,7 +284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/all-inclusive-gran-canaria/",
           "page_slug": "all-inclusive-gran-canaria",
@@ -282,13 +297,16 @@
           "caption": "Att boka all inclusive i ett område med bra restauranger i Gran Canaria",
           "description": "Att boka all inclusive i ett område med bra restauranger i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-boka-all-inclusive-i-ett-omrade-med-bra-restauranger-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg",
       "filename": "att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg",
       "brief_id": "grancanaria:all-inclusive-gran-canaria:att-boka-all-inclusive-utan-att-lasa-matrecensioner",
       "domain": "grancanaria",
@@ -316,7 +334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/all-inclusive-gran-canaria/",
           "page_slug": "all-inclusive-gran-canaria",
@@ -329,13 +347,16 @@
           "caption": "Att boka all inclusive utan att läsa matrecensioner i Gran Canaria",
           "description": "Att boka all inclusive utan att läsa matrecensioner i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-boka-all-inclusive-utan-att-lasa-matrecensioner-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg",
       "filename": "att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg",
       "brief_id": "grancanaria:maspalomas-dynerna:att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag",
       "domain": "grancanaria",
@@ -363,7 +384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/maspalomas-dynerna/",
           "page_slug": "maspalomas-dynerna",
@@ -376,13 +397,16 @@
           "caption": "Att boka hotell ”nära dynerna” utan att kolla gångväg i Gran Canaria",
           "description": "Att boka hotell ”nära dynerna” utan att kolla gångväg i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-boka-hotell-nara-dynerna-utan-att-kolla-gangvag-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-boka-lagenhet-utan-att-kolla-lage-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg",
       "filename": "att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg",
       "brief_id": "grancanaria:paketresa-eller-boka-sjalv-gran-canaria:att-boka-lagenhet-utan-att-kolla-lage",
       "domain": "grancanaria",
@@ -410,7 +434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-boka-lagenhet-utan-att-kolla-lage-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/paketresa-eller-boka-sjalv-gran-canaria/",
           "page_slug": "paketresa-eller-boka-sjalv-gran-canaria",
@@ -423,13 +447,16 @@
           "caption": "Att boka lägenhet utan att kolla läge i Gran Canaria",
           "description": "Att boka lägenhet utan att kolla läge i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-boka-lagenhet-utan-att-kolla-lage-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/att-tanka-pa-under-pride-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-tanka-pa-under-pride-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\att-tanka-pa-under-pride-grancanaria.jpg",
       "filename": "att-tanka-pa-under-pride-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-hbtq:att-tanka-pa-under-pride",
       "domain": "grancanaria",
@@ -457,7 +484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/att-tanka-pa-under-pride-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-tanka-pa-under-pride-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\att-tanka-pa-under-pride-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-hbtq/",
           "page_slug": "gran-canaria-hbtq",
@@ -470,13 +497,16 @@
           "caption": "Att tänka på under Pride i Gran Canaria",
           "description": "Att tänka på under Pride i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/att-tanka-pa-under-pride-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
       "filename": "battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
       "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:battur-till-puerto-de-mogan-kanarieoarnas-venedig",
       "domain": "grancanaria",
@@ -504,7 +534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
           "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
@@ -517,13 +547,16 @@
           "caption": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
           "description": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg",
       "filename": "billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg",
       "brief_id": "grancanaria:billigaste-sattet-att-resa-till-gran-canaria:lagenhet-med-kok",
       "domain": "grancanaria",
@@ -551,7 +584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/billigaste-sattet-att-resa-till-gran-canaria/",
           "page_slug": "billigaste-sattet-att-resa-till-gran-canaria",
@@ -564,13 +597,16 @@
           "caption": "Lägenhet med kök i Gran Canaria",
           "description": "Lägenhet med kök i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/billigaste-sattet-att-resa-till-gran-canaria-lagenhet-med-kok-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boende-i-arguineguin-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/boende-i-arguineguin-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\boende-i-arguineguin-grancanaria.jpg",
       "filename": "boende-i-arguineguin-grancanaria.jpg",
       "brief_id": "grancanaria:arguineguin-patalavaca:boende-i-arguineguin",
       "domain": "grancanaria",
@@ -598,7 +634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-i-arguineguin-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/boende-i-arguineguin-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\boende-i-arguineguin-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/arguineguin-patalavaca/",
           "page_slug": "arguineguin-patalavaca",
@@ -611,13 +647,16 @@
           "caption": "Boende i Arguineguín i Gran Canaria",
           "description": "Boende i Arguineguín i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/boende-i-arguineguin-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bohemia-suites-spa-maspalomas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/bohemia-suites-spa-maspalomas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\bohemia-suites-spa-maspalomas-grancanaria.jpg",
       "filename": "bohemia-suites-spa-maspalomas-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:bohemia-suites-spa-maspalomas",
       "domain": "grancanaria",
@@ -645,7 +684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/bohemia-suites-spa-maspalomas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/bohemia-suites-spa-maspalomas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\bohemia-suites-spa-maspalomas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -658,13 +697,16 @@
           "caption": "Bohemia Suites & Spa — Maspalomas i Gran Canaria",
           "description": "Bohemia Suites & Spa — Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/bohemia-suites-spa-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boka-familjeaktiviteter-pa-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg",
       "filename": "boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg",
       "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:boka-familjeaktiviteter-pa-gran-canaria",
       "domain": "grancanaria",
@@ -692,7 +734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boka-familjeaktiviteter-pa-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
           "page_slug": "saker-att-gora-pa-gran-canaria",
@@ -705,13 +747,16 @@
           "caption": "Boka Familjeaktiviteter på Gran Canaria i Gran Canaria",
           "description": "Boka Familjeaktiviteter på Gran Canaria i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/boka-familjeaktiviteter-pa-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boka-hav-vatten-pa-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/boka-hav-vatten-pa-gran-canaria-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\boka-hav-vatten-pa-gran-canaria-grancanaria.jpg",
       "filename": "boka-hav-vatten-pa-gran-canaria-grancanaria.jpg",
       "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:boka-hav-vatten-pa-gran-canaria",
       "domain": "grancanaria",
@@ -739,7 +784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boka-hav-vatten-pa-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/boka-hav-vatten-pa-gran-canaria-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\boka-hav-vatten-pa-gran-canaria-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
           "page_slug": "saker-att-gora-pa-gran-canaria",
@@ -752,13 +797,16 @@
           "caption": "Boka Hav & vatten på Gran Canaria i Gran Canaria",
           "description": "Boka Hav & vatten på Gran Canaria i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/boka-hav-vatten-pa-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boka-kultur-byar-pa-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/boka-kultur-byar-pa-gran-canaria-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\boka-kultur-byar-pa-gran-canaria-grancanaria.jpg",
       "filename": "boka-kultur-byar-pa-gran-canaria-grancanaria.jpg",
       "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:boka-kultur-byar-pa-gran-canaria",
       "domain": "grancanaria",
@@ -786,7 +834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boka-kultur-byar-pa-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/boka-kultur-byar-pa-gran-canaria-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\boka-kultur-byar-pa-gran-canaria-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
           "page_slug": "saker-att-gora-pa-gran-canaria",
@@ -799,13 +847,16 @@
           "caption": "Boka Kultur & byar på Gran Canaria i Gran Canaria",
           "description": "Boka Kultur & byar på Gran Canaria i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/boka-kultur-byar-pa-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boka-natur-vandring-pa-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/boka-natur-vandring-pa-gran-canaria-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\boka-natur-vandring-pa-gran-canaria-grancanaria.jpg",
       "filename": "boka-natur-vandring-pa-gran-canaria-grancanaria.jpg",
       "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:boka-natur-vandring-pa-gran-canaria",
       "domain": "grancanaria",
@@ -833,7 +884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/boka-natur-vandring-pa-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/boka-natur-vandring-pa-gran-canaria-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\boka-natur-vandring-pa-gran-canaria-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
           "page_slug": "saker-att-gora-pa-gran-canaria",
@@ -846,13 +897,16 @@
           "caption": "Boka Natur & vandring på Gran Canaria i Gran Canaria",
           "description": "Boka Natur & vandring på Gran Canaria i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/boka-natur-vandring-pa-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/budget-500700-person-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/budget-500700-person-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\budget-500700-person-grancanaria.jpg",
       "filename": "budget-500700-person-grancanaria.jpg",
       "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:budget-500700-person",
       "domain": "grancanaria",
@@ -880,7 +934,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/budget-500700-person-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/budget-500700-person-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\budget-500700-person-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
           "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -893,13 +947,16 @@
           "caption": "Budget (~500–700 €/person) i Gran Canaria",
           "description": "Budget (~500–700 €/person) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/budget-500700-person-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/budget-5080-natt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/budget-5080-natt-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\budget-5080-natt-grancanaria.jpg",
       "filename": "budget-5080-natt-grancanaria.jpg",
       "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:budget-5080-natt",
       "domain": "grancanaria",
@@ -927,7 +984,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/budget-5080-natt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/budget-5080-natt-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\budget-5080-natt-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
           "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -940,13 +997,16 @@
           "caption": "Budget (50–80 €/natt) i Gran Canaria",
           "description": "Budget (50–80 €/natt) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/budget-5080-natt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bull-costa-canaria-spa-san-agustin-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/bull-costa-canaria-spa-san-agustin-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\bull-costa-canaria-spa-san-agustin-grancanaria.jpg",
       "filename": "bull-costa-canaria-spa-san-agustin-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:bull-costa-canaria-spa-san-agustin",
       "domain": "grancanaria",
@@ -974,7 +1034,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/bull-costa-canaria-spa-san-agustin-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/bull-costa-canaria-spa-san-agustin-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\bull-costa-canaria-spa-san-agustin-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -987,13 +1047,16 @@
           "caption": "Bull Costa Canaria & Spa — San Agustín i Gran Canaria",
           "description": "Bull Costa Canaria & Spa — San Agustín i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/bull-costa-canaria-spa-san-agustin-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/buss-fran-flygplatsen-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-grancanaria.jpg",
       "filename": "buss-fran-flygplatsen-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-utan-hyrbil:buss-fran-flygplatsen",
       "domain": "grancanaria",
@@ -1021,7 +1084,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/buss-fran-flygplatsen-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
           "page_slug": "gran-canaria-utan-hyrbil",
@@ -1034,13 +1097,16 @@
           "caption": "Buss från flygplatsen i Gran Canaria",
           "description": "Buss från flygplatsen i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/buss-fran-flygplatsen-passar-om-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-om-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-passar-om-grancanaria.jpg",
       "filename": "buss-fran-flygplatsen-passar-om-grancanaria.jpg",
       "brief_id": "grancanaria:buss-gran-canaria:buss-fran-flygplatsen-passar-om",
       "domain": "grancanaria",
@@ -1068,7 +1134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/buss-fran-flygplatsen-passar-om-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-om-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-passar-om-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/buss-gran-canaria/",
           "page_slug": "buss-gran-canaria",
@@ -1081,13 +1147,16 @@
           "caption": "Buss från flygplatsen passar om: i Gran Canaria",
           "description": "Buss från flygplatsen passar om: i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-om-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/buss-fran-flygplatsen-passar-samre-om-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg",
       "filename": "buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg",
       "brief_id": "grancanaria:buss-gran-canaria:buss-fran-flygplatsen-passar-samre-om",
       "domain": "grancanaria",
@@ -1115,7 +1184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/buss-fran-flygplatsen-passar-samre-om-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/buss-gran-canaria/",
           "page_slug": "buss-gran-canaria",
@@ -1128,13 +1197,16 @@
           "caption": "Buss från flygplatsen passar sämre om: i Gran Canaria",
           "description": "Buss från flygplatsen passar sämre om: i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/buss-fran-flygplatsen-passar-samre-om-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-agaete-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-agaete-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-agaete-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-agaete-grancanaria.jpg",
       "brief_id": "grancanaria:norra-gran-canaria:det-har-ska-du-gora-i-agaete",
       "domain": "grancanaria",
@@ -1162,7 +1234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-agaete-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-agaete-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-agaete-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/norra-gran-canaria/",
           "page_slug": "norra-gran-canaria",
@@ -1175,13 +1247,16 @@
           "caption": "Det här ska du göra i Agaete i Gran Canaria",
           "description": "Det här ska du göra i Agaete i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-agaete-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-artenara-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-artenara-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-artenara-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-artenara-grancanaria.jpg",
       "brief_id": "grancanaria:bergsbyarna-gran-canaria:det-har-ska-du-gora-i-artenara",
       "domain": "grancanaria",
@@ -1209,7 +1284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-artenara-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-artenara-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-artenara-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
           "page_slug": "bergsbyarna-gran-canaria",
@@ -1222,13 +1297,16 @@
           "caption": "Det här ska du göra i Artenara i Gran Canaria",
           "description": "Det här ska du göra i Artenara i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-artenara-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-arucas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-arucas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-arucas-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-arucas-grancanaria.jpg",
       "brief_id": "grancanaria:norra-gran-canaria:det-har-ska-du-gora-i-arucas",
       "domain": "grancanaria",
@@ -1256,7 +1334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-arucas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-arucas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-arucas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/norra-gran-canaria/",
           "page_slug": "norra-gran-canaria",
@@ -1269,13 +1347,16 @@
           "caption": "Det här ska du göra i Arucas i Gran Canaria",
           "description": "Det här ska du göra i Arucas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-arucas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-fataga-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-fataga-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-fataga-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-fataga-grancanaria.jpg",
       "brief_id": "grancanaria:bergsbyarna-gran-canaria:det-har-ska-du-gora-i-fataga",
       "domain": "grancanaria",
@@ -1303,7 +1384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-fataga-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-fataga-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-fataga-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
           "page_slug": "bergsbyarna-gran-canaria",
@@ -1316,13 +1397,16 @@
           "caption": "Det här ska du göra i Fataga i Gran Canaria",
           "description": "Det här ska du göra i Fataga i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-fataga-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-galdar-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-galdar-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-galdar-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-galdar-grancanaria.jpg",
       "brief_id": "grancanaria:norra-gran-canaria:det-har-ska-du-gora-i-galdar",
       "domain": "grancanaria",
@@ -1350,7 +1434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-galdar-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-galdar-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-galdar-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/norra-gran-canaria/",
           "page_slug": "norra-gran-canaria",
@@ -1363,13 +1447,16 @@
           "caption": "Det här ska du göra i Gáldar i Gran Canaria",
           "description": "Det här ska du göra i Gáldar i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-galdar-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-tejeda-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-tejeda-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-tejeda-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-tejeda-grancanaria.jpg",
       "brief_id": "grancanaria:bergsbyarna-gran-canaria:det-har-ska-du-gora-i-tejeda",
       "domain": "grancanaria",
@@ -1397,7 +1484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-tejeda-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-tejeda-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-tejeda-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
           "page_slug": "bergsbyarna-gran-canaria",
@@ -1410,13 +1497,16 @@
           "caption": "Det här ska du göra i Tejeda i Gran Canaria",
           "description": "Det här ska du göra i Tejeda i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-tejeda-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/det-har-ska-du-gora-i-teror-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-teror-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-teror-grancanaria.jpg",
       "filename": "det-har-ska-du-gora-i-teror-grancanaria.jpg",
       "brief_id": "grancanaria:norra-gran-canaria:det-har-ska-du-gora-i-teror",
       "domain": "grancanaria",
@@ -1444,7 +1534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/det-har-ska-du-gora-i-teror-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-teror-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\det-har-ska-du-gora-i-teror-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/norra-gran-canaria/",
           "page_slug": "norra-gran-canaria",
@@ -1457,13 +1547,16 @@
           "caption": "Det här ska du göra i Teror i Gran Canaria",
           "description": "Det här ska du göra i Teror i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/det-har-ska-du-gora-i-teror-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/digitala-nomader-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/digitala-nomader-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\digitala-nomader-grancanaria.jpg",
       "filename": "digitala-nomader-grancanaria.jpg",
       "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:digitala-nomader",
       "domain": "grancanaria",
@@ -1491,7 +1584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/digitala-nomader-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/digitala-nomader-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\digitala-nomader-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
           "page_slug": "hyra-lagenhet-gran-canaria",
@@ -1504,13 +1597,16 @@
           "caption": "Digitala nomader i Gran Canaria",
           "description": "Digitala nomader i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/digitala-nomader-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dynerna-maspalomas-fyr-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/dynerna-maspalomas-fyr-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\dynerna-maspalomas-fyr-grancanaria.jpg",
       "filename": "dynerna-maspalomas-fyr-grancanaria.jpg",
       "brief_id": "grancanaria:maspalomas-dynerna:dynerna-maspalomas-fyr",
       "domain": "grancanaria",
@@ -1538,7 +1634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/dynerna-maspalomas-fyr-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-maspalomas-fyr-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\dynerna-maspalomas-fyr-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/maspalomas-dynerna/",
           "page_slug": "maspalomas-dynerna",
@@ -1551,13 +1647,16 @@
           "caption": "Dynerna + Maspalomas fyr i Gran Canaria",
           "description": "Dynerna + Maspalomas fyr i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/dynerna-maspalomas-fyr-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fordelar-med-las-palmas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/fordelar-med-las-palmas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\fordelar-med-las-palmas-grancanaria.jpg",
       "filename": "fordelar-med-las-palmas-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-digitala-nomader:fordelar-med-las-palmas",
       "domain": "grancanaria",
@@ -1585,7 +1684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/fordelar-med-las-palmas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/fordelar-med-las-palmas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\fordelar-med-las-palmas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-digitala-nomader/",
           "page_slug": "gran-canaria-digitala-nomader",
@@ -1598,13 +1697,16 @@
           "caption": "Fördelar med Las Palmas i Gran Canaria",
           "description": "Fördelar med Las Palmas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/fordelar-med-las-palmas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fran-maspalomas-meloneras-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/fran-maspalomas-meloneras-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\fran-maspalomas-meloneras-grancanaria.jpg",
       "filename": "fran-maspalomas-meloneras-grancanaria.jpg",
       "brief_id": "grancanaria:maspalomas-dynerna:fran-maspalomas-meloneras",
       "domain": "grancanaria",
@@ -1632,7 +1734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/fran-maspalomas-meloneras-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/fran-maspalomas-meloneras-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\fran-maspalomas-meloneras-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/maspalomas-dynerna/",
           "page_slug": "maspalomas-dynerna",
@@ -1645,13 +1747,16 @@
           "caption": "Från Maspalomas/Meloneras i Gran Canaria",
           "description": "Från Maspalomas/Meloneras i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/fran-maspalomas-meloneras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/gran-canaria-flygplats-lpa-gando-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/gran-canaria-flygplats-lpa-gando-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\gran-canaria-flygplats-lpa-gando-grancanaria.jpg",
       "filename": "gran-canaria-flygplats-lpa-gando-grancanaria.jpg",
       "brief_id": "grancanaria:hyrbil-pa-gran-canaria:gran-canaria-flygplats-lpa-gando",
       "domain": "grancanaria",
@@ -1679,7 +1784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/gran-canaria-flygplats-lpa-gando-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/gran-canaria-flygplats-lpa-gando-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\gran-canaria-flygplats-lpa-gando-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
           "page_slug": "hyrbil-pa-gran-canaria",
@@ -1692,13 +1797,16 @@
           "caption": "Gran Canaria flygplats — LPA (Gando) i Gran Canaria",
           "description": "Gran Canaria flygplats — LPA (Gando) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/gran-canaria-flygplats-lpa-gando-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/h10-playa-meloneras-palace-meloneras-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/h10-playa-meloneras-palace-meloneras-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\h10-playa-meloneras-palace-meloneras-grancanaria.jpg",
       "filename": "h10-playa-meloneras-palace-meloneras-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:h10-playa-meloneras-palace-meloneras",
       "domain": "grancanaria",
@@ -1726,7 +1834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/h10-playa-meloneras-palace-meloneras-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/h10-playa-meloneras-palace-meloneras-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\h10-playa-meloneras-palace-meloneras-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -1739,13 +1847,16 @@
           "caption": "H10 Playa Meloneras Palace — Meloneras i Gran Canaria",
           "description": "H10 Playa Meloneras Palace — Meloneras i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/h10-playa-meloneras-palace-meloneras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/holiday-world-maspalomas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/holiday-world-maspalomas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\holiday-world-maspalomas-grancanaria.jpg",
       "filename": "holiday-world-maspalomas-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-maspalomas:holiday-world-maspalomas",
       "domain": "grancanaria",
@@ -1773,7 +1884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/holiday-world-maspalomas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/holiday-world-maspalomas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\holiday-world-maspalomas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-maspalomas/",
           "page_slug": "omrade-maspalomas",
@@ -1786,13 +1897,16 @@
           "caption": "Holiday World Maspalomas i Gran Canaria",
           "description": "Holiday World Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/holiday-world-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg",
       "filename": "hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:hotel-cordial-mogan-playa-puerto-de-mogan",
       "domain": "grancanaria",
@@ -1820,7 +1934,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -1833,13 +1947,16 @@
           "caption": "Hotel Cordial Mogán Playa — Puerto de Mogán i Gran Canaria",
           "description": "Hotel Cordial Mogán Playa — Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/hotel-cordial-mogan-playa-puerto-de-mogan-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotell-med-frukost-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hotell-med-frukost-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\hotell-med-frukost-grancanaria.jpg",
       "filename": "hotell-med-frukost-grancanaria.jpg",
       "brief_id": "grancanaria:billigaste-sattet-att-resa-till-gran-canaria:hotell-med-frukost",
       "domain": "grancanaria",
@@ -1867,7 +1984,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotell-med-frukost-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hotell-med-frukost-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\hotell-med-frukost-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/billigaste-sattet-att-resa-till-gran-canaria/",
           "page_slug": "billigaste-sattet-att-resa-till-gran-canaria",
@@ -1880,13 +1997,16 @@
           "caption": "Hotell med frukost i Gran Canaria",
           "description": "Hotell med frukost i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/hotell-med-frukost-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/ifa-buenaventura-playa-del-ingles-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/ifa-buenaventura-playa-del-ingles-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\ifa-buenaventura-playa-del-ingles-grancanaria.jpg",
       "filename": "ifa-buenaventura-playa-del-ingles-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:ifa-buenaventura-playa-del-ingles",
       "domain": "grancanaria",
@@ -1914,7 +2034,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/ifa-buenaventura-playa-del-ingles-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/ifa-buenaventura-playa-del-ingles-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\ifa-buenaventura-playa-del-ingles-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -1927,13 +2047,16 @@
           "caption": "IFA Buenaventura — Playa del Inglés i Gran Canaria",
           "description": "IFA Buenaventura — Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/ifa-buenaventura-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg",
       "filename": "kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:kan-man-boka-hotell-pa-plats-utan-forbokning",
       "domain": "grancanaria",
@@ -1961,7 +2084,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -1974,13 +2097,16 @@
           "caption": "Kan man boka hotell på plats utan förbokning? i Gran Canaria",
           "description": "Kan man boka hotell på plats utan förbokning? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/kan-man-boka-hotell-pa-plats-utan-forbokning-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/klassisk-heldag-tejeda-och-roque-nublo-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg",
       "filename": "klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg",
       "brief_id": "grancanaria:bergsbyarna-gran-canaria:klassisk-heldag-tejeda-och-roque-nublo",
       "domain": "grancanaria",
@@ -2008,7 +2134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/klassisk-heldag-tejeda-och-roque-nublo-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
           "page_slug": "bergsbyarna-gran-canaria",
@@ -2021,13 +2147,16 @@
           "caption": "Klassisk heldag: Tejeda och Roque Nublo i Gran Canaria",
           "description": "Klassisk heldag: Tejeda och Roque Nublo i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/klassisk-heldag-tejeda-och-roque-nublo-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kortare-tur-fataga-och-san-bartolome-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/kortare-tur-fataga-och-san-bartolome-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\kortare-tur-fataga-och-san-bartolome-grancanaria.jpg",
       "filename": "kortare-tur-fataga-och-san-bartolome-grancanaria.jpg",
       "brief_id": "grancanaria:bergsbyarna-gran-canaria:kortare-tur-fataga-och-san-bartolome",
       "domain": "grancanaria",
@@ -2055,7 +2184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/kortare-tur-fataga-och-san-bartolome-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/kortare-tur-fataga-och-san-bartolome-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\kortare-tur-fataga-och-san-bartolome-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
           "page_slug": "bergsbyarna-gran-canaria",
@@ -2068,13 +2197,16 @@
           "caption": "Kortare tur: Fataga och San Bartolomé i Gran Canaria",
           "description": "Kortare tur: Fataga och San Bartolomé i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/kortare-tur-fataga-och-san-bartolome-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/maspalomas-strand-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/maspalomas-strand-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\maspalomas-strand-grancanaria.jpg",
       "filename": "maspalomas-strand-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-maspalomas:maspalomas-strand",
       "domain": "grancanaria",
@@ -2102,7 +2234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/maspalomas-strand-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-strand-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\maspalomas-strand-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-maspalomas/",
           "page_slug": "omrade-maspalomas",
@@ -2115,13 +2247,16 @@
           "caption": "Maspalomas strand i Gran Canaria",
           "description": "Maspalomas strand i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/maspalomas-strand-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/medel-100180-natt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/medel-100180-natt-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\medel-100180-natt-grancanaria.jpg",
       "filename": "medel-100180-natt-grancanaria.jpg",
       "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:medel-100180-natt",
       "domain": "grancanaria",
@@ -2149,7 +2284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/medel-100180-natt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/medel-100180-natt-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\medel-100180-natt-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
           "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -2162,13 +2297,16 @@
           "caption": "Medel (100–180 €/natt) i Gran Canaria",
           "description": "Medel (100–180 €/natt) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/medel-100180-natt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/nackdelar-med-las-palmas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/nackdelar-med-las-palmas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\nackdelar-med-las-palmas-grancanaria.jpg",
       "filename": "nackdelar-med-las-palmas-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-digitala-nomader:nackdelar-med-las-palmas",
       "domain": "grancanaria",
@@ -2196,7 +2334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/nackdelar-med-las-palmas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/nackdelar-med-las-palmas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\nackdelar-med-las-palmas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-digitala-nomader/",
           "page_slug": "gran-canaria-digitala-nomader",
@@ -2209,13 +2347,16 @@
           "caption": "Nackdelar med Las Palmas i Gran Canaria",
           "description": "Nackdelar med Las Palmas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/nackdelar-med-las-palmas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/omrade-maspalomas-aqualand-maspalomas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg",
       "filename": "omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-maspalomas:aqualand-maspalomas",
       "domain": "grancanaria",
@@ -2243,7 +2384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/omrade-maspalomas-aqualand-maspalomas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-maspalomas/",
           "page_slug": "omrade-maspalomas",
@@ -2256,13 +2397,16 @@
           "caption": "Aqualand Maspalomas i Gran Canaria",
           "description": "Aqualand Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/omrade-maspalomas-aqualand-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/omrade-maspalomas-playa-del-ingles-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/omrade-maspalomas-playa-del-ingles-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\omrade-maspalomas-playa-del-ingles-grancanaria.jpg",
       "filename": "omrade-maspalomas-playa-del-ingles-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-maspalomas:playa-del-ingles",
       "domain": "grancanaria",
@@ -2290,7 +2434,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/omrade-maspalomas-playa-del-ingles-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/omrade-maspalomas-playa-del-ingles-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\omrade-maspalomas-playa-del-ingles-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-maspalomas/",
           "page_slug": "omrade-maspalomas",
@@ -2303,13 +2447,16 @@
           "caption": "Playa del Inglés i Gran Canaria",
           "description": "Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/omrade-maspalomas-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/organiserade-utflykter-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/organiserade-utflykter-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\organiserade-utflykter-grancanaria.jpg",
       "filename": "organiserade-utflykter-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-utan-hyrbil:organiserade-utflykter",
       "domain": "grancanaria",
@@ -2337,7 +2484,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/organiserade-utflykter-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/organiserade-utflykter-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\organiserade-utflykter-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
           "page_slug": "gran-canaria-utan-hyrbil",
@@ -2350,13 +2497,16 @@
           "caption": "Organiserade utflykter i Gran Canaria",
           "description": "Organiserade utflykter i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/organiserade-utflykter-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/papas-arrugadas-con-mojo-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/papas-arrugadas-con-mojo-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\papas-arrugadas-con-mojo-grancanaria.jpg",
       "filename": "papas-arrugadas-con-mojo-grancanaria.jpg",
       "brief_id": "grancanaria:matguide-gran-canaria:papas-arrugadas-con-mojo",
       "domain": "grancanaria",
@@ -2384,7 +2534,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/papas-arrugadas-con-mojo-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/papas-arrugadas-con-mojo-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\papas-arrugadas-con-mojo-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/matguide-gran-canaria/",
           "page_slug": "matguide-gran-canaria",
@@ -2397,13 +2547,16 @@
           "caption": "Papas arrugadas con mojo i Gran Canaria",
           "description": "Papas arrugadas con mojo i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/papas-arrugadas-con-mojo-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/priser-puerto-de-mogan-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/priser-puerto-de-mogan-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\priser-puerto-de-mogan-grancanaria.jpg",
       "filename": "priser-puerto-de-mogan-grancanaria.jpg",
       "brief_id": "grancanaria:hyra-i-puerto-mogan:priser-puerto-de-mogan",
       "domain": "grancanaria",
@@ -2431,7 +2584,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/priser-puerto-de-mogan-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/priser-puerto-de-mogan-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\priser-puerto-de-mogan-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hyra-i-puerto-mogan/",
           "page_slug": "hyra-i-puerto-mogan",
@@ -2444,13 +2597,16 @@
           "caption": "Priser Puerto de Mogán i Gran Canaria",
           "description": "Priser Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/priser-puerto-de-mogan-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/privat-lagenhet-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/privat-lagenhet-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\privat-lagenhet-grancanaria.jpg",
       "filename": "privat-lagenhet-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-pensionarer-langliggare:privat-lagenhet",
       "domain": "grancanaria",
@@ -2478,7 +2634,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/privat-lagenhet-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/privat-lagenhet-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\privat-lagenhet-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-pensionarer-langliggare/",
           "page_slug": "gran-canaria-pensionarer-langliggare",
@@ -2491,13 +2647,16 @@
           "caption": "Privat lägenhet i Gran Canaria",
           "description": "Privat lägenhet i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/privat-lagenhet-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/puerto-de-mogan-passar-inte-for-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/puerto-de-mogan-passar-inte-for-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\puerto-de-mogan-passar-inte-for-grancanaria.jpg",
       "filename": "puerto-de-mogan-passar-inte-for-grancanaria.jpg",
       "brief_id": "grancanaria:hyra-i-puerto-mogan:puerto-de-mogan-passar-inte-for",
       "domain": "grancanaria",
@@ -2525,7 +2684,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/puerto-de-mogan-passar-inte-for-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/puerto-de-mogan-passar-inte-for-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\puerto-de-mogan-passar-inte-for-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hyra-i-puerto-mogan/",
           "page_slug": "hyra-i-puerto-mogan",
@@ -2538,13 +2697,16 @@
           "caption": "Puerto de Mogán passar INTE för: i Gran Canaria",
           "description": "Puerto de Mogán passar INTE för: i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/puerto-de-mogan-passar-inte-for-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/puerto-rico-det-livliga-hjartat-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/puerto-rico-det-livliga-hjartat-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\puerto-rico-det-livliga-hjartat-grancanaria.jpg",
       "filename": "puerto-rico-det-livliga-hjartat-grancanaria.jpg",
       "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:puerto-rico-det-livliga-hjartat",
       "domain": "grancanaria",
@@ -2572,7 +2734,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/puerto-rico-det-livliga-hjartat-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/puerto-rico-det-livliga-hjartat-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\puerto-rico-det-livliga-hjartat-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
           "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
@@ -2585,13 +2747,16 @@
           "caption": "Puerto Rico – Det Livliga Hjärtat i Gran Canaria",
           "description": "Puerto Rico – Det Livliga Hjärtat i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/puerto-rico-det-livliga-hjartat-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/roque-nublo-ons-ikon-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/roque-nublo-ons-ikon-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\roque-nublo-ons-ikon-grancanaria.jpg",
       "filename": "roque-nublo-ons-ikon-grancanaria.jpg",
       "brief_id": "grancanaria:vandring-gran-canaria:roque-nublo-ons-ikon",
       "domain": "grancanaria",
@@ -2619,7 +2784,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/roque-nublo-ons-ikon-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/roque-nublo-ons-ikon-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\roque-nublo-ons-ikon-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/vandring-gran-canaria/",
           "page_slug": "vandring-gran-canaria",
@@ -2632,13 +2797,16 @@
           "caption": "Roque Nublo — öns ikon i Gran Canaria",
           "description": "Roque Nublo — öns ikon i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/roque-nublo-ons-ikon-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg",
       "filename": "santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:santa-catalina-a-royal-hideaway-hotel-las-palmas",
       "domain": "grancanaria",
@@ -2666,7 +2834,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -2679,13 +2847,16 @@
           "caption": "Santa Catalina, A Royal Hideaway Hotel — Las Palmas i Gran Canaria",
           "description": "Santa Catalina, A Royal Hideaway Hotel — Las Palmas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/santa-catalina-a-royal-hideaway-hotel-las-palmas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/seaside-palm-beach-meloneras-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/seaside-palm-beach-meloneras-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\seaside-palm-beach-meloneras-grancanaria.jpg",
       "filename": "seaside-palm-beach-meloneras-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:seaside-palm-beach-meloneras",
       "domain": "grancanaria",
@@ -2713,7 +2884,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/seaside-palm-beach-meloneras-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/seaside-palm-beach-meloneras-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\seaside-palm-beach-meloneras-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -2726,13 +2897,16 @@
           "caption": "Seaside Palm Beach — Meloneras i Gran Canaria",
           "description": "Seaside Palm Beach — Meloneras i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/seaside-palm-beach-meloneras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/spartips-for-flyg-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/spartips-for-flyg-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\spartips-for-flyg-grancanaria.jpg",
       "filename": "spartips-for-flyg-grancanaria.jpg",
       "brief_id": "grancanaria:billigaste-sattet-att-resa-till-gran-canaria:spartips-for-flyg",
       "domain": "grancanaria",
@@ -2760,7 +2934,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/spartips-for-flyg-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/spartips-for-flyg-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\spartips-for-flyg-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/billigaste-sattet-att-resa-till-gran-canaria/",
           "page_slug": "billigaste-sattet-att-resa-till-gran-canaria",
@@ -2773,13 +2947,16 @@
           "caption": "Spartips för flyg i Gran Canaria",
           "description": "Spartips för flyg i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/spartips-for-flyg-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/suites-1478-las-palmas-vegueta-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/suites-1478-las-palmas-vegueta-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\suites-1478-las-palmas-vegueta-grancanaria.jpg",
       "filename": "suites-1478-las-palmas-vegueta-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:suites-1478-las-palmas-vegueta",
       "domain": "grancanaria",
@@ -2807,7 +2984,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/suites-1478-las-palmas-vegueta-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/suites-1478-las-palmas-vegueta-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\suites-1478-las-palmas-vegueta-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -2820,13 +2997,16 @@
           "caption": "Suites 1478 — Las Palmas, Vegueta i Gran Canaria",
           "description": "Suites 1478 — Las Palmas, Vegueta i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/suites-1478-las-palmas-vegueta-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/taxi-ar-battre-for-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/taxi-ar-battre-for-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\taxi-ar-battre-for-grancanaria.jpg",
       "filename": "taxi-ar-battre-for-grancanaria.jpg",
       "brief_id": "grancanaria:taxi-gran-canaria:taxi-ar-battre-for",
       "domain": "grancanaria",
@@ -2854,7 +3034,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/taxi-ar-battre-for-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/taxi-ar-battre-for-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\taxi-ar-battre-for-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/taxi-gran-canaria/",
           "page_slug": "taxi-gran-canaria",
@@ -2867,13 +3047,16 @@
           "caption": "Taxi är bättre för: i Gran Canaria",
           "description": "Taxi är bättre för: i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/taxi-ar-battre-for-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/transfer-enkelt-och-bekvamt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/transfer-enkelt-och-bekvamt-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\transfer-enkelt-och-bekvamt-grancanaria.jpg",
       "filename": "transfer-enkelt-och-bekvamt-grancanaria.jpg",
       "brief_id": "grancanaria:gran-canaria-flygplats-transfer-ta-sig-runt:transfer-enkelt-och-bekvamt",
       "domain": "grancanaria",
@@ -2901,7 +3084,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/transfer-enkelt-och-bekvamt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/transfer-enkelt-och-bekvamt-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\transfer-enkelt-och-bekvamt-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-flygplats-transfer-ta-sig-runt/",
           "page_slug": "gran-canaria-flygplats-transfer-ta-sig-runt",
@@ -2914,13 +3097,16 @@
           "caption": "Transfer – enkelt och bekvämt i Gran Canaria",
           "description": "Transfer – enkelt och bekvämt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/transfer-enkelt-och-bekvamt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/transfer-fran-flygplatsen-till-puerto-rico-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg",
       "filename": "transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg",
       "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:transfer-fran-flygplatsen-till-puerto-rico",
       "domain": "grancanaria",
@@ -2948,7 +3134,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/transfer-fran-flygplatsen-till-puerto-rico-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
           "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
@@ -2961,13 +3147,16 @@
           "caption": "Transfer från Flygplatsen till Puerto Rico i Gran Canaria",
           "description": "Transfer från Flygplatsen till Puerto Rico i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-till-puerto-rico-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/valj-taxi-om-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/valj-taxi-om-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\valj-taxi-om-grancanaria.jpg",
       "filename": "valj-taxi-om-grancanaria.jpg",
       "brief_id": "grancanaria:taxi-gran-canaria:valj-taxi-om",
       "domain": "grancanaria",
@@ -2995,7 +3184,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/valj-taxi-om-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/valj-taxi-om-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\valj-taxi-om-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/taxi-gran-canaria/",
           "page_slug": "taxi-gran-canaria",
@@ -3008,13 +3197,16 @@
           "caption": "Välj taxi om: i Gran Canaria",
           "description": "Välj taxi om: i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/valj-taxi-om-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/veintiuno-hotel-las-palmas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/veintiuno-hotel-las-palmas-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\veintiuno-hotel-las-palmas-grancanaria.jpg",
       "filename": "veintiuno-hotel-las-palmas-grancanaria.jpg",
       "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:veintiuno-hotel-las-palmas",
       "domain": "grancanaria",
@@ -3042,7 +3234,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/veintiuno-hotel-las-palmas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/veintiuno-hotel-las-palmas-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\veintiuno-hotel-las-palmas-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
           "page_slug": "basta-hotellen-pa-gran-canaria",
@@ -3055,13 +3247,16 @@
           "caption": "VEINTIUNO Hotel — Las Palmas i Gran Canaria",
           "description": "VEINTIUNO Hotel — Las Palmas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/veintiuno-hotel-las-palmas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg",
       "filename": "vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg",
       "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria",
       "domain": "grancanaria",
@@ -3089,7 +3284,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
           "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
@@ -3102,13 +3297,16 @@
           "caption": "Vilken är bästa dagsutflykten med hyrbil på Gran Canaria? i Gran Canaria",
           "description": "Vilken är bästa dagsutflykten med hyrbil på Gran Canaria? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/vilken-ar-basta-dagsutflykten-med-hyrbil-pa-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/yumbo-centrum-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/yumbo-centrum-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\yumbo-centrum-grancanaria.jpg",
       "filename": "yumbo-centrum-grancanaria.jpg",
       "brief_id": "grancanaria:nattliv-gran-canaria:yumbo-centrum",
       "domain": "grancanaria",
@@ -3136,7 +3334,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/yumbo-centrum-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/yumbo-centrum-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\yumbo-centrum-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/nattliv-gran-canaria/",
           "page_slug": "nattliv-gran-canaria",
@@ -3149,13 +3347,16 @@
           "caption": "Yumbo Centrum i Gran Canaria",
           "description": "Yumbo Centrum i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/yumbo-centrum-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/yumbo-centrum-playa-del-ingles-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/yumbo-centrum-playa-del-ingles-grancanaria.jpg",
+      "file": "bilder\\web-ready\\grancanaria\\redo\\yumbo-centrum-playa-del-ingles-grancanaria.jpg",
       "filename": "yumbo-centrum-playa-del-ingles-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-maspalomas:yumbo-centrum-playa-del-ingles",
       "domain": "grancanaria",
@@ -3183,7 +3384,7 @@
       ],
       "handoff": {
         "preferred_source_download": "bilder/inbox/yumbo-centrum-playa-del-ingles-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/yumbo-centrum-playa-del-ingles-grancanaria.jpg",
+        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\yumbo-centrum-playa-del-ingles-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-maspalomas/",
           "page_slug": "omrade-maspalomas",
@@ -3196,9 +3397,12 @@
           "caption": "Yumbo Centrum (Playa del Inglés) i Gran Canaria",
           "description": "Yumbo Centrum (Playa del Inglés) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
       },
-      "inspection": "bilder/web-ready/grancanaria/yumbo-centrum-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
