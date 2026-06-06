@@ -35,6 +35,7 @@
    <input class="tok" id="tok" type="password" placeholder="GitHub fine-grained token (contents: read/write)">
    <button class="sec" onclick="saveTok()">Spara token</button>
    <button id="load" onclick="load()">Ladda bilder</button>
+   <button class="sec" onclick="refreshPortal()" title="Kör om pipeline + dashboards och synka portalen">🔄 Uppdatera portalen</button>
    <select id="fdom"><option value="">Alla domäner</option></select>
    <input id="q" placeholder="🔎 Sök: caption, plats, sida, filnamn, id…" style="min-width:260px" oninput="render()">
    <select id="frole"><option value="">Alla roller</option><option value="section">section</option><option value="generell">generell</option></select>
@@ -42,7 +43,7 @@
    <select id="fplaced"><option value="">Placerade + ej</option><option value="0">Bara oplacerade</option><option value="1">Bara placerade</option></select>
    <span id="status"></span>
  </div>
- <p class="hint">Token sparas bara i din webbläsare (localStorage). Skapa en <b>fine-grained PAT</b> för repo <code>miggodon/resor</code> med behörighet <b>Contents: Read and write</b>. Funkar från vilken dator som helst.</p>
+ <p class="hint">Token sparas bara i din webbläsare (localStorage). Skapa en <b>fine-grained PAT</b> för repo <code>miggodon/resor</code> med <b>Contents: Read and write</b> (för att spara bild-ändringar) + <b>Actions: Read and write</b> (för 🔄 Uppdatera portalen-knappen). Funkar från vilken dator som helst.</p>
 </header>
 <main id="grid"></main>
 
@@ -60,6 +61,16 @@ $("tok").value = localStorage.getItem("gh_tok")||"";
 function b64decode(b64){ return decodeURIComponent(escape(atob(b64.replace(/\n/g,"")))); }
 function b64encode(str){ return btoa(unescape(encodeURIComponent(str))); }
 function tok(){ const t=localStorage.getItem("gh_tok"); if(!t){st("Klistra in token + Spara först","#dc2626");} return t; }
+async function refreshPortal(){
+  const t=tok(); if(!t) return;
+  if(!confirm("Kör om pipeline + dashboards och synka portalen? Tar ~1–2 min i bakgrunden.")) return;
+  st("Startar uppdatering…","#0f766e");
+  const r=await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/image-pipeline.yml/dispatches`,
+    {method:"POST",headers:{Authorization:"Bearer "+t,Accept:"application/vnd.github+json"},body:JSON.stringify({ref:"main"})});
+  if(r.status===204){ st("✓ Uppdatering startad — klar om ~1–2 min, ladda om sidan sen","#16a34a"); }
+  else if(r.status===403){ st("403: din token saknar 'Actions: Read and write' — lägg till den behörigheten","#dc2626"); }
+  else { st("Fel "+r.status+" vid start av uppdatering","#dc2626"); }
+}
 
 async function load(){
   const t=tok(); if(!t) return;
