@@ -4600,10 +4600,6 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
-      {
         "slug": "saker-att-gora-pa-lanzarote",
         "link": "https://lanzarote.se/saker-att-gora-pa-lanzarote/"
       }
@@ -4726,10 +4722,6 @@
     "date": "2026-05-30",
     "managed": false,
     "used_on": [
-      {
-        "slug": "om-lanzarote-se",
-        "link": "https://lanzarote.se/om-lanzarote-se/"
-      },
       {
         "slug": "saker-att-gora-pa-lanzarote",
         "link": "https://lanzarote.se/saker-att-gora-pa-lanzarote/"
