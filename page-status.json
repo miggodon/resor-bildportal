@@ -1708,8 +1708,8 @@
     "slug": "dagsutflykter-fran-lanzarote",
     "title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
     "link": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
-    "modified": "2026-06-06",
-    "words": 250,
+    "modified": "2026-06-07",
+    "words": 525,
     "h2": 1,
     "h3": 6,
     "images": 0,
@@ -1736,11 +1736,9 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
-    "score": 55,
-    "flags": [
-      "tunt content"
-    ],
+    "qa": "🟡 OK",
+    "score": 63,
+    "flags": [],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -9044,8 +9042,8 @@
     "slug": "saker-att-gora-i-malaga",
     "title": "Saker att göra i Málaga 2026 — 10 upplevelser du inte får missa",
     "link": "https://malaga.se/saker-att-gora-i-malaga/",
-    "modified": "2026-06-03",
-    "words": 1421,
+    "modified": "2026-06-07",
+    "words": 1437,
     "h2": 11,
     "h3": 1,
     "images": 12,
@@ -9072,14 +9070,12 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
-      "felmatchad"
+      "kluster"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "score": 90,
     "flags": [
-      "🖼 bildkluster (4)",
-      "📍 felmatchad bild (1)"
+      "🖼 bildkluster (4)"
     ],
     "tier": "Best-in-class",
     "contaminated": false
