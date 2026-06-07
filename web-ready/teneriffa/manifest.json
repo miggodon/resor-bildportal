@@ -1,313 +1,31 @@
 {
-  "generated_at": "2026-06-07T12:28:00.620654+00:00",
+  "generated_at": "2026-06-07T23:27:52.516128+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/teneriffa",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/costa-adeje-och-los-cristianos-inga-problem-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/costa-adeje-och-los-cristianos-inga-problem-teneriffa.jpg",
-      "filename": "costa-adeje-och-los-cristianos-inga-problem-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-utan-hyrbil:costa-adeje-och-los-cristianos-inga-problem",
+      "source": "bilder/inbox/masca-byn-80-km-1-5-tim-teneriffa.png",
+      "file": "bilder/web-ready/teneriffa/masca-byn-80-km-1-5-tim-teneriffa.jpg",
+      "filename": "masca-byn-80-km-1-5-tim-teneriffa.jpg",
+      "brief_id": "teneriffa:dagsutflykter-fran-teneriffa:masca-byn-80-km-1-5-tim",
       "domain": "teneriffa",
       "site": "teneriffa.se",
       "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-utan-hyrbil/",
-      "page_id": 137,
-      "page_title": "Teneriffa utan hyrbil – så tar du dig runt med buss och till fots",
-      "page_slug": "teneriffa-utan-hyrbil",
-      "h3": "Costa Adeje och Los Cristianos – inga problem",
-      "h3_slug": "costa-adeje-och-los-cristianos-inga-problem",
-      "place": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Costa Adeje och Los Cristianos – inga problem i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents costa adeje och los cristianos – inga problem with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: costa-adeje-och-los-cristianos-inga-problem-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Costa Adeje och Los Cristianos – inga problem i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents costa adeje och los cristianos – inga problem with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-      "caption": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-      "seo": "Costa Adeje och Los Cristianos – inga problem i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/costa-adeje-och-los-cristianos-inga-problem-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/costa-adeje-och-los-cristianos-inga-problem-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-utan-hyrbil/",
-          "page_slug": "teneriffa-utan-hyrbil",
-          "section_h3": "Costa Adeje och Los Cristianos – inga problem",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-          "alt": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-          "caption": "Costa Adeje och Los Cristianos – inga problem i Teneriffa",
-          "description": "Costa Adeje och Los Cristianos – inga problem i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/costa-adeje-och-los-cristianos-inga-problem-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.jpg",
-      "filename": "fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.jpg",
-      "brief_id": "teneriffa:hyrbil-pa-teneriffa:fungerar-ditt-svenska-kreditkort-som-forsakring",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-      "page_id": 24,
-      "page_title": "Hyrbil på Teneriffa — komplett guide för svenska resenärer",
-      "page_slug": "hyrbil-pa-teneriffa",
-      "h3": "Fungerar ditt svenska kreditkort som försäkring?",
-      "h3_slug": "fungerar-ditt-svenska-kreditkort-som-forsakring",
-      "place": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Fungerar ditt svenska kreditkort som försäkring? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents fungerar ditt svenska kreditkort som försäkring? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Fungerar ditt svenska kreditkort som försäkring? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents fungerar ditt svenska kreditkort som försäkring? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-      "caption": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-      "seo": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-          "page_slug": "hyrbil-pa-teneriffa",
-          "section_h3": "Fungerar ditt svenska kreditkort som försäkring?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-          "alt": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-          "caption": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa",
-          "description": "Fungerar ditt svenska kreditkort som försäkring? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/fungerar-ditt-svenska-kreditkort-som-forsakring-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/har-teneriffa-vita-strander-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/har-teneriffa-vita-strander-teneriffa.jpg",
-      "filename": "har-teneriffa-vita-strander-teneriffa.jpg",
-      "brief_id": "teneriffa:basta-stranderna-pa-teneriffa:har-teneriffa-vita-strander",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/basta-stranderna-pa-teneriffa/",
-      "page_id": 109,
-      "page_title": "Bästa stränderna på Teneriffa — guide till 16 stränder och naturpooler",
-      "page_slug": "basta-stranderna-pa-teneriffa",
-      "h3": "Har Teneriffa vita stränder?",
-      "h3_slug": "har-teneriffa-vita-strander",
-      "place": "Har Teneriffa vita stränder? i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Har Teneriffa vita stränder? i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents har teneriffa vita stränder? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: har-teneriffa-vita-strander-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Har Teneriffa vita stränder? i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents har teneriffa vita stränder? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Har Teneriffa vita stränder? i Teneriffa",
-      "caption": "Har Teneriffa vita stränder? i Teneriffa",
-      "seo": "Har Teneriffa vita stränder? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/har-teneriffa-vita-strander-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/har-teneriffa-vita-strander-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/basta-stranderna-pa-teneriffa/",
-          "page_slug": "basta-stranderna-pa-teneriffa",
-          "section_h3": "Har Teneriffa vita stränder?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Har Teneriffa vita stränder? i Teneriffa",
-          "alt": "Har Teneriffa vita stränder? i Teneriffa",
-          "caption": "Har Teneriffa vita stränder? i Teneriffa",
-          "description": "Har Teneriffa vita stränder? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/har-teneriffa-vita-strander-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/korkort-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/korkort-teneriffa.jpg",
-      "filename": "korkort-teneriffa.jpg",
-      "brief_id": "teneriffa:hyrbil-pa-teneriffa:korkort",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-      "page_id": 24,
-      "page_title": "Hyrbil på Teneriffa — komplett guide för svenska resenärer",
-      "page_slug": "hyrbil-pa-teneriffa",
-      "h3": "Körkort",
-      "h3_slug": "korkort",
-      "place": "Körkort i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Körkort i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents körkort with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: korkort-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Körkort i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents körkort with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Körkort i Teneriffa",
-      "caption": "Körkort i Teneriffa",
-      "seo": "Körkort i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/korkort-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/korkort-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-          "page_slug": "hyrbil-pa-teneriffa",
-          "section_h3": "Körkort",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Körkort i Teneriffa",
-          "alt": "Körkort i Teneriffa",
-          "caption": "Körkort i Teneriffa",
-          "description": "Körkort i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/korkort-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/kreditkort-och-deposition-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/kreditkort-och-deposition-teneriffa.jpg",
-      "filename": "kreditkort-och-deposition-teneriffa.jpg",
-      "brief_id": "teneriffa:hyrbil-pa-teneriffa:kreditkort-och-deposition",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-      "page_id": 24,
-      "page_title": "Hyrbil på Teneriffa — komplett guide för svenska resenärer",
-      "page_slug": "hyrbil-pa-teneriffa",
-      "h3": "Kreditkort och deposition",
-      "h3_slug": "kreditkort-och-deposition",
-      "place": "Kreditkort och deposition i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Kreditkort och deposition i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents kreditkort och deposition with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: kreditkort-och-deposition-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Kreditkort och deposition i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents kreditkort och deposition with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Kreditkort och deposition i Teneriffa",
-      "caption": "Kreditkort och deposition i Teneriffa",
-      "seo": "Kreditkort och deposition i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/kreditkort-och-deposition-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/kreditkort-och-deposition-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-          "page_slug": "hyrbil-pa-teneriffa",
-          "section_h3": "Kreditkort och deposition",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Kreditkort och deposition i Teneriffa",
-          "alt": "Kreditkort och deposition i Teneriffa",
-          "caption": "Kreditkort och deposition i Teneriffa",
-          "description": "Kreditkort och deposition i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/kreditkort-och-deposition-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/narliggande-strander-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/narliggande-strander-teneriffa.jpg",
-      "filename": "narliggande-strander-teneriffa.jpg",
-      "brief_id": "teneriffa:los-cristianos-teneriffa:narliggande-strander",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/los-cristianos-teneriffa/",
-      "page_id": 132,
-      "page_title": "Los Cristianos guide – stränder, hotell, restauranger och vem det passar",
-      "page_slug": "los-cristianos-teneriffa",
-      "h3": "Närliggande stränder",
-      "h3_slug": "narliggande-strander",
-      "place": "Närliggande stränder i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Närliggande stränder i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents närliggande stränder with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: narliggande-strander-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Närliggande stränder i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents närliggande stränder with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Närliggande stränder i Teneriffa",
-      "caption": "Närliggande stränder i Teneriffa",
-      "seo": "Närliggande stränder i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/narliggande-strander-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/narliggande-strander-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/los-cristianos-teneriffa/",
-          "page_slug": "los-cristianos-teneriffa",
-          "section_h3": "Närliggande stränder",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Närliggande stränder i Teneriffa",
-          "alt": "Närliggande stränder i Teneriffa",
-          "caption": "Närliggande stränder i Teneriffa",
-          "description": "Närliggande stränder i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/narliggande-strander-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/niva-1-tight-budget-backpacker-lag-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/niva-1-tight-budget-backpacker-lag-teneriffa.jpg",
-      "filename": "niva-1-tight-budget-backpacker-lag-teneriffa.jpg",
-      "brief_id": "teneriffa:budget-vad-kostar-teneriffa:niva-1-tight-budget-backpacker-lag",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/budget-vad-kostar-teneriffa/",
-      "page_id": 120,
-      "page_title": "Vad kostar en vecka på Teneriffa? Budget för tre nivåer",
-      "page_slug": "budget-vad-kostar-teneriffa",
-      "h3": "Nivå 1: Tight budget (backpacker/låg)",
-      "h3_slug": "niva-1-tight-budget-backpacker-lag",
-      "place": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
+      "page": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
+      "page_id": 670,
+      "page_title": "Dagsutflykter från Teneriffa — Teide, Masca och La Gomera",
+      "page_slug": "dagsutflykter-fran-teneriffa",
+      "h3": "2. Masca-byn — 80 km / 1,5 tim",
+      "h3_slug": "masca-byn-80-km-1-5-tim",
+      "place": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
       "gps": "28.2916, -16.6291",
       "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Nivå 1: Tight budget (backpacker/låg) i Teneriffa in Teneriffa, Spain, during the autumn travel season. The scene clearly represents nivå 1: tight budget (backpacker/låg) with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: niva-1-tight-budget-backpacker-lag-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Nivå 1: Tight budget (backpacker/låg) i Teneriffa in Teneriffa, Spain, during the autumn travel season. The scene clearly represents nivå 1: tight budget (backpacker/låg) with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
-      "caption": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
-      "seo": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic editorial travel photograph at Masca-byn — 80 km / 1,5 tim i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents masca-byn — 80 km / 1,5 tim with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: masca-byn-80-km-1-5-tim-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Masca-byn — 80 km / 1,5 tim i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents masca-byn — 80 km / 1,5 tim with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
+      "alt": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+      "caption": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+      "seo": "Masca-byn — 80 km / 1,5 tim i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -315,375 +33,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/niva-1-tight-budget-backpacker-lag-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/niva-1-tight-budget-backpacker-lag-teneriffa.jpg",
+        "preferred_source_download": "bilder/inbox/masca-byn-80-km-1-5-tim-teneriffa.png",
+        "web_ready_file": "bilder/web-ready/teneriffa/masca-byn-80-km-1-5-tim-teneriffa.jpg",
         "wordpress_target": {
-          "page_url": "https://teneriffa.se/budget-vad-kostar-teneriffa/",
-          "page_slug": "budget-vad-kostar-teneriffa",
-          "section_h3": "Nivå 1: Tight budget (backpacker/låg)",
+          "page_url": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
+          "page_slug": "dagsutflykter-fran-teneriffa",
+          "section_h3": "2. Masca-byn — 80 km / 1,5 tim",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
-          "alt": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
-          "caption": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa",
-          "description": "Nivå 1: Tight budget (backpacker/låg) i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+          "alt": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+          "caption": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+          "description": "Masca-byn — 80 km / 1,5 tim i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/teneriffa/niva-1-tight-budget-backpacker-lag-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/teneriffa/masca-byn-80-km-1-5-tim-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/passar-teide-nyborjare-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/passar-teide-nyborjare-teneriffa.jpg",
-      "filename": "passar-teide-nyborjare-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-vandring:passar-teide-nyborjare",
+      "source": "bilder/inbox/teide-nationalpark-50-km-1-tim-teneriffa.png",
+      "file": "bilder/web-ready/teneriffa/teide-nationalpark-50-km-1-tim-teneriffa.jpg",
+      "filename": "teide-nationalpark-50-km-1-tim-teneriffa.jpg",
+      "brief_id": "teneriffa:dagsutflykter-fran-teneriffa:teide-nationalpark-50-km-1-tim",
       "domain": "teneriffa",
       "site": "teneriffa.se",
       "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-vandring/",
-      "page_id": 139,
-      "page_title": "Vandring på Teneriffa – Teide, Anaga och leder för nybörjare",
-      "page_slug": "teneriffa-vandring",
-      "h3": "Passar Teide nybörjare?",
-      "h3_slug": "passar-teide-nyborjare",
-      "place": "Passar Teide nybörjare? i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "wide neighbourhood overview photograph",
-      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Passar Teide nybörjare? i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents passar teide nybörjare? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: passar-teide-nyborjare-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Passar Teide nybörjare? i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents passar teide nybörjare? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Passar Teide nybörjare? i Teneriffa",
-      "caption": "Passar Teide nybörjare? i Teneriffa",
-      "seo": "Passar Teide nybörjare? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/passar-teide-nyborjare-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/passar-teide-nyborjare-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-vandring/",
-          "page_slug": "teneriffa-vandring",
-          "section_h3": "Passar Teide nybörjare?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Passar Teide nybörjare? i Teneriffa",
-          "alt": "Passar Teide nybörjare? i Teneriffa",
-          "caption": "Passar Teide nybörjare? i Teneriffa",
-          "description": "Passar Teide nybörjare? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/passar-teide-nyborjare-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.jpg",
-      "filename": "playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-strandar-guide:playa-de-las-teresitas-basta-dagsutflykten-med-buss",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-strandar-guide/",
-      "page_id": 117,
-      "page_title": "Lugna stränder på Teneriffa — guide för seniorer, par och tillgänglighet",
-      "page_slug": "teneriffa-strandar-guide",
-      "h3": "Playa de las Teresitas — bästa dagsutflykten med buss",
-      "h3_slug": "playa-de-las-teresitas-basta-dagsutflykten-med-buss",
-      "place": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents playa de las teresitas — bästa dagsutflykten med buss with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents playa de las teresitas — bästa dagsutflykten med buss with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-      "caption": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-      "seo": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-strandar-guide/",
-          "page_slug": "teneriffa-strandar-guide",
-          "section_h3": "Playa de las Teresitas — bästa dagsutflykten med buss",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-          "alt": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-          "caption": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa",
-          "description": "Playa de las Teresitas — bästa dagsutflykten med buss i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/playa-de-las-teresitas-basta-dagsutflykten-med-buss-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.jpg",
-      "filename": "playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-strandar-guide:playa-fanabe-costa-adejes-basta-tillgangliga-strand",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-strandar-guide/",
-      "page_id": 117,
-      "page_title": "Lugna stränder på Teneriffa — guide för seniorer, par och tillgänglighet",
-      "page_slug": "teneriffa-strandar-guide",
-      "h3": "Playa Fañabé — Costa Adejes bästa tillgängliga strand",
-      "h3_slug": "playa-fanabe-costa-adejes-basta-tillgangliga-strand",
-      "place": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents playa fañabé — costa adejes bästa tillgängliga strand with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents playa fañabé — costa adejes bästa tillgängliga strand with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-      "caption": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-      "seo": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-strandar-guide/",
-          "page_slug": "teneriffa-strandar-guide",
-          "section_h3": "Playa Fañabé — Costa Adejes bästa tillgängliga strand",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-          "alt": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-          "caption": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa",
-          "description": "Playa Fañabé — Costa Adejes bästa tillgängliga strand i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/playa-fanabe-costa-adejes-basta-tillgangliga-strand-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg",
-      "filename": "playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-strandar-guide:playa-las-vistas-och-los-cristianos-enklast-med-buss",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-strandar-guide/",
-      "page_id": 117,
-      "page_title": "Lugna stränder på Teneriffa — guide för seniorer, par och tillgänglighet",
-      "page_slug": "teneriffa-strandar-guide",
-      "h3": "Playa Las Vistas och Los Cristianos — enklast med buss",
-      "h3_slug": "playa-las-vistas-och-los-cristianos-enklast-med-buss",
-      "place": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa in Teneriffa, Spain, during a busy warm-season evening. The scene clearly represents playa las vistas och los cristianos — enklast med buss with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa in Teneriffa, Spain, during a busy warm-season evening. The scene clearly represents playa las vistas och los cristianos — enklast med buss with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-      "caption": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-      "seo": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-strandar-guide/",
-          "page_slug": "teneriffa-strandar-guide",
-          "section_h3": "Playa Las Vistas och Los Cristianos — enklast med buss",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-          "alt": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-          "caption": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
-          "description": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/ska-man-boka-hyrbil-hemifran-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/ska-man-boka-hyrbil-hemifran-teneriffa.jpg",
-      "filename": "ska-man-boka-hyrbil-hemifran-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-hyrbil-guide:ska-man-boka-hyrbil-hemifran",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-hyrbil-guide/",
-      "page_id": 123,
-      "page_title": "Hyrbil på Teneriffa – när behövs bil, vägar, parkering och tips",
-      "page_slug": "teneriffa-hyrbil-guide",
-      "h3": "Ska man boka hyrbil hemifrån?",
-      "h3_slug": "ska-man-boka-hyrbil-hemifran",
-      "place": "Ska man boka hyrbil hemifrån? i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Ska man boka hyrbil hemifrån? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents ska man boka hyrbil hemifrån? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: ska-man-boka-hyrbil-hemifran-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Ska man boka hyrbil hemifrån? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents ska man boka hyrbil hemifrån? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Ska man boka hyrbil hemifrån? i Teneriffa",
-      "caption": "Ska man boka hyrbil hemifrån? i Teneriffa",
-      "seo": "Ska man boka hyrbil hemifrån? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/ska-man-boka-hyrbil-hemifran-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/ska-man-boka-hyrbil-hemifran-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-hyrbil-guide/",
-          "page_slug": "teneriffa-hyrbil-guide",
-          "section_h3": "Ska man boka hyrbil hemifrån?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Ska man boka hyrbil hemifrån? i Teneriffa",
-          "alt": "Ska man boka hyrbil hemifrån? i Teneriffa",
-          "caption": "Ska man boka hyrbil hemifrån? i Teneriffa",
-          "description": "Ska man boka hyrbil hemifrån? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/ska-man-boka-hyrbil-hemifran-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/sparvagnen-santa-cruzla-laguna-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/sparvagnen-santa-cruzla-laguna-teneriffa.jpg",
-      "filename": "sparvagnen-santa-cruzla-laguna-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-utan-hyrbil:sparvagnen-santa-cruzla-laguna",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-utan-hyrbil/",
-      "page_id": 137,
-      "page_title": "Teneriffa utan hyrbil – så tar du dig runt med buss och till fots",
-      "page_slug": "teneriffa-utan-hyrbil",
-      "h3": "Spårvagnen Santa Cruz–La Laguna",
-      "h3_slug": "sparvagnen-santa-cruzla-laguna",
-      "place": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Spårvagnen Santa Cruz–La Laguna i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents spårvagnen santa cruz–la laguna with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: sparvagnen-santa-cruzla-laguna-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Spårvagnen Santa Cruz–La Laguna i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents spårvagnen santa cruz–la laguna with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-      "caption": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-      "seo": "Spårvagnen Santa Cruz–La Laguna i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/sparvagnen-santa-cruzla-laguna-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/sparvagnen-santa-cruzla-laguna-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-utan-hyrbil/",
-          "page_slug": "teneriffa-utan-hyrbil",
-          "section_h3": "Spårvagnen Santa Cruz–La Laguna",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-          "alt": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-          "caption": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
-          "description": "Spårvagnen Santa Cruz–La Laguna i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/sparvagnen-santa-cruzla-laguna-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/teide-dramatik-for-naturintresserade-barn-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/teide-dramatik-for-naturintresserade-barn-teneriffa.jpg",
-      "filename": "teide-dramatik-for-naturintresserade-barn-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-med-barn-familjeguide:teide-dramatik-for-naturintresserade-barn",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-med-barn-familjeguide/",
-      "page_id": 128,
-      "page_title": "Teneriffa med barn – komplett familjeguide (0–17 år)",
-      "page_slug": "teneriffa-med-barn-familjeguide",
-      "h3": "Teide – dramatik för naturintresserade barn",
-      "h3_slug": "teide-dramatik-for-naturintresserade-barn",
-      "place": "Teide – dramatik för naturintresserade barn i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Teide – dramatik för naturintresserade barn i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide – dramatik för naturintresserade barn with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: teide-dramatik-for-naturintresserade-barn-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Teide – dramatik för naturintresserade barn i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide – dramatik för naturintresserade barn with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Teide – dramatik för naturintresserade barn i Teneriffa",
-      "caption": "Teide – dramatik för naturintresserade barn i Teneriffa",
-      "seo": "Teide – dramatik för naturintresserade barn i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/teide-dramatik-for-naturintresserade-barn-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/teide-dramatik-for-naturintresserade-barn-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-med-barn-familjeguide/",
-          "page_slug": "teneriffa-med-barn-familjeguide",
-          "section_h3": "Teide – dramatik för naturintresserade barn",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Teide – dramatik för naturintresserade barn i Teneriffa",
-          "alt": "Teide – dramatik för naturintresserade barn i Teneriffa",
-          "caption": "Teide – dramatik för naturintresserade barn i Teneriffa",
-          "description": "Teide – dramatik för naturintresserade barn i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/teide-dramatik-for-naturintresserade-barn-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/teide-i-november-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/teide-i-november-teneriffa.jpg",
-      "filename": "teide-i-november-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-i-november:teide-i-november",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-i-november/",
-      "page_id": 126,
-      "page_title": "Teneriffa i november – väder, priser och vad du gör",
-      "page_slug": "teneriffa-i-november",
-      "h3": "Teide i november",
-      "h3_slug": "teide-i-november",
-      "place": "Teide i november i Teneriffa",
+      "page": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
+      "page_id": 670,
+      "page_title": "Dagsutflykter från Teneriffa — Teide, Masca och La Gomera",
+      "page_slug": "dagsutflykter-fran-teneriffa",
+      "h3": "1. Teide nationalpark — 50 km / 1 tim",
+      "h3_slug": "teide-nationalpark-50-km-1-tim",
+      "place": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
       "gps": "28.2916, -16.6291",
       "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Teide i november i Teneriffa in Teneriffa, Spain, during the mild winter travel season. The scene clearly represents teide i november with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: teide-i-november-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Teide i november i Teneriffa in Teneriffa, Spain, during the mild winter travel season. The scene clearly represents teide i november with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Teide i november i Teneriffa",
-      "caption": "Teide i november i Teneriffa",
-      "seo": "Teide i november i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic editorial travel photograph at Teide nationalpark — 50 km / 1 tim i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide nationalpark — 50 km / 1 tim with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: teide-nationalpark-50-km-1-tim-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Teide nationalpark — 50 km / 1 tim i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide nationalpark — 50 km / 1 tim with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
+      "alt": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
+      "caption": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
+      "seo": "Teide nationalpark — 50 km / 1 tim i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -691,211 +80,23 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/teide-i-november-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/teide-i-november-teneriffa.jpg",
+        "preferred_source_download": "bilder/inbox/teide-nationalpark-50-km-1-tim-teneriffa.png",
+        "web_ready_file": "bilder/web-ready/teneriffa/teide-nationalpark-50-km-1-tim-teneriffa.jpg",
         "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-i-november/",
-          "page_slug": "teneriffa-i-november",
-          "section_h3": "Teide i november",
+          "page_url": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
+          "page_slug": "dagsutflykter-fran-teneriffa",
+          "section_h3": "1. Teide nationalpark — 50 km / 1 tim",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Teide i november i Teneriffa",
-          "alt": "Teide i november i Teneriffa",
-          "caption": "Teide i november i Teneriffa",
-          "description": "Teide i november i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
+          "alt": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
+          "caption": "Teide nationalpark — 50 km / 1 tim i Teneriffa",
+          "description": "Teide nationalpark — 50 km / 1 tim i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/teneriffa/teide-i-november-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/teide-med-barn-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/teide-med-barn-teneriffa.jpg",
-      "filename": "teide-med-barn-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-vandring:teide-med-barn",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-vandring/",
-      "page_id": 139,
-      "page_title": "Vandring på Teneriffa – Teide, Anaga och leder för nybörjare",
-      "page_slug": "teneriffa-vandring",
-      "h3": "Teide med barn",
-      "h3_slug": "teide-med-barn",
-      "place": "Teide med barn i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Teide med barn i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide med barn with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: teide-med-barn-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Teide med barn i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents teide med barn with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Teide med barn i Teneriffa",
-      "caption": "Teide med barn i Teneriffa",
-      "seo": "Teide med barn i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/teide-med-barn-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/teide-med-barn-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-vandring/",
-          "page_slug": "teneriffa-vandring",
-          "section_h3": "Teide med barn",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Teide med barn i Teneriffa",
-          "alt": "Teide med barn i Teneriffa",
-          "caption": "Teide med barn i Teneriffa",
-          "description": "Teide med barn i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/teide-med-barn-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/transfer-enkelt-och-forutsagbart-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/transfer-enkelt-och-forutsagbart-teneriffa.jpg",
-      "filename": "transfer-enkelt-och-forutsagbart-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-flygplats-transfer-ta-sig-runt:transfer-enkelt-och-forutsagbart",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-flygplats-transfer-ta-sig-runt/",
-      "page_id": 223,
-      "page_title": "Teneriffa flygplats, transfer och så tar du dig runt",
-      "page_slug": "teneriffa-flygplats-transfer-ta-sig-runt",
-      "h3": "Transfer – enkelt och förutsägbart",
-      "h3_slug": "transfer-enkelt-och-forutsagbart",
-      "place": "Transfer – enkelt och förutsägbart i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Transfer – enkelt och förutsägbart i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents transfer – enkelt och förutsägbart with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: transfer-enkelt-och-forutsagbart-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Transfer – enkelt och förutsägbart i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents transfer – enkelt och förutsägbart with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Transfer – enkelt och förutsägbart i Teneriffa",
-      "caption": "Transfer – enkelt och förutsägbart i Teneriffa",
-      "seo": "Transfer – enkelt och förutsägbart i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/transfer-enkelt-och-forutsagbart-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/transfer-enkelt-och-forutsagbart-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-flygplats-transfer-ta-sig-runt/",
-          "page_slug": "teneriffa-flygplats-transfer-ta-sig-runt",
-          "section_h3": "Transfer – enkelt och förutsägbart",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Transfer – enkelt och förutsägbart i Teneriffa",
-          "alt": "Transfer – enkelt och förutsägbart i Teneriffa",
-          "caption": "Transfer – enkelt och förutsägbart i Teneriffa",
-          "description": "Transfer – enkelt och förutsägbart i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/transfer-enkelt-och-forutsagbart-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/upphamtning-direkt-i-resorten-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/upphamtning-direkt-i-resorten-teneriffa.jpg",
-      "filename": "upphamtning-direkt-i-resorten-teneriffa.jpg",
-      "brief_id": "teneriffa:hyrbil-pa-teneriffa:upphamtning-direkt-i-resorten",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-      "page_id": 24,
-      "page_title": "Hyrbil på Teneriffa — komplett guide för svenska resenärer",
-      "page_slug": "hyrbil-pa-teneriffa",
-      "h3": "Upphämtning direkt i resorten",
-      "h3_slug": "upphamtning-direkt-i-resorten",
-      "place": "Upphämtning direkt i resorten i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Upphämtning direkt i resorten i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents upphämtning direkt i resorten with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: upphamtning-direkt-i-resorten-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Upphämtning direkt i resorten i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents upphämtning direkt i resorten with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Upphämtning direkt i resorten i Teneriffa",
-      "caption": "Upphämtning direkt i resorten i Teneriffa",
-      "seo": "Upphämtning direkt i resorten i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/upphamtning-direkt-i-resorten-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/upphamtning-direkt-i-resorten-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-          "page_slug": "hyrbil-pa-teneriffa",
-          "section_h3": "Upphämtning direkt i resorten",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Upphämtning direkt i resorten i Teneriffa",
-          "alt": "Upphämtning direkt i resorten i Teneriffa",
-          "caption": "Upphämtning direkt i resorten i Teneriffa",
-          "description": "Upphämtning direkt i resorten i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/upphamtning-direkt-i-resorten-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/vilken-vandring-ar-bast-pa-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/vilken-vandring-ar-bast-pa-teneriffa.jpg",
-      "filename": "vilken-vandring-ar-bast-pa-teneriffa.jpg",
-      "brief_id": "teneriffa:teneriffa-vandring:vilken-vandring-ar-bast-pa-teneriffa",
-      "domain": "teneriffa",
-      "site": "teneriffa.se",
-      "destination": "Teneriffa",
-      "page": "https://teneriffa.se/teneriffa-vandring/",
-      "page_id": 139,
-      "page_title": "Vandring på Teneriffa – Teide, Anaga och leder för nybörjare",
-      "page_slug": "teneriffa-vandring",
-      "h3": "Vilken vandring är bäst på Teneriffa?",
-      "h3_slug": "vilken-vandring-ar-bast-pa-teneriffa",
-      "place": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-      "gps": "28.2916, -16.6291",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Vilken vandring är bäst på Teneriffa? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken vandring är bäst på teneriffa? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Teneriffa travel guide.\n\nTarget filename after download: vilken-vandring-ar-bast-pa-teneriffa.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Vilken vandring är bäst på Teneriffa? i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken vandring är bäst på teneriffa? with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.",
-      "alt": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-      "caption": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-      "seo": "Vilken vandring är bäst på Teneriffa? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/vilken-vandring-ar-bast-pa-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/vilken-vandring-ar-bast-pa-teneriffa.jpg",
-        "wordpress_target": {
-          "page_url": "https://teneriffa.se/teneriffa-vandring/",
-          "page_slug": "teneriffa-vandring",
-          "section_h3": "Vilken vandring är bäst på Teneriffa?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-          "alt": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-          "caption": "Vilken vandring är bäst på Teneriffa? i Teneriffa",
-          "description": "Vilken vandring är bäst på Teneriffa? i Teneriffa. En del av reseguiden om Teneriffa med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/teneriffa/vilken-vandring-ar-bast-pa-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/teneriffa/teide-nationalpark-50-km-1-tim-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }

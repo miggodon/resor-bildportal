@@ -1,14 +1,155 @@
 {
-  "generated_at": "2026-06-07T10:57:51.496180+00:00",
+  "generated_at": "2026-06-07T23:27:51.979544+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/lanzarote",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/korkort-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/korkort-lanzarote.jpg",
-      "filename": "korkort-lanzarote.jpg",
-      "brief_id": "lanzarote:hyrbil-pa-lanzarote:korkort",
+      "source": "bilder/inbox/budget-solo-7-natter-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/budget-solo-7-natter-lanzarote.jpg",
+      "filename": "budget-solo-7-natter-lanzarote.jpg",
+      "brief_id": "lanzarote:vad-kostar-en-vecka-pa-lanzarote:budget-solo-7-natter",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/vad-kostar-en-vecka-pa-lanzarote/",
+      "page_id": 743,
+      "page_title": "Vad kostar en vecka på Lanzarote? Budget, medel och lyx 2026",
+      "page_slug": "vad-kostar-en-vecka-pa-lanzarote",
+      "h3": "Budget — Solo, 7 nätter",
+      "h3_slug": "budget-solo-7-natter",
+      "place": "Budget — Solo, 7 nätter i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Budget — Solo, 7 nätter i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents budget — solo, 7 nätter with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: budget-solo-7-natter-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Budget — Solo, 7 nätter i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents budget — solo, 7 nätter with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Budget — Solo, 7 nätter i Lanzarote",
+      "caption": "Budget — Solo, 7 nätter i Lanzarote",
+      "seo": "Budget — Solo, 7 nätter i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/budget-solo-7-natter-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/budget-solo-7-natter-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/vad-kostar-en-vecka-pa-lanzarote/",
+          "page_slug": "vad-kostar-en-vecka-pa-lanzarote",
+          "section_h3": "Budget — Solo, 7 nätter",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Budget — Solo, 7 nätter i Lanzarote",
+          "alt": "Budget — Solo, 7 nätter i Lanzarote",
+          "caption": "Budget — Solo, 7 nätter i Lanzarote",
+          "description": "Budget — Solo, 7 nätter i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/budget-solo-7-natter-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.jpg",
+      "filename": "fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.jpg",
+      "brief_id": "lanzarote:dagsutflykter-fran-lanzarote:fuerteventura-farja-35-min-farja-fran-playa-blanca",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+      "page_id": 742,
+      "page_title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
+      "page_slug": "dagsutflykter-fran-lanzarote",
+      "h3": "4. Fuerteventura (färja) — 35 min färja från Playa Blanca",
+      "h3_slug": "fuerteventura-farja-35-min-farja-fran-playa-blanca",
+      "place": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents fuerteventura (färja) — 35 min färja från playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents fuerteventura (färja) — 35 min färja från playa blanca with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+      "caption": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+      "seo": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+          "page_slug": "dagsutflykter-fran-lanzarote",
+          "section_h3": "4. Fuerteventura (färja) — 35 min färja från Playa Blanca",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+          "alt": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+          "caption": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote",
+          "description": "Fuerteventura (färja) — 35 min färja från Playa Blanca i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/fuerteventura-farja-35-min-farja-fran-playa-blanca-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/la-graciosa-farja-25-min-fran-orzola-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/la-graciosa-farja-25-min-fran-orzola-lanzarote.jpg",
+      "filename": "la-graciosa-farja-25-min-fran-orzola-lanzarote.jpg",
+      "brief_id": "lanzarote:dagsutflykter-fran-lanzarote:la-graciosa-farja-25-min-fran-orzola",
+      "domain": "lanzarote",
+      "site": "lanzarote.se",
+      "destination": "Lanzarote",
+      "page": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+      "page_id": 742,
+      "page_title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
+      "page_slug": "dagsutflykter-fran-lanzarote",
+      "h3": "1. La Graciosa — Färja 25 min från Órzola",
+      "h3_slug": "la-graciosa-farja-25-min-fran-orzola",
+      "place": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+      "gps": "29.0469, -13.5899",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at La Graciosa — Färja 25 min från Órzola i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents la graciosa — färja 25 min från órzola with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: la-graciosa-farja-25-min-fran-orzola-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at La Graciosa — Färja 25 min från Órzola i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents la graciosa — färja 25 min från órzola with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+      "caption": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+      "seo": "La Graciosa — Färja 25 min från Órzola i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/la-graciosa-farja-25-min-fran-orzola-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/la-graciosa-farja-25-min-fran-orzola-lanzarote.jpg",
+        "wordpress_target": {
+          "page_url": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+          "page_slug": "dagsutflykter-fran-lanzarote",
+          "section_h3": "1. La Graciosa — Färja 25 min från Órzola",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+          "alt": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+          "caption": "La Graciosa — Färja 25 min från Órzola i Lanzarote",
+          "description": "La Graciosa — Färja 25 min från Órzola i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/lanzarote/la-graciosa-farja-25-min-fran-orzola-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/lanzarote-flygplats-ace-cesar-manrique-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+      "filename": "lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+      "brief_id": "lanzarote:hyrbil-pa-lanzarote:lanzarote-flygplats-ace-cesar-manrique-lanzarote",
       "domain": "lanzarote",
       "site": "lanzarote.se",
       "destination": "Lanzarote",
@@ -16,16 +157,16 @@
       "page_id": 13,
       "page_title": "Hyrbil på Lanzarote",
       "page_slug": "hyrbil-pa-lanzarote",
-      "h3": "Körkort",
-      "h3_slug": "korkort",
-      "place": "Körkort i Lanzarote",
+      "h3": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote",
+      "h3_slug": "lanzarote-flygplats-ace-cesar-manrique-lanzarote",
+      "place": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
       "gps": "29.0469, -13.5899",
       "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Körkort i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents körkort with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: korkort-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Körkort i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents körkort with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "alt": "Körkort i Lanzarote",
-      "caption": "Körkort i Lanzarote",
-      "seo": "Körkort i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents lanzarote flygplats (ace) — césar manrique-lanzarote with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: lanzarote-flygplats-ace-cesar-manrique-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents lanzarote flygplats (ace) — césar manrique-lanzarote with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+      "caption": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+      "seo": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -33,46 +174,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/korkort-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/korkort-lanzarote.jpg",
+        "preferred_source_download": "bilder/inbox/lanzarote-flygplats-ace-cesar-manrique-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/hyrbil-pa-lanzarote/",
           "page_slug": "hyrbil-pa-lanzarote",
-          "section_h3": "Körkort",
+          "section_h3": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Körkort i Lanzarote",
-          "alt": "Körkort i Lanzarote",
-          "caption": "Körkort i Lanzarote",
-          "description": "Körkort i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+          "alt": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+          "caption": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+          "description": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/lanzarote/korkort-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/lanzarote/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.jpg",
-      "filename": "lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.jpg",
-      "brief_id": "lanzarote:lanzarote-utan-hyrbil:att-planera-for-manga-utflykter",
+      "source": "bilder/inbox/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+      "filename": "playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+      "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val",
       "domain": "lanzarote",
       "site": "lanzarote.se",
       "destination": "Lanzarote",
-      "page": "https://lanzarote.se/lanzarote-utan-hyrbil/",
-      "page_id": 88,
-      "page_title": "Lanzarote utan hyrbil: bästa områdena, buss, taxi och smarta utflykter",
-      "page_slug": "lanzarote-utan-hyrbil",
-      "h3": "Att planera för många utflykter",
-      "h3_slug": "att-planera-for-manga-utflykter",
-      "place": "Att planera för många utflykter i Lanzarote",
+      "page": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
+      "page_id": 11,
+      "page_title": "Bästa stränderna på Lanzarote",
+      "page_slug": "basta-stranderna-pa-lanzarote",
+      "h3": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val",
+      "h3_slug": "playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val",
+      "place": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
       "gps": "29.0469, -13.5899",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att planera för många utflykter i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents att planera för många utflykter with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Att planera för många utflykter i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents att planera för många utflykter with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "alt": "Att planera för många utflykter i Lanzarote",
-      "caption": "Att planera för många utflykter i Lanzarote",
-      "seo": "Att planera för många utflykter i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "shot_type": "street-level documentary evening photograph",
+      "prompt": "A realistic street-level documentary travel photograph at Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents playa blanca, playa dorada & playa flamingo — barnfamiljernas val with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents playa blanca, playa dorada & playa flamingo — barnfamiljernas val with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
+      "caption": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
+      "seo": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -80,46 +221,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.jpg",
+        "preferred_source_download": "bilder/inbox/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
         "wordpress_target": {
-          "page_url": "https://lanzarote.se/lanzarote-utan-hyrbil/",
-          "page_slug": "lanzarote-utan-hyrbil",
-          "section_h3": "Att planera för många utflykter",
+          "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
+          "page_slug": "basta-stranderna-pa-lanzarote",
+          "section_h3": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Att planera för många utflykter i Lanzarote",
-          "alt": "Att planera för många utflykter i Lanzarote",
-          "caption": "Att planera för många utflykter i Lanzarote",
-          "description": "Att planera för många utflykter i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
+          "alt": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
+          "caption": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote",
+          "description": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/lanzarote/lanzarote-utan-hyrbil-att-planera-for-manga-utflykter-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/lanzarote/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/norra-manrique-rutten-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/norra-manrique-rutten-lanzarote.jpg",
-      "filename": "norra-manrique-rutten-lanzarote.jpg",
-      "brief_id": "lanzarote:cesar-manrique-rutten-lanzarote:norra-manrique-rutten",
+      "source": "bilder/inbox/playa-de-papagayo-de-skyddade-vikarna-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+      "filename": "playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+      "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:playa-de-papagayo-de-skyddade-vikarna",
       "domain": "lanzarote",
       "site": "lanzarote.se",
       "destination": "Lanzarote",
-      "page": "https://lanzarote.se/cesar-manrique-rutten-lanzarote/",
-      "page_id": 91,
-      "page_title": "César Manrique-rutten på Lanzarote: Jameos, Cueva de los Verdes, Mirador del Río och mer",
-      "page_slug": "cesar-manrique-rutten-lanzarote",
-      "h3": "Norra Manrique-rutten",
-      "h3_slug": "norra-manrique-rutten",
-      "place": "Norra Manrique-rutten i Lanzarote",
+      "page": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
+      "page_id": 11,
+      "page_title": "Bästa stränderna på Lanzarote",
+      "page_slug": "basta-stranderna-pa-lanzarote",
+      "h3": "Playa de Papagayo — de skyddade vikarna",
+      "h3_slug": "playa-de-papagayo-de-skyddade-vikarna",
+      "place": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
       "gps": "29.0469, -13.5899",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Norra Manrique-rutten i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents norra manrique-rutten with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: norra-manrique-rutten-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Norra Manrique-rutten i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents norra manrique-rutten with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "alt": "Norra Manrique-rutten i Lanzarote",
-      "caption": "Norra Manrique-rutten i Lanzarote",
-      "seo": "Norra Manrique-rutten i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa de Papagayo — de skyddade vikarna i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents playa de papagayo — de skyddade vikarna with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: playa-de-papagayo-de-skyddade-vikarna-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa de Papagayo — de skyddade vikarna i Lanzarote in Lanzarote, Spain, during busy summer peak season. The scene clearly represents playa de papagayo — de skyddade vikarna with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+      "caption": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+      "seo": "Playa de Papagayo — de skyddade vikarna i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -127,46 +268,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/norra-manrique-rutten-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/norra-manrique-rutten-lanzarote.jpg",
+        "preferred_source_download": "bilder/inbox/playa-de-papagayo-de-skyddade-vikarna-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
         "wordpress_target": {
-          "page_url": "https://lanzarote.se/cesar-manrique-rutten-lanzarote/",
-          "page_slug": "cesar-manrique-rutten-lanzarote",
-          "section_h3": "Norra Manrique-rutten",
+          "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
+          "page_slug": "basta-stranderna-pa-lanzarote",
+          "section_h3": "Playa de Papagayo — de skyddade vikarna",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Norra Manrique-rutten i Lanzarote",
-          "alt": "Norra Manrique-rutten i Lanzarote",
-          "caption": "Norra Manrique-rutten i Lanzarote",
-          "description": "Norra Manrique-rutten i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+          "alt": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+          "caption": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+          "description": "Playa de Papagayo — de skyddade vikarna i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/lanzarote/norra-manrique-rutten-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/lanzarote/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/steg-2-farja-till-caleta-de-sebo-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/steg-2-farja-till-caleta-de-sebo-lanzarote.jpg",
-      "filename": "steg-2-farja-till-caleta-de-sebo-lanzarote.jpg",
-      "brief_id": "lanzarote:la-graciosa-fran-lanzarote:steg-2-farja-till-caleta-de-sebo",
+      "source": "bilder/inbox/timanfaya-nationalpark-40-km-40-min-lanzarote.png",
+      "file": "bilder/web-ready/lanzarote/timanfaya-nationalpark-40-km-40-min-lanzarote.jpg",
+      "filename": "timanfaya-nationalpark-40-km-40-min-lanzarote.jpg",
+      "brief_id": "lanzarote:dagsutflykter-fran-lanzarote:timanfaya-nationalpark-40-km-40-min",
       "domain": "lanzarote",
       "site": "lanzarote.se",
       "destination": "Lanzarote",
-      "page": "https://lanzarote.se/la-graciosa-fran-lanzarote/",
-      "page_id": 93,
-      "page_title": "La Graciosa från Lanzarote: färja, dagstur, stränder, cykel och praktiska tips",
-      "page_slug": "la-graciosa-fran-lanzarote",
-      "h3": "Steg 2: Farja till Caleta de Sebo",
-      "h3_slug": "steg-2-farja-till-caleta-de-sebo",
-      "place": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
+      "page": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+      "page_id": 742,
+      "page_title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
+      "page_slug": "dagsutflykter-fran-lanzarote",
+      "h3": "2. Timanfaya nationalpark — 40 km / 40 min",
+      "h3_slug": "timanfaya-nationalpark-40-km-40-min",
+      "place": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
       "gps": "29.0469, -13.5899",
-      "shot_type": "wide neighbourhood overview photograph",
-      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Steg 2: Farja till Caleta de Sebo i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents steg 2: farja till caleta de sebo with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: steg-2-farja-till-caleta-de-sebo-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Steg 2: Farja till Caleta de Sebo i Lanzarote in Lanzarote, Spain, during the most relevant travel season for the scene. The scene clearly represents steg 2: farja till caleta de sebo with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
-      "alt": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
-      "caption": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
-      "seo": "Steg 2: Farja till Caleta de Sebo i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
+      "shot_type": "editorial travel photograph",
+      "prompt": "A realistic editorial travel photograph at Timanfaya nationalpark — 40 km / 40 min i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents timanfaya nationalpark — 40 km / 40 min with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Lanzarote travel guide.\n\nTarget filename after download: timanfaya-nationalpark-40-km-40-min-lanzarote.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Timanfaya nationalpark — 40 km / 40 min i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents timanfaya nationalpark — 40 km / 40 min with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.",
+      "alt": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
+      "caption": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
+      "seo": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -174,23 +315,23 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/steg-2-farja-till-caleta-de-sebo-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/steg-2-farja-till-caleta-de-sebo-lanzarote.jpg",
+        "preferred_source_download": "bilder/inbox/timanfaya-nationalpark-40-km-40-min-lanzarote.png",
+        "web_ready_file": "bilder/web-ready/lanzarote/timanfaya-nationalpark-40-km-40-min-lanzarote.jpg",
         "wordpress_target": {
-          "page_url": "https://lanzarote.se/la-graciosa-fran-lanzarote/",
-          "page_slug": "la-graciosa-fran-lanzarote",
-          "section_h3": "Steg 2: Farja till Caleta de Sebo",
+          "page_url": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
+          "page_slug": "dagsutflykter-fran-lanzarote",
+          "section_h3": "2. Timanfaya nationalpark — 40 km / 40 min",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
-          "alt": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
-          "caption": "Steg 2: Farja till Caleta de Sebo i Lanzarote",
-          "description": "Steg 2: Farja till Caleta de Sebo i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
+          "alt": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
+          "caption": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote",
+          "description": "Timanfaya nationalpark — 40 km / 40 min i Lanzarote. En del av reseguiden om Lanzarote med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/lanzarote/steg-2-farja-till-caleta-de-sebo-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/lanzarote/timanfaya-nationalpark-40-km-40-min-lanzarote.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }

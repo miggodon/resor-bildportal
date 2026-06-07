@@ -6,13 +6,13 @@
     "title": "Dagsutflykter från Fuerteventura — Lobos, Lanzarote och Cofete",
     "link": "https://fuerteventura.se/dagsutflykter-fran-fuerteventura/",
     "modified": "2026-06-07",
-    "words": 473,
-    "h2": 1,
+    "words": 777,
+    "h2": 3,
     "h3": 6,
     "images": 0,
-    "internal": 7,
+    "internal": 12,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -25,21 +25,21 @@
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 2,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 67,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -49,8 +49,8 @@
     "title": "Fuerteventura för HBTQ-resenärer — välkomnande ö",
     "link": "https://fuerteventura.se/fuerteventura-hbtq/",
     "modified": "2026-06-07",
-    "words": 422,
-    "h2": 7,
+    "words": 737,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -78,11 +78,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -121,7 +121,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -165,7 +165,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -208,7 +208,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -249,7 +249,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -293,7 +293,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -304,11 +304,11 @@
     "slug": "om-fuerteventura-se",
     "title": "Om Fuerteventura.se",
     "link": "https://fuerteventura.se/om-fuerteventura-se/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 386,
     "h2": 6,
     "h3": 0,
-    "images": 7,
+    "images": 1,
     "internal": 2,
     "external": 0,
     "affiliate": 1,
@@ -331,16 +331,12 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 66,
-    "flags": [
-      "🖼 bildkluster (6)"
-    ],
-    "tier": "Påbörjad",
+    "score": 75,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -376,9 +372,9 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 58,
+    "score": 69,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -464,7 +460,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 69,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -507,7 +503,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 62,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -593,7 +589,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 69,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -636,12 +632,12 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 75,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -679,12 +675,12 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 75,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -720,9 +716,9 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 58,
+    "score": 68,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -765,7 +761,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 62,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -808,11 +804,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 80,
     "flags": [
       "omonetiserad"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -850,12 +846,12 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 75,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -976,12 +972,12 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 75,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1019,7 +1015,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 73,
     "flags": [
       "omonetiserad"
     ],
@@ -1032,11 +1028,11 @@
     "slug": "fuerteventura-vandring",
     "title": "Vandring på Fuerteventura – leder, områden och ärliga råd",
     "link": "https://fuerteventura.se/fuerteventura-vandring/",
-    "modified": "2026-06-01",
+    "modified": "2026-06-07",
     "words": 1561,
     "h2": 18,
     "h3": 1,
-    "images": 3,
+    "images": 2,
     "internal": 2,
     "external": 0,
     "affiliate": 0,
@@ -1058,15 +1054,12 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 73,
     "flags": [
-      "omonetiserad",
-      "🖼 bildkluster (1)"
+      "omonetiserad"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1107,7 +1100,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -1149,11 +1142,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 80,
     "flags": [
       "omonetiserad"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1193,7 +1186,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 74,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -1238,7 +1231,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 74,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -1253,10 +1246,10 @@
     "title": "Costa Calma – Områdesguide",
     "link": "https://fuerteventura.se/costa-calma-fuerteventura/",
     "modified": "2026-06-07",
-    "words": 1134,
+    "words": 1128,
     "h2": 8,
     "h3": 8,
-    "images": 4,
+    "images": 3,
     "internal": 7,
     "external": 0,
     "affiliate": 2,
@@ -1279,14 +1272,12 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -1302,7 +1293,7 @@
     "words": 1278,
     "h2": 9,
     "h3": 4,
-    "images": 5,
+    "images": 4,
     "internal": 11,
     "external": 0,
     "affiliate": 2,
@@ -1325,14 +1316,12 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -1345,10 +1334,10 @@
     "title": "Caleta de Fuste – Områdesguide",
     "link": "https://fuerteventura.se/caleta-de-fuste-fuerteventura/",
     "modified": "2026-06-07",
-    "words": 1474,
+    "words": 1456,
     "h2": 18,
     "h3": 1,
-    "images": 4,
+    "images": 2,
     "internal": 6,
     "external": 0,
     "affiliate": 2,
@@ -1371,17 +1360,15 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -1432,18 +1419,18 @@
     "slug": "flygplats-transfer-fuerteventura",
     "title": "Fuerteventura flygplats transfer och så tar du dig runt",
     "link": "https://fuerteventura.se/flygplats-transfer-fuerteventura/",
-    "modified": "2026-05-28",
-    "words": 301,
-    "h2": 1,
-    "h3": 2,
+    "modified": "2026-06-07",
+    "words": 667,
+    "h2": 3,
+    "h3": 6,
     "images": 0,
-    "internal": 3,
+    "internal": 5,
     "external": 1,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
     "aff_angle": [
-      "Funnel/allmän"
+      "Hotell"
     ],
     "indexed": true,
     "cta": 0,
@@ -1451,22 +1438,21 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 0,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 52,
+    "score": 89,
     "flags": [
-      "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1559,11 +1545,11 @@
     "slug": "basta-stranderna-pa-fuerteventura",
     "title": "Bästa stränderna på Fuerteventura",
     "link": "https://fuerteventura.se/basta-stranderna-pa-fuerteventura/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 4253,
     "h2": 18,
     "h3": 13,
-    "images": 15,
+    "images": 14,
     "internal": 22,
     "external": 6,
     "affiliate": 27,
@@ -1586,15 +1572,11 @@
     },
     "money_total": 15,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -1604,7 +1586,7 @@
     "slug": "basta-hotellen-pa-fuerteventura",
     "title": "Bästa hotellen på Fuerteventura — guide för skandinaver",
     "link": "https://fuerteventura.se/basta-hotellen-pa-fuerteventura/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 4031,
     "h2": 13,
     "h3": 26,
@@ -1687,7 +1669,7 @@
     "slug": "fuerteventura-se",
     "title": "Fuerteventura.se — din reseguide till Fuerteventura",
     "link": "https://fuerteventura.se/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1446,
     "h2": 11,
     "h3": 16,
@@ -1717,7 +1699,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -1728,14 +1710,14 @@
     "slug": "vad-kostar-en-vecka-pa-lanzarote",
     "title": "Vad kostar en vecka på Lanzarote? Budget, medel och lyx 2026",
     "link": "https://lanzarote.se/vad-kostar-en-vecka-pa-lanzarote/",
-    "modified": "2026-06-06",
-    "words": 286,
-    "h2": 2,
+    "modified": "2026-06-07",
+    "words": 761,
+    "h2": 6,
     "h3": 2,
     "images": 0,
-    "internal": 2,
+    "internal": 4,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -1743,27 +1725,26 @@
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
-    "cta": 0,
+    "cta": 8,
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 1,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
       "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 49,
+    "score": 77,
     "flags": [
-      "tunt content",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1773,13 +1754,13 @@
     "title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
     "link": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
     "modified": "2026-06-07",
-    "words": 538,
-    "h2": 1,
+    "words": 842,
+    "h2": 3,
     "h3": 6,
     "images": 0,
-    "internal": 7,
+    "internal": 12,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -1787,26 +1768,26 @@
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
-    "cta": 1,
+    "cta": 9,
     "cta_bd": {
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 2,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 67,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1815,12 +1796,12 @@
     "slug": "uteliv-pa-lanzarote",
     "title": "Uteliv på Lanzarote — bästa barer, nattklubbar och strandliv",
     "link": "https://lanzarote.se/uteliv-pa-lanzarote/",
-    "modified": "2026-06-06",
-    "words": 169,
-    "h2": 2,
-    "h3": 3,
+    "modified": "2026-06-07",
+    "words": 762,
+    "h2": 5,
+    "h3": 4,
     "images": 0,
-    "internal": 2,
+    "internal": 5,
     "external": 0,
     "affiliate": 2,
     "type": "Stränder",
@@ -1830,7 +1811,7 @@
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
-    "cta": 0,
+    "cta": 9,
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
@@ -1838,19 +1819,18 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 0
     },
-    "money_total": 3,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 49,
+    "score": 77,
     "flags": [
-      "tunt content",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1860,8 +1840,8 @@
     "title": "Lanzarote för HBTQ-resenärer — öppen och välkomnande ö",
     "link": "https://lanzarote.se/lanzarote-hbtq/",
     "modified": "2026-06-07",
-    "words": 419,
-    "h2": 7,
+    "words": 727,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -1874,7 +1854,7 @@
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
-    "cta": 5,
+    "cta": 8,
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
@@ -1889,11 +1869,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1933,7 +1913,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -1976,7 +1956,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -2019,7 +1999,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -2063,7 +2043,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -2105,11 +2085,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -2148,7 +2128,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2228,9 +2208,9 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -2274,7 +2254,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -2314,14 +2294,12 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -2363,7 +2341,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2404,7 +2382,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -2446,7 +2424,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2457,11 +2435,11 @@
     "slug": "la-geria-vin-lanzarote",
     "title": "La Geria och vin på Lanzarote: guide till vinlandskap, bodegor och smarta besök",
     "link": "https://lanzarote.se/la-geria-vin-lanzarote/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 869,
     "h2": 12,
     "h3": 18,
-    "images": 3,
+    "images": 1,
     "internal": 9,
     "external": 0,
     "affiliate": 1,
@@ -2483,15 +2461,11 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "score": 89,
+    "flags": [],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2501,11 +2475,11 @@
     "slug": "papagayo-stranderna-lanzarote",
     "title": "Papagayo-stränderna på Lanzarote: komplett guide till bad, parkering, regler och bästa strand",
     "link": "https://lanzarote.se/papagayo-stranderna-lanzarote/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 1010,
     "h2": 12,
     "h3": 23,
-    "images": 8,
+    "images": 6,
     "internal": 9,
     "external": 0,
     "affiliate": 1,
@@ -2529,14 +2503,12 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -2579,7 +2551,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 71,
+    "score": 68,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -2621,7 +2593,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2662,7 +2634,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2702,7 +2674,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2713,11 +2685,11 @@
     "slug": "cesar-manrique-rutten-lanzarote",
     "title": "César Manrique-rutten på Lanzarote: Jameos, Cueva de los Verdes, Mirador del Río och mer",
     "link": "https://lanzarote.se/cesar-manrique-rutten-lanzarote/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 1156,
     "h2": 15,
     "h3": 23,
-    "images": 8,
+    "images": 5,
     "internal": 9,
     "external": 0,
     "affiliate": 1,
@@ -2740,17 +2712,15 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [
-      "🖼 bildkluster (3)",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -2790,11 +2760,11 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -2803,11 +2773,11 @@
     "slug": "famara-surf-strand-lanzarote",
     "title": "Famara Lanzarote – komplett guide till surf och strand",
     "link": "https://lanzarote.se/famara-surf-strand-lanzarote/",
-    "modified": "2026-06-04",
-    "words": 647,
+    "modified": "2026-06-07",
+    "words": 635,
     "h2": 10,
     "h3": 10,
-    "images": 3,
+    "images": 2,
     "internal": 4,
     "external": 0,
     "affiliate": 1,
@@ -2835,7 +2805,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -2877,7 +2847,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2917,7 +2887,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2957,7 +2927,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -2968,11 +2938,11 @@
     "slug": "lanzarote-med-barn",
     "title": "Lanzarote med barn: bästa områdena, stränderna, hotellen och utflykterna",
     "link": "https://lanzarote.se/lanzarote-med-barn/",
-    "modified": "2026-06-05",
-    "words": 1241,
+    "modified": "2026-06-07",
+    "words": 1227,
     "h2": 12,
     "h3": 31,
-    "images": 3,
+    "images": 2,
     "internal": 12,
     "external": 0,
     "affiliate": 1,
@@ -2995,14 +2965,12 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -3044,7 +3012,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3081,16 +3049,12 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
-    "tier": "Berikad",
+    "score": 95,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -3129,7 +3093,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -3171,7 +3135,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 67,
+    "score": 73,
     "flags": [
       "tunt content"
     ],
@@ -3230,7 +3194,7 @@
     "slug": "saker-att-gora-pa-lanzarote",
     "title": "Saker att göra på Lanzarote",
     "link": "https://lanzarote.se/saker-att-gora-pa-lanzarote/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 4164,
     "h2": 8,
     "h3": 14,
@@ -3257,15 +3221,11 @@
     },
     "money_total": 6,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -3275,11 +3235,11 @@
     "slug": "basta-stranderna-pa-lanzarote",
     "title": "Bästa stränderna på Lanzarote",
     "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
-    "modified": "2026-06-05",
-    "words": 3059,
+    "modified": "2026-06-07",
+    "words": 2998,
     "h2": 10,
     "h3": 18,
-    "images": 16,
+    "images": 12,
     "internal": 17,
     "external": 2,
     "affiliate": 4,
@@ -3303,14 +3263,12 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (4)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -3323,10 +3281,10 @@
     "title": "Bästa hotellen på Lanzarote — guide för skandinaver",
     "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
     "modified": "2026-06-07",
-    "words": 5008,
+    "words": 4941,
     "h2": 14,
     "h3": 22,
-    "images": 29,
+    "images": 25,
     "internal": 43,
     "external": 0,
     "affiliate": 38,
@@ -3350,14 +3308,14 @@
     "money_total": 35,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
+      "dubblett",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 95,
     "flags": [
-      "🖼 bildkluster (6)",
+      "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -3440,9 +3398,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -3482,7 +3440,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3523,7 +3481,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3564,7 +3522,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -3608,7 +3566,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -3651,11 +3609,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -3691,9 +3649,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3731,9 +3689,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3773,11 +3731,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -3813,13 +3771,13 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 73,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -3858,11 +3816,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -3899,13 +3857,13 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 73,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -3941,9 +3899,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -3981,9 +3939,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4021,9 +3979,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -4109,11 +4067,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -4193,7 +4151,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4204,11 +4162,11 @@
     "slug": "gran-canaria-bortom-charterorterna",
     "title": "Gran Canaria bortom charterorterna: byar, berg, mat och platser där ön blir på riktigt",
     "link": "https://grancanaria.se/gran-canaria-bortom-charterorterna/",
-    "modified": "2026-05-30",
-    "words": 1174,
+    "modified": "2026-06-07",
+    "words": 1165,
     "h2": 16,
     "h3": 16,
-    "images": 3,
+    "images": 2,
     "internal": 12,
     "external": 0,
     "affiliate": 1,
@@ -4230,16 +4188,12 @@
     },
     "money_total": 1,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
-    "tier": "Berikad",
+    "score": 95,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -4248,11 +4202,11 @@
     "slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
     "title": "Gran Canarias bästa dagsutflykter med hyrbil: rutter, stopp och praktiska tips",
     "link": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
-    "modified": "2026-06-06",
-    "words": 1311,
+    "modified": "2026-06-07",
+    "words": 1300,
     "h2": 15,
     "h3": 29,
-    "images": 7,
+    "images": 6,
     "internal": 12,
     "external": 0,
     "affiliate": 1,
@@ -4276,14 +4230,12 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
     "tier": "Berikad",
@@ -4324,9 +4276,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -4364,7 +4316,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4404,11 +4356,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 80,
     "flags": [
       "omonetiserad"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -4446,11 +4398,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 80,
     "flags": [
       "omonetiserad"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -4488,7 +4440,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4528,7 +4480,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4568,7 +4520,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -4742,11 +4694,11 @@
     "slug": "maspalomas-dynerna",
     "title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
     "link": "https://grancanaria.se/maspalomas-dynerna/",
-    "modified": "2026-06-06",
-    "words": 1603,
+    "modified": "2026-06-07",
+    "words": 1584,
     "h2": 17,
     "h3": 26,
-    "images": 10,
+    "images": 8,
     "internal": 9,
     "external": 0,
     "affiliate": 1,
@@ -4769,15 +4721,11 @@
     },
     "money_total": 1,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -4990,7 +4938,7 @@
     "slug": "saker-att-gora-pa-gran-canaria",
     "title": "Saker att göra på Gran Canaria",
     "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 3255,
     "h2": 9,
     "h3": 14,
@@ -5017,15 +4965,11 @@
     },
     "money_total": 10,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5062,9 +5006,9 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -5107,7 +5051,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 83,
+    "score": 80,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5147,9 +5091,9 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 87,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -5185,9 +5129,9 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5228,7 +5172,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5265,11 +5209,15 @@
     },
     "money_total": 1,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "✅ Topp",
+    "img_issue": [
+      "dubblett"
+    ],
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 85,
-    "flags": [],
+    "score": 82,
+    "flags": [
+      "🖼 dubblettbild (1)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -5307,9 +5255,9 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -5432,9 +5380,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -5515,7 +5463,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -5569,7 +5517,7 @@
     "slug": "basta-stranderna-pa-gran-canaria",
     "title": "Bästa stränderna på Gran Canaria",
     "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 2322,
     "h2": 18,
     "h3": 0,
@@ -5596,15 +5544,11 @@
     },
     "money_total": 8,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5642,14 +5586,14 @@
     "money_total": 47,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
+      "dubblett",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (3)",
+      "🖼 dubblettbild (5)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -5661,7 +5605,7 @@
     "slug": "var-ska-man-bo-pa-gran-canaria",
     "title": "Var ska man bo på Gran Canaria? — Komplett områdesguide",
     "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 3476,
     "h2": 12,
     "h3": 21,
@@ -5690,12 +5634,14 @@
     "money_total": 31,
     "gyg_issue": [],
     "img_issue": [
+      "dubblett",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
+      "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -5708,13 +5654,13 @@
     "title": "Dagsutflykter från Teneriffa — Teide, Masca och La Gomera",
     "link": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
     "modified": "2026-06-07",
-    "words": 526,
-    "h2": 1,
+    "words": 830,
+    "h2": 3,
     "h3": 6,
     "images": 0,
-    "internal": 7,
+    "internal": 12,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -5727,21 +5673,21 @@
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 2,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 67,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -5751,8 +5697,8 @@
     "title": "Teneriffa för HBTQ-resenärer — guide till öppen och välkomnande destination",
     "link": "https://teneriffa.se/teneriffa-hbtq/",
     "modified": "2026-06-07",
-    "words": 422,
-    "h2": 7,
+    "words": 730,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -5780,11 +5726,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -5823,7 +5769,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -5867,7 +5813,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5908,7 +5854,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5949,7 +5895,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -5991,7 +5937,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6033,11 +5979,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -6050,7 +5996,7 @@
     "words": 1255,
     "h2": 9,
     "h3": 4,
-    "images": 3,
+    "images": 1,
     "internal": 9,
     "external": 0,
     "affiliate": 2,
@@ -6073,17 +6019,15 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -6120,13 +6064,13 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -6135,11 +6079,11 @@
     "slug": "teneriffa-vandring",
     "title": "Vandring på Teneriffa – Teide, Anaga och leder för nybörjare",
     "link": "https://teneriffa.se/teneriffa-vandring/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1210,
     "h2": 12,
     "h3": 10,
-    "images": 3,
+    "images": 2,
     "internal": 3,
     "external": 2,
     "affiliate": 3,
@@ -6161,15 +6105,11 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
+    "score": 94,
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -6179,7 +6119,7 @@
     "slug": "teneriffa-vad-man-inte-ska-gora",
     "title": "Vad man inte ska göra på Teneriffa – 15 vanliga misstag",
     "link": "https://teneriffa.se/teneriffa-vad-man-inte-ska-gora/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 952,
     "h2": 17,
     "h3": 6,
@@ -6208,11 +6148,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 95,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -6221,7 +6161,7 @@
     "slug": "teneriffa-utan-hyrbil",
     "title": "Teneriffa utan hyrbil – så tar du dig runt med buss och till fots",
     "link": "https://teneriffa.se/teneriffa-utan-hyrbil/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1260,
     "h2": 8,
     "h3": 11,
@@ -6251,7 +6191,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -6262,7 +6202,7 @@
     "slug": "teneriffa-tillganglighet",
     "title": "Tillgänglighet på Teneriffa – rullstol, stränder, hotell och områden",
     "link": "https://teneriffa.se/teneriffa-tillganglighet/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 913,
     "h2": 12,
     "h3": 7,
@@ -6292,7 +6232,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6305,7 +6245,7 @@
     "slug": "teneriffa-seniorer-guide",
     "title": "Teneriffa för seniorer – bästa områden, vård, klimat och tips",
     "link": "https://teneriffa.se/teneriffa-seniorer-guide/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1028,
     "h2": 11,
     "h3": 9,
@@ -6335,7 +6275,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6348,7 +6288,7 @@
     "slug": "praktisk-info-teneriffa",
     "title": "Praktisk info om Teneriffa – flyg, transfer, pengar, väder och säkerhet",
     "link": "https://teneriffa.se/praktisk-info-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1057,
     "h2": 14,
     "h3": 6,
@@ -6377,7 +6317,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6390,7 +6330,7 @@
     "slug": "puerto-de-la-cruz-teneriffa",
     "title": "Puerto de la Cruz guide – nordens Teneriffa förklarad",
     "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1487,
     "h2": 14,
     "h3": 0,
@@ -6419,11 +6359,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 95,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -6432,7 +6372,7 @@
     "slug": "los-cristianos-teneriffa",
     "title": "Los Cristianos guide – stränder, hotell, restauranger och vem det passar",
     "link": "https://teneriffa.se/los-cristianos-teneriffa/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 1097,
     "h2": 13,
     "h3": 9,
@@ -6462,7 +6402,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -6473,7 +6413,7 @@
     "slug": "costa-adeje-teneriffa",
     "title": "Costa Adeje guide – bästa hotell, stränder och restauranger",
     "link": "https://teneriffa.se/costa-adeje-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1328,
     "h2": 11,
     "h3": 5,
@@ -6503,7 +6443,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6516,7 +6456,7 @@
     "slug": "teneriffa-nattliv",
     "title": "Nattliv på Teneriffa – bästa områdena för barer, klubbar och kvällar",
     "link": "https://teneriffa.se/teneriffa-nattliv/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1069,
     "h2": 12,
     "h3": 9,
@@ -6546,7 +6486,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6559,7 +6499,7 @@
     "slug": "teneriffa-med-tonaringar",
     "title": "Teneriffa med tonåringar – aktiviteter, områden och smarta val",
     "link": "https://teneriffa.se/teneriffa-med-tonaringar/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1076,
     "h2": 12,
     "h3": 7,
@@ -6588,7 +6528,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6601,7 +6541,7 @@
     "slug": "teneriffa-med-barn-familjeguide",
     "title": "Teneriffa med barn – komplett familjeguide (0–17 år)",
     "link": "https://teneriffa.se/teneriffa-med-barn-familjeguide/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 2661,
     "h2": 10,
     "h3": 13,
@@ -6642,7 +6582,7 @@
     "slug": "matguide-teneriffa",
     "title": "Matguide Teneriffa – vad du ska äta och var du ska boka bord",
     "link": "https://teneriffa.se/matguide-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1150,
     "h2": 9,
     "h3": 16,
@@ -6671,7 +6611,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6684,7 +6624,7 @@
     "slug": "teneriffa-i-november",
     "title": "Teneriffa i november – väder, priser och vad du gör",
     "link": "https://teneriffa.se/teneriffa-i-november/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1259,
     "h2": 10,
     "h3": 4,
@@ -6713,7 +6653,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6726,7 +6666,7 @@
     "slug": "teneriffa-i-december-och-januari",
     "title": "Teneriffa i december och januari – väder, områden och julresa",
     "link": "https://teneriffa.se/teneriffa-i-december-och-januari/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 928,
     "h2": 11,
     "h3": 11,
@@ -6756,7 +6696,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6769,7 +6709,7 @@
     "slug": "teneriffa-i-april-och-maj",
     "title": "Teneriffa i april och maj – väder, bad, påsk och bästa områden",
     "link": "https://teneriffa.se/teneriffa-i-april-och-maj/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 938,
     "h2": 12,
     "h3": 10,
@@ -6799,7 +6739,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -6813,10 +6753,10 @@
     "title": "Hyrbil på Teneriffa – när behövs bil, vägar, parkering och tips",
     "link": "https://teneriffa.se/teneriffa-hyrbil-guide/",
     "modified": "2026-06-07",
-    "words": 1256,
+    "words": 1098,
     "h2": 15,
     "h3": 6,
-    "images": 15,
+    "images": 6,
     "internal": 6,
     "external": 2,
     "affiliate": 5,
@@ -6841,14 +6781,12 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [
-      "🖼 bildkluster (8)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -6860,7 +6798,7 @@
     "slug": "teneriffa-for-par",
     "title": "Teneriffa för par – romantisk guide till Costa Adeje och mer",
     "link": "https://teneriffa.se/teneriffa-for-par/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 2711,
     "h2": 12,
     "h3": 12,
@@ -6901,7 +6839,7 @@
     "slug": "teneriffa-digital-nomad-guide",
     "title": "Digital nomad på Teneriffa – bästa områden, wifi och långtidsboende",
     "link": "https://teneriffa.se/teneriffa-digital-nomad-guide/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 1070,
     "h2": 11,
     "h3": 10,
@@ -6933,7 +6871,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -6946,7 +6884,7 @@
     "slug": "budget-vad-kostar-teneriffa",
     "title": "Vad kostar en vecka på Teneriffa? Budget för tre nivåer",
     "link": "https://teneriffa.se/budget-vad-kostar-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1333,
     "h2": 7,
     "h3": 7,
@@ -6975,7 +6913,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -6986,7 +6924,7 @@
     "slug": "brollopsresa-teneriffa",
     "title": "Bröllopsresa till Teneriffa – romantiska områden, hotell och utflykter",
     "link": "https://teneriffa.se/brollopsresa-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 934,
     "h2": 10,
     "h3": 13,
@@ -7016,7 +6954,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -7058,7 +6996,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 65,
+    "score": 69,
     "flags": [
       "omonetiserad",
       "📷 väntar bild"
@@ -7072,7 +7010,7 @@
     "slug": "teneriffa-strandar-guide",
     "title": "Lugna stränder på Teneriffa — guide för seniorer, par och tillgänglighet",
     "link": "https://teneriffa.se/teneriffa-strandar-guide/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 2900,
     "h2": 11,
     "h3": 15,
@@ -7113,7 +7051,7 @@
     "slug": "7-dagar-pa-teneriffa",
     "title": "En vecka på Teneriffa – optimal dag-för-dag-guide",
     "link": "https://teneriffa.se/7-dagar-pa-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1964,
     "h2": 13,
     "h3": 0,
@@ -7155,7 +7093,7 @@
     "slug": "5-dagar-pa-teneriffa",
     "title": "5 dagar på Teneriffa – dag-för-dag-guide 2026",
     "link": "https://teneriffa.se/5-dagar-pa-teneriffa/",
-    "modified": "2026-06-04",
+    "modified": "2026-06-07",
     "words": 1722,
     "h2": 11,
     "h3": 0,
@@ -7197,7 +7135,7 @@
     "slug": "basta-stranderna-pa-teneriffa",
     "title": "Bästa stränderna på Teneriffa — guide till 16 stränder och naturpooler",
     "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 3009,
     "h2": 10,
     "h3": 23,
@@ -7225,14 +7163,12 @@
     "money_total": 21,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -7244,7 +7180,7 @@
     "slug": "basta-hotellen-pa-teneriffa",
     "title": "Bästa hotellen på Teneriffa — guide för skandinaver",
     "link": "https://teneriffa.se/basta-hotellen-pa-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 3027,
     "h2": 14,
     "h3": 17,
@@ -7271,11 +7207,15 @@
     },
     "money_total": 27,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "✅ Topp",
+    "img_issue": [
+      "dubblett"
+    ],
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 dubblettbild (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -7285,7 +7225,7 @@
     "slug": "var-ska-man-bo-pa-teneriffa",
     "title": "Var ska man bo på Teneriffa? — Komplett områdesguide",
     "link": "https://teneriffa.se/var-ska-man-bo-pa-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 3340,
     "h2": 12,
     "h3": 18,
@@ -7357,7 +7297,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7368,7 +7308,7 @@
     "slug": "teneriffa-se",
     "title": "Teneriffa – Din lokala guide till Kanarieöarnas pärla",
     "link": "https://teneriffa.se/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1371,
     "h2": 9,
     "h3": 15,
@@ -7398,7 +7338,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -7409,7 +7349,7 @@
     "slug": "hyrbil-pa-teneriffa",
     "title": "Hyrbil på Teneriffa — komplett guide för svenska resenärer",
     "link": "https://teneriffa.se/hyrbil-pa-teneriffa/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 5072,
     "h2": 16,
     "h3": 25,
@@ -7452,11 +7392,11 @@
     "slug": "saker-att-gora-pa-teneriffa",
     "title": "Saker att göra på Teneriffa",
     "link": "https://teneriffa.se/saker-att-gora-pa-teneriffa/",
-    "modified": "2026-06-06",
-    "words": 3811,
+    "modified": "2026-06-07",
+    "words": 3806,
     "h2": 11,
     "h3": 23,
-    "images": 25,
+    "images": 24,
     "internal": 11,
     "external": 42,
     "affiliate": 76,
@@ -7480,14 +7420,12 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -7529,7 +7467,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -7573,7 +7511,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7614,7 +7552,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -7657,7 +7595,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -7700,7 +7638,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -7740,13 +7678,13 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 73,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -7782,9 +7720,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7822,13 +7760,13 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 73,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -7864,9 +7802,9 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7906,7 +7844,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7945,9 +7883,9 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -7985,9 +7923,9 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -8029,7 +7967,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -8070,7 +8008,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -8110,7 +8048,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -8148,9 +8086,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -8188,9 +8126,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 78,
+    "score": 89,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -8201,14 +8139,14 @@
     "slug": "vandring-malaga-caminito-del-rey",
     "title": "Vandring i Málaga — Caminito del Rey och de bästa lederna 2026",
     "link": "https://malaga.se/vandring-malaga-caminito-del-rey/",
-    "modified": "2026-06-06",
-    "words": 6747,
-    "h2": 68,
-    "h3": 74,
-    "images": 6,
-    "internal": 42,
-    "external": 26,
-    "affiliate": 90,
+    "modified": "2026-06-07",
+    "words": 791,
+    "h2": 7,
+    "h3": 8,
+    "images": 2,
+    "internal": 4,
+    "external": 2,
+    "affiliate": 8,
     "type": "Praktiskt/aktiv",
     "audience": "Aktiva",
     "aff_angle": [
@@ -8218,26 +8156,22 @@
     "indexed": true,
     "cta": 0,
     "cta_bd": {
-      "hyrbil": 17,
-      "hcom": 4,
+      "hyrbil": 1,
+      "hcom": 1,
       "vrbo": 0,
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 21,
+    "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
-    "flags": [
-      "🖼 bildkluster (3)"
-    ],
-    "tier": "Best-in-class",
+    "score": 87,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8246,14 +8180,14 @@
     "slug": "malaga-med-tonaringar",
     "title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
     "link": "https://malaga.se/malaga-med-tonaringar/",
-    "modified": "2026-06-05",
-    "words": 5188,
-    "h2": 47,
-    "h3": 22,
-    "images": 8,
-    "internal": 32,
+    "modified": "2026-06-07",
+    "words": 956,
+    "h2": 6,
+    "h3": 11,
+    "images": 6,
+    "internal": 4,
     "external": 0,
-    "affiliate": 32,
+    "affiliate": 4,
     "type": "Hotell",
     "audience": "Tonåringar",
     "aff_angle": [
@@ -8265,26 +8199,24 @@
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 15,
+      "vrbo": 1,
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 15,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 95,
+    "score": 82,
     "flags": [
-      "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8293,14 +8225,14 @@
     "slug": "7-dagars-i-malaga-itinerar",
     "title": "7 dagar i Málaga — komplett itinerär 2026",
     "link": "https://malaga.se/7-dagars-i-malaga-itinerar/",
-    "modified": "2026-06-03",
-    "words": 16887,
-    "h2": 198,
+    "modified": "2026-06-07",
+    "words": 693,
+    "h2": 9,
     "h3": 0,
     "images": 0,
-    "internal": 78,
-    "external": 46,
-    "affiliate": 147,
+    "internal": 4,
+    "external": 2,
+    "affiliate": 7,
     "type": "Reseplan",
     "audience": "Bred",
     "aff_angle": [
@@ -8323,11 +8255,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 95,
+    "score": 75,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8337,13 +8269,13 @@
     "title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
     "link": "https://malaga.se/digital-nomad-guide-malaga/",
     "modified": "2026-06-07",
-    "words": 7574,
-    "h2": 83,
-    "h3": 28,
-    "images": 6,
-    "internal": 36,
+    "words": 863,
+    "h2": 8,
+    "h3": 4,
+    "images": 4,
+    "internal": 6,
     "external": 0,
-    "affiliate": 36,
+    "affiliate": 6,
     "type": "Målgruppsguide",
     "audience": "Digitala nomader",
     "aff_angle": [
@@ -8354,24 +8286,20 @@
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 18,
+      "vrbo": 5,
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 18,
+    "money_total": 5,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 95,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
-    "tier": "Best-in-class",
+    "score": 82,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8380,12 +8308,12 @@
     "slug": "malaga-i-april-och-maj",
     "title": "Málaga i april och maj 2026 — väder, festivaler och tips",
     "link": "https://malaga.se/malaga-i-april-och-maj/",
-    "modified": "2026-06-05",
-    "words": 4899,
-    "h2": 37,
-    "h3": 7,
+    "modified": "2026-06-07",
+    "words": 1010,
+    "h2": 7,
+    "h3": 3,
     "images": 3,
-    "internal": 20,
+    "internal": 6,
     "external": 0,
     "affiliate": 2,
     "type": "Säsong/väder",
@@ -8407,16 +8335,12 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "botten"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 95,
-    "flags": [
-      "🖼 bild i botten"
-    ],
-    "tier": "Best-in-class",
+    "score": 89,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8452,13 +8376,13 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8495,13 +8419,13 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8510,7 +8434,7 @@
     "slug": "malaga-pa-vintern",
     "title": "Málaga på vintern 2026 — guide december, januari &#038; februari",
     "link": "https://malaga.se/malaga-pa-vintern/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 946,
     "h2": 7,
     "h3": 4,
@@ -8540,7 +8464,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -8768,7 +8692,7 @@
     "slug": "malagas-dolda-badvikar",
     "title": "Málagas dolda badvikar — 7 stränder turisterna missar 2026",
     "link": "https://malaga.se/malagas-dolda-badvikar/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1139,
     "h2": 10,
     "h3": 0,
@@ -8798,7 +8722,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -8811,7 +8735,7 @@
     "slug": "5-dagar-i-malaga-itinerar",
     "title": "5 dagar i Málaga 2026 — perfekt dagsprogram dag för dag",
     "link": "https://malaga.se/5-dagar-i-malaga-itinerar/",
-    "modified": "2026-06-03",
+    "modified": "2026-06-07",
     "words": 1186,
     "h2": 6,
     "h3": 0,
@@ -8841,7 +8765,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -8882,13 +8806,13 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8897,7 +8821,7 @@
     "slug": "malaga-uteliv-barer-klubbar-flamenco",
     "title": "Málaga uteliv 2026 — barer, klubbar &#038; flamenco-shower",
     "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
-    "modified": "2026-06-05",
+    "modified": "2026-06-07",
     "words": 836,
     "h2": 8,
     "h3": 9,
@@ -8927,9 +8851,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 87,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -8938,7 +8862,7 @@
     "slug": "dagsutflykter-fran-malaga",
     "title": "7 bästa dagsutflykterna från Málaga 2026 — guide",
     "link": "https://malaga.se/dagsutflykter-fran-malaga/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1143,
     "h2": 9,
     "h3": 0,
@@ -8967,7 +8891,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 89,
     "flags": [
       "📷 väntar bild"
     ],
@@ -8980,7 +8904,7 @@
     "slug": "sevardheter-malaga-topp-10",
     "title": "10 bästa sevärdheterna i Málaga 2026 — komplett guide",
     "link": "https://malaga.se/sevardheter-malaga-topp-10/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1065,
     "h2": 14,
     "h3": 4,
@@ -9010,7 +8934,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -9021,7 +8945,7 @@
     "slug": "boutiquehotell-malaga",
     "title": "Bästa boutiquehotellen i Málaga 2026 — charm &#038; design",
     "link": "https://malaga.se/boutiquehotell-malaga/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 904,
     "h2": 10,
     "h3": 0,
@@ -9051,7 +8975,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9093,11 +9017,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -9135,9 +9059,9 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9180,7 +9104,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9224,7 +9148,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9237,7 +9161,7 @@
     "slug": "hyrbil-i-malaga",
     "title": "Hyrbil i Málaga 2026 — priser, försäkring &#038; bästa rutter",
     "link": "https://malaga.se/hyrbil-i-malaga/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 2450,
     "h2": 20,
     "h3": 6,
@@ -9280,7 +9204,7 @@
     "slug": "var-ska-man-bo-i-malaga",
     "title": "Var ska man bo i Malaga",
     "link": "https://malaga.se/var-ska-man-bo-i-malaga/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 2122,
     "h2": 10,
     "h3": 9,
@@ -9364,7 +9288,7 @@
     "slug": "basta-stranderna-i-malaga",
     "title": "Bästa stränderna i Málaga 2026 — från Malagueta till dolda vikar",
     "link": "https://malaga.se/basta-stranderna-i-malaga/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1433,
     "h2": 12,
     "h3": 0,
@@ -9394,11 +9318,11 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 95,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -9408,10 +9332,10 @@
     "title": "Saker att göra i Málaga 2026 — 10 upplevelser du inte får missa",
     "link": "https://malaga.se/saker-att-gora-i-malaga/",
     "modified": "2026-06-07",
-    "words": 1437,
+    "words": 1403,
     "h2": 11,
     "h3": 1,
-    "images": 12,
+    "images": 7,
     "internal": 5,
     "external": 11,
     "affiliate": 15,
@@ -9434,15 +9358,11 @@
     },
     "money_total": 1,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
-    "flags": [
-      "🖼 bildkluster (4)"
-    ],
+    "score": 100,
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9482,7 +9402,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -9494,8 +9414,8 @@
     "title": "Rhodos för HBTQ-resenärer — välkomnande och öppet klimat",
     "link": "https://rhodos.se/rhodos-hbtq/",
     "modified": "2026-06-07",
-    "words": 406,
-    "h2": 7,
+    "words": 722,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -9523,11 +9443,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -9566,7 +9486,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9610,7 +9530,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9653,7 +9573,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9696,7 +9616,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -9738,7 +9658,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -9778,11 +9698,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -9821,7 +9741,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9864,7 +9784,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "📷 väntar bild"
     ],
@@ -9907,7 +9827,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 71,
+    "score": 68,
     "flags": [
       "få internlänkar"
     ],
@@ -9950,7 +9870,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -9993,7 +9913,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10033,13 +9953,13 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 71,
+    "score": 75,
     "flags": [
       "få internlänkar"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10075,14 +9995,14 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 66,
+    "score": 77,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10123,11 +10043,11 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 71,
+    "score": 82,
     "flags": [
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10165,7 +10085,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -10209,7 +10129,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 71,
+    "score": 68,
     "flags": [
       "få internlänkar"
     ],
@@ -10250,9 +10170,9 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10295,7 +10215,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -10335,7 +10255,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 70,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -10349,42 +10269,40 @@
     "slug": "rhodos-uteliv",
     "title": "Rhodos uteliv 2026 — barer, nattklubb och levande musik",
     "link": "https://rhodos.se/rhodos-uteliv/",
-    "modified": "2026-06-03",
-    "words": 701,
+    "modified": "2026-06-07",
+    "words": 742,
     "h2": 5,
     "h3": 7,
     "images": 0,
-    "internal": 0,
+    "internal": 5,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 2,
     "type": "Mat & nöje",
     "audience": "Bred",
     "aff_angle": [
-      "Funnel/allmän"
+      "Hotell"
     ],
     "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
+      "vrbo": 1,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 43,
+    "score": 77,
     "flags": [
-      "omonetiserad",
-      "få internlänkar",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10423,7 +10341,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 66,
+    "score": 63,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -10464,9 +10382,9 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10509,7 +10427,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -10548,9 +10466,9 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 70,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10590,11 +10508,11 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 71,
+    "score": 75,
     "flags": [],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10632,12 +10550,12 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10674,9 +10592,9 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 80,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10718,7 +10636,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 78,
+    "score": 82,
     "flags": [
       "få internlänkar"
     ],
@@ -10760,11 +10678,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -10803,7 +10721,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -10845,7 +10763,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad"
     ],
@@ -10887,7 +10805,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 74,
     "flags": [
       "omonetiserad"
     ],
@@ -10900,11 +10818,11 @@
     "slug": "hyrbil-pa-rhodos",
     "title": "Hyrbil Rhodos 2026 – Priser, parkering &#038; bästa dagsutflykterna",
     "link": "https://rhodos.se/hyrbil-pa-rhodos/",
-    "modified": "2026-06-06",
-    "words": 3001,
+    "modified": "2026-06-07",
+    "words": 2990,
     "h2": 21,
     "h3": 10,
-    "images": 4,
+    "images": 3,
     "internal": 18,
     "external": 0,
     "affiliate": 8,
@@ -10928,15 +10846,11 @@
     },
     "money_total": 8,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -10946,11 +10860,11 @@
     "slug": "saker-att-gora-pa-rhodos",
     "title": "10 saker att göra på Rhodos 2026 – Gamla stan, Lindos, Fjärilsdalen &#038; Symi",
     "link": "https://rhodos.se/saker-att-gora-pa-rhodos/",
-    "modified": "2026-05-30",
-    "words": 1790,
+    "modified": "2026-06-07",
+    "words": 1782,
     "h2": 14,
     "h3": 1,
-    "images": 16,
+    "images": 14,
     "internal": 6,
     "external": 11,
     "affiliate": 12,
@@ -10973,14 +10887,12 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -10992,11 +10904,11 @@
     "slug": "basta-stranderna-pa-rhodos",
     "title": "Rhodos 7 bästa stränder 2026 – Faliraki, Lindos, Tsambika, Prasonisi &#038; Anthony Quinn Bay",
     "link": "https://rhodos.se/basta-stranderna-pa-rhodos/",
-    "modified": "2026-05-30",
-    "words": 1059,
+    "modified": "2026-06-07",
+    "words": 960,
     "h2": 8,
     "h3": 1,
-    "images": 15,
+    "images": 8,
     "internal": 6,
     "external": 0,
     "affiliate": 0,
@@ -11020,15 +10932,13 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 70,
+    "score": 67,
     "flags": [
       "omonetiserad",
-      "🖼 bildkluster (6)",
       "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
@@ -11084,7 +10994,7 @@
     "slug": "var-ska-man-bo-pa-rhodos",
     "title": "Var ska man bo på Rhodos? Områdesguide 2026 – Rhodos stad, Lindos, Faliraki, Ixia &#038; Pefkos",
     "link": "https://rhodos.se/var-ska-man-bo-pa-rhodos/",
-    "modified": "2026-05-30",
+    "modified": "2026-06-07",
     "words": 762,
     "h2": 7,
     "h3": 1,
@@ -11114,7 +11024,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 67,
     "flags": [
       "omonetiserad"
     ],
@@ -11157,9 +11067,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 95,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -11169,13 +11079,13 @@
     "title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
     "link": "https://korfu.se/dagsutflykter-fran-korfu/",
     "modified": "2026-06-07",
-    "words": 475,
-    "h2": 1,
+    "words": 779,
+    "h2": 3,
     "h3": 6,
     "images": 0,
-    "internal": 7,
+    "internal": 12,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -11188,21 +11098,21 @@
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 2,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 67,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -11211,19 +11121,18 @@
     "slug": "uteliv-pa-korfu",
     "title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
     "link": "https://korfu.se/uteliv-pa-korfu/",
-    "modified": "2026-06-06",
-    "words": 180,
-    "h2": 2,
-    "h3": 3,
+    "modified": "2026-06-07",
+    "words": 739,
+    "h2": 5,
+    "h3": 4,
     "images": 0,
-    "internal": 2,
+    "internal": 5,
     "external": 0,
     "affiliate": 2,
     "type": "Mat & nöje",
     "audience": "Bred",
     "aff_angle": [
-      "Hotell",
-      "Aktiviteter (GYG)"
+      "Hotell"
     ],
     "indexed": true,
     "cta": 0,
@@ -11234,19 +11143,18 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 0
     },
-    "money_total": 3,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 49,
+    "score": 77,
     "flags": [
-      "tunt content",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -11256,8 +11164,8 @@
     "title": "Korfu för HBTQ-resenärer — välkomnande Jonisk ö",
     "link": "https://korfu.se/korfu-hbtq/",
     "modified": "2026-06-07",
-    "words": 416,
-    "h2": 7,
+    "words": 744,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -11285,11 +11193,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -11328,7 +11236,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -11372,7 +11280,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -11415,7 +11323,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -11456,7 +11364,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -11500,7 +11408,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -11542,11 +11450,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -11585,7 +11493,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 85,
+    "score": 82,
     "flags": [
       "📷 väntar bild"
     ],
@@ -11628,9 +11536,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 83,
+    "score": 94,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -11669,7 +11577,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -11710,7 +11618,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 83,
+    "score": 87,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -11751,9 +11659,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 83,
+    "score": 94,
     "flags": [],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -11792,7 +11700,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -11833,7 +11741,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -11874,9 +11782,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 87,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -11915,7 +11823,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -11956,7 +11864,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -11997,7 +11905,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -12037,11 +11945,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12081,7 +11989,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -12122,9 +12030,9 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
+    "score": 87,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12166,7 +12074,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 100,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -12249,12 +12157,14 @@
     "money_total": 15,
     "gyg_issue": [],
     "img_issue": [
+      "dubblett",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
+      "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -12339,14 +12249,14 @@
     "money_total": 9,
     "gyg_issue": [],
     "img_issue": [
-      "kluster",
+      "dubblett",
       "botten"
     ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 bildkluster (1)",
+      "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -12385,15 +12295,11 @@
     },
     "money_total": 8,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
-    "flags": [
-      "🖼 bildkluster (1)"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -12403,7 +12309,7 @@
     "slug": "startsida",
     "title": "Korfu.se – praktisk reseguide till Korfu",
     "link": "https://korfu.se/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1124,
     "h2": 8,
     "h3": 0,
@@ -12430,15 +12336,11 @@
     },
     "money_total": 8,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 90,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "score": 100,
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -12448,17 +12350,18 @@
     "slug": "vandring-torremolinos-costa-del-sol",
     "title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
     "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
-    "modified": "2026-06-06",
-    "words": 187,
-    "h2": 1,
-    "h3": 5,
+    "modified": "2026-06-07",
+    "words": 606,
+    "h2": 3,
+    "h3": 9,
     "images": 0,
-    "internal": 2,
+    "internal": 5,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Praktiskt/aktiv",
     "audience": "Aktiva",
     "aff_angle": [
+      "Hotell",
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
@@ -12467,22 +12370,21 @@
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 1,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 3,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 49,
+    "score": 70,
     "flags": [
-      "tunt content",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Påbörjad",
     "contaminated": false
   },
   {
@@ -12491,14 +12393,14 @@
     "slug": "vad-kostar-torremolinos",
     "title": "Vad kostar en vecka i Torremolinos? Budget, medel och lyx 2026",
     "link": "https://torremolinos.se/vad-kostar-torremolinos/",
-    "modified": "2026-06-06",
-    "words": 285,
-    "h2": 2,
+    "modified": "2026-06-07",
+    "words": 730,
+    "h2": 6,
     "h3": 2,
     "images": 0,
-    "internal": 2,
+    "internal": 4,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -12511,22 +12413,21 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 1,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
       "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 49,
+    "score": 77,
     "flags": [
-      "tunt content",
       "📷 väntar bild"
     ],
-    "tier": "Rå",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12536,8 +12437,8 @@
     "title": "Torremolinos för HBTQ-resenärer — La Nogalera och 60 år av tradition",
     "link": "https://torremolinos.se/torremolinos-hbtq/",
     "modified": "2026-06-07",
-    "words": 469,
-    "h2": 7,
+    "words": 776,
+    "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 7,
@@ -12565,11 +12466,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12608,7 +12509,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 62,
     "flags": [
       "📷 väntar bild"
     ],
@@ -12652,7 +12553,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -12695,7 +12596,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -12736,7 +12637,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -12779,7 +12680,7 @@
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -12822,7 +12723,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -12867,7 +12768,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -12881,17 +12782,18 @@
     "slug": "sevardheter-torremolinos",
     "title": "Sevärdheter i Torremolinos – historia, kultur och utsiktsplatser",
     "link": "https://torremolinos.se/sevardheter-torremolinos/",
-    "modified": "2026-06-04",
-    "words": 483,
-    "h2": 10,
-    "h3": 1,
+    "modified": "2026-06-07",
+    "words": 735,
+    "h2": 13,
+    "h3": 7,
     "images": 0,
-    "internal": 3,
+    "internal": 6,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
+      "Hotell",
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
@@ -12900,22 +12802,21 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 0,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 1,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 58,
+    "score": 77,
     "flags": [
-      "omonetiserad",
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12955,7 +12856,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 67,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -12969,17 +12870,18 @@
     "slug": "dagsutflykter-fran-torremolinos",
     "title": "Dagsutflykter från Torremolinos – bästa utflykterna längs Costa del Sol",
     "link": "https://torremolinos.se/dagsutflykter-fran-torremolinos/",
-    "modified": "2026-06-06",
-    "words": 682,
-    "h2": 10,
+    "modified": "2026-06-07",
+    "words": 981,
+    "h2": 12,
     "h3": 5,
     "images": 3,
-    "internal": 4,
+    "internal": 9,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
+      "Hotell",
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
@@ -12988,24 +12890,19 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 0,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 1
+      "gyg": 2
     },
-    "money_total": 1,
+    "money_total": 3,
     "gyg_issue": [],
-    "img_issue": [
-      "botten"
-    ],
-    "qa": "🟡 OK",
+    "img_issue": [],
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 63,
-    "flags": [
-      "omonetiserad",
-      "🖼 bild i botten"
-    ],
-    "tier": "Påbörjad",
+    "score": 82,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -13045,7 +12942,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -13091,7 +12988,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad",
       "🖼 bild i botten"
@@ -13134,7 +13031,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 63,
+    "score": 60,
     "flags": [
       "omonetiserad"
     ],
@@ -13176,11 +13073,11 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 68,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -13218,11 +13115,11 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 73,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -13261,7 +13158,7 @@
     "img_issue": [],
     "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 80,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -13274,17 +13171,18 @@
     "slug": "basta-tiden-att-resa-till-torremolinos",
     "title": "Bästa tiden att resa till Torremolinos",
     "link": "https://torremolinos.se/basta-tiden-att-resa-till-torremolinos/",
-    "modified": "2026-06-06",
-    "words": 339,
-    "h2": 3,
-    "h3": 5,
+    "modified": "2026-06-07",
+    "words": 695,
+    "h2": 6,
+    "h3": 8,
     "images": 4,
-    "internal": 0,
+    "internal": 2,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Säsong/väder",
     "audience": "Bred",
     "aff_angle": [
+      "Hotell",
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
@@ -13293,22 +13191,19 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 0,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 43,
-    "flags": [
-      "omonetiserad",
-      "få internlänkar"
-    ],
-    "tier": "Rå",
+    "score": 68,
+    "flags": [],
+    "tier": "Påbörjad",
     "contaminated": false
   },
   {
@@ -13318,17 +13213,17 @@
     "title": "Torremolinos flygplats, transfer och så tar du dig runt",
     "link": "https://torremolinos.se/torremolinos-flygplats-transfer/",
     "modified": "2026-06-07",
-    "words": 466,
-    "h2": 6,
-    "h3": 0,
+    "words": 842,
+    "h2": 8,
+    "h3": 4,
     "images": 1,
-    "internal": 0,
+    "internal": 2,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
     "aff_angle": [
-      "Funnel/allmän"
+      "Hotell"
     ],
     "indexed": true,
     "cta": 0,
@@ -13336,22 +13231,19 @@
       "hyrbil": 0,
       "hcom": 0,
       "vrbo": 0,
-      "hotell": 0,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟠 Svag",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 48,
-    "flags": [
-      "omonetiserad",
-      "få internlänkar"
-    ],
-    "tier": "Rå",
+    "score": 82,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -13404,11 +13296,11 @@
     "slug": "var-ska-man-bo-i-torremolinos",
     "title": "Var ska man bo i Torremolinos",
     "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 626,
     "h2": 6,
     "h3": 0,
-    "images": 3,
+    "images": 1,
     "internal": 4,
     "external": 0,
     "affiliate": 1,
@@ -13431,15 +13323,11 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [
-      "kluster"
-    ],
+    "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
-    "flags": [
-      "🖼 bildkluster (2)"
-    ],
+    "score": 75,
+    "flags": [],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -13449,7 +13337,7 @@
     "slug": "basta-hotellen-i-torremolinos",
     "title": "Bästa hotellen i Torremolinos",
     "link": "https://torremolinos.se/basta-hotellen-i-torremolinos/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 666,
     "h2": 5,
     "h3": 9,
@@ -13481,7 +13369,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 75,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -13494,7 +13382,7 @@
     "slug": "basta-stranderna-i-torremolinos",
     "title": "Bästa stränderna i Torremolinos",
     "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 880,
     "h2": 9,
     "h3": 0,
@@ -13524,7 +13412,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 85,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -13535,7 +13423,7 @@
     "slug": "saker-att-gora-i-torremolinos",
     "title": "Saker att göra i Torremolinos",
     "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 1287,
     "h2": 13,
     "h3": 0,
@@ -13566,7 +13454,7 @@
     ],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 90,
+    "score": 94,
     "flags": [
       "🖼 bild i botten"
     ],
@@ -13579,7 +13467,7 @@
     "slug": "startsida",
     "title": "Torremolinos – komplett guide till strand, boende och Costa del Sol",
     "link": "https://torremolinos.se/",
-    "modified": "2026-06-06",
+    "modified": "2026-06-07",
     "words": 456,
     "h2": 4,
     "h3": 0,
@@ -13609,7 +13497,7 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 78,
+    "score": 82,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
