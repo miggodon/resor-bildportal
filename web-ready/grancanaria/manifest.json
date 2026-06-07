@@ -1,531 +1,14 @@
 {
-  "generated_at": "2026-06-07T09:57:36.940338+00:00",
+  "generated_at": "2026-06-07T13:28:13.393771+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/grancanaria",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.jpg",
-      "filename": "all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.jpg",
-      "brief_id": "grancanaria:all-inclusive-gran-canaria:ska-par-boka-all-inclusive",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/all-inclusive-gran-canaria/",
-      "page_id": 106,
-      "page_title": "All inclusive på Gran Canaria: är det värt det? Områden, hotelltyper och vem som ska boka",
-      "page_slug": "all-inclusive-gran-canaria",
-      "h3": "Ska par boka all inclusive?",
-      "h3_slug": "ska-par-boka-all-inclusive",
-      "place": "Ska par boka all inclusive? i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "wide neighbourhood overview photograph",
-      "prompt": "A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Ska par boka all inclusive? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents ska par boka all inclusive? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA wide, slightly elevated realistic travel photograph showing the neighbourhood context at Ska par boka all inclusive? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents ska par boka all inclusive? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Ska par boka all inclusive? i Gran Canaria",
-      "caption": "Ska par boka all inclusive? i Gran Canaria",
-      "seo": "Ska par boka all inclusive? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/all-inclusive-gran-canaria/",
-          "page_slug": "all-inclusive-gran-canaria",
-          "section_h3": "Ska par boka all inclusive?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Ska par boka all inclusive? i Gran Canaria",
-          "alt": "Ska par boka all inclusive? i Gran Canaria",
-          "caption": "Ska par boka all inclusive? i Gran Canaria",
-          "description": "Ska par boka all inclusive? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/all-inclusive-gran-canaria-ska-par-boka-all-inclusive-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/att-tro-att-stranden-alltid-ar-lugn-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/att-tro-att-stranden-alltid-ar-lugn-grancanaria.jpg",
-      "filename": "att-tro-att-stranden-alltid-ar-lugn-grancanaria.jpg",
-      "brief_id": "grancanaria:maspalomas-dynerna:att-tro-att-stranden-alltid-ar-lugn",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/maspalomas-dynerna/",
-      "page_id": 99,
-      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
-      "page_slug": "maspalomas-dynerna",
-      "h3": "Att tro att stranden alltid är lugn",
-      "h3_slug": "att-tro-att-stranden-alltid-ar-lugn",
-      "place": "Att tro att stranden alltid är lugn i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Att tro att stranden alltid är lugn i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents att tro att stranden alltid är lugn with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: att-tro-att-stranden-alltid-ar-lugn-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Att tro att stranden alltid är lugn i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents att tro att stranden alltid är lugn with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Att tro att stranden alltid är lugn i Gran Canaria",
-      "caption": "Att tro att stranden alltid är lugn i Gran Canaria",
-      "seo": "Att tro att stranden alltid är lugn i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/att-tro-att-stranden-alltid-ar-lugn-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/att-tro-att-stranden-alltid-ar-lugn-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
-          "page_slug": "maspalomas-dynerna",
-          "section_h3": "Att tro att stranden alltid är lugn",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Att tro att stranden alltid är lugn i Gran Canaria",
-          "alt": "Att tro att stranden alltid är lugn i Gran Canaria",
-          "caption": "Att tro att stranden alltid är lugn i Gran Canaria",
-          "description": "Att tro att stranden alltid är lugn i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/att-tro-att-stranden-alltid-ar-lugn-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.png",
-      "file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.jpg",
-      "filename": "basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.jpg",
-      "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:forslag-pa-rutt",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
-      "page_id": 111,
-      "page_title": "Gran Canarias bästa dagsutflykter med hyrbil: rutter, stopp och praktiska tips",
-      "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
-      "h3": "Forslåg på rutt",
-      "h3_slug": "forslag-pa-rutt",
-      "place": "Forslåg på rutt i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Forslåg på rutt i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents forslåg på rutt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Forslåg på rutt i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents forslåg på rutt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Forslåg på rutt i Gran Canaria",
-      "caption": "Forslåg på rutt i Gran Canaria",
-      "seo": "Forslåg på rutt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
-          "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
-          "section_h3": "Forslåg på rutt",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Forslåg på rutt i Gran Canaria",
-          "alt": "Forslåg på rutt i Gran Canaria",
-          "caption": "Forslåg på rutt i Gran Canaria",
-          "description": "Forslåg på rutt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria-2.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.jpg",
-      "filename": "basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.jpg",
-      "brief_id": "grancanaria:basta-dagsutflykterna-gran-canaria-hyrbil:forslag-pa-rutt",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
-      "page_id": 111,
-      "page_title": "Gran Canarias bästa dagsutflykter med hyrbil: rutter, stopp och praktiska tips",
-      "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
-      "h3": "Forslåg på rutt",
-      "h3_slug": "forslag-pa-rutt",
-      "place": "Forslåg på rutt i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Forslåg på rutt i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents forslåg på rutt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Forslåg på rutt i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents forslåg på rutt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Forslåg på rutt i Gran Canaria",
-      "caption": "Forslåg på rutt i Gran Canaria",
-      "seo": "Forslåg på rutt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/",
-          "page_slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
-          "section_h3": "Forslåg på rutt",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Forslåg på rutt i Gran Canaria",
-          "alt": "Forslåg på rutt i Gran Canaria",
-          "caption": "Forslåg på rutt i Gran Canaria",
-          "description": "Forslåg på rutt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/basta-dagsutflykterna-gran-canaria-hyrbil-forslag-pa-rutt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/basta-tid-att-boka-for-lagst-pris-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/basta-tid-att-boka-for-lagst-pris-grancanaria.jpg",
-      "filename": "basta-tid-att-boka-for-lagst-pris-grancanaria.jpg",
-      "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:basta-tid-att-boka-for-lagst-pris",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
-      "page_id": 18,
-      "page_title": "Bästa hotellen på Gran Canaria — guide för skandinaver",
-      "page_slug": "basta-hotellen-pa-gran-canaria",
-      "h3": "Bästa tid att boka för lägst pris?",
-      "h3_slug": "basta-tid-att-boka-for-lagst-pris",
-      "place": "Bästa tid att boka för lägst pris? i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bästa tid att boka för lägst pris? i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents bästa tid att boka för lägst pris? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: basta-tid-att-boka-for-lagst-pris-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Bästa tid att boka för lägst pris? i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents bästa tid att boka för lägst pris? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Bästa tid att boka för lägst pris? i Gran Canaria",
-      "caption": "Bästa tid att boka för lägst pris? i Gran Canaria",
-      "seo": "Bästa tid att boka för lägst pris? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/basta-tid-att-boka-for-lagst-pris-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/basta-tid-att-boka-for-lagst-pris-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
-          "page_slug": "basta-hotellen-pa-gran-canaria",
-          "section_h3": "Bästa tid att boka för lägst pris?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Bästa tid att boka för lägst pris? i Gran Canaria",
-          "alt": "Bästa tid att boka för lägst pris? i Gran Canaria",
-          "caption": "Bästa tid att boka för lägst pris? i Gran Canaria",
-          "description": "Bästa tid att boka för lägst pris? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/basta-tid-att-boka-for-lagst-pris-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/bilhamtning-i-las-palmas-norra-on-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
-      "filename": "bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
-      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:bilhamtning-i-las-palmas-norra-on",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
-      "page_id": 24,
-      "page_title": "Hyrbil Gran Canaria",
-      "page_slug": "hyrbil-pa-gran-canaria",
-      "h3": "Bilhämtning i Las Palmas (norra ön)",
-      "h3_slug": "bilhamtning-i-las-palmas-norra-on",
-      "place": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Bilhämtning i Las Palmas (norra ön) i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents bilhämtning i las palmas (norra ön) with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: bilhamtning-i-las-palmas-norra-on-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Bilhämtning i Las Palmas (norra ön) i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents bilhämtning i las palmas (norra ön) with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-      "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-      "seo": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/bilhamtning-i-las-palmas-norra-on-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
-          "page_slug": "hyrbil-pa-gran-canaria",
-          "section_h3": "Bilhämtning i Las Palmas (norra ön)",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-          "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-          "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
-          "description": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/club-maspalomas-suites-spa-maspalomas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
-      "filename": "club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
-      "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:club-maspalomas-suites-spa-maspalomas",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
-      "page_id": 18,
-      "page_title": "Bästa hotellen på Gran Canaria — guide för skandinaver",
-      "page_slug": "basta-hotellen-pa-gran-canaria",
-      "h3": "Club Maspalomas Suites & Spa — Maspalomas",
-      "h3_slug": "club-maspalomas-suites-spa-maspalomas",
-      "place": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents club maspalomas suites & spa — maspalomas with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: club-maspalomas-suites-spa-maspalomas-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents club maspalomas suites & spa — maspalomas with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-      "caption": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-      "seo": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/club-maspalomas-suites-spa-maspalomas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
-          "page_slug": "basta-hotellen-pa-gran-canaria",
-          "section_h3": "Club Maspalomas Suites & Spa — Maspalomas",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-          "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-          "caption": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
-          "description": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/dynerna-heldag-i-soder-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg",
-      "filename": "dynerna-heldag-i-soder-grancanaria.jpg",
-      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-heldag-i-soder",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/maspalomas-dynerna/",
-      "page_id": 99,
-      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
-      "page_slug": "maspalomas-dynerna",
-      "h3": "Dynerna + heldag i söder",
-      "h3_slug": "dynerna-heldag-i-soder",
-      "place": "Dynerna + heldag i söder i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Dynerna + heldag i söder i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + heldag i söder with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: dynerna-heldag-i-soder-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Dynerna + heldag i söder i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + heldag i söder with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Dynerna + heldag i söder i Gran Canaria",
-      "caption": "Dynerna + heldag i söder i Gran Canaria",
-      "seo": "Dynerna + heldag i söder i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/dynerna-heldag-i-soder-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
-          "page_slug": "maspalomas-dynerna",
-          "section_h3": "Dynerna + heldag i söder",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Dynerna + heldag i söder i Gran Canaria",
-          "alt": "Dynerna + heldag i söder i Gran Canaria",
-          "caption": "Dynerna + heldag i söder i Gran Canaria",
-          "description": "Dynerna + heldag i söder i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/dynerna-meloneras-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg",
-      "filename": "dynerna-meloneras-grancanaria.jpg",
-      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-meloneras",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/maspalomas-dynerna/",
-      "page_id": 99,
-      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
-      "page_slug": "maspalomas-dynerna",
-      "h3": "Dynerna + Meloneras",
-      "h3_slug": "dynerna-meloneras",
-      "place": "Dynerna + Meloneras i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Dynerna + Meloneras i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + meloneras with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: dynerna-meloneras-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Dynerna + Meloneras i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + meloneras with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Dynerna + Meloneras i Gran Canaria",
-      "caption": "Dynerna + Meloneras i Gran Canaria",
-      "seo": "Dynerna + Meloneras i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/dynerna-meloneras-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
-          "page_slug": "maspalomas-dynerna",
-          "section_h3": "Dynerna + Meloneras",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Dynerna + Meloneras i Gran Canaria",
-          "alt": "Dynerna + Meloneras i Gran Canaria",
-          "caption": "Dynerna + Meloneras i Gran Canaria",
-          "description": "Dynerna + Meloneras i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/dynerna-playa-del-ingles-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg",
-      "filename": "dynerna-playa-del-ingles-grancanaria.jpg",
-      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-playa-del-ingles",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/maspalomas-dynerna/",
-      "page_id": 99,
-      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
-      "page_slug": "maspalomas-dynerna",
-      "h3": "Dynerna + Playa del Inglés",
-      "h3_slug": "dynerna-playa-del-ingles",
-      "place": "Dynerna + Playa del Inglés i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Dynerna + Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: dynerna-playa-del-ingles-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Dynerna + Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents dynerna + playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Dynerna + Playa del Inglés i Gran Canaria",
-      "caption": "Dynerna + Playa del Inglés i Gran Canaria",
-      "seo": "Dynerna + Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/dynerna-playa-del-ingles-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
-          "page_slug": "maspalomas-dynerna",
-          "section_h3": "Dynerna + Playa del Inglés",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Dynerna + Playa del Inglés i Gran Canaria",
-          "alt": "Dynerna + Playa del Inglés i Gran Canaria",
-          "caption": "Dynerna + Playa del Inglés i Gran Canaria",
-          "description": "Dynerna + Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/gran-canaria-hbtq-maspalomas-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/gran-canaria-hbtq-maspalomas-grancanaria.jpg",
-      "filename": "gran-canaria-hbtq-maspalomas-grancanaria.jpg",
-      "brief_id": "grancanaria:gran-canaria-hbtq:maspalomas",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/gran-canaria-hbtq/",
-      "page_id": 103,
-      "page_title": "Gran Canaria för HBTQ-resenärer: Yumbo, Pride, stränder, boende och trygga områden",
-      "page_slug": "gran-canaria-hbtq",
-      "h3": "Maspalomas",
-      "h3_slug": "maspalomas",
-      "place": "Maspalomas i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Maspalomas i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents maspalomas with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: gran-canaria-hbtq-maspalomas-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Maspalomas i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents maspalomas with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Maspalomas i Gran Canaria",
-      "caption": "Maspalomas i Gran Canaria",
-      "seo": "Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/gran-canaria-hbtq-maspalomas-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/gran-canaria-hbtq-maspalomas-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/gran-canaria-hbtq/",
-          "page_slug": "gran-canaria-hbtq",
-          "section_h3": "Maspalomas",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Maspalomas i Gran Canaria",
-          "alt": "Maspalomas i Gran Canaria",
-          "caption": "Maspalomas i Gran Canaria",
-          "description": "Maspalomas i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/gran-canaria-hbtq-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
-      "filename": "guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
-      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:guayadeque-ravinen-grottor-mat-och-kanarier",
+      "source": "bilder/inbox/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+      "filename": "aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:aqualand-maspalomas-mer-an-40-vattenattraktioner",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
@@ -533,16 +16,16 @@
       "page_id": 22,
       "page_title": "Saker att göra på Gran Canaria",
       "page_slug": "saker-att-gora-pa-gran-canaria",
-      "h3": "Guayadeque ravinen — grottor, mat och kanarier",
-      "h3_slug": "guayadeque-ravinen-grottor-mat-och-kanarier",
-      "place": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+      "h3": "Aqualand Maspalomas — mer än 40 vattenattraktioner",
+      "h3_slug": "aqualand-maspalomas-mer-an-40-vattenattraktioner",
+      "place": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
       "gps": "27.9202, -15.5474",
       "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents guayadeque ravinen — grottor, mat och kanarier with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents guayadeque ravinen — grottor, mat och kanarier with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
-      "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
-      "seo": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic editorial travel photograph at Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria in Gran Canaria, Spain, during the autumn travel season. The scene clearly represents aqualand maspalomas — mer än 40 vattenattraktioner with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria in Gran Canaria, Spain, during the autumn travel season. The scene clearly represents aqualand maspalomas — mer än 40 vattenattraktioner with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+      "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+      "seo": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -550,328 +33,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
           "page_slug": "saker-att-gora-pa-gran-canaria",
-          "section_h3": "Guayadeque ravinen — grottor, mat och kanarier",
+          "section_h3": "Aqualand Maspalomas — mer än 40 vattenattraktioner",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
-          "alt": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
-          "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
-          "description": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+          "alt": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+          "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+          "description": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/guider-puerto-de-mogan-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/guider-puerto-de-mogan-grancanaria.jpg",
-      "filename": "guider-puerto-de-mogan-grancanaria.jpg",
-      "brief_id": "grancanaria:guider:puerto-de-mogan",
+      "source": "bilder/inbox/golf-spela-aret-runt-i-20c-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/golf-spela-aret-runt-i-20c-grancanaria.jpg",
+      "filename": "golf-spela-aret-runt-i-20c-grancanaria.jpg",
+      "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:golf-spela-aret-runt-i-20c",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/guider/",
-      "page_id": 194,
-      "page_title": "Guider till Gran Canaria",
-      "page_slug": "guider",
-      "h3": "Puerto de Mogán",
-      "h3_slug": "puerto-de-mogan",
-      "place": "Puerto de Mogán i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Puerto de Mogán i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents puerto de mogán with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: guider-puerto-de-mogan-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Puerto de Mogán i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents puerto de mogán with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Puerto de Mogán i Gran Canaria",
-      "caption": "Puerto de Mogán i Gran Canaria",
-      "seo": "Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/guider-puerto-de-mogan-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/guider-puerto-de-mogan-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/guider/",
-          "page_slug": "guider",
-          "section_h3": "Puerto de Mogán",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Puerto de Mogán i Gran Canaria",
-          "alt": "Puerto de Mogán i Gran Canaria",
-          "caption": "Puerto de Mogán i Gran Canaria",
-          "description": "Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/guider-puerto-de-mogan-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.jpg",
-      "filename": "hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.jpg",
-      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:arguineguin-patalavaca",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-      "page_id": 109,
-      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
-      "page_slug": "hyra-lagenhet-gran-canaria",
-      "h3": "Arguineguin/Patalavaca",
-      "h3_slug": "arguineguin-patalavaca",
-      "place": "Arguineguin/Patalavaca i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Arguineguin/Patalavaca i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents arguineguin/patalavaca with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Arguineguin/Patalavaca i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents arguineguin/patalavaca with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Arguineguin/Patalavaca i Gran Canaria",
-      "caption": "Arguineguin/Patalavaca i Gran Canaria",
-      "seo": "Arguineguin/Patalavaca i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-          "page_slug": "hyra-lagenhet-gran-canaria",
-          "section_h3": "Arguineguin/Patalavaca",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Arguineguin/Patalavaca i Gran Canaria",
-          "alt": "Arguineguin/Patalavaca i Gran Canaria",
-          "caption": "Arguineguin/Patalavaca i Gran Canaria",
-          "description": "Arguineguin/Patalavaca i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-arguineguin-patalavaca-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.jpg",
-      "filename": "hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.jpg",
-      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:playa-del-ingles",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-      "page_id": 109,
-      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
-      "page_slug": "hyra-lagenhet-gran-canaria",
-      "h3": "Playa del Inglés",
-      "h3_slug": "playa-del-ingles",
-      "place": "Playa del Inglés i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "coastal travel photograph",
-      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Playa del Inglés i Gran Canaria",
-      "caption": "Playa del Inglés i Gran Canaria",
-      "seo": "Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-          "page_slug": "hyra-lagenhet-gran-canaria",
-          "section_h3": "Playa del Inglés",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Playa del Inglés i Gran Canaria",
-          "alt": "Playa del Inglés i Gran Canaria",
-          "caption": "Playa del Inglés i Gran Canaria",
-          "description": "Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.jpg",
-      "filename": "hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.jpg",
-      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:puerto-de-mogan",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-      "page_id": 109,
-      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
-      "page_slug": "hyra-lagenhet-gran-canaria",
-      "h3": "Puerto de Mogán",
-      "h3_slug": "puerto-de-mogan",
-      "place": "Puerto de Mogán i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Puerto de Mogán i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents puerto de mogán with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Puerto de Mogán i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents puerto de mogán with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Puerto de Mogán i Gran Canaria",
-      "caption": "Puerto de Mogán i Gran Canaria",
-      "seo": "Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-          "page_slug": "hyra-lagenhet-gran-canaria",
-          "section_h3": "Puerto de Mogán",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Puerto de Mogán i Gran Canaria",
-          "alt": "Puerto de Mogán i Gran Canaria",
-          "caption": "Puerto de Mogán i Gran Canaria",
-          "description": "Puerto de Mogán i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-puerto-de-mogan-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/hyra-lagenhet-gran-canaria-san-agustin-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-san-agustin-grancanaria.jpg",
-      "filename": "hyra-lagenhet-gran-canaria-san-agustin-grancanaria.jpg",
-      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:san-agustin",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-      "page_id": 109,
-      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
-      "page_slug": "hyra-lagenhet-gran-canaria",
-      "h3": "San Agustín",
-      "h3_slug": "san-agustin",
-      "place": "San Agustín i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at San Agustín i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents san agustín with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: hyra-lagenhet-gran-canaria-san-agustin-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at San Agustín i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents san agustín with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "San Agustín i Gran Canaria",
-      "caption": "San Agustín i Gran Canaria",
-      "seo": "San Agustín i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/hyra-lagenhet-gran-canaria-san-agustin-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-san-agustin-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-          "page_slug": "hyra-lagenhet-gran-canaria",
-          "section_h3": "San Agustín",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "San Agustín i Gran Canaria",
-          "alt": "San Agustín i Gran Canaria",
-          "caption": "San Agustín i Gran Canaria",
-          "description": "San Agustín i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/hyra-lagenhet-gran-canaria-san-agustin-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/hyra-lagenhet-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/hyra-lagenhet-grancanaria.jpg",
-      "filename": "hyra-lagenhet-grancanaria.jpg",
-      "brief_id": "grancanaria:guider:hyra-lagenhet",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/guider/",
-      "page_id": 194,
-      "page_title": "Guider till Gran Canaria",
-      "page_slug": "guider",
-      "h3": "Hyra lägenhet",
-      "h3_slug": "hyra-lagenhet",
-      "place": "Hyra lägenhet i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Hyra lägenhet i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents hyra lägenhet with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: hyra-lagenhet-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Hyra lägenhet i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents hyra lägenhet with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Hyra lägenhet i Gran Canaria",
-      "caption": "Hyra lägenhet i Gran Canaria",
-      "seo": "Hyra lägenhet i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/hyra-lagenhet-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/hyra-lagenhet-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/guider/",
-          "page_slug": "guider",
-          "section_h3": "Hyra lägenhet",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Hyra lägenhet i Gran Canaria",
-          "alt": "Hyra lägenhet i Gran Canaria",
-          "caption": "Hyra lägenhet i Gran Canaria",
-          "description": "Hyra lägenhet i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/hyra-lagenhet-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.jpg",
-      "filename": "kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.jpg",
-      "brief_id": "grancanaria:paketresa-eller-boka-sjalv-gran-canaria:kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/paketresa-eller-boka-sjalv-gran-canaria/",
-      "page_id": 105,
-      "page_title": "Paketresa eller boka sjalv till Gran Canaria: vad blir billigast och smartast?",
-      "page_slug": "paketresa-eller-boka-sjalv-gran-canaria",
-      "h3": "Kan man boka flyg och hotell själv till Gran Canaria enkelt?",
-      "h3_slug": "kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt",
-      "place": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
+      "page": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+      "page_id": 547,
+      "page_title": "Hotell Puerto Rico Gran Canaria – Din Kompletta Guide för Nordiska Resenärer",
+      "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+      "h3": "Golf – Spela Året Runt i 20°C",
+      "h3_slug": "golf-spela-aret-runt-i-20c",
+      "place": "Golf – Spela Året Runt i 20°C i Gran Canaria",
       "gps": "27.9202, -15.5474",
       "shot_type": "hotel exterior and rooftop travel photograph",
-      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents kan man boka flyg och hotell själv till gran canaria enkelt? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents kan man boka flyg och hotell själv till gran canaria enkelt? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
-      "caption": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
-      "seo": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Golf – Spela Året Runt i 20°C i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents golf – spela året runt i 20°c with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: golf-spela-aret-runt-i-20c-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Golf – Spela Året Runt i 20°C i Gran Canaria in Gran Canaria, Spain, during the mild winter travel season. The scene clearly represents golf – spela året runt i 20°c with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Golf – Spela Året Runt i 20°C i Gran Canaria",
+      "caption": "Golf – Spela Året Runt i 20°C i Gran Canaria",
+      "seo": "Golf – Spela Året Runt i 20°C i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -879,46 +80,46 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/golf-spela-aret-runt-i-20c-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/golf-spela-aret-runt-i-20c-grancanaria.jpg",
         "wordpress_target": {
-          "page_url": "https://grancanaria.se/paketresa-eller-boka-sjalv-gran-canaria/",
-          "page_slug": "paketresa-eller-boka-sjalv-gran-canaria",
-          "section_h3": "Kan man boka flyg och hotell själv till Gran Canaria enkelt?",
+          "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+          "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+          "section_h3": "Golf – Spela Året Runt i 20°C",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
-          "alt": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
-          "caption": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria",
-          "description": "Kan man boka flyg och hotell själv till Gran Canaria enkelt? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Golf – Spela Året Runt i 20°C i Gran Canaria",
+          "alt": "Golf – Spela Året Runt i 20°C i Gran Canaria",
+          "caption": "Golf – Spela Året Runt i 20°C i Gran Canaria",
+          "description": "Golf – Spela Året Runt i 20°C i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/grancanaria/kan-man-boka-flyg-och-hotell-sjalv-till-gran-canaria-enkelt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/grancanaria/golf-spela-aret-runt-i-20c-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/kort-vistelse-1-2-veckor-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/kort-vistelse-1-2-veckor-grancanaria.jpg",
-      "filename": "kort-vistelse-1-2-veckor-grancanaria.jpg",
-      "brief_id": "grancanaria:hyra-lagenhet-gran-canaria:kort-vistelse-1-2-veckor",
+      "source": "bilder/inbox/gran-canaria-maspalomas-playa-del-ingles-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg",
+      "filename": "gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria:maspalomas-playa-del-ingles",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-      "page_id": 109,
-      "page_title": "Hyra lägenhet på Gran Canaria: bästa områdena, priser, fallgropar och checklista",
-      "page_slug": "hyra-lagenhet-gran-canaria",
-      "h3": "Kort vistelse, 1-2 veckor",
-      "h3_slug": "kort-vistelse-1-2-veckor",
-      "place": "Kort vistelse, 1-2 veckor i Gran Canaria",
+      "page": "https://grancanaria.se/",
+      "page_id": 44,
+      "page_title": "GranCanaria.se — din reseguide till Gran Canaria",
+      "page_slug": "gran-canaria",
+      "h3": "🌅 Maspalomas & Playa del Inglés",
+      "h3_slug": "maspalomas-playa-del-ingles",
+      "place": "Maspalomas & Playa del Inglés i Gran Canaria",
       "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Kort vistelse, 1-2 veckor i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents kort vistelse, 1-2 veckor with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: kort-vistelse-1-2-veckor-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Kort vistelse, 1-2 veckor i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents kort vistelse, 1-2 veckor with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Kort vistelse, 1-2 veckor i Gran Canaria",
-      "caption": "Kort vistelse, 1-2 veckor i Gran Canaria",
-      "seo": "Kort vistelse, 1-2 veckor i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "shot_type": "coastal travel photograph",
+      "prompt": "A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Maspalomas & Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas & playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: gran-canaria-maspalomas-playa-del-ingles-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Maspalomas & Playa del Inglés i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas & playa del inglés with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Maspalomas & Playa del Inglés i Gran Canaria",
+      "caption": "Maspalomas & Playa del Inglés i Gran Canaria",
+      "seo": "Maspalomas & Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -926,29 +127,29 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/kort-vistelse-1-2-veckor-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/kort-vistelse-1-2-veckor-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/gran-canaria-maspalomas-playa-del-ingles-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg",
         "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyra-lagenhet-gran-canaria/",
-          "page_slug": "hyra-lagenhet-gran-canaria",
-          "section_h3": "Kort vistelse, 1-2 veckor",
+          "page_url": "https://grancanaria.se/",
+          "page_slug": "gran-canaria",
+          "section_h3": "🌅 Maspalomas & Playa del Inglés",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Kort vistelse, 1-2 veckor i Gran Canaria",
-          "alt": "Kort vistelse, 1-2 veckor i Gran Canaria",
-          "caption": "Kort vistelse, 1-2 veckor i Gran Canaria",
-          "description": "Kort vistelse, 1-2 veckor i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "alt": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "caption": "Maspalomas & Playa del Inglés i Gran Canaria",
+          "description": "Maspalomas & Playa del Inglés i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/grancanaria/kort-vistelse-1-2-veckor-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/grancanaria/gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.jpg",
-      "filename": "maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.jpg",
-      "brief_id": "grancanaria:gran-canaria-utan-hyrbil:maspalomas-och-meloneras-bekvamt-men-mer-utspritt",
+      "source": "bilder/inbox/las-palmas-fran-soder-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/las-palmas-fran-soder-grancanaria.jpg",
+      "filename": "las-palmas-fran-soder-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-utan-hyrbil:las-palmas-fran-soder",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
@@ -956,16 +157,16 @@
       "page_id": 96,
       "page_title": "Gran Canaria utan hyrbil: bästa områdena, bussar, taxi och smarta utflykter",
       "page_slug": "gran-canaria-utan-hyrbil",
-      "h3": "Maspalomas och Meloneras: bekvamt men mer utspritt",
-      "h3_slug": "maspalomas-och-meloneras-bekvamt-men-mer-utspritt",
-      "place": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
+      "h3": "Las Palmas från söder",
+      "h3_slug": "las-palmas-fran-soder",
+      "place": "Las Palmas från söder i Gran Canaria",
       "gps": "27.9202, -15.5474",
       "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents maspalomas och meloneras: bekvamt men mer utspritt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents maspalomas och meloneras: bekvamt men mer utspritt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
-      "caption": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
-      "seo": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Las Palmas från söder i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents las palmas från söder with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: las-palmas-fran-soder-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Las Palmas från söder i Gran Canaria in Gran Canaria, Spain, during busy summer peak season. The scene clearly represents las palmas från söder with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Las Palmas från söder i Gran Canaria",
+      "caption": "Las Palmas från söder i Gran Canaria",
+      "seo": "Las Palmas från söder i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -973,29 +174,123 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/las-palmas-fran-soder-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/las-palmas-fran-soder-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
           "page_slug": "gran-canaria-utan-hyrbil",
-          "section_h3": "Maspalomas och Meloneras: bekvamt men mer utspritt",
+          "section_h3": "Las Palmas från söder",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
-          "alt": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
-          "caption": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria",
-          "description": "Maspalomas och Meloneras: bekvamt men mer utspritt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Las Palmas från söder i Gran Canaria",
+          "alt": "Las Palmas från söder i Gran Canaria",
+          "caption": "Las Palmas från söder i Gran Canaria",
+          "description": "Las Palmas från söder i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-men-mer-utspritt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/grancanaria/las-palmas-fran-soder-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.jpg",
-      "filename": "maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.jpg",
-      "brief_id": "grancanaria:gran-canaria-pensionarer-langliggare:maspalomas-och-meloneras-bekvamt-och-promenadvanligt",
+      "source": "bilder/inbox/maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.jpg",
+      "filename": "maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-med-barn:maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-med-barn/",
+      "page_id": 95,
+      "page_title": "Gran Canaria med barn: bästa områdena, stränderna och hotellen för familjer",
+      "page_slug": "gran-canaria-med-barn",
+      "h3": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard",
+      "h3_slug": "maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard",
+      "place": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas och meloneras: bekväm familjesemester med hög hotellstandard with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas och meloneras: bekväm familjesemester med hög hotellstandard with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+      "caption": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+      "seo": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-med-barn/",
+          "page_slug": "gran-canaria-med-barn",
+          "section_h3": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+          "alt": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+          "caption": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria",
+          "description": "Maspalomas och Meloneras: bekväm familjesemester med hög hotellstandard i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvam-familjesemester-med-hog-hotellstandard-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/meloneras-lyxens-mekka-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/meloneras-lyxens-mekka-grancanaria.jpg",
+      "filename": "meloneras-lyxens-mekka-grancanaria.jpg",
+      "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:meloneras-lyxens-mekka",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+      "page_id": 547,
+      "page_title": "Hotell Puerto Rico Gran Canaria – Din Kompletta Guide för Nordiska Resenärer",
+      "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+      "h3": "Meloneras – Lyxens Mekka",
+      "h3_slug": "meloneras-lyxens-mekka",
+      "place": "Meloneras – Lyxens Mekka i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "prompt": "A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Meloneras – Lyxens Mekka i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents meloneras – lyxens mekka with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: meloneras-lyxens-mekka-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Meloneras – Lyxens Mekka i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents meloneras – lyxens mekka with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Meloneras – Lyxens Mekka i Gran Canaria",
+      "caption": "Meloneras – Lyxens Mekka i Gran Canaria",
+      "seo": "Meloneras – Lyxens Mekka i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "quality_checks": [
+        "landscape 1536x1024 preferred",
+        "no readable text/logos/watermarks",
+        "realistic place details",
+        "no distorted people or vehicles"
+      ],
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/meloneras-lyxens-mekka-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/meloneras-lyxens-mekka-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+          "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+          "section_h3": "Meloneras – Lyxens Mekka",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Meloneras – Lyxens Mekka i Gran Canaria",
+          "alt": "Meloneras – Lyxens Mekka i Gran Canaria",
+          "caption": "Meloneras – Lyxens Mekka i Gran Canaria",
+          "description": "Meloneras – Lyxens Mekka i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/meloneras-lyxens-mekka-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.jpg",
+      "filename": "puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-pensionarer-langliggare:puerto-de-mogan-lugnt-vackert-och-kompakt",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
@@ -1003,16 +298,16 @@
       "page_id": 101,
       "page_title": "Gran Canaria för pensionärer och långliggare: bästa områdena, boendet och praktiska tips",
       "page_slug": "gran-canaria-pensionarer-langliggare",
-      "h3": "Maspalomas och Meloneras: bekvamt och promenadvänligt",
-      "h3_slug": "maspalomas-och-meloneras-bekvamt-och-promenadvanligt",
-      "place": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
+      "h3": "Puerto de Mogán: lugnt, vackert och kompakt",
+      "h3_slug": "puerto-de-mogan-lugnt-vackert-och-kompakt",
+      "place": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
       "gps": "27.9202, -15.5474",
       "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas och meloneras: bekvamt och promenadvänligt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents maspalomas och meloneras: bekvamt och promenadvänligt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
-      "caption": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
-      "seo": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
+      "prompt": "A realistic editorial travel photograph at Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents puerto de mogán: lugnt, vackert och kompakt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents puerto de mogán: lugnt, vackert och kompakt with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
+      "alt": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
+      "caption": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
+      "seo": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
       "quality_checks": [
         "landscape 1536x1024 preferred",
         "no readable text/logos/watermarks",
@@ -1020,117 +315,23 @@
         "no distorted people or vehicles"
       ],
       "handoff": {
-        "preferred_source_download": "bilder/inbox/maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/gran-canaria-pensionarer-langliggare/",
           "page_slug": "gran-canaria-pensionarer-langliggare",
-          "section_h3": "Maspalomas och Meloneras: bekvamt och promenadvänligt",
+          "section_h3": "Puerto de Mogán: lugnt, vackert och kompakt",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
-          "alt": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
-          "caption": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria",
-          "description": "Maspalomas och Meloneras: bekvamt och promenadvänligt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
+          "alt": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
+          "caption": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria",
+          "description": "Puerto de Mogán: lugnt, vackert och kompakt i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
         },
         "publishing_status": "needs_manual_image"
       },
-      "inspection": "bilder/web-ready/grancanaria/maspalomas-och-meloneras-bekvamt-och-promenadvanligt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.jpg",
-      "filename": "vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.jpg",
-      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
-      "page_id": 24,
-      "page_title": "Hyrbil Gran Canaria",
-      "page_slug": "hyrbil-pa-gran-canaria",
-      "h3": "Vilken bil ska vi välja för Roque Nublo och Fataga?",
-      "h3_slug": "vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga",
-      "place": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "road trip travel photograph",
-      "prompt": "A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken bil ska vi välja för roque nublo och fataga? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken bil ska vi välja för roque nublo och fataga? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-      "caption": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-      "seo": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
-          "page_slug": "hyrbil-pa-gran-canaria",
-          "section_h3": "Vilken bil ska vi välja för Roque Nublo och Fataga?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-          "alt": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-          "caption": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria",
-          "description": "Vilken bil ska vi välja för Roque Nublo och Fataga? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/vilken-bil-ska-vi-valja-for-roque-nublo-och-fataga-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
-      "filename": "vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
-      "brief_id": "grancanaria:norra-gran-canaria:vilken-stad-ar-bast-i-norra-gran-canaria",
-      "domain": "grancanaria",
-      "site": "grancanaria.se",
-      "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/norra-gran-canaria/",
-      "page_id": 98,
-      "page_title": "Norra Gran Canaria: Agaete, Arucas, Terör, Galdar och den gröna sidan av ön",
-      "page_slug": "norra-gran-canaria",
-      "h3": "Vilken stad är bäst i norra Gran Canaria?",
-      "h3_slug": "vilken-stad-ar-bast-i-norra-gran-canaria",
-      "place": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-      "gps": "27.9202, -15.5474",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Vilken stad är bäst i norra Gran Canaria? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken stad är bäst i norra gran canaria? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Gran Canaria travel guide.\n\nTarget filename after download: vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Vilken stad är bäst i norra Gran Canaria? i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents vilken stad är bäst i norra gran canaria? with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.",
-      "alt": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-      "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-      "seo": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
-        "wordpress_target": {
-          "page_url": "https://grancanaria.se/norra-gran-canaria/",
-          "page_slug": "norra-gran-canaria",
-          "section_h3": "Vilken stad är bäst i norra Gran Canaria?",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-          "alt": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-          "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
-          "description": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria. En del av reseguiden om Gran Canaria med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "bilder/web-ready/grancanaria/puerto-de-mogan-lugnt-vackert-och-kompakt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
