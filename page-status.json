@@ -32,6 +32,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 55,
     "flags": [
       "tunt content"
@@ -72,6 +74,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -112,6 +116,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -151,6 +157,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -189,6 +197,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -227,6 +237,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -266,6 +278,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -304,8 +318,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 71,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (6)"
+    ],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -341,6 +361,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "omonetiserad"
@@ -380,6 +402,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 70,
     "flags": [
       "omonetiserad"
@@ -419,6 +443,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -458,6 +484,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -497,6 +525,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
       "omonetiserad"
@@ -536,6 +566,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -575,6 +607,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -614,6 +648,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -653,6 +689,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "omonetiserad"
@@ -692,6 +730,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -731,6 +771,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 70,
     "flags": [
       "omonetiserad"
@@ -770,6 +812,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -809,6 +853,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
       "omonetiserad"
@@ -848,6 +894,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -885,6 +933,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -924,6 +974,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 58,
     "flags": [
       "omonetiserad"
@@ -963,9 +1015,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 73,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (1)"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1003,6 +1060,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -1040,6 +1099,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 65,
     "flags": [
       "omonetiserad"
@@ -1079,9 +1140,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 65,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1118,9 +1184,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 65,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1157,10 +1228,17 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 50,
     "flags": [
       "slutar abrupt",
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1197,10 +1275,17 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 50,
     "flags": [
       "slutar abrupt",
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1237,10 +1322,17 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 50,
     "flags": [
       "slutar abrupt",
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1279,6 +1371,8 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -1316,6 +1410,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "omonetiserad"
@@ -1358,6 +1454,8 @@
     },
     "money_total": 18,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -1396,6 +1494,8 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -1434,8 +1534,14 @@
     },
     "money_total": 15,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -1472,6 +1578,8 @@
     },
     "money_total": 22,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -1511,6 +1619,8 @@
     },
     "money_total": 16,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -1549,6 +1659,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -1587,6 +1699,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content"
@@ -1627,6 +1741,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 55,
     "flags": [
       "tunt content"
@@ -1667,6 +1783,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content"
@@ -1707,6 +1825,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -1720,11 +1840,11 @@
     "slug": "hyrbil-lanzarote-aktiv",
     "title": "Hyrbil för aktiva på Lanzarote – surf, vandring &#038; natur",
     "link": "https://lanzarote.se/hyrbil-lanzarote-aktiv/",
-    "modified": "2026-06-06",
-    "words": 878,
+    "modified": "2026-06-07",
+    "words": 874,
     "h2": 7,
     "h3": 0,
-    "images": 1,
+    "images": 0,
     "internal": 10,
     "external": 0,
     "affiliate": 6,
@@ -1748,7 +1868,9 @@
     },
     "money_total": 7,
     "gyg_issue": [],
-    "score": 80,
+    "img_issue": [],
+    "qa": "🟢 Bra",
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -1759,11 +1881,11 @@
     "slug": "lanzarote-par-roadtrip",
     "title": "Roadtrip för par: hyrbil &#038; boende på Lanzarote",
     "link": "https://lanzarote.se/lanzarote-par-roadtrip/",
-    "modified": "2026-06-06",
-    "words": 911,
+    "modified": "2026-06-07",
+    "words": 907,
     "h2": 7,
     "h3": 0,
-    "images": 1,
+    "images": 0,
     "internal": 10,
     "external": 0,
     "affiliate": 6,
@@ -1786,7 +1908,9 @@
     },
     "money_total": 7,
     "gyg_issue": [],
-    "score": 80,
+    "img_issue": [],
+    "qa": "🟢 Bra",
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -1797,8 +1921,8 @@
     "slug": "hyrbil-lanzarote-vanner",
     "title": "Hyrbil &#038; boende för kompisgänget på Lanzarote",
     "link": "https://lanzarote.se/hyrbil-lanzarote-vanner/",
-    "modified": "2026-06-06",
-    "words": 905,
+    "modified": "2026-06-07",
+    "words": 909,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -1824,6 +1948,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -1835,11 +1961,11 @@
     "slug": "hyrbil-lanzarote-barnfamilj",
     "title": "Hyrbil &#038; villa på Lanzarote för barnfamiljer",
     "link": "https://lanzarote.se/hyrbil-lanzarote-barnfamilj/",
-    "modified": "2026-06-06",
-    "words": 918,
+    "modified": "2026-06-07",
+    "words": 915,
     "h2": 7,
     "h3": 0,
-    "images": 1,
+    "images": 0,
     "internal": 10,
     "external": 0,
     "affiliate": 6,
@@ -1863,7 +1989,9 @@
     },
     "money_total": 7,
     "gyg_issue": [],
-    "score": 80,
+    "img_issue": [],
+    "qa": "🟢 Bra",
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -1900,9 +2028,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟠 Svag",
     "score": 56,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (1)"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -1940,6 +2073,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -1951,14 +2086,14 @@
     "slug": "lanzarote-lugna-strander-guide",
     "title": "Lugna stränder på Lanzarote — guide för seniorer, par och tillgänglighet",
     "link": "https://lanzarote.se/lanzarote-lugna-strander-guide/",
-    "modified": "2026-05-30",
-    "words": 2443,
+    "modified": "2026-06-07",
+    "words": 2513,
     "h2": 10,
     "h3": 17,
-    "images": 9,
-    "internal": 11,
+    "images": 8,
+    "internal": 16,
     "external": 2,
-    "affiliate": 2,
+    "affiliate": 6,
     "type": "Stränder",
     "audience": "Bred",
     "aff_angle": [
@@ -1966,20 +2101,28 @@
       "Aktiviteter (GYG)"
     ],
     "indexed": true,
-    "cta": 0,
+    "cta": 3,
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
+      "vrbo": 2,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -2016,6 +2159,8 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -2053,8 +2198,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 78,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2090,8 +2241,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 78,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2128,6 +2287,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -2166,6 +2327,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -2203,6 +2366,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -2240,8 +2405,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2278,8 +2449,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2315,8 +2494,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 71,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -2352,6 +2537,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -2390,6 +2577,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -2427,6 +2616,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -2464,8 +2655,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (3)",
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2501,8 +2700,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2539,8 +2744,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 78,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2576,6 +2787,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -2613,6 +2826,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -2650,6 +2865,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -2687,8 +2904,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2725,6 +2950,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -2762,8 +2989,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -2800,6 +3033,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -2837,6 +3072,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 65,
     "flags": [
       "tunt content"
@@ -2878,8 +3115,14 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -2916,8 +3159,14 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -2954,8 +3203,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (4)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -2992,8 +3249,17 @@
     },
     "money_total": 35,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (6)",
+      "🖼 bild i botten",
+      "⛔ förbjudet: Booking"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -3030,6 +3296,8 @@
     },
     "money_total": 12,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -3068,6 +3336,8 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -3107,6 +3377,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -3145,6 +3417,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -3183,6 +3457,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -3222,6 +3498,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -3260,6 +3538,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -3297,6 +3577,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -3334,6 +3616,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -3371,6 +3655,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -3408,6 +3694,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -3446,6 +3734,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -3484,8 +3774,12 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
     "score": 68,
-    "flags": [],
+    "flags": [
+      "⛔ förbjudet: Booking"
+    ],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -3521,6 +3815,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -3558,6 +3854,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -3595,6 +3893,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -3633,6 +3933,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [
       "få internlänkar"
@@ -3673,6 +3975,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -3711,6 +4015,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -3749,6 +4055,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -3786,8 +4094,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -3824,8 +4138,16 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -3861,6 +4183,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -3898,6 +4222,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -3935,6 +4261,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 70,
     "flags": [
       "omonetiserad"
@@ -3974,6 +4302,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 70,
     "flags": [
       "omonetiserad"
@@ -4013,6 +4343,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4050,6 +4382,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4087,6 +4421,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4125,6 +4461,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4162,6 +4500,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4200,6 +4540,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4238,6 +4580,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4276,8 +4620,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -4313,6 +4663,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4351,6 +4703,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -4389,6 +4743,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4427,6 +4783,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4464,6 +4822,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4502,8 +4862,14 @@
     },
     "money_total": 10,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -4539,6 +4905,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [
       "få internlänkar"
@@ -4578,6 +4946,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 83,
     "flags": [],
     "tier": "Berikad",
@@ -4615,6 +4985,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -4652,6 +5024,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -4690,6 +5064,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4727,6 +5103,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4765,6 +5143,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -4803,6 +5183,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4840,6 +5222,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -4877,6 +5261,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -4916,6 +5302,8 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -4954,6 +5342,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -4994,6 +5384,8 @@
     },
     "money_total": 11,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -5032,8 +5424,14 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5070,8 +5468,16 @@
     },
     "money_total": 47,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (3)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5109,8 +5515,14 @@
     },
     "money_total": 31,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5147,6 +5559,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 55,
     "flags": [
       "tunt content"
@@ -5187,6 +5601,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -5227,6 +5643,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -5266,6 +5684,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5304,6 +5724,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5342,6 +5764,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5381,6 +5805,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -5419,6 +5845,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content",
@@ -5459,10 +5887,17 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 50,
     "flags": [
       "slutar abrupt",
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -5500,6 +5935,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -5537,8 +5974,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -5574,6 +6017,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5612,6 +6057,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -5650,6 +6097,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5688,6 +6137,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5725,6 +6176,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5762,6 +6215,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5800,6 +6255,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -5838,6 +6295,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5876,6 +6335,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5913,6 +6374,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -5951,6 +6414,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -5988,6 +6453,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6025,6 +6492,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6063,6 +6532,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6101,6 +6572,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6112,11 +6585,11 @@
     "slug": "teneriffa-hyrbil-guide",
     "title": "Hyrbil på Teneriffa – när behövs bil, vägar, parkering och tips",
     "link": "https://teneriffa.se/teneriffa-hyrbil-guide/",
-    "modified": "2026-06-04",
-    "words": 1279,
+    "modified": "2026-06-07",
+    "words": 1244,
     "h2": 15,
     "h3": 6,
-    "images": 17,
+    "images": 15,
     "internal": 3,
     "external": 2,
     "affiliate": 3,
@@ -6140,9 +6613,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 70,
     "flags": [
-      "slutar abrupt"
+      "slutar abrupt",
+      "🖼 bildkluster (8)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -6180,6 +6660,8 @@
     },
     "money_total": 10,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -6218,8 +6700,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 85,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -6255,6 +6743,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -6293,6 +6783,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6330,6 +6822,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 60,
     "flags": [
       "omonetiserad"
@@ -6370,6 +6864,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -6407,6 +6903,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -6444,6 +6942,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -6482,8 +6982,16 @@
     },
     "money_total": 21,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -6520,6 +7028,8 @@
     },
     "money_total": 27,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -6558,6 +7068,8 @@
     },
     "money_total": 16,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -6597,6 +7109,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -6635,6 +7149,8 @@
     },
     "money_total": 9,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -6675,6 +7191,8 @@
     },
     "money_total": 10,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -6713,8 +7231,16 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -6751,6 +7277,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -6790,6 +7318,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -6828,6 +7358,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -6866,6 +7398,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -6904,6 +7438,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -6941,6 +7477,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -6978,6 +7516,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7015,6 +7555,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7052,6 +7594,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7089,6 +7633,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7127,6 +7673,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7164,6 +7712,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7201,6 +7751,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -7239,6 +7791,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7276,6 +7830,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7313,6 +7869,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -7350,6 +7908,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -7388,8 +7948,14 @@
     },
     "money_total": 21,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (3)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -7426,8 +7992,16 @@
     },
     "money_total": 15,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -7464,6 +8038,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -7501,8 +8077,15 @@
     },
     "money_total": 18,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "❌ Fix krävs",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)",
+      "⛔ förbjudet: Airbnb"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -7539,8 +8122,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -7576,6 +8165,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -7614,6 +8205,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -7652,6 +8245,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -7690,6 +8285,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7728,6 +8325,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7766,6 +8365,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7804,6 +8405,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7842,6 +8445,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -7880,6 +8485,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -7918,6 +8525,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -7956,6 +8565,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -7994,6 +8605,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -8031,6 +8644,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -8069,6 +8684,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -8107,6 +8724,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -8144,6 +8763,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 40,
     "flags": [
       "tunt content",
@@ -8186,6 +8807,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -8224,6 +8847,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -8263,6 +8888,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -8303,6 +8930,8 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 95,
     "flags": [],
     "tier": "Best-in-class",
@@ -8341,6 +8970,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -8379,8 +9010,12 @@
     },
     "money_total": 24,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "⛔ förbjudet: Booking"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -8417,6 +9052,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -8455,8 +9092,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (4)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -8493,6 +9136,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -8531,6 +9176,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -8571,6 +9218,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -8610,6 +9259,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -8648,6 +9299,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -8686,6 +9339,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -8725,6 +9380,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -8762,6 +9419,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -8800,6 +9459,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [],
     "tier": "Påbörjad",
@@ -8838,6 +9499,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [],
     "tier": "Påbörjad",
@@ -8876,6 +9539,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 66,
     "flags": [
       "få internlänkar"
@@ -8916,6 +9581,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [
       "få internlänkar"
@@ -8955,6 +9622,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [],
     "tier": "Påbörjad",
@@ -8992,6 +9661,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 66,
     "flags": [
       "få internlänkar"
@@ -9031,6 +9702,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [
       "få internlänkar"
@@ -9071,8 +9744,14 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 71,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -9108,6 +9787,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [
       "få internlänkar"
@@ -9148,6 +9829,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 66,
     "flags": [
       "få internlänkar"
@@ -9188,6 +9871,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -9226,6 +9911,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -9263,6 +9950,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [
       "få internlänkar"
@@ -9302,6 +9991,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 38,
     "flags": [
       "omonetiserad",
@@ -9343,6 +10034,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 61,
     "flags": [
       "få internlänkar"
@@ -9382,6 +10075,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -9420,6 +10115,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [],
     "tier": "Påbörjad",
@@ -9458,6 +10155,8 @@
     },
     "money_total": 2,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -9495,6 +10194,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 66,
     "flags": [],
     "tier": "Påbörjad",
@@ -9532,6 +10233,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [
       "få internlänkar"
@@ -9572,6 +10275,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -9609,6 +10314,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 73,
     "flags": [
       "få internlänkar"
@@ -9648,6 +10355,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 45,
     "flags": [
       "tunt content",
@@ -9688,6 +10397,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 45,
     "flags": [
       "tunt content",
@@ -9728,6 +10439,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
       "omonetiserad"
@@ -9767,9 +10480,12 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "⛔ förbjudet: Welcome Pickups"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -9808,8 +10524,14 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9845,8 +10567,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9883,9 +10613,16 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 70,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bildkluster (6)",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -9922,8 +10659,14 @@
     },
     "money_total": 15,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9960,6 +10703,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
       "omonetiserad"
@@ -10000,6 +10745,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10038,6 +10785,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 55,
     "flags": [
       "tunt content"
@@ -10078,6 +10827,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content"
@@ -10118,6 +10869,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -10158,6 +10911,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -10197,6 +10952,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -10235,6 +10992,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -10273,6 +11032,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -10312,6 +11073,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -10349,6 +11112,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -10387,6 +11152,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -10425,6 +11192,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 83,
     "flags": [],
     "tier": "Berikad",
@@ -10463,6 +11232,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10501,6 +11272,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 83,
     "flags": [],
     "tier": "Berikad",
@@ -10539,6 +11312,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 78,
     "flags": [],
     "tier": "Berikad",
@@ -10577,6 +11352,8 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10615,6 +11392,8 @@
     },
     "money_total": 6,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10653,6 +11432,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -10691,6 +11472,8 @@
     },
     "money_total": 9,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10729,6 +11512,8 @@
     },
     "money_total": 4,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10767,6 +11552,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10804,6 +11591,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 45,
     "flags": [
       "tunt content",
@@ -10846,6 +11635,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 90,
     "flags": [],
     "tier": "Best-in-class",
@@ -10884,6 +11675,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -10923,8 +11716,14 @@
     },
     "money_total": 9,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -10962,6 +11761,8 @@
     },
     "money_total": 14,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 100,
     "flags": [],
     "tier": "Best-in-class",
@@ -11000,8 +11801,14 @@
     },
     "money_total": 15,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -11038,8 +11845,14 @@
     },
     "money_total": 20,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -11076,8 +11889,16 @@
     },
     "money_total": 9,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster",
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)",
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -11114,8 +11935,14 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 100,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -11152,8 +11979,14 @@
     },
     "money_total": 8,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -11189,6 +12022,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content"
@@ -11229,6 +12064,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "tunt content"
@@ -11269,6 +12106,8 @@
     },
     "money_total": 3,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "tunt content"
@@ -11309,6 +12148,8 @@
     },
     "money_total": 5,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -11348,6 +12189,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -11386,6 +12229,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -11424,6 +12269,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟢 Bra",
     "score": 75,
     "flags": [],
     "tier": "Berikad",
@@ -11462,6 +12309,8 @@
     },
     "money_total": 7,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 80,
     "flags": [],
     "tier": "Berikad",
@@ -11500,9 +12349,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11539,9 +12393,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11578,6 +12437,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 53,
     "flags": [
       "omonetiserad"
@@ -11617,9 +12478,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11656,9 +12522,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11695,9 +12566,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11735,9 +12611,14 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -11774,6 +12655,8 @@
     },
     "money_total": 1,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
       "omonetiserad"
@@ -11813,6 +12696,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 68,
     "flags": [],
     "tier": "Påbörjad",
@@ -11850,6 +12735,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 45,
     "flags": [
       "tunt content",
@@ -11890,6 +12777,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 30,
     "flags": [
       "tunt content",
@@ -11931,6 +12820,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
     "score": 48,
     "flags": [
       "omonetiserad",
@@ -11971,10 +12862,13 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
     "score": 43,
     "flags": [
       "omonetiserad",
-      "få internlänkar"
+      "få internlänkar",
+      "⛔ förbjudet: Welcome Pickups"
     ],
     "tier": "Rå",
     "contaminated": false
@@ -12013,6 +12907,8 @@
     },
     "money_total": 10,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "✅ Topp",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -12051,8 +12947,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "kluster"
+    ],
+    "qa": "🟡 OK",
     "score": 78,
-    "flags": [],
+    "flags": [
+      "🖼 bildkluster (2)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -12089,8 +12991,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 78,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -12127,6 +13035,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 85,
     "flags": [],
     "tier": "Berikad",
@@ -12164,8 +13074,14 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
     "score": 90,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -12202,6 +13118,8 @@
     },
     "money_total": 0,
     "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟡 OK",
     "score": 78,
     "flags": [],
     "tier": "Berikad",

@@ -1830,10 +1830,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "lanzarote-par-roadtrip",
-        "link": "https://lanzarote.se/lanzarote-par-roadtrip/"
-      },
-      {
         "slug": "basta-hotellen-pa-lanzarote",
         "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
       }
@@ -1850,12 +1846,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-lanzarote-aktiv",
-        "link": "https://lanzarote.se/hyrbil-lanzarote-aktiv/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -1869,10 +1860,6 @@
     "date": "2026-06-04",
     "managed": true,
     "used_on": [
-      {
-        "slug": "hyrbil-lanzarote-barnfamilj",
-        "link": "https://lanzarote.se/hyrbil-lanzarote-barnfamilj/"
-      },
       {
         "slug": "7-dagar-pa-lanzarote",
         "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
