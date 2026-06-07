@@ -4082,10 +4082,6 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "lanzarote-lugna-strander-guide",
-        "link": "https://lanzarote.se/lanzarote-lugna-strander-guide/"
-      },
-      {
         "slug": "basta-stranderna-pa-lanzarote",
         "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
       }
@@ -5021,10 +5017,6 @@
     "date": "2026-05-24",
     "managed": false,
     "used_on": [
-      {
-        "slug": "lanzarote-lugna-strander-guide",
-        "link": "https://lanzarote.se/lanzarote-lugna-strander-guide/"
-      },
       {
         "slug": "var-ska-man-bo-pa-lanzarote",
         "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"

@@ -1202,14 +1202,14 @@
     "slug": "costa-calma-fuerteventura",
     "title": "Costa Calma – Områdesguide",
     "link": "https://fuerteventura.se/costa-calma-fuerteventura/",
-    "modified": "2026-05-31",
-    "words": 1119,
+    "modified": "2026-06-07",
+    "words": 1134,
     "h2": 8,
     "h3": 8,
     "images": 4,
-    "internal": 4,
+    "internal": 7,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 2,
     "type": "Områden",
     "audience": "Bred",
     "aff_angle": [
@@ -1220,27 +1220,25 @@
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
+      "vrbo": 1,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
-    "score": 50,
+    "qa": "🟡 OK",
+    "score": 85,
     "flags": [
-      "slutar abrupt",
-      "omonetiserad",
       "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1249,14 +1247,14 @@
     "slug": "corralejo-fuerteventura",
     "title": "Corralejo – Områdesguide",
     "link": "https://fuerteventura.se/corralejo-fuerteventura/",
-    "modified": "2026-05-31",
-    "words": 1263,
+    "modified": "2026-06-07",
+    "words": 1278,
     "h2": 9,
     "h3": 4,
     "images": 5,
-    "internal": 8,
+    "internal": 11,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 2,
     "type": "Områden",
     "audience": "Bred",
     "aff_angle": [
@@ -1267,27 +1265,25 @@
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
+      "vrbo": 1,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
-    "score": 50,
+    "qa": "🟡 OK",
+    "score": 85,
     "flags": [
-      "slutar abrupt",
-      "omonetiserad",
       "🖼 bildkluster (1)",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1296,14 +1292,14 @@
     "slug": "caleta-de-fuste-fuerteventura",
     "title": "Caleta de Fuste – Områdesguide",
     "link": "https://fuerteventura.se/caleta-de-fuste-fuerteventura/",
-    "modified": "2026-05-31",
-    "words": 1459,
+    "modified": "2026-06-07",
+    "words": 1474,
     "h2": 18,
     "h3": 1,
     "images": 4,
-    "internal": 3,
+    "internal": 6,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 2,
     "type": "Områden",
     "audience": "Bred",
     "aff_angle": [
@@ -1314,27 +1310,25 @@
     "cta_bd": {
       "hyrbil": 0,
       "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
+      "vrbo": 1,
+      "hotell": 1,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
-    "score": 50,
+    "qa": "🟡 OK",
+    "score": 85,
     "flags": [
-      "slutar abrupt",
-      "omonetiserad",
       "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -2087,10 +2081,10 @@
     "title": "Lugna stränder på Lanzarote — guide för seniorer, par och tillgänglighet",
     "link": "https://lanzarote.se/lanzarote-lugna-strander-guide/",
     "modified": "2026-06-07",
-    "words": 2513,
+    "words": 2488,
     "h2": 10,
     "h3": 17,
-    "images": 8,
+    "images": 6,
     "internal": 16,
     "external": 2,
     "affiliate": 6,
@@ -3216,8 +3210,8 @@
     "slug": "basta-hotellen-pa-lanzarote",
     "title": "Bästa hotellen på Lanzarote — guide för skandinaver",
     "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
-    "modified": "2026-06-05",
-    "words": 5010,
+    "modified": "2026-06-07",
+    "words": 5008,
     "h2": 14,
     "h3": 22,
     "images": 29,
@@ -3247,12 +3241,11 @@
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "score": 95,
     "flags": [
       "🖼 bildkluster (6)",
-      "🖼 bild i botten",
-      "⛔ förbjudet: Booking"
+      "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
     "contaminated": false
@@ -3741,8 +3734,8 @@
     "slug": "playa-del-ingles",
     "title": "Playa del Inglés – komplett guide till Gran Canarias största resort",
     "link": "https://grancanaria.se/playa-del-ingles/",
-    "modified": "2026-06-04",
-    "words": 742,
+    "modified": "2026-06-07",
+    "words": 741,
     "h2": 9,
     "h3": 3,
     "images": 0,
@@ -3769,11 +3762,9 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "score": 68,
-    "flags": [
-      "⛔ förbjudet: Booking"
-    ],
+    "flags": [],
     "tier": "Påbörjad",
     "contaminated": false
   },
@@ -5855,14 +5846,14 @@
     "slug": "teneriffa-flygplats-transfer-ta-sig-runt",
     "title": "Teneriffa flygplats, transfer och så tar du dig runt",
     "link": "https://teneriffa.se/teneriffa-flygplats-transfer-ta-sig-runt/",
-    "modified": "2026-05-30",
-    "words": 1243,
+    "modified": "2026-06-07",
+    "words": 1255,
     "h2": 9,
     "h3": 4,
     "images": 3,
-    "internal": 6,
+    "internal": 9,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 2,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
     "aff_angle": [
@@ -5871,29 +5862,27 @@
     "indexed": true,
     "cta": 0,
     "cta_bd": {
-      "hyrbil": 0,
+      "hyrbil": 1,
       "hcom": 0,
-      "vrbo": 0,
+      "vrbo": 1,
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
-    "score": 50,
+    "qa": "🟡 OK",
+    "score": 85,
     "flags": [
-      "slutar abrupt",
-      "omonetiserad",
       "🖼 bildkluster (2)",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -6580,13 +6569,13 @@
     "title": "Hyrbil på Teneriffa – när behövs bil, vägar, parkering och tips",
     "link": "https://teneriffa.se/teneriffa-hyrbil-guide/",
     "modified": "2026-06-07",
-    "words": 1244,
+    "words": 1256,
     "h2": 15,
     "h3": 6,
     "images": 15,
-    "internal": 3,
+    "internal": 6,
     "external": 2,
-    "affiliate": 3,
+    "affiliate": 5,
     "type": "Hyrbil",
     "audience": "Bred",
     "aff_angle": [
@@ -6597,28 +6586,27 @@
     "indexed": true,
     "cta": 0,
     "cta_bd": {
-      "hyrbil": 0,
+      "hyrbil": 1,
       "hcom": 0,
-      "vrbo": 0,
+      "vrbo": 1,
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "kluster",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
-    "score": 70,
+    "qa": "🟡 OK",
+    "score": 90,
     "flags": [
-      "slutar abrupt",
       "🖼 bildkluster (8)",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8045,8 +8033,8 @@
     "slug": "digital-nomad-guide-malaga",
     "title": "Digital nomad-guide Málaga 2026 — coworking, wifi och kostnad",
     "link": "https://malaga.se/digital-nomad-guide-malaga/",
-    "modified": "2026-06-05",
-    "words": 7557,
+    "modified": "2026-06-07",
+    "words": 7574,
     "h2": 83,
     "h3": 28,
     "images": 6,
@@ -8074,11 +8062,10 @@
     "img_issue": [
       "kluster"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "score": 95,
     "flags": [
-      "🖼 bildkluster (2)",
-      "⛔ förbjudet: Airbnb"
+      "🖼 bildkluster (2)"
     ],
     "tier": "Best-in-class",
     "contaminated": false
@@ -8977,8 +8964,8 @@
     "slug": "basta-hotellen-i-malaga",
     "title": "Bästa hotellen i Málaga 2026 — 11 utvalda från lyx till boutique",
     "link": "https://malaga.se/basta-hotellen-i-malaga/",
-    "modified": "2026-06-06",
-    "words": 2915,
+    "modified": "2026-06-07",
+    "words": 2914,
     "h2": 12,
     "h3": 6,
     "images": 0,
@@ -9005,11 +8992,9 @@
     "money_total": 24,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "❌ Fix krävs",
+    "qa": "✅ Topp",
     "score": 90,
-    "flags": [
-      "⛔ förbjudet: Booking"
-    ],
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9087,12 +9072,14 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
-      "kluster"
+      "kluster",
+      "felmatchad"
     ],
-    "qa": "🟡 OK",
+    "qa": "❌ Fix krävs",
     "score": 90,
     "flags": [
-      "🖼 bildkluster (4)"
+      "🖼 bildkluster (4)",
+      "📍 felmatchad bild (1)"
     ],
     "tier": "Best-in-class",
     "contaminated": false
@@ -10448,8 +10435,8 @@
     "slug": "rhodos-flygplats-transfer",
     "title": "Rhodos flygplats, transfer och så tar du dig runt",
     "link": "https://rhodos.se/rhodos-flygplats-transfer/",
-    "modified": "2026-05-28",
-    "words": 507,
+    "modified": "2026-06-07",
+    "words": 506,
     "h2": 6,
     "h3": 1,
     "images": 2,
@@ -10475,11 +10462,10 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "score": 63,
     "flags": [
-      "omonetiserad",
-      "⛔ förbjudet: Welcome Pickups"
+      "omonetiserad"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -12830,8 +12816,8 @@
     "slug": "torremolinos-flygplats-transfer",
     "title": "Torremolinos flygplats, transfer och så tar du dig runt",
     "link": "https://torremolinos.se/torremolinos-flygplats-transfer/",
-    "modified": "2026-06-06",
-    "words": 467,
+    "modified": "2026-06-07",
+    "words": 466,
     "h2": 6,
     "h3": 0,
     "images": 1,
@@ -12857,12 +12843,11 @@
     "money_total": 0,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "❌ Fix krävs",
+    "qa": "🟠 Svag",
     "score": 43,
     "flags": [
       "omonetiserad",
-      "få internlänkar",
-      "⛔ förbjudet: Welcome Pickups"
+      "få internlänkar"
     ],
     "tier": "Rå",
     "contaminated": false
