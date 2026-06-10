@@ -3,52 +3,2281 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>chamonix bilddashboard</title>
+  <title>Chamonix image dashboard</title>
   <style>
-    :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#ffffff; --accent:#1a3a2a; }
+    :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#ffffff; --redo:#166534; --ready:#0f766e; --downloaded:#b45309; --todo:#475467; }
     * { box-sizing:border-box; }
-    body { margin:0; font-family:Inter, ui-sans-serif, system-ui, sans-serif; background:var(--bg); color:var(--ink); }
+    body { margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); }
     header { padding:24px 28px 18px; border-bottom:1px solid var(--line); background:var(--panel); position:sticky; top:0; z-index:1; }
-    h1 { margin:0 0 8px; font-size:24px; }
+    h1 { margin:0 0 8px; font-size:24px; line-height:1.2; letter-spacing:0; }
     .summary { display:flex; flex-wrap:wrap; gap:8px; color:var(--muted); font-size:14px; }
     .pill { border:1px solid var(--line); border-radius:6px; padding:5px 8px; background:#fff; }
-    main { max-width:800px; margin:40px auto; padding:18px; }
-    .empty-state { text-align:center; padding:60px 20px; background:var(--panel); border:1px solid var(--line); border-radius:12px; }
-    .empty-state h2 { font-size:20px; color:var(--ink); }
-    .empty-state p { color:var(--muted); max-width:500px; margin:12px auto; line-height:1.6; }
-    .status-bar { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:30px 0; }
-    .stat-card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:16px; text-align:center; }
-    .stat-card .num { font-size:32px; font-weight:700; color:var(--accent); }
-    .stat-card .label { font-size:12px; color:var(--muted); margin-top:4px; }
-    a { color:var(--accent); text-decoration:none; }
-    a:hover { text-decoration:underline; }
+    main { max-width:1180px; margin:0 auto; padding:18px; }
+    .item { display:grid; grid-template-columns:220px 1fr; gap:16px; background:var(--panel); border:1px solid var(--line); border-left:5px solid var(--todo); border-radius:8px; padding:14px; margin-bottom:14px; }
+    .item.redo { border-left-color:var(--redo); }
+    .item.ready { border-left-color:var(--ready); }
+    .item.downloaded { border-left-color:var(--downloaded); }
+    .preview { width:100%; aspect-ratio:3/2; border:1px solid var(--line); border-radius:6px; background:#eef1f5; display:grid; place-items:center; overflow:hidden; }
+    .preview:empty::after { content:"Ingen bild ännu"; color:var(--muted); font-size:13px; }
+    .preview img { width:100%; height:100%; object-fit:cover; }
+    .topline { display:flex; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:6px; }
+    .number,.status,.domain,.image-type,.importance { font-size:12px; border-radius:6px; padding:4px 7px; background:#f2f4f7; color:#344054; }
+    .image-type { background:#e0f2fe; color:#075985; }
+    .importance-hög { background:#fee2e2; color:#991b1b; }
+    .importance-medium { background:#fef3c7; color:#92400e; }
+    .importance-låg { background:#eef2ff; color:#3730a3; }
+    .redo .status { background:#dcfce7; color:#14532d; }
+    .ready .status { background:#ccfbf1; color:#134e4a; }
+    .downloaded .status { background:#fef3c7; color:#92400e; }
+    h2 { margin:0 0 8px; font-size:19px; line-height:1.25; letter-spacing:0; }
+    .filters { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+    .filters select { border:1px solid var(--line); border-radius:6px; padding:7px 9px; background:#fff; color:var(--ink); font:13px Inter, ui-sans-serif, system-ui, sans-serif; }
+    .meta { margin:0 0 12px; color:var(--muted); font-size:14px; line-height:1.45; }
+    .files { display:grid; grid-template-columns:120px minmax(0,1fr); gap:6px 10px; align-items:center; margin:10px 0 12px; }
+    label, dt { color:var(--muted); font-size:13px; }
+    code { display:block; overflow-wrap:anywhere; background:#f8fafc; border:1px solid var(--line); border-radius:6px; padding:6px 8px; font-size:13px; }
+    .copy-line { display:grid; grid-template-columns:minmax(0, 1fr) auto; gap:8px; align-items:center; }
+    .copy-line.prompt-copy { display:flex; justify-content:flex-start; margin-top:10px; }
+    input { min-width:0; border:1px solid var(--line); border-radius:6px; padding:8px 9px; font:13px ui-monospace, SFMono-Regular, Menlo, monospace; background:#fff; color:var(--ink); }
+    button { border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#f8fafc; color:#075985; font:650 13px Inter, ui-sans-serif, system-ui, sans-serif; cursor:pointer; }
+    button.copied { border-color:#99f6e4; background:#ccfbf1; color:#134e4a; }
+    details { border-top:1px solid var(--line); padding-top:10px; margin-top:10px; }
+    summary { cursor:pointer; color:#344054; font-weight:650; }
+    textarea { width:100%; min-height:220px; margin-top:10px; resize:vertical; border:1px solid var(--line); border-radius:6px; padding:10px; font:13px/1.45 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    dl { display:grid; grid-template-columns:90px 1fr; gap:8px 12px; margin:10px 0 0; }
+    dd { margin:0; line-height:1.45; }
+    @media (max-width:760px) { header { position:static; padding:18px; } main { padding:12px; } .item { grid-template-columns:1fr; } .files, dl, .copy-line { grid-template-columns:1fr; } }
   </style>
 </head>
 <body>
   <header>
-    <h1>🏔️ Chamonix Bilddashboard</h1>
+    <h1>Chamonix image dashboard</h1>
     <div class="summary">
-      <span class="pill">Domän: chamonix.se</span>
-      <span class="pill">Status: 🔧 Under uppbyggnad</span>
-      <span class="pill">Uppdaterad: 2026-06-08</span>
-      <a href="../" class="pill">← Alla destinationer</a>
+      <span class="pill">Generated 2026-06-10T10:58:15.423517+00:00</span>
+      <span class="pill">40 briefs</span>
+      <span class="pill">0 redo</span>
+      <span class="pill">0 JPG klara</span>
+      <span class="pill">0 PNG finns</span>
+      <span class="pill">40 att skapa</span>
+      <span class="pill">5 hög prio</span>
+    </div>
+    <div class="filters">
+      <select id="importance-filter" aria-label="Filtrera prioritet">
+        <option value="">Alla prioriteter</option>
+        <option value="Hög">Hög prioritet</option>
+        <option value="Medium">Medium prioritet</option>
+        <option value="Låg">Låg prioritet</option>
+      </select>
+      <select id="image-type-filter" aria-label="Filtrera bildtyp">
+        <option value="">Alla bildtyper</option>
+        <option value="Hotell">Hotell</option><option value="Hyrbil/utflykt">Hyrbil/utflykt</option><option value="Natur/äventyr">Natur/äventyr</option><option value="Strand">Strand</option>
+      </select>
     </div>
   </header>
   <main>
-    <div class="status-bar">
-      <div class="stat-card"><div class="num">0</div><div class="label">Bilder totalt</div></div>
-      <div class="stat-card"><div class="num">0</div><div class="label">Redo för WP</div></div>
-      <div class="stat-card"><div class="num">0</div><div class="label">Publicerade</div></div>
-      <div class="stat-card"><div class="num">0</div><div class="label">Under produktion</div></div>
-    </div>
-    <div class="empty-state">
-      <h2>📸 Bilder under produktion</h2>
-      <p>Chamonix är vår nyaste destination. Bildbanken byggs just nu — AI-genererade bilder av Mont Blanc, chalets, skidåkning, vandring och alpbyar.</p>
-      <p>Förväntad leverans: <strong>50-70 bilder</strong> — landskap, boende, aktiviteter, mat & dryck.</p>
-      <p style="margin-top:20px;">🎯 <strong>SEO-plan klar</strong> — 9 sidor live, 10+ artiklar planerade</p>
-      <p>📚 <a href="https://chamonix.se/faktabank/">Faktabank</a> — verifierad databas</p>
-      <p>🔗 <a href="https://chamonix.se/">chamonix.se</a> — live</p>
-    </div>
-  </main>
+            <article class="item todo" data-image-type="Hotell" data-importance="Hög">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">1</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-hög">Hög prio · 155</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🔑 Därför hyra chalet/lägenhet via VRBO</h2>
+                <p class="meta">Boende i Chamonix — chalets, lägenheter &amp; hotell<br>🏡 Chalets &amp; lägenheter — hyr via VRBO<br>Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-1">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-1" readonly value="darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-1">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-1">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents därför hyra chalet/lägenhet via vrbo with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Hög (155) · bas 10 | prioriterad sida +45 | matchar H2-sektion +55 | 2 träffar i H3-text +10</dd>
+                    <dt>Alt</dt><dd>Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc. Bilden visar Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/boende-chamonix/ / darfor-hyra-chalet-lagenhet-via-vrbo</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">2</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 116</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>💰 Budget &amp; Mellanklass</h2>
+                <p class="meta">Boende i Chamonix — chalets, lägenheter &amp; hotell<br>🏨 Hotell i Chamonix — från budget till lyx<br>Budget &amp; Mellanklass i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-2">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-2" readonly value="budget-mellanklass-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-2">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/budget-mellanklass-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\budget-mellanklass-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-2">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: budget-mellanklass-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Budget &amp; Mellanklass i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents budget &amp; mellanklass with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (116) · bas 10 | prioriterad sida +45 | matchar H2-sektion +55 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Budget &amp; Mellanklass i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Budget &amp; Mellanklass i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Budget &amp; Mellanklass i Chamonix-Mont-Blanc. Bilden visar Budget &amp; Mellanklass i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/boende-chamonix/ / budget-mellanklass</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">3</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 81</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>📖 Läs vår kompletta chalet-guide</h2>
+                <p class="meta">Boende i Chamonix — chalets, lägenheter &amp; hotell<br>💡 Boka smart — 6 tips för bästa pris<br>Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-3">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-3" readonly value="las-var-kompletta-chalet-guide-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-3">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/las-var-kompletta-chalet-guide-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\las-var-kompletta-chalet-guide-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-3">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-3" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: las-var-kompletta-chalet-guide-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the spring travel season. The scene clearly represents läs vår kompletta chalet-guide with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (81) · bas 10 | prioriterad sida +45 | 2 träffar i H3-text +10 | 8 träffar i sidtext +16</dd>
+                    <dt>Alt</dt><dd>Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc. Bilden visar Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/boende-chamonix/ / las-var-kompletta-chalet-guide</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">4</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 62</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>⭐ Lyxhotell</h2>
+                <p class="meta">Boende i Chamonix — chalets, lägenheter &amp; hotell<br>🏨 Hotell i Chamonix — från budget till lyx<br>Lyxhotell i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-4">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-4" readonly value="lyxhotell-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-4">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/lyxhotell-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\lyxhotell-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-4">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-4" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: lyxhotell-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Lyxhotell i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during busy summer peak season. The scene clearly represents lyxhotell with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (62) · bas 10 | prioriterad sida +45 | 1 träffar i H3-text +5 | 1 träffar i sidtext +2</dd>
+                    <dt>Alt</dt><dd>Lyxhotell i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Lyxhotell i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Lyxhotell i Chamonix-Mont-Blanc. Bilden visar Lyxhotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/boende-chamonix/ / lyxhotell</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">5</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 57</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🎿 Skid-in / Ski-out</h2>
+                <p class="meta">Boende i Chamonix — chalets, lägenheter &amp; hotell<br>🏨 Hotell i Chamonix — från budget till lyx<br>Skid-in / Ski-out i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-5">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-5" readonly value="skid-in-ski-out-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-5">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/skid-in-ski-out-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\skid-in-ski-out-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-5">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-5" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: skid-in-ski-out-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Skid-in / Ski-out i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents skid-in / ski-out with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (57) · bas 10 | prioriterad sida +45 | 1 träffar i sidtext +2</dd>
+                    <dt>Alt</dt><dd>Skid-in / Ski-out i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Skid-in / Ski-out i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Skid-in / Ski-out i Chamonix-Mont-Blanc. Bilden visar Skid-in / Ski-out i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/boende-chamonix/ / skid-in-ski-out</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Hög">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">6</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-hög">Hög prio · 232</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Hitta din chalet — sök på VRBO</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>📍 Bästa byarna att hyra chalet i<br>Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-6">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-6" readonly value="hitta-din-chalet-sok-pa-vrbo-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-6">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/hitta-din-chalet-sok-pa-vrbo-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\hitta-din-chalet-sok-pa-vrbo-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-6">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-6" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: hitta-din-chalet-sok-pa-vrbo-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents hitta din chalet — sök på vrbo with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Hög (232) · bas 10 | prioriterad sida +42 | matchar sidtitel/H1 +80 | matchar H2-sektion +55</dd>
+                    <dt>Alt</dt><dd>Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc. Bilden visar Hitta din chalet — sök på VRBO i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / hitta-din-chalet-sok-pa-vrbo</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Hög">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">7</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-hög">Hög prio · 177</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>Kan man hyra chalet en hel säsong?</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>❓ Vanliga frågor om att hyra chalet i Chamonix<br>Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-7">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-7" readonly value="kan-man-hyra-chalet-en-hel-sasong-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-7">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/kan-man-hyra-chalet-en-hel-sasong-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\kan-man-hyra-chalet-en-hel-sasong-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-7">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-7" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: kan-man-hyra-chalet-en-hel-sasong-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the mild winter travel season. The scene clearly represents kan man hyra chalet en hel säsong? with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Hög (177) · bas 10 | prioriterad sida +42 | matchar sidtitel/H1 +80 | matchar H2-sektion +55</dd>
+                    <dt>Alt</dt><dd>Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc. Bilden visar Kan man hyra chalet en hel säsong? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / kan-man-hyra-chalet-en-hel-sasong</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Hög">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">8</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-hög">Hög prio · 122</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏢 Lägenheter</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>🔄 Alternativ: Lägenheter och hotell<br>Lägenheter i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-8">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-8" readonly value="lagenheter-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-8">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/lagenheter-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\lagenheter-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-8">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-8" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: lagenheter-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Lägenheter i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents lägenheter with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Hög (122) · bas 10 | prioriterad sida +42 | matchar H2-sektion +55 | 1 träffar i H3-text +5</dd>
+                    <dt>Alt</dt><dd>Lägenheter i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Lägenheter i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Lägenheter i Chamonix-Mont-Blanc. Bilden visar Lägenheter i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / lagenheter</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Hög">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">9</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-hög">Hög prio · 120</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏨 Hotell</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>🔄 Alternativ: Lägenheter och hotell<br>Hotell i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-9">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-9" readonly value="hotell-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-9">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/hotell-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\hotell-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-9">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-9" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: hotell-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotell i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents hotell with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Hög (120) · bas 10 | prioriterad sida +42 | matchar H2-sektion +55 | 1 träffar i H3-text +5</dd>
+                    <dt>Alt</dt><dd>Hotell i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hotell i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hotell i Chamonix-Mont-Blanc. Bilden visar Hotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / hotell</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">10</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 107</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>⛷ Argentière — bäst för stora chalets nära Les Grands Montets</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>📍 Bästa byarna att hyra chalet i<br>Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-10">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-10" readonly value="argentiere-bast-for-stora-chalets-nara-les-grands-montets-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-10">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/argentiere-bast-for-stora-chalets-nara-les-grands-montets-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\argentiere-bast-for-stora-chalets-nara-les-grands-montets-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-10">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-10" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: argentiere-bast-for-stora-chalets-nara-les-grands-montets-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during a busy warm-season evening. The scene clearly represents argentière — bäst för stora chalets nära les grands montets with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (107) · bas 10 | prioriterad sida +42 | 4 träffar i H3-text +20 | 40 träffar i sidtext +35</dd>
+                    <dt>Alt</dt><dd>Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc. Bilden visar Argentière — bäst för stora chalets nära Les Grands Montets i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / argentiere-bast-for-stora-chalets-nara-les-grands-montets</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">11</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 103</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Les Praz / Le Lavancher — bäst för lugn och natur</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>📍 Bästa byarna att hyra chalet i<br>Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-11">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-11" readonly value="les-praz-le-lavancher-bast-for-lugn-och-natur-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-11">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/les-praz-le-lavancher-bast-for-lugn-och-natur-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\les-praz-le-lavancher-bast-for-lugn-och-natur-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-11">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-11" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: les-praz-le-lavancher-bast-for-lugn-och-natur-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during busy summer peak season. The scene clearly represents les praz / le lavancher — bäst för lugn och natur with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (103) · bas 10 | prioriterad sida +42 | 5 träffar i H3-text +25 | 13 träffar i sidtext +26</dd>
+                    <dt>Alt</dt><dd>Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc. Bilden visar Les Praz / Le Lavancher — bäst för lugn och natur i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / les-praz-le-lavancher-bast-for-lugn-och-natur</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">12</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 102</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏙 Chamonix Centrum — bäst för närhet till allt</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>📍 Bästa byarna att hyra chalet i<br>Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-12">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-12" readonly value="chamonix-centrum-bast-for-narhet-till-allt-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-12">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/chamonix-centrum-bast-for-narhet-till-allt-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\chamonix-centrum-bast-for-narhet-till-allt-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-12">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-12" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: chamonix-centrum-bast-for-narhet-till-allt-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the spring travel season. The scene clearly represents chamonix centrum — bäst för närhet till allt with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (102) · bas 10 | prioriterad sida +42 | 3 träffar i H3-text +15 | 20 träffar i sidtext +35</dd>
+                    <dt>Alt</dt><dd>Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc. Bilden visar Chamonix Centrum — bäst för närhet till allt i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / chamonix-centrum-bast-for-narhet-till-allt</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">13</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 92</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>👨‍👩‍👧‍👦 Les Houches — bäst för barnfamiljer</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>📍 Bästa byarna att hyra chalet i<br>Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-13">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-13" readonly value="les-houches-bast-for-barnfamiljer-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-13">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/les-houches-bast-for-barnfamiljer-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\les-houches-bast-for-barnfamiljer-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-13">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-13" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: les-houches-bast-for-barnfamiljer-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic street-level documentary travel photograph at Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents les houches — bäst för barnfamiljer with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (92) · bas 10 | prioriterad sida +42 | 2 träffar i H3-text +10 | 15 träffar i sidtext +30</dd>
+                    <dt>Alt</dt><dd>Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc. Bilden visar Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / les-houches-bast-for-barnfamiljer</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">14</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 85</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>Vilken by är bäst för nybörjare?</h2>
+                <p class="meta">Hyr chalet i Chamonix — guide till bästa boenden för grupper &amp; familjer<br>❓ Vanliga frågor om att hyra chalet i Chamonix<br>Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-14">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-14" readonly value="vilken-by-ar-bast-for-nyborjare-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-14">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/vilken-by-ar-bast-for-nyborjare-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\vilken-by-ar-bast-for-nyborjare-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-14">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-14" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: vilken-by-ar-bast-for-nyborjare-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents vilken by är bäst för nybörjare? with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (85) · bas 10 | prioriterad sida +42 | 1 träffar i H3-text +5 | 14 träffar i sidtext +28</dd>
+                    <dt>Alt</dt><dd>Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc. Bilden visar Vilken by är bäst för nybörjare? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/chalet-guide-chamonix/ / vilken-by-ar-bast-for-nyborjare</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hyrbil/utflykt" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">15</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 96</span>
+                  <span class="image-type">Hyrbil/utflykt</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🔑 Jämför priser på alla uthyrare</h2>
+                <p class="meta">Hyrbil Chamonix<br>🚗 Varför hyra bil till Chamonix?<br>Jämför priser på alla uthyrare i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-15">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-15" readonly value="jamfor-priser-pa-alla-uthyrare-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-15">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/jamfor-priser-pa-alla-uthyrare-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\jamfor-priser-pa-alla-uthyrare-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-15">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-15" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: jamfor-priser-pa-alla-uthyrare-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Jämför priser på alla uthyrare i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents jämför priser på alla uthyrare with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (96) · bas 10 | prioriterad sida +36 | 3 träffar i H3-text +15 | 18 träffar i sidtext +35</dd>
+                    <dt>Alt</dt><dd>Jämför priser på alla uthyrare i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Jämför priser på alla uthyrare i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Jämför priser på alla uthyrare i Chamonix-Mont-Blanc. Bilden visar Jämför priser på alla uthyrare i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/hyrbil-chamonix/ / jamfor-priser-pa-alla-uthyrare</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">16</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 63</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏔 Aiguille du Midi / Vallée Blanche (3 842 m)</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-16">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-16" readonly value="aiguille-du-midi-vallee-blanche-3-842-m-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-16">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-16">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-16" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: aiguille-du-midi-vallee-blanche-3-842-m-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents aiguille du midi / vallée blanche (3 842 m) with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (63) · bas 10 | prioriterad sida +33 | 10 träffar i sidtext +20</dd>
+                    <dt>Alt</dt><dd>Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc. Bilden visar Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / aiguille-du-midi-vallee-blanche-3-842-m</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">17</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 62</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Boende nära backen</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>📊 Liftkortspriser 2025/2026 (riktpriser)<br>Boende nära backen i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-17">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-17" readonly value="boende-nara-backen-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-17">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/boende-nara-backen-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\boende-nara-backen-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-17">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-17" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: boende-nara-backen-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boende nära backen i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents boende nära backen with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (62) · bas 10 | prioriterad sida +33 | 1 träffar i H3-text +5 | 7 träffar i sidtext +14</dd>
+                    <dt>Alt</dt><dd>Boende nära backen i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Boende nära backen i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Boende nära backen i Chamonix-Mont-Blanc. Bilden visar Boende nära backen i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / boende-nara-backen</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">18</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 60</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🎫 Köp liftkort — Mont Blanc Unlimited</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-18">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-18" readonly value="kop-liftkort-mont-blanc-unlimited-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-18">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/kop-liftkort-mont-blanc-unlimited-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\kop-liftkort-mont-blanc-unlimited-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-18">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-18" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: kop-liftkort-mont-blanc-unlimited-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents köp liftkort — mont blanc unlimited with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (60) · bas 10 | prioriterad sida +33 | 1 träffar i H3-text +5 | 6 träffar i sidtext +12</dd>
+                    <dt>Alt</dt><dd>Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc. Bilden visar Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / kop-liftkort-mont-blanc-unlimited</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">19</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 58</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>❄️ Le Tour / Balme (1 453–2 270 m)</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-19">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-19" readonly value="le-tour-balme-1-4532-270-m-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-19">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/le-tour-balme-1-4532-270-m-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\le-tour-balme-1-4532-270-m-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-19">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-19" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: le-tour-balme-1-4532-270-m-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents le tour / balme (1 453–2 270 m) with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (58) · bas 10 | prioriterad sida +33 | 1 träffar i H3-text +5 | 5 träffar i sidtext +10</dd>
+                    <dt>Alt</dt><dd>Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc. Bilden visar Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / le-tour-balme-1-4532-270-m</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">20</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 57</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏔 Les Grands Montets (Argentière, 1 235–3 275 m)</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-20">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-20" readonly value="les-grands-montets-argentiere-1-2353-275-m-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-20">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-20">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-20" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: les-grands-montets-argentiere-1-2353-275-m-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents les grands montets (argentière, 1 235–3 275 m) with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (57) · bas 10 | prioriterad sida +33 | 7 träffar i sidtext +14</dd>
+                    <dt>Alt</dt><dd>Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc. Bilden visar Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / les-grands-montets-argentiere-1-2353-275-m</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">21</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 56</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚡 Brévent-Flégère (1 030–2 525 m)</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-21">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-21" readonly value="brevent-flegere-1-0302-525-m-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-21">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/brevent-flegere-1-0302-525-m-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\brevent-flegere-1-0302-525-m-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-21">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-21" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: brevent-flegere-1-0302-525-m-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the spring travel season. The scene clearly represents brévent-flégère (1 030–2 525 m) with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (56) · bas 10 | prioriterad sida +33 | 1 träffar i H3-text +5 | 4 träffar i sidtext +8</dd>
+                    <dt>Alt</dt><dd>Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc. Bilden visar Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / brevent-flegere-1-0302-525-m</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">22</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 55</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>👨‍👩‍👧‍👦 Les Houches (950–1 900 m)</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>⛷ De 5 skidområdena i Chamonix<br>Les Houches (950–1 900 m) i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-22">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-22" readonly value="les-houches-9501-900-m-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-22">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/les-houches-9501-900-m-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\les-houches-9501-900-m-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-22">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-22" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: les-houches-9501-900-m-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Les Houches (950–1 900 m) i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents les houches (950–1 900 m) with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (55) · bas 10 | prioriterad sida +33 | 6 träffar i sidtext +12</dd>
+                    <dt>Alt</dt><dd>Les Houches (950–1 900 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Les Houches (950–1 900 m) i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Les Houches (950–1 900 m) i Chamonix-Mont-Blanc. Bilden visar Les Houches (950–1 900 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / les-houches-9501-900-m</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hyrbil/utflykt" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">23</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 51</span>
+                  <span class="image-type">Hyrbil/utflykt</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚗 Hyrbil från Genève</h2>
+                <p class="meta">Skidåkning i Chamonix — guide till bästa åken<br>📊 Liftkortspriser 2025/2026 (riktpriser)<br>Hyrbil från Genève i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-23">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-23" readonly value="skidakning-chamonix-hyrbil-fran-geneve-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-23">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-23">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-23" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: skidakning-chamonix-hyrbil-fran-geneve-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil från Genève i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the spring travel season. The scene clearly represents hyrbil från genève with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (51) · bas 10 | prioriterad sida +33 | 4 träffar i sidtext +8</dd>
+                    <dt>Alt</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hyrbil från Genève i Chamonix-Mont-Blanc. Bilden visar Hyrbil från Genève i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/skidakning-chamonix/ / hyrbil-fran-geneve</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">24</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 57</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🔑 Börja med boendet</h2>
+                <p class="meta">Vad kostar en vecka i Chamonix? Budgetguide<br>5 konkreta spartips för Chamonix<br>Börja med boendet i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-24">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-24" readonly value="borja-med-boendet-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-24">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/borja-med-boendet-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\borja-med-boendet-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-24">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-24" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: borja-med-boendet-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Börja med boendet i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents börja med boendet with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (57) · bas 10 | prioriterad sida +30 | 1 träffar i H3-text +5 | 6 träffar i sidtext +12</dd>
+                    <dt>Alt</dt><dd>Börja med boendet i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Börja med boendet i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Börja med boendet i Chamonix-Mont-Blanc. Bilden visar Börja med boendet i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/vad-kostar-chamonix/ / borja-med-boendet</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hyrbil/utflykt" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">25</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 100</span>
+                  <span class="image-type">Hyrbil/utflykt</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚗 Hyrbil från Genève</h2>
+                <p class="meta">Ta dig till Chamonix — flyg, bil och tåg<br>✈️ Flyg till Genève — enklaste vägen<br>Hyrbil från Genève i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-25">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-25" readonly value="resa-till-chamonix-hyrbil-fran-geneve-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-25">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-25">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-25" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: resa-till-chamonix-hyrbil-fran-geneve-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil från Genève i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents hyrbil från genève with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (100) · bas 10 | matchar H2-sektion +55 | 19 träffar i sidtext +35</dd>
+                    <dt>Alt</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hyrbil från Genève i Chamonix-Mont-Blanc. Bilden visar Hyrbil från Genève i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/resa-till-chamonix/ / hyrbil-fran-geneve</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Medium">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">26</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-medium">Medium prio · 100</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>⛷ Skidåkning</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>📖 Våra guider<br>Skidåkning i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-26">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-26" readonly value="skidakning-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-26">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/skidakning-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\skidakning-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-26">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-26" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: skidakning-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Skidåkning i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents skidåkning with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Medium (100) · bas 10 | matchar sidtitel/H1 +80 | 5 träffar i sidtext +10</dd>
+                    <dt>Alt</dt><dd>Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Skidåkning i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Skidåkning i Chamonix-Mont-Blanc. Bilden visar Skidåkning i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / skidakning</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Strand" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">27</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 46</span>
+                  <span class="image-type">Strand</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚡 Aiguille du Midi — 3 842 meter över havet</h2>
+                <p class="meta">Saker att göra i Chamonix — hela året<br>🏔 Ikoniska upplevelser — året runt<br>Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-27">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-27" readonly value="aiguille-du-midi-3-842-meter-over-havet-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-27">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/aiguille-du-midi-3-842-meter-over-havet-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\aiguille-du-midi-3-842-meter-over-havet-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-27">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-27" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: aiguille-du-midi-3-842-meter-over-havet-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents aiguille du midi — 3 842 meter över havet with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (46) · bas 10 | 2 träffar i H3-text +10 | 13 träffar i sidtext +26</dd>
+                    <dt>Alt</dt><dd>Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc. Bilden visar Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/saker-att-gora-chamonix/ / aiguille-du-midi-3-842-meter-over-havet</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">28</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 34</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🧑‍🏫 Boka skidskola &amp; guide</h2>
+                <p class="meta">Saker att göra i Chamonix — hela året<br>🏔 Vinteraktiviteter — mer än bara skidor<br>Boka skidskola &amp; guide i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-28">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-28" readonly value="boka-skidskola-guide-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-28">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/boka-skidskola-guide-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\boka-skidskola-guide-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-28">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-28" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: boka-skidskola-guide-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boka skidskola &amp; guide i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents boka skidskola &amp; guide with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (34) · bas 10 | 2 träffar i H3-text +10 | 7 träffar i sidtext +14</dd>
+                    <dt>Alt</dt><dd>Boka skidskola &amp; guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Boka skidskola &amp; guide i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Boka skidskola &amp; guide i Chamonix-Mont-Blanc. Bilden visar Boka skidskola &amp; guide i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/saker-att-gora-chamonix/ / boka-skidskola-guide</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">29</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 33</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Chalets &amp; Lägenheter</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>🏠 Hitta ditt boende i Chamonix<br>Chalets &amp; Lägenheter i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-29">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-29" readonly value="chalets-lagenheter-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-29">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/chalets-lagenheter-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\chalets-lagenheter-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-29">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-29" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: chalets-lagenheter-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Chalets &amp; Lägenheter i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents chalets &amp; lägenheter with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (33) · bas 10 | 1 träffar i H3-text +5 | 9 träffar i sidtext +18</dd>
+                    <dt>Alt</dt><dd>Chalets &amp; Lägenheter i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Chalets &amp; Lägenheter i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Chalets &amp; Lägenheter i Chamonix-Mont-Blanc. Bilden visar Chalets &amp; Lägenheter i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / chalets-lagenheter</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">30</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 31</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚗 Hyrbil från Genève</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>🏠 Hitta ditt boende i Chamonix<br>Hyrbil från Genève i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-30">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-30" readonly value="startsida-hyrbil-fran-geneve-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-30">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/startsida-hyrbil-fran-geneve-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\startsida-hyrbil-fran-geneve-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-30">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-30" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: startsida-hyrbil-fran-geneve-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Hyrbil från Genève i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents hyrbil från genève with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (31) · bas 10 | 1 träffar i H3-text +5 | 8 träffar i sidtext +16</dd>
+                    <dt>Alt</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hyrbil från Genève i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hyrbil från Genève i Chamonix-Mont-Blanc. Bilden visar Hyrbil från Genève i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / hyrbil-fran-geneve</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">31</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 30</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🎫 SkiPass Chamonix — boka online</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>📍 Utforska byarna i Chamonix-dalen<br>SkiPass Chamonix — boka online i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-31">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-31" readonly value="skipass-chamonix-boka-online-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-31">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/skipass-chamonix-boka-online-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\skipass-chamonix-boka-online-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-31">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-31" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: skipass-chamonix-boka-online-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at SkiPass Chamonix — boka online i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents skipass chamonix — boka online with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (30) · bas 10 | 2 träffar i H3-text +10 | 5 träffar i sidtext +10</dd>
+                    <dt>Alt</dt><dd>SkiPass Chamonix — boka online i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>SkiPass Chamonix — boka online i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från SkiPass Chamonix — boka online i Chamonix-Mont-Blanc. Bilden visar SkiPass Chamonix — boka online i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / skipass-chamonix-boka-online</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">32</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 28</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Chalet-guide</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>📖 Våra guider<br>Chalet-guide i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-32">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-32" readonly value="chalet-guide-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-32">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/chalet-guide-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\chalet-guide-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-32">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-32" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: chalet-guide-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Chalet-guide i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents chalet-guide with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (28) · bas 10 | 2 träffar i H3-text +10 | 4 träffar i sidtext +8</dd>
+                    <dt>Alt</dt><dd>Chalet-guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Chalet-guide i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Chalet-guide i Chamonix-Mont-Blanc. Bilden visar Chalet-guide i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / chalet-guide</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">33</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 26</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏨 Hotell &amp; Värdshus</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>🏠 Hitta ditt boende i Chamonix<br>Hotell &amp; Värdshus i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-33">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-33" readonly value="hotell-vardshus-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-33">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/hotell-vardshus-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\hotell-vardshus-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-33">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-33" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: hotell-vardshus-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Hotell &amp; Värdshus i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents hotell &amp; värdshus with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (26) · bas 10 | 2 träffar i H3-text +10 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Hotell &amp; Värdshus i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Hotell &amp; Värdshus i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Hotell &amp; Värdshus i Chamonix-Mont-Blanc. Bilden visar Hotell &amp; Värdshus i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / hotell-vardshus</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">34</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 21</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Boende när du är framme</h2>
+                <p class="meta">Ta dig till Chamonix — flyg, bil och tåg<br>🚌 Buss från Sverige<br>Boende när du är framme i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-34">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-34" readonly value="boende-nar-du-ar-framme-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-34">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/boende-nar-du-ar-framme-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\boende-nar-du-ar-framme-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-34">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-34" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: boende-nar-du-ar-framme-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boende när du är framme i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents boende när du är framme with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (21) · bas 10 | 1 träffar i H3-text +5 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Boende när du är framme i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Boende när du är framme i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Boende när du är framme i Chamonix-Mont-Blanc. Bilden visar Boende när du är framme i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/resa-till-chamonix/ / boende-nar-du-ar-framme</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hotell" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">35</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 21</span>
+                  <span class="image-type">Hotell</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🏡 Boende nära aktiviteterna</h2>
+                <p class="meta">Saker att göra i Chamonix — hela året<br>🏊 Välmående &amp; avkoppling<br>Boende nära aktiviteterna i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-35">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-35" readonly value="boende-nara-aktiviteterna-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-35">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/boende-nara-aktiviteterna-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\boende-nara-aktiviteterna-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-35">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-35" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: boende-nara-aktiviteterna-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boende nära aktiviteterna i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents boende nära aktiviteterna with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (21) · bas 10 | 1 träffar i H3-text +5 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Boende nära aktiviteterna i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Boende nära aktiviteterna i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Boende nära aktiviteterna i Chamonix-Mont-Blanc. Bilden visar Boende nära aktiviteterna i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/saker-att-gora-chamonix/ / boende-nara-aktiviteterna</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">36</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 21</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>📅 Bästa tiden</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>📖 Våra guider<br>Bästa tiden i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-36">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-36" readonly value="basta-tiden-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-36">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/basta-tiden-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\basta-tiden-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-36">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-36" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: basta-tiden-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Bästa tiden i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during busy summer peak season. The scene clearly represents bästa tiden with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (21) · bas 10 | 1 träffar i H3-text +5 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Bästa tiden i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Bästa tiden i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Bästa tiden i Chamonix-Mont-Blanc. Bilden visar Bästa tiden i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / basta-tiden</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">37</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 16</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚂 Tåg via Mont Blanc Express</h2>
+                <p class="meta">Ta dig till Chamonix — flyg, bil och tåg<br>✈️ Flyg till Genève — enklaste vägen<br>Tåg via Mont Blanc Express i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-37">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-37" readonly value="tag-via-mont-blanc-express-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-37">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/tag-via-mont-blanc-express-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\tag-via-mont-blanc-express-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-37">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-37" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: tag-via-mont-blanc-express-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Tåg via Mont Blanc Express i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents tåg via mont blanc express with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (16) · bas 10 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Tåg via Mont Blanc Express i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Tåg via Mont Blanc Express i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Tåg via Mont Blanc Express i Chamonix-Mont-Blanc. Bilden visar Tåg via Mont Blanc Express i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/resa-till-chamonix/ / tag-via-mont-blanc-express</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">38</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 16</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>💰 Budget</h2>
+                <p class="meta">Chamonix reseguide — skidåkning, boende &amp; alpbyar<br>📖 Våra guider<br>Budget i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-38">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-38" readonly value="budget-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-38">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/budget-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\budget-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-38">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-38" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: budget-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Budget i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents budget with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (16) · bas 10 | 3 träffar i sidtext +6</dd>
+                    <dt>Alt</dt><dd>Budget i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Budget i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Budget i Chamonix-Mont-Blanc. Bilden visar Budget i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/ / budget</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Hyrbil/utflykt" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">39</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 14</span>
+                  <span class="image-type">Hyrbil/utflykt</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚌 Transferbuss</h2>
+                <p class="meta">Ta dig till Chamonix — flyg, bil och tåg<br>✈️ Flyg till Genève — enklaste vägen<br>Transferbuss i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-39">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-39" readonly value="transferbuss-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-39">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/transferbuss-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\transferbuss-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-39">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-39" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: transferbuss-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Transferbuss i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents transferbuss with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (14) · bas 10 | 2 träffar i sidtext +4</dd>
+                    <dt>Alt</dt><dd>Transferbuss i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Transferbuss i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Transferbuss i Chamonix-Mont-Blanc. Bilden visar Transferbuss i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/resa-till-chamonix/ / transferbuss</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            
+            <article class="item todo" data-image-type="Natur/äventyr" data-importance="Låg">
+              <div class="preview"></div>
+              <div class="main">
+                <div class="topline">
+                  <span class="number">40</span>
+                  <span class="status">Skapa bild</span>
+                  <span class="importance importance-låg">Låg prio · 14</span>
+                  <span class="image-type">Natur/äventyr</span>
+                  <span class="domain">chamonix</span>
+                </div>
+                <h2>🚂 Montenvers — Mer de Glace</h2>
+                <p class="meta">Saker att göra i Chamonix — hela året<br>🏔 Ikoniska upplevelser — året runt<br>Montenvers — Mer de Glace i Chamonix-Mont-Blanc</p>
+                <div class="files">
+                  <label for="filename-40">Save PNG as</label>
+                  <div class="copy-line">
+                    <input id="filename-40" readonly value="montenvers-mer-de-glace-chamonix.png" onclick="this.select()">
+                    <button type="button" data-copy-target="filename-40">Kopiera filnamn</button>
+                  </div>
+                  <label>Web-ready JPG</label><code>bilder/web-ready/chamonix/montenvers-mer-de-glace-chamonix.jpg</code>
+                  <label>Redo JPG</label><code>bilder\web-ready\chamonix\redo\montenvers-mer-de-glace-chamonix.jpg</code>
+                </div>
+                <details>
+                  <summary>Prompt</summary>
+                  <div class="copy-line prompt-copy">
+                    <button type="button" data-copy-target="prompt-40">Kopiera prompt</button>
+                  </div>
+                  <textarea id="prompt-40" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: montenvers-mer-de-glace-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Montenvers — Mer de Glace i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the mild winter travel season. The scene clearly represents montenvers — mer de glace with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+                </details>
+                <details>
+                  <summary>Publishing metadata</summary>
+                  <dl>
+                    <dt>Prioritet</dt><dd>Låg (14) · bas 10 | 2 träffar i sidtext +4</dd>
+                    <dt>Alt</dt><dd>Montenvers — Mer de Glace i Chamonix-Mont-Blanc med människor och realistisk resemiljö</dd>
+                    <dt>Caption</dt><dd>Montenvers — Mer de Glace i Chamonix-Mont-Blanc</dd>
+                    <dt>SEO</dt><dd>En realistisk resebild från Montenvers — Mer de Glace i Chamonix-Mont-Blanc. Bilden visar Montenvers — Mer de Glace i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.</dd>
+                    <dt>Target</dt><dd>https://chamonix.se/saker-att-gora-chamonix/ / montenvers-mer-de-glace</dd>
+                  </dl>
+                </details>
+              </div>
+            </article>
+            </main>
+  <script>
+    async function copyTextFrom(id, button) {
+      const field = document.getElementById(id);
+      if (!field) return;
+      field.focus();
+      field.select();
+      try {
+        await navigator.clipboard.writeText(field.value);
+      } catch (error) {
+        document.execCommand("copy");
+      }
+      const original = button.textContent;
+      button.textContent = "Kopierad";
+      button.classList.add("copied");
+      window.setTimeout(() => {
+        button.textContent = original;
+        button.classList.remove("copied");
+      }, 1200);
+    }
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-copy-target]");
+      if (!button) return;
+      copyTextFrom(button.dataset.copyTarget, button);
+    });
+
+    const imageTypeFilter = document.getElementById("image-type-filter");
+    const importanceFilter = document.getElementById("importance-filter");
+    function applyFilters() {
+      const imageType = imageTypeFilter ? imageTypeFilter.value : "";
+      const importance = importanceFilter ? importanceFilter.value : "";
+      document.querySelectorAll(".item").forEach((item) => {
+        const hideByType = Boolean(imageType) && item.dataset.imageType !== imageType;
+        const hideByImportance = Boolean(importance) && item.dataset.importance !== importance;
+        item.hidden = hideByType || hideByImportance;
+      });
+    }
+    if (imageTypeFilter) {
+      imageTypeFilter.addEventListener("change", applyFilters);
+    }
+    if (importanceFilter) {
+      importanceFilter.addEventListener("change", applyFilters);
+    }
+  </script>
 </body>
 </html>
