@@ -17445,7 +17445,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17488,7 +17488,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17531,7 +17531,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17574,7 +17574,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17617,7 +17617,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17660,7 +17660,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17705,7 +17705,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17749,7 +17749,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17792,7 +17792,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17835,7 +17835,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17878,7 +17878,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17922,7 +17922,7 @@
     "aff_angle": [
       "Reseprodukter"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17966,7 +17966,7 @@
     "aff_angle": [
       "Hyrbil"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -18009,7 +18009,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -18052,7 +18052,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -18096,7 +18096,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -18139,7 +18139,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -18153,7 +18153,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 84,
     "flags": [
