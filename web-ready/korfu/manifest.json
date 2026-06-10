@@ -1,431 +1,92 @@
 {
-  "generated_at": "2026-06-06T20:27:40.903580+00:00",
+  "generated_at": "2026-06-04T08:04:00.969777+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/korfu",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/achilleion-palatset-10-km-20-min-korfu.png",
-      "file": "bilder/web-ready/korfu/achilleion-palatset-10-km-20-min-korfu.jpg",
-      "filename": "achilleion-palatset-10-km-20-min-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:achilleion-palatset-10-km-20-min",
+      "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
+      "file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "3. Achilleion-palatset — 10 km / 20 min",
-      "h3_slug": "achilleion-palatset-10-km-20-min",
-      "place": "Achilleion-palatset — 10 km / 20 min i Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
+      "h3_slug": "arcadion-hotel-basta-lage-i-gamla-stan",
+      "place": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
       "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Achilleion-palatset — 10 km / 20 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents achilleion-palatset — 10 km / 20 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: achilleion-palatset-10-km-20-min-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Achilleion-palatset — 10 km / 20 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents achilleion-palatset — 10 km / 20 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Achilleion-palatset — 10 km / 20 min i Korfu",
-      "caption": "Achilleion-palatset — 10 km / 20 min i Korfu",
-      "seo": "Achilleion-palatset — 10 km / 20 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
+      "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+      "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/achilleion-palatset-10-km-20-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/achilleion-palatset-10-km-20-min-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "3. Achilleion-palatset — 10 km / 20 min",
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Achilleion-palatset — 10 km / 20 min i Korfu",
-          "alt": "Achilleion-palatset — 10 km / 20 min i Korfu",
-          "caption": "Achilleion-palatset — 10 km / 20 min i Korfu",
-          "description": "Achilleion-palatset — 10 km / 20 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+          "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
+          "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+          "description": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/achilleion-palatset-10-km-20-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
-      "source": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
-      "file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
-      "filename": "albanien-saranda-snabbfarja-30-min-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:albanien-saranda-snabbfarja-30-min",
+      "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
+      "file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "2. Albanien (Saranda) — Snabbfärja 30 min",
-      "h3_slug": "albanien-saranda-snabbfarja-30-min",
-      "place": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
+      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
+      "page_id": 52,
+      "page_title": "Bästa hotellen på Korfu",
+      "page_slug": "basta-hotellen-pa-korfu",
+      "h3": "5. Bella Venezia — Charm i Gamla stan",
+      "h3_slug": "bella-venezia-charm-i-gamla-stan",
+      "place": "Bella Venezia — Charm i Gamla stan i Korfu",
       "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Albanien (Saranda) — Snabbfärja 30 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents albanien (saranda) — snabbfärja 30 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: albanien-saranda-snabbfarja-30-min-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Albanien (Saranda) — Snabbfärja 30 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents albanien (saranda) — snabbfärja 30 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
-      "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
-      "seo": "Albanien (Saranda) — Snabbfärja 30 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
+      "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
+      "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "2. Albanien (Saranda) — Snabbfärja 30 min",
+          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
+          "page_slug": "basta-hotellen-pa-korfu",
+          "section_h3": "5. Bella Venezia — Charm i Gamla stan",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
-          "alt": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
-          "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
-          "description": "Albanien (Saranda) — Snabbfärja 30 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
+          "title": "Bella Venezia — Charm i Gamla stan i Korfu",
+          "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
+          "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
+          "description": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
-      "file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
-      "filename": "cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:cape-drastis-nordspetsen-37-km-50-min",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "4. Cape Drastis (nordspetsen) — 37 km / 50 min",
-      "h3_slug": "cape-drastis-nordspetsen-37-km-50-min",
-      "place": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents cape drastis (nordspetsen) — 37 km / 50 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: cape-drastis-nordspetsen-37-km-50-min-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents cape drastis (nordspetsen) — 37 km / 50 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-      "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-      "seo": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "4. Cape Drastis (nordspetsen) — 37 km / 50 min",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-          "alt": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-          "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
-          "description": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/ipsos-och-pyrgi-korfu.png",
-      "file": "bilder/web-ready/korfu/ipsos-och-pyrgi-korfu.jpg",
-      "filename": "ipsos-och-pyrgi-korfu.jpg",
-      "brief_id": "korfu:uteliv-pa-korfu:ipsos-och-pyrgi",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/uteliv-pa-korfu/",
-      "page_id": 338,
-      "page_title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
-      "page_slug": "uteliv-pa-korfu",
-      "h3": "Ipsos och Pyrgi",
-      "h3_slug": "ipsos-och-pyrgi",
-      "place": "Ipsos och Pyrgi i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Ipsos och Pyrgi i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents ipsos och pyrgi with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: ipsos-och-pyrgi-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Ipsos och Pyrgi i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents ipsos och pyrgi with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Ipsos och Pyrgi i Korfu",
-      "caption": "Ipsos och Pyrgi i Korfu",
-      "seo": "Ipsos och Pyrgi i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/ipsos-och-pyrgi-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/ipsos-och-pyrgi-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/uteliv-pa-korfu/",
-          "page_slug": "uteliv-pa-korfu",
-          "section_h3": "Ipsos och Pyrgi",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Ipsos och Pyrgi i Korfu",
-          "alt": "Ipsos och Pyrgi i Korfu",
-          "caption": "Ipsos och Pyrgi i Korfu",
-          "description": "Ipsos och Pyrgi i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/ipsos-och-pyrgi-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/kavos-sydkustens-partyort-korfu.png",
-      "file": "bilder/web-ready/korfu/kavos-sydkustens-partyort-korfu.jpg",
-      "filename": "kavos-sydkustens-partyort-korfu.jpg",
-      "brief_id": "korfu:uteliv-pa-korfu:kavos-sydkustens-partyort",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/uteliv-pa-korfu/",
-      "page_id": 338,
-      "page_title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
-      "page_slug": "uteliv-pa-korfu",
-      "h3": "Kavos (Sydkustens partyort)",
-      "h3_slug": "kavos-sydkustens-partyort",
-      "place": "Kavos (Sydkustens partyort) i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Kavos (Sydkustens partyort) i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents kavos (sydkustens partyort) with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: kavos-sydkustens-partyort-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Kavos (Sydkustens partyort) i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents kavos (sydkustens partyort) with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Kavos (Sydkustens partyort) i Korfu",
-      "caption": "Kavos (Sydkustens partyort) i Korfu",
-      "seo": "Kavos (Sydkustens partyort) i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/kavos-sydkustens-partyort-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/kavos-sydkustens-partyort-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/uteliv-pa-korfu/",
-          "page_slug": "uteliv-pa-korfu",
-          "section_h3": "Kavos (Sydkustens partyort)",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Kavos (Sydkustens partyort) i Korfu",
-          "alt": "Kavos (Sydkustens partyort) i Korfu",
-          "caption": "Kavos (Sydkustens partyort) i Korfu",
-          "description": "Kavos (Sydkustens partyort) i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/kavos-sydkustens-partyort-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/korfu-stad-eleftherias-square-och-omgivning-korfu.png",
-      "file": "bilder/web-ready/korfu/korfu-stad-eleftherias-square-och-omgivning-korfu.jpg",
-      "filename": "korfu-stad-eleftherias-square-och-omgivning-korfu.jpg",
-      "brief_id": "korfu:uteliv-pa-korfu:korfu-stad-eleftherias-square-och-omgivning",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/uteliv-pa-korfu/",
-      "page_id": 338,
-      "page_title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
-      "page_slug": "uteliv-pa-korfu",
-      "h3": "Korfu stad — Eleftherías Square och omgivning",
-      "h3_slug": "korfu-stad-eleftherias-square-och-omgivning",
-      "place": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "street-level documentary evening photograph",
-      "prompt": "A realistic street-level documentary travel photograph at Korfu stad — Eleftherías Square och omgivning i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents korfu stad — eleftherías square och omgivning with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: korfu-stad-eleftherias-square-och-omgivning-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic street-level documentary travel photograph at Korfu stad — Eleftherías Square och omgivning i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents korfu stad — eleftherías square och omgivning with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-      "caption": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-      "seo": "Korfu stad — Eleftherías Square och omgivning i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/korfu-stad-eleftherias-square-och-omgivning-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/korfu-stad-eleftherias-square-och-omgivning-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/uteliv-pa-korfu/",
-          "page_slug": "uteliv-pa-korfu",
-          "section_h3": "Korfu stad — Eleftherías Square och omgivning",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-          "alt": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-          "caption": "Korfu stad — Eleftherías Square och omgivning i Korfu",
-          "description": "Korfu stad — Eleftherías Square och omgivning i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/korfu-stad-eleftherias-square-och-omgivning-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/paleokastritsa-25-km-35-min-korfu.png",
-      "file": "bilder/web-ready/korfu/paleokastritsa-25-km-35-min-korfu.jpg",
-      "filename": "paleokastritsa-25-km-35-min-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:paleokastritsa-25-km-35-min",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "6. Paleokastritsa — 25 km / 35 min",
-      "h3_slug": "paleokastritsa-25-km-35-min",
-      "place": "Paleokastritsa — 25 km / 35 min i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Paleokastritsa — 25 km / 35 min i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents paleokastritsa — 25 km / 35 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: paleokastritsa-25-km-35-min-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Paleokastritsa — 25 km / 35 min i Korfu in Korfu, Greece, during the spring travel season. The scene clearly represents paleokastritsa — 25 km / 35 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Paleokastritsa — 25 km / 35 min i Korfu",
-      "caption": "Paleokastritsa — 25 km / 35 min i Korfu",
-      "seo": "Paleokastritsa — 25 km / 35 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/paleokastritsa-25-km-35-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/paleokastritsa-25-km-35-min-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "6. Paleokastritsa — 25 km / 35 min",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Paleokastritsa — 25 km / 35 min i Korfu",
-          "alt": "Paleokastritsa — 25 km / 35 min i Korfu",
-          "caption": "Paleokastritsa — 25 km / 35 min i Korfu",
-          "description": "Paleokastritsa — 25 km / 35 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/paleokastritsa-25-km-35-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
-      "file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
-      "filename": "paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:paxos-och-anti-paxos-dagsbat-11-5-tim",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "1. Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim",
-      "h3_slug": "paxos-och-anti-paxos-dagsbat-11-5-tim",
-      "place": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents paxos och anti-paxos — dagsbåt, 1–1,5 tim with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents paxos och anti-paxos — dagsbåt, 1–1,5 tim with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-      "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-      "seo": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "1. Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-          "alt": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-          "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
-          "description": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
-    },
-    {
-      "source": "bilder/inbox/porto-timoni-tvillingviken-25-km-40-min-korfu.png",
-      "file": "bilder/web-ready/korfu/porto-timoni-tvillingviken-25-km-40-min-korfu.jpg",
-      "filename": "porto-timoni-tvillingviken-25-km-40-min-korfu.jpg",
-      "brief_id": "korfu:dagsutflykter-fran-korfu:porto-timoni-tvillingviken-25-km-40-min",
-      "domain": "korfu",
-      "site": "korfu.se",
-      "destination": "Korfu",
-      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
-      "page_id": 339,
-      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
-      "page_slug": "dagsutflykter-fran-korfu",
-      "h3": "5. Porto Timoni tvillingviken — 25 km / 40 min",
-      "h3_slug": "porto-timoni-tvillingviken-25-km-40-min",
-      "place": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-      "gps": "39.6243, 19.9217",
-      "shot_type": "editorial travel photograph",
-      "prompt": "A realistic editorial travel photograph at Porto Timoni tvillingviken — 25 km / 40 min i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents porto timoni tvillingviken — 25 km / 40 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Korfu travel guide.\n\nTarget filename after download: porto-timoni-tvillingviken-25-km-40-min-korfu.png\nRecommended size/aspect: 1536x1024 landscape.\n\nImage brief:\nA realistic editorial travel photograph at Porto Timoni tvillingviken — 25 km / 40 min i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents porto timoni tvillingviken — 25 km / 40 min with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.",
-      "alt": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-      "caption": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-      "seo": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer.",
-      "quality_checks": [
-        "landscape 1536x1024 preferred",
-        "no readable text/logos/watermarks",
-        "realistic place details",
-        "no distorted people or vehicles"
-      ],
-      "handoff": {
-        "preferred_source_download": "bilder/inbox/porto-timoni-tvillingviken-25-km-40-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/porto-timoni-tvillingviken-25-km-40-min-korfu.jpg",
-        "wordpress_target": {
-          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
-          "page_slug": "dagsutflykter-fran-korfu",
-          "section_h3": "5. Porto Timoni tvillingviken — 25 km / 40 min",
-          "suggested_position": "after_h3_heading"
-        },
-        "wordpress_media": {
-          "title": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-          "alt": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-          "caption": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu",
-          "description": "Porto Timoni tvillingviken — 25 km / 40 min i Korfu. En del av reseguiden om Korfu med naturligt folkliv och tydliga platsdetaljer."
-        },
-        "publishing_status": "needs_manual_image"
-      },
-      "inspection": "bilder/web-ready/korfu/porto-timoni-tvillingviken-25-km-40-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

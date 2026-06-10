@@ -2,18 +2,16 @@
 
 Public static image dashboard for the private `miggodon/resor` project.
 
-Open the portal through GitHub Pages after this repository is published:
+Portal: https://miggodon.github.io/resor-bildportal/
+
+## Uppdatera hub (sid-status, media, portfölj)
+
+Kör i privat `resor`-repo (INTe export_public_portal.py):
 
 ```text
-https://miggodon.github.io/resor-bildportal/
+python bilder/export_portfolio_hub.py
 ```
 
-Use the portal to copy ChatGPT image prompts and exact PNG filenames. Upload new
-PNG files to the private `resor` repository in:
+## Skapa nya bilder
 
-```text
-bilder/inbox/
-```
-
-The private repository workflow converts PNG files to JPG and updates this
-public portal export.
+Upload PNG to `bilder/inbox/` in the private repo. GitHub Actions converts to JPG.

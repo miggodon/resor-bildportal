@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-      "file": "bilder\\web-ready\\fuerteventura\\redo\\5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "filename": "5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "brief_id": "fuerteventura:5-dagar-pa-fuerteventura:boka-din-resa",
       "domain": "fuerteventura",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Boka din resa i Fuerteventura. Bilden visar Boka din resa i Fuerteventura under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-        "web_ready_file": "bilder\\web-ready\\fuerteventura\\redo\\5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
         "wordpress_target": {
           "page_url": "https://fuerteventura.se/5-dagar-pa-fuerteventura/",
           "page_slug": "5-dagar-pa-fuerteventura",
@@ -42,15 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\fuerteventura\\redo"
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Fuerteventura travel guide. Target filename after download: 5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boka din resa i Fuerteventura in Fuerteventura, Spain, during the most relevant travel season for the scene. The scene clearly represents boka din resa with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Fuerteventura travel guide. Target filename after download: 5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boka din resa i Fuerteventura in Fuerteventura, Spain, during the most relevant travel season for the scene. The scene clearly represents boka din resa with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-      "file": "bilder\\web-ready\\fuerteventura\\redo\\7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "filename": "7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "brief_id": "fuerteventura:7-dagar-pa-fuerteventura:boka-din-resa",
       "domain": "fuerteventura",
@@ -70,7 +68,7 @@
       "seo": "En realistisk resebild från Boka din resa i Fuerteventura. Bilden visar Boka din resa i Fuerteventura under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-        "web_ready_file": "bilder\\web-ready\\fuerteventura\\redo\\7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
         "wordpress_target": {
           "page_url": "https://fuerteventura.se/7-dagar-pa-fuerteventura/",
           "page_slug": "7-dagar-pa-fuerteventura",
@@ -86,11 +84,9 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\fuerteventura\\redo"
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/",
-      "prompt": "Create one realistic travel image for a Swedish Fuerteventura travel guide. Target filename after download: 7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boka din resa i Fuerteventura in Fuerteventura, Spain, during the spring travel season. The scene clearly represents boka din resa with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.",
-      "chatgpt_prompt": "Create one realistic travel image for a Swedish Fuerteventura travel guide. Target filename after download: 7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png Recommended size/aspect: 1536x1024 landscape. Expected downloaded file format: PNG. Image brief: A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boka din resa i Fuerteventura in Fuerteventura, Spain, during the spring travel season. The scene clearly represents boka din resa with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. Important constraints: - No readable text, no fake signs, no logos, no watermark. - Make it feel like a believable editorial travel photograph, not a glossy ad. - Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura. - Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts."
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
