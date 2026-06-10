@@ -17,8 +17,6 @@
     nav { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
     nav a, .open-link { color:#075985; text-decoration:none; font-weight:650; }
     nav a { border:1px solid var(--line); background:#f8fafc; border-radius:6px; padding:6px 9px; }
-    .primary-nav { margin-top:14px; }
-    .biglink { display:inline-block; background:var(--accent); color:#fff; padding:10px 15px; border-radius:8px; font-weight:700; text-decoration:none; }
     main { max-width:1180px; margin:0 auto; padding:18px; display:grid; grid-template-columns:repeat(auto-fit, minmax(330px, 1fr)); gap:14px; align-items:start; }
     .domain-card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:16px; }
     .card-head { display:flex; justify-content:space-between; gap:14px; align-items:flex-start; }
@@ -60,16 +58,15 @@
       <h1>Resor image portal</h1>
       <p>En portal för alla domäner. Öppna en prompt, klistra in i ChatGPT, spara PNG med exakt filnamn och ladda upp den i bilder/inbox på GitHub.</p>
       <div class="summary">
-        <span class="pill">Generated 2026-06-07T23:29:11.267726+00:00</span>
-        <span class="pill">9 domäner</span>
-        <span class="pill">14 redo</span>
-        <span class="pill">139 staging JPG</span>
+        <span class="pill">Generated 2026-06-10T10:01:36.903169+00:00</span>
+        <span class="pill">10 domäner</span>
+        <span class="pill">0 redo</span>
+        <span class="pill">0 staging JPG</span>
         <span class="pill">0 PNG i inbox</span>
-        <span class="pill">1329 att skapa</span>
-        <span class="pill">110 hög prio</span>
-        <span class="pill">1482 briefs totalt</span>
+        <span class="pill">1802 att skapa</span>
+        <span class="pill">221 hög prio</span>
+        <span class="pill">1802 briefs totalt</span>
       </div>
-      <div class="primary-nav"><a class="biglink" href="bildindex.html">📸 Bildindex — publicerade (pipeline)</a> <a class="biglink" href="media.html" style="background:#b45309">🗂 Mediebibliotek — ALLA bilder</a> <a class="biglink" href="sidor.html" style="background:#1d4ed8">📊 Sid-status — alla sidor &amp; score</a> <a class="biglink" href="editor.html" style="background:#0f766e">📝 Bild-editor — redigera</a></div>
       <nav><a href="#malaga">Malaga</a>
 <a href="#rhodos">Rhodos</a>
 <a href="#korfu">Korfu</a>
@@ -78,7 +75,8 @@
 <a href="#teneriffa">Teneriffa</a>
 <a href="#lanzarote">Lanzarote</a>
 <a href="#fuerteventura">Fuerteventura</a>
-<a href="#chamonix" style="background:#e0f2fe;border-color:#0284c7">🏔️ Chamonix</a></nav>
+<a href="#chamonix">Chamonix</a>
+<a href="#venedig">Venedig</a></nav>
     </div>
   </header>
   <main>
@@ -87,21 +85,21 @@
       <div class="card-head">
         <div>
           <h2>Malaga</h2>
-          <p>18 av 53 JPG finns, 0 redo</p>
+          <p>0 av 167 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="malaga/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="18 av 53 klara"><span style="width:34%"></span></div>
+      <div class="meter" aria-label="0 av 167 klara"><span style="width:0%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
-        <span><strong>18</strong> staging JPG</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>35</strong> att skapa</span>
+        <span><strong>167</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>4 hög prio</span>
-        <span>14 medium</span>
-        <span>35 låg</span>
+        <span>45 hög prio</span>
+        <span>92 medium</span>
+        <span>30 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -111,11 +109,11 @@
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Espadrillos</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 121</span> <span class="image-type">Shopping</span><br>Shopping i Málaga 2026 — Calle Larios, marknader &amp; outlets<br><code>bilder/inbox/espadrillos-malaga.png</code></div>
+              <summary>🏆 Fler sevärdheter — om du har tid över</summary>
+              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 152</span> <span class="image-type">Strand</span><br>10 bästa sevärdheterna i Málaga 2026 — komplett guide<br><code>bilder/inbox/fler-sevardheter-om-du-har-tid-over-malaga.png</code></div>
               <div class="copy-row">
                 <label for="filename-malaga-1">Filnamn</label>
-                <input id="filename-malaga-1" readonly value="espadrillos-malaga.png" onclick="this.select()">
+                <input id="filename-malaga-1" readonly value="fler-sevardheter-om-du-har-tid-over-malaga.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-malaga-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -124,12 +122,12 @@
               </div>
               <textarea id="prompt-malaga-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Málaga travel guide.
 
-Target filename after download: espadrillos-malaga.png
+Target filename after download: fler-sevardheter-om-du-har-tid-over-malaga.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic editorial travel photograph at Espadrillos i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents espadrillos with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.
+A realistic editorial travel photograph at Fler sevärdheter — om du har tid över i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents fler sevärdheter — om du har tid över with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -139,11 +137,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Keramik (Cerámica)</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 110</span> <span class="image-type">Shopping</span><br>Shopping i Málaga 2026 — Calle Larios, marknader &amp; outlets<br><code>bilder/inbox/keramik-ceramica-malaga.png</code></div>
+              <summary>🔍 Historisk kuriosa</summary>
+              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 138</span> <span class="image-type">Kultur</span><br>10 bästa sevärdheterna i Málaga 2026 — komplett guide<br><code>bilder/inbox/historisk-kuriosa-malaga.png</code></div>
               <div class="copy-row">
                 <label for="filename-malaga-2">Filnamn</label>
-                <input id="filename-malaga-2" readonly value="keramik-ceramica-malaga.png" onclick="this.select()">
+                <input id="filename-malaga-2" readonly value="historisk-kuriosa-malaga.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-malaga-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -152,12 +150,12 @@ Important constraints:
               </div>
               <textarea id="prompt-malaga-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Málaga travel guide.
 
-Target filename after download: keramik-ceramica-malaga.png
+Target filename after download: historisk-kuriosa-malaga.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic editorial travel photograph at Keramik (Cerámica) i Málaga in Málaga, Spain, during the most relevant travel season for the scene. The scene clearly represents keramik (cerámica) with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.
+A realistic editorial travel photograph at Historisk kuriosa i Málaga in Málaga, Spain, during the spring travel season. The scene clearly represents historisk kuriosa with realistisk resmiljö, människor i rörelse, naturliga stadsmiljödetaljer, lokal arkitektur och parkerade bilar där det passar. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Málaga. Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -173,21 +171,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Rhodos</h2>
-          <p>15 av 110 JPG finns, 0 redo</p>
+          <p>0 av 118 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="rhodos/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="15 av 110 klara"><span style="width:14%"></span></div>
+      <div class="meter" aria-label="0 av 118 klara"><span style="width:0%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
-        <span><strong>15</strong> staging JPG</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>95</strong> att skapa</span>
+        <span><strong>118</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>7 hög prio</span>
-        <span>9 medium</span>
-        <span>94 låg</span>
+        <span>12 hög prio</span>
+        <span>10 medium</span>
+        <span>96 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -197,11 +195,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Kafélivet i Gamla Stan — perfekt senior-tempo</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 104</span> <span class="image-type">Kultur</span><br>Rhodos för seniorer 2026 — bekväm, tillgänglig och värd varje steg<br><code>bilder/inbox/kafelivet-i-gamla-stan-perfekt-senior-tempo-rhodos.png</code></div>
+              <summary>Faliraki Fishing Harbour — bästa maten</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 253</span> <span class="image-type">Mat &amp; nattliv</span><br>Faliraki på Rhodos 2026 — strand, vattenpark och allt du behöver veta<br><code>bilder/inbox/faliraki-fishing-harbour-basta-maten-rhodos.png</code></div>
               <div class="copy-row">
                 <label for="filename-rhodos-1">Filnamn</label>
-                <input id="filename-rhodos-1" readonly value="kafelivet-i-gamla-stan-perfekt-senior-tempo-rhodos.png" onclick="this.select()">
+                <input id="filename-rhodos-1" readonly value="faliraki-fishing-harbour-basta-maten-rhodos.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-rhodos-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -210,12 +208,12 @@ Important constraints:
               </div>
               <textarea id="prompt-rhodos-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Rhodos travel guide.
 
-Target filename after download: kafelivet-i-gamla-stan-perfekt-senior-tempo-rhodos.png
+Target filename after download: faliraki-fishing-harbour-basta-maten-rhodos.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Kafélivet i Gamla Stan — perfekt senior-tempo i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents kafélivet i gamla stan — perfekt senior-tempo with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos.
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Faliraki Fishing Harbour — bästa maten i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents faliraki fishing harbour — bästa maten with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -225,11 +223,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Embonas by och Emery Winery</summary>
-              <div class="prompt-meta"><span class="importance importance-låg">Låg prio · 99</span> <span class="image-type">Hyrbil/utflykt</span><br>Dagsutflykter från Rhodos 2026 — Symi, fjärilar och medeltida slott<br><code>bilder/inbox/embonas-by-och-emery-winery-rhodos.png</code></div>
+              <summary>Tsambika Beach i september</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 244</span> <span class="image-type">Strand</span><br>Rhodos i september och oktober 2026 — guldmånader med perfekt badväder<br><code>bilder/inbox/tsambika-beach-i-september-rhodos.png</code></div>
               <div class="copy-row">
                 <label for="filename-rhodos-2">Filnamn</label>
-                <input id="filename-rhodos-2" readonly value="embonas-by-och-emery-winery-rhodos.png" onclick="this.select()">
+                <input id="filename-rhodos-2" readonly value="tsambika-beach-i-september-rhodos.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-rhodos-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -238,12 +236,12 @@ Important constraints:
               </div>
               <textarea id="prompt-rhodos-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Rhodos travel guide.
 
-Target filename after download: embonas-by-och-emery-winery-rhodos.png
+Target filename after download: tsambika-beach-i-september-rhodos.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Embonas by och Emery Winery i Rhodos in Rhodos, Greece, during the spring travel season. The scene clearly represents embonas by och emery winery with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos.
+A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Tsambika Beach i september i Rhodos in Rhodos, Greece, during the autumn travel season. The scene clearly represents tsambika beach i september with realistisk resmiljö, människor i rörelse, lokala byggnader, kust- eller stadsmiljö och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Rhodos.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -259,21 +257,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Korfu</h2>
-          <p>9 av 13 JPG finns, 3 redo</p>
+          <p>0 av 18 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="korfu/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="9 av 13 klara"><span style="width:69%"></span></div>
+      <div class="meter" aria-label="0 av 18 klara"><span style="width:0%"></span></div>
       <div class="stats">
-        <span><strong>3</strong> redo</span>
-        <span><strong>6</strong> staging JPG</span>
+        <span><strong>0</strong> redo</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>4</strong> att skapa</span>
+        <span><strong>18</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>3 hög prio</span>
-        <span>5 medium</span>
-        <span>5 låg</span>
+        <span>4 hög prio</span>
+        <span>10 medium</span>
+        <span>4 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -283,11 +281,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Kavos (söder)</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 132</span> <span class="image-type">Mat &amp; nattliv</span><br>Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar<br><code>bilder/inbox/kavos-soder-korfu.png</code></div>
+              <summary>🚐 Privat transfer — bäst för grupper</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 259</span> <span class="image-type">Hyrbil/utflykt</span><br>Korfu flygplats, transfer och så tar du dig runt<br><code>bilder/inbox/privat-transfer-bast-for-grupper-korfu.png</code></div>
               <div class="copy-row">
                 <label for="filename-korfu-1">Filnamn</label>
-                <input id="filename-korfu-1" readonly value="kavos-soder-korfu.png" onclick="this.select()">
+                <input id="filename-korfu-1" readonly value="privat-transfer-bast-for-grupper-korfu.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-korfu-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -296,12 +294,12 @@ Important constraints:
               </div>
               <textarea id="prompt-korfu-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
 
-Target filename after download: kavos-soder-korfu.png
+Target filename after download: privat-transfer-bast-for-grupper-korfu.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic street-level documentary travel photograph at Kavos (söder) i Korfu in Korfu, Greece, during the autumn travel season. The scene clearly represents kavos (söder) with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Soft autumn Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Privat transfer — bäst för grupper i Korfu in Korfu, Greece, during the most relevant travel season for the scene. The scene clearly represents privat transfer — bäst för grupper with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -311,11 +309,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Korfu stad — Liston &amp; Gamla hamnen</summary>
-              <div class="prompt-meta"><span class="importance importance-låg">Låg prio · 78</span> <span class="image-type">Mat &amp; nattliv</span><br>Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar<br><code>bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png</code></div>
+              <summary>1. Ikos Dassia — All-inclusive i världsklass</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 225</span> <span class="image-type">Hotell</span><br>Bästa hotellen på Korfu<br><code>bilder/inbox/ikos-dassia-all-inclusive-i-varldsklass-korfu.png</code></div>
               <div class="copy-row">
                 <label for="filename-korfu-2">Filnamn</label>
-                <input id="filename-korfu-2" readonly value="korfu-stad-liston-gamla-hamnen-korfu.png" onclick="this.select()">
+                <input id="filename-korfu-2" readonly value="ikos-dassia-all-inclusive-i-varldsklass-korfu.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-korfu-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -324,12 +322,12 @@ Important constraints:
               </div>
               <textarea id="prompt-korfu-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Korfu travel guide.
 
-Target filename after download: korfu-stad-liston-gamla-hamnen-korfu.png
+Target filename after download: ikos-dassia-all-inclusive-i-varldsklass-korfu.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic street-level documentary travel photograph at Korfu stad — Liston &amp; Gamla hamnen i Korfu in Korfu, Greece, during a busy warm-season evening. The scene clearly represents korfu stad — liston &amp; gamla hamnen with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Ikos Dassia — All-inclusive i världsklass i Korfu in Korfu, Greece, during busy summer peak season. The scene clearly represents ikos dassia — all-inclusive i världsklass with realistisk resmiljö, joniska färger, lokala byggnader, kust- eller stadsmiljö och människor i naturlig rörelse. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Korfu.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -345,21 +343,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Torremolinos</h2>
-          <p>9 av 38 JPG finns, 2 redo</p>
+          <p>0 av 42 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="torremolinos/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="9 av 38 klara"><span style="width:24%"></span></div>
+      <div class="meter" aria-label="0 av 42 klara"><span style="width:0%"></span></div>
       <div class="stats">
-        <span><strong>2</strong> redo</span>
-        <span><strong>7</strong> staging JPG</span>
+        <span><strong>0</strong> redo</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>29</strong> att skapa</span>
+        <span><strong>42</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>6 hög prio</span>
-        <span>9 medium</span>
-        <span>23 låg</span>
+        <span>0 hög prio</span>
+        <span>7 medium</span>
+        <span>35 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -369,11 +367,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Caminito del Rey</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 177</span> <span class="image-type">Strand</span><br>Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol<br><code>bilder/inbox/vandring-torremolinos-costa-del-sol-caminito-del-rey-torremolinos.png</code></div>
+              <summary>Boende i La Carihuela</summary>
+              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 158</span> <span class="image-type">Strand</span><br>Torremolinos områden – karta och guide till stadsdelarna<br><code>bilder/inbox/boende-i-la-carihuela-torremolinos.png</code></div>
               <div class="copy-row">
                 <label for="filename-torremolinos-1">Filnamn</label>
-                <input id="filename-torremolinos-1" readonly value="vandring-torremolinos-costa-del-sol-caminito-del-rey-torremolinos.png" onclick="this.select()">
+                <input id="filename-torremolinos-1" readonly value="boende-i-la-carihuela-torremolinos.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-torremolinos-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -382,12 +380,12 @@ Important constraints:
               </div>
               <textarea id="prompt-torremolinos-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
 
-Target filename after download: vandring-torremolinos-costa-del-sol-caminito-del-rey-torremolinos.png
+Target filename after download: boende-i-la-carihuela-torremolinos.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic editorial travel photograph at Caminito del Rey i Torremolinos in Torremolinos, Spain, during the most relevant travel season for the scene. The scene clearly represents caminito del rey with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Boende i La Carihuela i Torremolinos in Torremolinos, Spain, during the spring travel season. The scene clearly represents boende i la carihuela with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -397,11 +395,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>🔁 Förbokad transfer — förutsägbart</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 160</span> <span class="image-type">Strand</span><br>Torremolinos flygplats, transfer och så tar du dig runt<br><code>bilder/inbox/forbokad-transfer-forutsagbart-torremolinos.png</code></div>
+              <summary>Mat och restauranger med barn</summary>
+              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 148</span> <span class="image-type">Strand</span><br>Torremolinos med barn – familjevänlig guide till Costa del Sol<br><code>bilder/inbox/mat-och-restauranger-med-barn-torremolinos.png</code></div>
               <div class="copy-row">
                 <label for="filename-torremolinos-2">Filnamn</label>
-                <input id="filename-torremolinos-2" readonly value="forbokad-transfer-forutsagbart-torremolinos.png" onclick="this.select()">
+                <input id="filename-torremolinos-2" readonly value="mat-och-restauranger-med-barn-torremolinos.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-torremolinos-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -410,12 +408,12 @@ Important constraints:
               </div>
               <textarea id="prompt-torremolinos-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Torremolinos travel guide.
 
-Target filename after download: forbokad-transfer-forutsagbart-torremolinos.png
+Target filename after download: mat-och-restauranger-med-barn-torremolinos.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic street-level documentary travel photograph at Förbokad transfer — förutsägbart i Torremolinos in Torremolinos, Spain, during a busy warm-season evening. The scene clearly represents förbokad transfer — förutsägbart with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
+A realistic street-level documentary travel photograph at Mat och restauranger med barn i Torremolinos in Torremolinos, Spain, during busy summer peak season. The scene clearly represents mat och restauranger med barn with realistisk kuststadsmiljö, strandpromenad, hotell, lokalt folkliv, Medelhavet och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Torremolinos.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -431,21 +429,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Gran Canaria</h2>
-          <p>63 av 591 JPG finns, 3 redo</p>
+          <p>0 av 657 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="grancanaria/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="63 av 591 klara"><span style="width:11%"></span></div>
+      <div class="meter" aria-label="0 av 657 klara"><span style="width:0%"></span></div>
       <div class="stats">
-        <span><strong>3</strong> redo</span>
-        <span><strong>60</strong> staging JPG</span>
+        <span><strong>0</strong> redo</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>528</strong> att skapa</span>
+        <span><strong>657</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>45 hög prio</span>
-        <span>178 medium</span>
-        <span>368 låg</span>
+        <span>101 hög prio</span>
+        <span>166 medium</span>
+        <span>390 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -455,11 +453,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Ålderskrav</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 153</span> <span class="image-type">Hyrbil/utflykt</span><br>Hyrbil Gran Canaria<br><code>bilder/inbox/alderskrav-grancanaria.png</code></div>
+              <summary>Puerto Rico – Det Livliga Hjärtat</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 282</span> <span class="image-type">Hotell</span><br>Hotell Puerto Rico Gran Canaria – Din Kompletta Guide för Nordiska Resenärer<br><code>bilder/inbox/puerto-rico-det-livliga-hjartat-grancanaria.png</code></div>
               <div class="copy-row">
                 <label for="filename-grancanaria-1">Filnamn</label>
-                <input id="filename-grancanaria-1" readonly value="alderskrav-grancanaria.png" onclick="this.select()">
+                <input id="filename-grancanaria-1" readonly value="puerto-rico-det-livliga-hjartat-grancanaria.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-grancanaria-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -468,12 +466,12 @@ Important constraints:
               </div>
               <textarea id="prompt-grancanaria-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Gran Canaria travel guide.
 
-Target filename after download: alderskrav-grancanaria.png
+Target filename after download: puerto-rico-det-livliga-hjartat-grancanaria.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Ålderskrav i Gran Canaria in Gran Canaria, Spain, during the spring travel season. The scene clearly represents ålderskrav with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Puerto Rico – Det Livliga Hjärtat i Gran Canaria in Gran Canaria, Spain, during a busy warm-season evening. The scene clearly represents puerto rico – det livliga hjärtat with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -483,11 +481,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Upphämtning direkt i resorten</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 153</span> <span class="image-type">Hotell</span><br>Hyrbil Gran Canaria<br><code>bilder/inbox/upphamtning-direkt-i-resorten-grancanaria.png</code></div>
+              <summary>Puerto de Mogán – ”Kanarieöarnas Venedig”</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 279</span> <span class="image-type">Hotell</span><br>Hotell Puerto Rico Gran Canaria – Din Kompletta Guide för Nordiska Resenärer<br><code>bilder/inbox/puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png</code></div>
               <div class="copy-row">
                 <label for="filename-grancanaria-2">Filnamn</label>
-                <input id="filename-grancanaria-2" readonly value="upphamtning-direkt-i-resorten-grancanaria.png" onclick="this.select()">
+                <input id="filename-grancanaria-2" readonly value="puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-grancanaria-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -496,12 +494,12 @@ Important constraints:
               </div>
               <textarea id="prompt-grancanaria-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Gran Canaria travel guide.
 
-Target filename after download: upphamtning-direkt-i-resorten-grancanaria.png
+Target filename after download: puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Upphämtning direkt i resorten i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents upphämtning direkt i resorten with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.
+A realistic hotel travel photograph from a natural exterior or rooftop viewpoint at Puerto de Mogán – ”Kanarieöarnas Venedig” i Gran Canaria in Gran Canaria, Spain, during the most relevant travel season for the scene. The scene clearly represents puerto de mogán – ”kanarieöarnas venedig” with realistisk ömiljö, kanarisk arkitektur, kust eller berg, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Gran Canaria.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -517,21 +515,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Teneriffa</h2>
-          <p>21 av 158 JPG finns, 0 redo</p>
+          <p>0 av 168 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="teneriffa/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="21 av 158 klara"><span style="width:13%"></span></div>
+      <div class="meter" aria-label="0 av 168 klara"><span style="width:0%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
-        <span><strong>21</strong> staging JPG</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>137</strong> att skapa</span>
+        <span><strong>168</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>22 hög prio</span>
+        <span>25 hög prio</span>
         <span>78 medium</span>
-        <span>58 låg</span>
+        <span>65 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -541,11 +539,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>6. La Gomera (färja) — 40 min färja från Los Cristianos</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 198</span> <span class="image-type">Hyrbil/utflykt</span><br>Dagsutflykter från Teneriffa — Teide, Masca och La Gomera<br><code>bilder/inbox/la-gomera-farja-40-min-farja-fran-los-cristianos-teneriffa.png</code></div>
+              <summary>Teide i november</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 280</span> <span class="image-type">Natur/äventyr</span><br>Teneriffa i november – väder, priser och vad du gör<br><code>bilder/inbox/teide-i-november-teneriffa.png</code></div>
               <div class="copy-row">
                 <label for="filename-teneriffa-1">Filnamn</label>
-                <input id="filename-teneriffa-1" readonly value="la-gomera-farja-40-min-farja-fran-los-cristianos-teneriffa.png" onclick="this.select()">
+                <input id="filename-teneriffa-1" readonly value="teide-i-november-teneriffa.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-teneriffa-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -554,12 +552,12 @@ Important constraints:
               </div>
               <textarea id="prompt-teneriffa-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Teneriffa travel guide.
 
-Target filename after download: la-gomera-farja-40-min-farja-fran-los-cristianos-teneriffa.png
+Target filename after download: teide-i-november-teneriffa.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic editorial travel photograph at La Gomera (färja) — 40 min färja från Los Cristianos i Teneriffa in Teneriffa, Spain, during the most relevant travel season for the scene. The scene clearly represents la gomera (färja) — 40 min färja från los cristianos with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.
+A realistic editorial travel photograph at Teide i november i Teneriffa in Teneriffa, Spain, during the mild winter travel season. The scene clearly represents teide i november with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Clear mild winter Mediterranean daylight, lower sun angle, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -569,11 +567,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Ålderskrav</summary>
-              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 155</span> <span class="image-type">Hyrbil/utflykt</span><br>Hyrbil på Teneriffa — komplett guide för svenska resenärer<br><code>bilder/inbox/alderskrav-teneriffa.png</code></div>
+              <summary>Playa de Los Cristianos</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 255</span> <span class="image-type">Strand</span><br>Los Cristianos guide – stränder, hotell, restauranger och vem det passar<br><code>bilder/inbox/playa-de-los-cristianos-teneriffa.png</code></div>
               <div class="copy-row">
                 <label for="filename-teneriffa-2">Filnamn</label>
-                <input id="filename-teneriffa-2" readonly value="alderskrav-teneriffa.png" onclick="this.select()">
+                <input id="filename-teneriffa-2" readonly value="playa-de-los-cristianos-teneriffa.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-teneriffa-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -582,12 +580,12 @@ Important constraints:
               </div>
               <textarea id="prompt-teneriffa-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Teneriffa travel guide.
 
-Target filename after download: alderskrav-teneriffa.png
+Target filename after download: playa-de-los-cristianos-teneriffa.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic travel photograph from a safe roadside or elevated viewpoint showing the route context at Ålderskrav i Teneriffa in Teneriffa, Spain, during the spring travel season. The scene clearly represents ålderskrav with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.
+A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Playa de Los Cristianos i Teneriffa in Teneriffa, Spain, during busy summer peak season. The scene clearly represents playa de los cristianos with realistisk ömiljö, vulkanisk natur, kust eller stad, människor i rörelse och tydliga platsdetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Teneriffa.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -603,21 +601,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Lanzarote</h2>
-          <p>18 av 364 JPG finns, 6 redo</p>
+          <p>0 av 368 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="lanzarote/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="18 av 364 klara"><span style="width:5%"></span></div>
+      <div class="meter" aria-label="0 av 368 klara"><span style="width:0%"></span></div>
       <div class="stats">
-        <span><strong>6</strong> redo</span>
-        <span><strong>12</strong> staging JPG</span>
+        <span><strong>0</strong> redo</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>346</strong> att skapa</span>
+        <span><strong>368</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>15 hög prio</span>
-        <span>54 medium</span>
-        <span>295 låg</span>
+        <span>14 hög prio</span>
+        <span>49 medium</span>
+        <span>305 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -627,11 +625,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>Arrecife — den autentiska huvudstaden med överraskande strand</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 214</span> <span class="image-type">Strand</span><br>Var ska man bo på Lanzarote? — Komplett områdesguide<br><code>bilder/inbox/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.png</code></div>
+              <summary>Puerto del Carmen — öns huvudresort med 7 km strand och allt du behöver</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 263</span> <span class="image-type">Strand</span><br>Var ska man bo på Lanzarote? — Komplett områdesguide<br><code>bilder/inbox/puerto-del-carmen-ons-huvudresort-med-7-km-strand-och-allt-du-behover-lanzarote.png</code></div>
               <div class="copy-row">
                 <label for="filename-lanzarote-1">Filnamn</label>
-                <input id="filename-lanzarote-1" readonly value="arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.png" onclick="this.select()">
+                <input id="filename-lanzarote-1" readonly value="puerto-del-carmen-ons-huvudresort-med-7-km-strand-och-allt-du-behover-lanzarote.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-lanzarote-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -640,12 +638,12 @@ Important constraints:
               </div>
               <textarea id="prompt-lanzarote-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Lanzarote travel guide.
 
-Target filename after download: arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.png
+Target filename after download: puerto-del-carmen-ons-huvudresort-med-7-km-strand-och-allt-du-behover-lanzarote.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Arrecife — den autentiska huvudstaden med överraskande strand i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents arrecife — den autentiska huvudstaden med överraskande strand with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.
+A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Puerto del Carmen — öns huvudresort med 7 km strand och allt du behöver i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents puerto del carmen — öns huvudresort med 7 km strand och allt du behöver with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -655,11 +653,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Jag stannar 3–4 veckor — vilka stränder ska jag variera mellan?</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 180</span> <span class="image-type">Strand</span><br>Lugna stränder på Lanzarote — guide för seniorer, par och tillgänglighet<br><code>bilder/inbox/jag-stannar-34-veckor-vilka-strander-ska-jag-variera-mellan-lanzarote.png</code></div>
+              <summary>Puerto Calero — lyxmarinan för vuxna</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 261</span> <span class="image-type">Natur/äventyr</span><br>Var ska man bo på Lanzarote? — Komplett områdesguide<br><code>bilder/inbox/puerto-calero-lyxmarinan-for-vuxna-lanzarote.png</code></div>
               <div class="copy-row">
                 <label for="filename-lanzarote-2">Filnamn</label>
-                <input id="filename-lanzarote-2" readonly value="jag-stannar-34-veckor-vilka-strander-ska-jag-variera-mellan-lanzarote.png" onclick="this.select()">
+                <input id="filename-lanzarote-2" readonly value="puerto-calero-lyxmarinan-for-vuxna-lanzarote.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-lanzarote-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -668,12 +666,12 @@ Important constraints:
               </div>
               <textarea id="prompt-lanzarote-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Lanzarote travel guide.
 
-Target filename after download: jag-stannar-34-veckor-vilka-strander-ska-jag-variera-mellan-lanzarote.png
+Target filename after download: puerto-calero-lyxmarinan-for-vuxna-lanzarote.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic coastal travel photograph from a natural elevated promenade or beach viewpoint at Jag stannar 3–4 veckor — vilka stränder ska jag variera mellan? i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents jag stannar 3–4 veckor — vilka stränder ska jag variera mellan? with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Puerto Calero — lyxmarinan för vuxna i Lanzarote in Lanzarote, Spain, during the spring travel season. The scene clearly represents puerto calero — lyxmarinan för vuxna with realistisk vulkanisk ömiljö, låga vita byggnader, svart lava, kust eller bymiljö och naturligt folkliv. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Lanzarote.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -689,20 +687,20 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Fuerteventura</h2>
-          <p>0 av 155 JPG finns, 0 redo</p>
+          <p>0 av 149 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="fuerteventura/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="0 av 155 klara"><span style="width:0%"></span></div>
+      <div class="meter" aria-label="0 av 149 klara"><span style="width:0%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
         <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>155</strong> att skapa</span>
+        <span><strong>149</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>8 hög prio</span>
-        <span>36 medium</span>
+        <span>6 hög prio</span>
+        <span>32 medium</span>
         <span>111 låg</span>
       </div>
       <div class="upload-path">
@@ -741,11 +739,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>1. Isla de Lobos — 15 min färja från Corralejo</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 260</span> <span class="image-type">Hyrbil/utflykt</span><br>Dagsutflykter från Fuerteventura — Lobos, Lanzarote och Cofete<br><code>bilder/inbox/isla-de-lobos-15-min-farja-fran-corralejo-fuerteventura.png</code></div>
+              <summary>El Cotillo – vindskyddade laguner som passar litet barn</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 238</span> <span class="image-type">Natur/äventyr</span><br>Fuerteventura med barn – familjeguide med ärliga råd<br><code>bilder/inbox/el-cotillo-vindskyddade-laguner-som-passar-litet-barn-fuerteventura.png</code></div>
               <div class="copy-row">
                 <label for="filename-fuerteventura-2">Filnamn</label>
-                <input id="filename-fuerteventura-2" readonly value="isla-de-lobos-15-min-farja-fran-corralejo-fuerteventura.png" onclick="this.select()">
+                <input id="filename-fuerteventura-2" readonly value="el-cotillo-vindskyddade-laguner-som-passar-litet-barn-fuerteventura.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-fuerteventura-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -754,12 +752,12 @@ Important constraints:
               </div>
               <textarea id="prompt-fuerteventura-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Fuerteventura travel guide.
 
-Target filename after download: isla-de-lobos-15-min-farja-fran-corralejo-fuerteventura.png
+Target filename after download: el-cotillo-vindskyddade-laguner-som-passar-litet-barn-fuerteventura.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Isla de Lobos — 15 min färja från Corralejo i Fuerteventura in Fuerteventura, Spain, during the most relevant travel season for the scene. The scene clearly represents isla de lobos — 15 min färja från corralejo with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura.
+A realistic street-level documentary travel photograph at El Cotillo – vindskyddade laguner som passar litet barn i Fuerteventura in Fuerteventura, Spain, during the spring travel season. The scene clearly represents el cotillo – vindskyddade laguner som passar litet barn with realistisk ömiljö, ljusa stränder, vindpinad natur, små orter, människor i rörelse och tydliga reseguide-detaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Fresh spring Mediterranean daylight, natural shadows, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Fuerteventura.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -771,22 +769,178 @@ Important constraints:
       </div>
     </section>
     
-    <!-- CHAMONIX -->
     <section class="domain-card" id="chamonix">
       <div class="card-head">
-        <h2>🏔️ Chamonix</h2>
-        <a class="open-link" href="chamonix/">Öppna →</a>
+        <div>
+          <h2>Chamonix</h2>
+          <p>0 av 40 JPG finns, 0 redo</p>
+        </div>
+        <a class="open-link" href="chamonix/">Öppna full lista</a>
       </div>
-      <div class="meter"><span style="width:5%"></span></div>
+      <div class="meter" aria-label="0 av 40 klara"><span style="width:0%"></span></div>
       <div class="stats">
-        <span><strong>0</strong> bilder</span>
         <span><strong>0</strong> redo</span>
-        <span><strong>0</strong> publicerade</span>
-        <span><strong>—</strong> prio</span>
+        <span><strong>0</strong> staging JPG</span>
+        <span><strong>0</strong> PNG i inbox</span>
+        <span><strong>40</strong> att skapa</span>
       </div>
-      <p style="color:var(--muted);font-size:14px;margin:12px 0 0">Ny destination — under uppbyggnad. SEO-plan och 9 sidor live.</p>
-    </section>
+      <div class="priority-line">
+        <span>5 hög prio</span>
+        <span>10 medium</span>
+        <span>25 låg</span>
+      </div>
+      <div class="upload-path">
+        <span>Ladda upp PNG här</span>
+        <code>bilder/inbox/</code>
+      </div>
+      <div class="samples">
+        <h3>Testa promptar</h3>
+        
+            <details class="prompt">
+              <summary>🔑 Därför hyra chalet/lägenhet via VRBO</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 155</span> <span class="image-type">Hotell</span><br>Boende i Chamonix — chalets, lägenheter &amp; hotell<br><code>bilder/inbox/darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.png</code></div>
+              <div class="copy-row">
+                <label for="filename-chamonix-1">Filnamn</label>
+                <input id="filename-chamonix-1" readonly value="darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.png" onclick="this.select()">
+                <button type="button" data-copy-target="filename-chamonix-1">Kopiera filnamn</button>
+              </div>
+              <div class="copy-row prompt-copy">
+                <label for="prompt-chamonix-1">Prompt</label>
+                <button type="button" data-copy-target="prompt-chamonix-1">Kopiera prompt</button>
+              </div>
+              <textarea id="prompt-chamonix-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
 
+Target filename after download: darfor-hyra-chalet-lagenhet-via-vrbo-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Därför hyra chalet/lägenhet via VRBO i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents därför hyra chalet/lägenhet via vrbo with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+            </details>
+            
+            <details class="prompt">
+              <summary>💰 Budget &amp; Mellanklass</summary>
+              <div class="prompt-meta"><span class="importance importance-medium">Medium prio · 116</span> <span class="image-type">Hotell</span><br>Boende i Chamonix — chalets, lägenheter &amp; hotell<br><code>bilder/inbox/budget-mellanklass-chamonix.png</code></div>
+              <div class="copy-row">
+                <label for="filename-chamonix-2">Filnamn</label>
+                <input id="filename-chamonix-2" readonly value="budget-mellanklass-chamonix.png" onclick="this.select()">
+                <button type="button" data-copy-target="filename-chamonix-2">Kopiera filnamn</button>
+              </div>
+              <div class="copy-row prompt-copy">
+                <label for="prompt-chamonix-2">Prompt</label>
+                <button type="button" data-copy-target="prompt-chamonix-2">Kopiera prompt</button>
+              </div>
+              <textarea id="prompt-chamonix-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Chamonix-Mont-Blanc travel guide.
+
+Target filename after download: budget-mellanklass-chamonix.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Budget &amp; Mellanklass i Chamonix-Mont-Blanc in Chamonix-Mont-Blanc, France, during the most relevant travel season for the scene. The scene clearly represents budget &amp; mellanklass with realistisk alpmiljö, berg i bakgrunden, människor i skidkläder eller vandringskläder, chalets, snö eller grönska beroende på säsong. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, and scale realistic for Chamonix (French Alps). Show appropriate season: snow and ski gear for winter briefs, green meadows for summer briefs. Mont Blanc massif should be visible in background when the brief describes outdoor scenes.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Chamonix-Mont-Blanc.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+            </details>
+            
+      </div>
+    </section>
+    
+    <section class="domain-card" id="venedig">
+      <div class="card-head">
+        <div>
+          <h2>Venedig</h2>
+          <p>0 av 75 JPG finns, 0 redo</p>
+        </div>
+        <a class="open-link" href="venedig/">Öppna full lista</a>
+      </div>
+      <div class="meter" aria-label="0 av 75 klara"><span style="width:0%"></span></div>
+      <div class="stats">
+        <span><strong>0</strong> redo</span>
+        <span><strong>0</strong> staging JPG</span>
+        <span><strong>0</strong> PNG i inbox</span>
+        <span><strong>75</strong> att skapa</span>
+      </div>
+      <div class="priority-line">
+        <span>9 hög prio</span>
+        <span>13 medium</span>
+        <span>53 låg</span>
+      </div>
+      <div class="upload-path">
+        <span>Ladda upp PNG här</span>
+        <code>bilder/inbox/</code>
+      </div>
+      <div class="samples">
+        <h3>Testa promptar</h3>
+        
+            <details class="prompt">
+              <summary>Lägenhet vid kanal, Cannaregio</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 169</span> <span class="image-type">Hotell</span><br>Hyra lägenhet eller rum i Venedig<br><code>bilder/inbox/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png</code></div>
+              <div class="copy-row">
+                <label for="filename-venedig-1">Filnamn</label>
+                <input id="filename-venedig-1" readonly value="hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png" onclick="this.select()">
+                <button type="button" data-copy-target="filename-venedig-1">Kopiera filnamn</button>
+              </div>
+              <div class="copy-row prompt-copy">
+                <label for="prompt-venedig-1">Prompt</label>
+                <button type="button" data-copy-target="prompt-venedig-1">Kopiera prompt</button>
+              </div>
+              <textarea id="prompt-venedig-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Venedig travel guide.
+
+Target filename after download: hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Lägenhet vid kanal, Cannaregio i Venedig in Venedig, Italy, during a busy warm-season evening. The scene clearly represents lägenhet vid kanal, cannaregio with realistisk venetiansk miljö, kanaler, broar, vaporetto, gondoler i bakgrunden, lokal arkitektur, naturligt ljus över lagunen. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, boats, and scale realistic for Venice, Italy. Show canals, bridges, and lagoon atmosphere — not generic Italian hill towns. Do not show distorted faces, extra limbs, strange vehicles, or impossible canal layouts.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Venedig.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+            </details>
+            
+            <details class="prompt">
+              <summary>Lägenhet med utsikt, Giudecca</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 165</span> <span class="image-type">Hotell</span><br>Hyra lägenhet eller rum i Venedig<br><code>bilder/inbox/lagenhet-med-utsikt-giudecca-venedig.png</code></div>
+              <div class="copy-row">
+                <label for="filename-venedig-2">Filnamn</label>
+                <input id="filename-venedig-2" readonly value="lagenhet-med-utsikt-giudecca-venedig.png" onclick="this.select()">
+                <button type="button" data-copy-target="filename-venedig-2">Kopiera filnamn</button>
+              </div>
+              <div class="copy-row prompt-copy">
+                <label for="prompt-venedig-2">Prompt</label>
+                <button type="button" data-copy-target="prompt-venedig-2">Kopiera prompt</button>
+              </div>
+              <textarea id="prompt-venedig-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Venedig travel guide.
+
+Target filename after download: lagenhet-med-utsikt-giudecca-venedig.png
+Recommended size/aspect: 1536x1024 landscape.
+Expected downloaded file format: PNG.
+
+Image brief:
+A realistic editorial travel photograph at Lägenhet med utsikt, Giudecca i Venedig in Venedig, Italy, during a busy warm-season evening. The scene clearly represents lägenhet med utsikt, giudecca with realistisk venetiansk miljö, kanaler, broar, vaporetto, gondoler i bakgrunden, lokal arkitektur, naturligt ljus över lagunen. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Warm golden-hour to early-evening Mediterranean light, realistic city and terrace lighting, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, boats, and scale realistic for Venice, Italy. Show canals, bridges, and lagoon atmosphere — not generic Italian hill towns. Do not show distorted faces, extra limbs, strange vehicles, or impossible canal layouts.
+
+Important constraints:
+- No readable text, no fake signs, no logos, no watermark.
+- Make it feel like a believable editorial travel photograph, not a glossy ad.
+- Keep architecture, geography, light, people, traffic, and scale realistic for Venedig.
+- Do not show distorted faces, extra limbs, strange vehicles, or impossible street layouts.</textarea>
+            </details>
+            
+      </div>
+    </section>
+    
   </main>
   <script>
     async function copyTextFrom(id, button) {
