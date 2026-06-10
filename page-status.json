@@ -16530,7 +16530,7 @@
     "aff_angle": [
       "Hyrbil"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16573,7 +16573,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -16616,7 +16616,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -16660,7 +16660,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17220,7 +17220,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17265,7 +17265,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17310,7 +17310,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17355,7 +17355,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -17400,7 +17400,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
