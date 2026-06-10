@@ -16513,180 +16513,6 @@
   },
   {
     "domain": "florida",
-    "id": 8,
-    "slug": "hyrbil-florida",
-    "title": "Hyrbil Florida",
-    "link": "https://florida.se/hyrbil-florida/",
-    "modified": "2026-06-09",
-    "words": 144,
-    "h2": 1,
-    "h3": 2,
-    "images": 0,
-    "internal": 2,
-    "external": 0,
-    "affiliate": 1,
-    "type": "Hyrbil",
-    "audience": "Bred",
-    "aff_angle": [
-      "Hyrbil"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 1,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 1,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 49,
-    "flags": [
-      "tunt content",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 6,
-    "slug": "boende-florida",
-    "title": "Boende i Florida",
-    "link": "https://florida.se/boende-florida/",
-    "modified": "2026-06-09",
-    "words": 117,
-    "h2": 1,
-    "h3": 3,
-    "images": 0,
-    "internal": 9,
-    "external": 0,
-    "affiliate": 2,
-    "type": "Hotell",
-    "audience": "Bred",
-    "aff_angle": [
-      "Hotell"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 1,
-      "boende": 1,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 2,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 56,
-    "flags": [
-      "tunt content",
-      "📷 väntar bild"
-    ],
-    "tier": "Påbörjad",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 7,
-    "slug": "saker-att-gora-florida",
-    "title": "Saker att göra i Florida",
-    "link": "https://florida.se/saker-att-gora-florida/",
-    "modified": "2026-06-09",
-    "words": 216,
-    "h2": 4,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 9,
-    "affiliate": 14,
-    "type": "Aktiviteter",
-    "audience": "Bred",
-    "aff_angle": [
-      "Aktiviteter (GYG)"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 52,
-    "flags": [
-      "tunt content",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Påbörjad",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 5,
-    "slug": "startsida",
-    "title": "Florida reseguide — startsida",
-    "link": "https://florida.se/",
-    "modified": "2026-06-09",
-    "words": 304,
-    "h2": 2,
-    "h3": 16,
-    "images": 0,
-    "internal": 20,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Startsida",
-    "audience": "Bred",
-    "aff_angle": [
-      "Hotell"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 47,
-    "flags": [
-      "omonetiserad",
-      "⛔ h1 i body",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
     "id": 42,
     "slug": "everglades",
     "title": "Everglades — Floridas vilda hjärta",
@@ -16704,7 +16530,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16747,7 +16573,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16789,7 +16615,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16832,7 +16658,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16875,7 +16701,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16918,7 +16744,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -16961,7 +16787,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17004,7 +16830,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17047,7 +16873,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17090,7 +16916,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17134,7 +16960,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17177,7 +17003,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -17199,231 +17025,6 @@
       "📷 väntar bild"
     ],
     "tier": "Påbörjad",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 15,
-    "slug": "affiliate-information",
-    "title": "Affiliate-information",
-    "link": "https://florida.se/affiliate-information/",
-    "modified": "-0001-11-3",
-    "words": 0,
-    "h2": 0,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Generell",
-    "audience": "Bred",
-    "aff_angle": [
-      "Funnel/allmän"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 20,
-    "flags": [
-      "tunt content",
-      "omonetiserad",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 12,
-    "slug": "om-florida-guiden",
-    "title": "Om Florida-guiden",
-    "link": "https://florida.se/om-florida-guiden/",
-    "modified": "-0001-11-3",
-    "words": 0,
-    "h2": 0,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Generell",
-    "audience": "Bred",
-    "aff_angle": [
-      "Funnel/allmän"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 20,
-    "flags": [
-      "tunt content",
-      "omonetiserad",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 11,
-    "slug": "vad-kostar-florida",
-    "title": "Vad kostar en vecka i Florida?",
-    "link": "https://florida.se/vad-kostar-florida/",
-    "modified": "-0001-11-3",
-    "words": 0,
-    "h2": 0,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Generell",
-    "audience": "Bred",
-    "aff_angle": [
-      "Funnel/allmän"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 20,
-    "flags": [
-      "tunt content",
-      "omonetiserad",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 10,
-    "slug": "resa-till-florida",
-    "title": "Ta dig till Florida",
-    "link": "https://florida.se/resa-till-florida/",
-    "modified": "-0001-11-3",
-    "words": 0,
-    "h2": 0,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Generell",
-    "audience": "Bred",
-    "aff_angle": [
-      "Funnel/allmän"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 20,
-    "flags": [
-      "tunt content",
-      "omonetiserad",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
-    "contaminated": false
-  },
-  {
-    "domain": "florida",
-    "id": 9,
-    "slug": "basta-tiden-florida",
-    "title": "Bästa tiden att åka till Florida",
-    "link": "https://florida.se/basta-tiden-florida/",
-    "modified": "-0001-11-3",
-    "words": 0,
-    "h2": 0,
-    "h3": 0,
-    "images": 0,
-    "internal": 0,
-    "external": 0,
-    "affiliate": 0,
-    "type": "Säsong/väder",
-    "audience": "Bred",
-    "aff_angle": [
-      "Aktiviteter (GYG)"
-    ],
-    "indexed": true,
-    "cta": 0,
-    "cta_bd": {
-      "hyrbil": 0,
-      "hcom": 0,
-      "vrbo": 0,
-      "hotell": 0,
-      "boende": 0,
-      "flyg": 0,
-      "gyg": 0
-    },
-    "money_total": 0,
-    "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟠 Svag",
-    "needs_image": true,
-    "score": 20,
-    "flags": [
-      "tunt content",
-      "omonetiserad",
-      "få internlänkar",
-      "📷 väntar bild"
-    ],
-    "tier": "Rå",
     "contaminated": false
   },
   {
