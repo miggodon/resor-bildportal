@@ -14356,6 +14356,24 @@
   },
   {
     "domain": "provence",
+    "id": 156,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-alpilles-bastide.jpg",
+    "filename": "prov-alpilles-bastide.jpg",
+    "alt": "Bastide med pool i Alpilles — semesterboende",
+    "caption": "Listing prov-alpilles-bastide",
+    "w": 2500,
+    "h": 1750,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 150,
     "url": "https://provence.se/wp-content/uploads/2026/06/prov-luberon-infinity.jpg",
     "filename": "prov-luberon-infinity.jpg",
