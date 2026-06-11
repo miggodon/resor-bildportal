@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Remaining Work — Cross-Domain Dashboard</title>
+  <style>
+    :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#fff; --accent:#0f766e; --warn:#b45309; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); }
+    header { background:var(--panel); border-bottom:1px solid var(--line); padding:20px 22px; position:sticky; top:0; z-index:2; }
+    .header-inner { max-width:1180px; margin:0 auto; }
+    h1 { margin:0 0 6px; font-size:24px; line-height:1.2; }
+    .nav { margin-top:8px; }
+    .nav a { color:#075985; text-decoration:none; font-weight:600; margin-right:12px; }
+    main { max-width:1180px; margin:0 auto; padding:20px; }
+    h2 { margin-top:32px; font-size:20px; border-bottom:1px solid var(--line); padding-bottom:6px; }
+    h3 { margin-top:24px; font-size:17px; }
+    table { width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:8px; overflow:hidden; margin:12px 0; }
+    th, td { padding:10px 12px; border-bottom:1px solid var(--line); text-align:left; font-size:14px; vertical-align:top; }
+    th { background:#f8fafc; color:#475569; font-size:13px; }
+    tr:last-child td { border-bottom:none; }
+    ul { line-height:1.55; }
+    .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:12px; background:#fff; margin:2px; }
+    .section { margin-bottom:32px; }
+    .note { color:var(--muted); font-size:13px; }
+    code { background:#f8fafc; padding:1px 4px; border-radius:3px; font-family:ui-monospace,monospace; }
+    .back { margin-bottom:12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>Remaining Work — Cross-Domain Dashboard</h1>
+      <div class="nav">
+        <a href="index.html">← Portal</a>
+        <a href="sidor.html">Sid-status</a>
+        <a href="media.html">Mediebibliotek</a>
+        <a href="bildindex.html">Bildindex</a>
+      </div>
+      <p class="note">Senast uppdaterad: 2026-06-11. En samlad vy över vad som återstår på alla domäner i resor-portföljen.</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>Sammanfattning — Översikt</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Grupp</th>
+            <th>Domäner</th>
+            <th>Mognad</th>
+            <th>Huvudfokus just nu</th>
+            <th>Est. återstående stora uppgifter</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Kanarieöarna (mogna)</td>
+            <td>grancanaria, teneriffa, fuerteventura, lanzarote</td>
+            <td>Hög (25+ artiklar + guider)</td>
+            <td>Fact-check + säsong/jämförelser</td>
+            <td>4–6 fact-check-flaggor + länkning</td>
+          </tr>
+          <tr>
+            <td>Spanien fastland</td>
+            <td>malaga, torremolinos, rhodos, korfu</td>
+            <td>Medel</td>
+            <td>Artikelbatch + intern länkning</td>
+            <td>~30 nya artiklar + fixar</td>
+          </tr>
+          <tr>
+            <td>Provence (aktiv expansion)</td>
+            <td>provence.se</td>
+            <td>Medel-Hög (38+ sidor)</td>
+            <td>Integrering av nya sidor + GA4</td>
+            <td>Länkning polish, bilder, GA4</td>
+          </tr>
+          <tr>
+            <td>Övriga hubs</td>
+            <td>sydamerika, hawaii, chamonix, venedig, florida</td>
+            <td>Varierande</td>
+            <td>Pilot + content</td>
+            <td>Specifika per dashboard</td>
+          </tr>
+          <tr>
+            <td>Rentals (VRBO)</td>
+            <td>costablanca (pilot), alicante m.fl.</td>
+            <td>Pilot</td>
+            <td>Resultat från pilot</td>
+            <td>Skala efter EPC/indexering</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>🔴 Hög prio (portföljbrett)</h2>
+      <ul>
+        <li><strong>Verifiera tracking</strong> (GA4 affiliate_click + CJ) — alla sajter. Ägt av: Miguel.</li>
+        <li><strong>Iberia EU rollout</strong> — skapa <code>/link/flyg</code> per sajt + lägg CTA på flyg/transport-sidor. Ägt av: Claude/Hermes.</li>
+        <li><strong>Lanzarote fact-check</strong> (3 svåra): Jameos del Agua, Rancho Texas, Aquapark Costa Teguise. Ägt av: Claude eller manuell.</li>
+        <li><strong>Provence-specifikt (hög efter expansion):</strong>
+          <ul>
+            <li>GA4 property för provence.se.</li>
+            <li>VRBO og:image auto-scrape + listing-bilder.</li>
+            <li>Full intern länkning av nya sidor (var-verdon, ventoux-drome, strander-i-provence) i alla hubs.</li>
+            <li>Bildportal prioritering för provence.</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Per domän / grupp — detaljerad backlog</h2>
+
+      <h3>Kanarieöarna (artiklar/ + faktakontroll)</h3>
+      <p><strong>grancanaria.se, teneriffa.se, fuerteventura.se, lanzarote.se</strong></p>
+      <ul>
+        <li>Thin / kvar: Jämförelser + säsongssidor.</li>
+        <li>Action: Fact-check av "basta-stranderna" etc. i factcheck-mappen.</li>
+        <li>Gemensamt: 15 jämförelseartiklar i <code>artiklar/jamforelser/</code> behöver länkas in från startsidor. Bulk fact-check-taggar (46 öppna totalt i artiklar/).</li>
+      </ul>
+
+      <h3>Spanien &amp; Medelhavet</h3>
+      <ul>
+        <li><strong>malaga.se</strong>: Fortsätt expansion enligt pengasidor-outline.</li>
+        <li><strong>torremolinos.se</strong>: ~15 nya artiklar (charter/50+ målgrupp). Starta batch (använd rhodos/malaga som mall).</li>
+        <li><strong>rhodos.se</strong>: Intern länkning av 22 nya artiklar. <code>/link/hyrbil</code> → <code>/link/hyrbil-hcom</code> bulk-fix + re-publish. Se <code>domains/rhodos/SEO-LEARNINGS.md</code>.</li>
+        <li><strong>korfu.se</strong>: Artikelbatch ~15 nya (nischstrategi som Rhodos).</li>
+      </ul>
+
+      <h3>Provence (fokus 2026-06-11)</h3>
+      <p><strong>Status:</strong> Aix-hub komplett, Luberon byguider klara, core pengasidor live. Nya: Var-Verdon (id=49), Ventoux &amp; Drôme (id=50), Stränder-översikt (id=162) publicerade.</p>
+      <ul>
+        <li>Uppdatera alla hubs (hyra-hus, var-ska-man-bo, guider, startsida) med länkar till de tre nya sidorna.</li>
+        <li>Lägg till stränder som "kust-alternativ" i var-ska-man-bo och hyra-hus.</li>
+        <li>GA4 setup.</li>
+        <li>VRBO listing-kort + bilder för nya regioner.</li>
+        <li>Full verify + affiliate snippet check.</li>
+      </ul>
+      <p><strong>Action:</strong> Kör polish på länkning, uppdatera dashboards, kör <code>verify_provence_live.py</code>.</p>
+
+      <h3>Övriga domäner</h3>
+      <ul>
+        <li><strong>sydamerika.se</strong>: Fler land/stad-sidor, bildportal, affiliate.</li>
+        <li><strong>hawaii.se, chamonix.se, venedig</strong>: Content + bilder + publish (se respektive DASHBOARD.md / SEO-PLAN.md).</li>
+        <li><strong>Rentals-portföljen (costablanca pilot + alicante m.fl.)</strong>: Analysera pilot → skala till nästa. Se <code>rentals/domains/*/WP-OPERATIONS.md</code> och SCALE-PLAN.md. Gemensamt: VRBO listing-archetypes, dynamic snippets, Rank Math schema.</li>
+        <li><strong>florida</strong>: Fact-check och polish på publicerade + drafts.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Plan för återstående arbete (prioriterad, juni 2026+)</h2>
+      <ol>
+        <li><strong>Omedelbart (denna/veckan):</strong> Stäng hög-prio tracking + Iberia rollout. Provence länkning polish + GA4. Lanzarote fact-check (3 flaggor).</li>
+        <li><strong>Kort sikt (2–4 veckor):</strong> Korfu + Torremolinos artikelbatch. Rhodos intern länkning + affiliate-fix. Jämförelseartiklar länkning (alla domäner). Fact-check-taggar bulk. Uppdatera alla dashboards + denna sida efter varje batch.</li>
+        <li><strong>Medel sikt:</strong> Skala rentals efter pilot-resultat. Sydamerika / hawaii / chamonix content + bilder. Årtalsuppdateringar (2027). Crawl4AI refresh pipeline.</li>
+        <li><strong>Lång sikt / arkitektur:</strong> Full cross-domain länkning (se CROSSLINK_MATRIX.md). Bildportal komplett för alla. Enhetlig "pengasida"-mall rullas ut bredare.</li>
+      </ol>
+      <p><strong>Mätning av "klart":</strong> Per sajt: Startsida + guider + pengasidor + region-spokes live + verify 0 fel. Portfölj: Alla dashboards gröna, tracking live, affiliate-klick registreras.</p>
+    </div>
+
+    <div class="section">
+      <h2>Uppdateringsinstruktioner</h2>
+      <ul>
+        <li>Efter varje större batch: Uppdatera denna fil + relevant DASHBOARD.md + STATUS.md.</li>
+        <li>Lägg till specifika "Thin pages" med exakta filnamn/slugs.</li>
+        <li>När en uppgift är klar: Flytta till "Klart" i STATUS.md och ta bort från denna.</li>
+      </ul>
+      <p><strong>Länkar till mer info:</strong> <code>PROJECT.md</code> • Per domän: <code>domains/&lt;domän&gt;/DASHBOARD.md</code> eller rentals-motsvarighet • Mallar: <code>domains/_templates/</code> • Regler: <code>AGENTS.md</code></p>
+    </div>
+
+    <p class="note">Detta är en statisk HTML-version av <code>domains/REMAINING-WORK.md</code>. Kör <code>python bilder/export_portfolio_hub.py</code> för att synka till den live bildportalen.</p>
+  </main>
+</body>
+</html>

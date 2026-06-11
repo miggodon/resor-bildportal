@@ -14355,6 +14355,100 @@
     ]
   },
   {
+    "domain": "provence",
+    "id": 150,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-luberon-infinity.jpg",
+    "filename": "prov-luberon-infinity.jpg",
+    "alt": "Designvilla med pool i Luberon",
+    "caption": "Listing prov-luberon-infinity",
+    "w": 1349,
+    "h": 900,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 149,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-nice-seaview.jpg",
+    "filename": "prov-nice-seaview.jpg",
+    "alt": "Lägenhet vid Medelhavet, Nice-området",
+    "caption": "Listing prov-nice-seaview",
+    "w": 800,
+    "h": 472,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-i-provence",
+        "link": "https://provence.se/var-ska-man-bo-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 148,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-aix-apartment.jpg",
+    "filename": "prov-aix-apartment.jpg",
+    "alt": "Terrass och boende i Aix-området",
+    "caption": "Listing prov-aix-apartment",
+    "w": 800,
+    "h": 533,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-boende",
+        "link": "https://provence.se/aix-en-provence-boende/"
+      },
+      {
+        "slug": "var-ska-man-bo-i-provence",
+        "link": "https://provence.se/var-ska-man-bo-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 147,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-gordes-villa.jpg",
+    "filename": "prov-gordes-villa.jpg",
+    "alt": "Stenvilla nära Gordes med pool",
+    "caption": "Listing prov-gordes-villa",
+    "w": 800,
+    "h": 533,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 146,
+    "url": "https://provence.se/wp-content/uploads/2026/06/prov-luberon-mas-pool.jpg",
+    "filename": "prov-luberon-mas-pool.jpg",
+    "alt": "Mas med pool i Luberon — semesterboende",
+    "caption": "Listing prov-luberon-mas-pool",
+    "w": 1349,
+    "h": 900,
+    "date": "2026-06-11",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
     "domain": "sydamerika",
     "id": 40,
     "url": "https://sydamerika.se/wp-content/uploads/2026/06/favicon-512.png",
