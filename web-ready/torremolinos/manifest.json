@@ -1,92 +1,437 @@
 {
-  "generated_at": "2026-06-04T07:40:02.342764+00:00",
+  "generated_at": "2026-06-11T04:27:40.676570+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/torremolinos",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/redo/apartamentos-bajondillo-torremolinos.jpg",
-      "filename": "apartamentos-bajondillo-torremolinos.jpg",
-      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:apartamentos-bajondillo",
+      "source": "bilder/inbox/benalmadena-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/benalmadena-torremolinos.jpg",
+      "filename": "benalmadena-torremolinos.jpg",
+      "brief_id": "torremolinos:sevardheter-torremolinos:benalmadena",
       "domain": "torremolinos",
       "site": "torremolinos.se",
       "destination": "Torremolinos",
-      "page": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-      "page_id": 60,
-      "page_title": "Bästa hotellen i Torremolinos",
-      "page_slug": "basta-hotellen-i-torremolinos-2",
-      "h3": "7. Apartamentos Bajondillo",
-      "h3_slug": "apartamentos-bajondillo",
-      "place": "Apartamentos Bajondillo i Torremolinos",
+      "page": "https://torremolinos.se/sevardheter-torremolinos/",
+      "page_id": 183,
+      "page_title": "Sevärdheter i Torremolinos – historia, kultur och utsiktsplatser",
+      "page_slug": "sevardheter-torremolinos",
+      "h3": "🚗 Benalmádena",
+      "h3_slug": "benalmadena",
+      "place": "Benalmádena i Torremolinos",
       "gps": "36.6218, -4.5003",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
-      "caption": "Apartamentos Bajondillo i Torremolinos",
-      "seo": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "editorial travel photograph",
+      "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Benalmádena i Torremolinos",
+      "seo": "En realistisk resebild från Benalmádena i Torremolinos. Bilden visar Benalmádena i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/apartamentos-bajondillo-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/redo/apartamentos-bajondillo-torremolinos.jpg",
+        "preferred_source_download": "bilder/inbox/benalmadena-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/benalmadena-torremolinos.jpg",
         "wordpress_target": {
-          "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-          "page_slug": "basta-hotellen-i-torremolinos-2",
-          "section_h3": "7. Apartamentos Bajondillo",
+          "page_url": "https://torremolinos.se/sevardheter-torremolinos/",
+          "page_slug": "sevardheter-torremolinos",
+          "section_h3": "🚗 Benalmádena",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Apartamentos Bajondillo i Torremolinos",
-          "alt": "Apartamentos Bajondillo i Torremolinos med människor och realistisk resemiljö",
-          "caption": "Apartamentos Bajondillo i Torremolinos",
-          "description": "En realistisk resebild från Apartamentos Bajondillo i Torremolinos. Bilden visar Apartamentos Bajondillo i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Benalmádena i Torremolinos",
+          "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Benalmádena i Torremolinos",
+          "description": "En realistisk resebild från Benalmádena i Torremolinos. Bilden visar Benalmádena i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/torremolinos/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/torremolinos/benalmadena-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
-      "file": "bilder/web-ready/torremolinos/redo/casa-de-los-navajas-torremolinos.jpg",
-      "filename": "casa-de-los-navajas-torremolinos.jpg",
-      "brief_id": "torremolinos:basta-hotellen-i-torremolinos-2:casa-de-los-navajas",
+      "source": "bilder/inbox/forbokad-transfer-forutsagbart-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/forbokad-transfer-forutsagbart-torremolinos.jpg",
+      "filename": "forbokad-transfer-forutsagbart-torremolinos.jpg",
+      "brief_id": "torremolinos:torremolinos-flygplats-transfer:forbokad-transfer-forutsagbart",
       "domain": "torremolinos",
       "site": "torremolinos.se",
       "destination": "Torremolinos",
-      "page": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-      "page_id": 60,
-      "page_title": "Bästa hotellen i Torremolinos",
-      "page_slug": "basta-hotellen-i-torremolinos-2",
-      "h3": "8. Casa de los Navajas",
-      "h3_slug": "casa-de-los-navajas",
-      "place": "Casa de los Navajas i Torremolinos",
+      "page": "https://torremolinos.se/torremolinos-flygplats-transfer/",
+      "page_id": 63,
+      "page_title": "Torremolinos flygplats, transfer och så tar du dig runt",
+      "page_slug": "torremolinos-flygplats-transfer",
+      "h3": "🔁 Förbokad transfer — förutsägbart",
+      "h3_slug": "forbokad-transfer-forutsagbart",
+      "place": "Förbokad transfer — förutsägbart i Torremolinos",
       "gps": "36.6218, -4.5003",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
-      "caption": "Casa de los Navajas i Torremolinos",
-      "seo": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+      "seo": "En realistisk resebild från Förbokad transfer — förutsägbart i Torremolinos. Bilden visar Förbokad transfer — förutsägbart i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
-        "web_ready_file": "bilder/web-ready/torremolinos/redo/casa-de-los-navajas-torremolinos.jpg",
+        "preferred_source_download": "bilder/inbox/forbokad-transfer-forutsagbart-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/forbokad-transfer-forutsagbart-torremolinos.jpg",
         "wordpress_target": {
-          "page_url": "https://torremolinos.se/basta-hotellen-i-torremolinos-2/",
-          "page_slug": "basta-hotellen-i-torremolinos-2",
-          "section_h3": "8. Casa de los Navajas",
+          "page_url": "https://torremolinos.se/torremolinos-flygplats-transfer/",
+          "page_slug": "torremolinos-flygplats-transfer",
+          "section_h3": "🔁 Förbokad transfer — förutsägbart",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Casa de los Navajas i Torremolinos",
-          "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
-          "caption": "Casa de los Navajas i Torremolinos",
-          "description": "En realistisk resebild från Casa de los Navajas i Torremolinos. Bilden visar Casa de los Navajas i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Förbokad transfer — förutsägbart i Torremolinos",
+          "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+          "description": "En realistisk resebild från Förbokad transfer — förutsägbart i Torremolinos. Bilden visar Förbokad transfer — förutsägbart i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/torremolinos/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/torremolinos/forbokad-transfer-forutsagbart-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/la-carihuela-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/la-carihuela-torremolinos.jpg",
+      "filename": "la-carihuela-torremolinos.jpg",
+      "brief_id": "torremolinos:sevardheter-torremolinos:la-carihuela",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/sevardheter-torremolinos/",
+      "page_id": 183,
+      "page_title": "Sevärdheter i Torremolinos – historia, kultur och utsiktsplatser",
+      "page_slug": "sevardheter-torremolinos",
+      "h3": "📍 La Carihuela",
+      "h3_slug": "la-carihuela",
+      "place": "La Carihuela i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "La Carihuela i Torremolinos med människor och realistisk resemiljö",
+      "caption": "La Carihuela i Torremolinos",
+      "seo": "En realistisk resebild från La Carihuela i Torremolinos. Bilden visar La Carihuela i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/la-carihuela-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/la-carihuela-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/sevardheter-torremolinos/",
+          "page_slug": "sevardheter-torremolinos",
+          "section_h3": "📍 La Carihuela",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "La Carihuela i Torremolinos",
+          "alt": "La Carihuela i Torremolinos med människor och realistisk resemiljö",
+          "caption": "La Carihuela i Torremolinos",
+          "description": "En realistisk resebild från La Carihuela i Torremolinos. Bilden visar La Carihuela i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/la-carihuela-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/malaga-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/malaga-torremolinos.jpg",
+      "filename": "malaga-torremolinos.jpg",
+      "brief_id": "torremolinos:sevardheter-torremolinos:malaga",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/sevardheter-torremolinos/",
+      "page_id": 183,
+      "page_title": "Sevärdheter i Torremolinos – historia, kultur och utsiktsplatser",
+      "page_slug": "sevardheter-torremolinos",
+      "h3": "🚗 Málaga",
+      "h3_slug": "malaga",
+      "place": "Málaga i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Málaga i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Málaga i Torremolinos",
+      "seo": "En realistisk resebild från Málaga i Torremolinos. Bilden visar Málaga i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/malaga-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/malaga-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/sevardheter-torremolinos/",
+          "page_slug": "sevardheter-torremolinos",
+          "section_h3": "🚗 Málaga",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Málaga i Torremolinos",
+          "alt": "Málaga i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Málaga i Torremolinos",
+          "description": "En realistisk resebild från Málaga i Torremolinos. Bilden visar Málaga i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/malaga-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/mijas-och-bergsbyarna-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/mijas-och-bergsbyarna-torremolinos.jpg",
+      "filename": "mijas-och-bergsbyarna-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:mijas-och-bergsbyarna",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "🌄 Mijas och bergsbyarna",
+      "h3_slug": "mijas-och-bergsbyarna",
+      "place": "Mijas och bergsbyarna i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Mijas och bergsbyarna i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Mijas och bergsbyarna i Torremolinos",
+      "seo": "En realistisk resebild från Mijas och bergsbyarna i Torremolinos. Bilden visar Mijas och bergsbyarna i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/mijas-och-bergsbyarna-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/mijas-och-bergsbyarna-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "🌄 Mijas och bergsbyarna",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Mijas och bergsbyarna i Torremolinos",
+          "alt": "Mijas och bergsbyarna i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Mijas och bergsbyarna i Torremolinos",
+          "description": "En realistisk resebild från Mijas och bergsbyarna i Torremolinos. Bilden visar Mijas och bergsbyarna i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/mijas-och-bergsbyarna-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/mijas-pueblo-runt-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/mijas-pueblo-runt-torremolinos.jpg",
+      "filename": "mijas-pueblo-runt-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:mijas-pueblo-runt",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "Mijas Pueblo runt",
+      "h3_slug": "mijas-pueblo-runt",
+      "place": "Mijas Pueblo runt i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Mijas Pueblo runt i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Mijas Pueblo runt i Torremolinos",
+      "seo": "En realistisk resebild från Mijas Pueblo runt i Torremolinos. Bilden visar Mijas Pueblo runt i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/mijas-pueblo-runt-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/mijas-pueblo-runt-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "Mijas Pueblo runt",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Mijas Pueblo runt i Torremolinos",
+          "alt": "Mijas Pueblo runt i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Mijas Pueblo runt i Torremolinos",
+          "description": "En realistisk resebild från Mijas Pueblo runt i Torremolinos. Bilden visar Mijas Pueblo runt i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/mijas-pueblo-runt-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/montes-de-malaga-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/montes-de-malaga-torremolinos.jpg",
+      "filename": "montes-de-malaga-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:montes-de-malaga",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "Montes de Málaga",
+      "h3_slug": "montes-de-malaga",
+      "place": "Montes de Málaga i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Montes de Málaga i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Montes de Málaga i Torremolinos",
+      "seo": "En realistisk resebild från Montes de Málaga i Torremolinos. Bilden visar Montes de Málaga i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/montes-de-malaga-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/montes-de-malaga-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "Montes de Málaga",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Montes de Málaga i Torremolinos",
+          "alt": "Montes de Málaga i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Montes de Málaga i Torremolinos",
+          "description": "En realistisk resebild från Montes de Málaga i Torremolinos. Bilden visar Montes de Málaga i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/montes-de-malaga-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/paseo-maritimo-strandpromenaden-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/paseo-maritimo-strandpromenaden-torremolinos.jpg",
+      "filename": "paseo-maritimo-strandpromenaden-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:paseo-maritimo-strandpromenaden",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "Paseo Marítimo (strandpromenaden)",
+      "h3_slug": "paseo-maritimo-strandpromenaden",
+      "place": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "coastal travel photograph",
+      "alt": "Paseo Marítimo (strandpromenaden) i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+      "seo": "En realistisk resebild från Paseo Marítimo (strandpromenaden) i Torremolinos. Bilden visar Paseo Marítimo (strandpromenaden) i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/paseo-maritimo-strandpromenaden-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/paseo-maritimo-strandpromenaden-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "Paseo Marítimo (strandpromenaden)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+          "alt": "Paseo Marítimo (strandpromenaden) i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+          "description": "En realistisk resebild från Paseo Marítimo (strandpromenaden) i Torremolinos. Bilden visar Paseo Marítimo (strandpromenaden) i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/paseo-maritimo-strandpromenaden-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/sierra-de-las-nieves-nationalpark-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/sierra-de-las-nieves-nationalpark-torremolinos.jpg",
+      "filename": "sierra-de-las-nieves-nationalpark-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:sierra-de-las-nieves-nationalpark",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "⛰️ Sierra de las Nieves nationalpark",
+      "h3_slug": "sierra-de-las-nieves-nationalpark",
+      "place": "Sierra de las Nieves nationalpark i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Sierra de las Nieves nationalpark i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Sierra de las Nieves nationalpark i Torremolinos",
+      "seo": "En realistisk resebild från Sierra de las Nieves nationalpark i Torremolinos. Bilden visar Sierra de las Nieves nationalpark i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/sierra-de-las-nieves-nationalpark-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/sierra-de-las-nieves-nationalpark-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "⛰️ Sierra de las Nieves nationalpark",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Sierra de las Nieves nationalpark i Torremolinos",
+          "alt": "Sierra de las Nieves nationalpark i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Sierra de las Nieves nationalpark i Torremolinos",
+          "description": "En realistisk resebild från Sierra de las Nieves nationalpark i Torremolinos. Bilden visar Sierra de las Nieves nationalpark i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/sierra-de-las-nieves-nationalpark-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/sierra-de-las-nieves-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/sierra-de-las-nieves-torremolinos.jpg",
+      "filename": "sierra-de-las-nieves-torremolinos.jpg",
+      "brief_id": "torremolinos:vandring-torremolinos-costa-del-sol:sierra-de-las-nieves",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+      "page_id": 334,
+      "page_title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
+      "page_slug": "vandring-torremolinos-costa-del-sol",
+      "h3": "Sierra de las Nieves",
+      "h3_slug": "sierra-de-las-nieves",
+      "place": "Sierra de las Nieves i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "editorial travel photograph",
+      "alt": "Sierra de las Nieves i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Sierra de las Nieves i Torremolinos",
+      "seo": "En realistisk resebild från Sierra de las Nieves i Torremolinos. Bilden visar Sierra de las Nieves i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/sierra-de-las-nieves-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/sierra-de-las-nieves-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
+          "page_slug": "vandring-torremolinos-costa-del-sol",
+          "section_h3": "Sierra de las Nieves",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Sierra de las Nieves i Torremolinos",
+          "alt": "Sierra de las Nieves i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Sierra de las Nieves i Torremolinos",
+          "description": "En realistisk resebild från Sierra de las Nieves i Torremolinos. Bilden visar Sierra de las Nieves i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/sierra-de-las-nieves-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/torremolinos-centrum-alternativ-torremolinos.png",
+      "file": "bilder/web-ready/torremolinos/torremolinos-centrum-alternativ-torremolinos.jpg",
+      "filename": "torremolinos-centrum-alternativ-torremolinos.jpg",
+      "brief_id": "torremolinos:hyrbil-i-torremolinos:torremolinos-centrum-alternativ",
+      "domain": "torremolinos",
+      "site": "torremolinos.se",
+      "destination": "Torremolinos",
+      "page": "https://torremolinos.se/hyrbil-i-torremolinos/",
+      "page_id": 62,
+      "page_title": "Hyrbil i Torremolinos",
+      "page_slug": "hyrbil-i-torremolinos",
+      "h3": "Torremolinos centrum – alternativ",
+      "h3_slug": "torremolinos-centrum-alternativ",
+      "place": "Torremolinos centrum – alternativ i Torremolinos",
+      "gps": "36.6218, -4.5003",
+      "shot_type": "road trip travel photograph",
+      "alt": "Torremolinos centrum – alternativ i Torremolinos med människor och realistisk resemiljö",
+      "caption": "Torremolinos centrum – alternativ i Torremolinos",
+      "seo": "En realistisk resebild från Torremolinos centrum – alternativ i Torremolinos. Bilden visar Torremolinos centrum – alternativ i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/torremolinos-centrum-alternativ-torremolinos.png",
+        "web_ready_file": "bilder/web-ready/torremolinos/torremolinos-centrum-alternativ-torremolinos.jpg",
+        "wordpress_target": {
+          "page_url": "https://torremolinos.se/hyrbil-i-torremolinos/",
+          "page_slug": "hyrbil-i-torremolinos",
+          "section_h3": "Torremolinos centrum – alternativ",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Torremolinos centrum – alternativ i Torremolinos",
+          "alt": "Torremolinos centrum – alternativ i Torremolinos med människor och realistisk resemiljö",
+          "caption": "Torremolinos centrum – alternativ i Torremolinos",
+          "description": "En realistisk resebild från Torremolinos centrum – alternativ i Torremolinos. Bilden visar Torremolinos centrum – alternativ i Torremolinos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/torremolinos/torremolinos-centrum-alternativ-torremolinos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }

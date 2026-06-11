@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-06-11T00:57:17.212446+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/grancanaria",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/triana-shopping-och-jugend-grancanaria.jpg",
+      "filename": "triana-shopping-och-jugend-grancanaria.jpg",
+      "brief_id": "grancanaria:omrade-las-palmas:triana-shopping-och-jugend",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/omrade-las-palmas/",
+      "page_id": 83,
+      "page_title": "Las Palmas — komplett guide till Gran Canarias huvudstad",
+      "page_slug": "omrade-las-palmas",
+      "h3": "Triana — shopping och jugend",
+      "h3_slug": "triana-shopping-och-jugend",
+      "place": "Triana — shopping och jugend i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Triana — shopping och jugend i Gran Canaria",
+      "seo": "En realistisk resebild från Triana — shopping och jugend i Gran Canaria. Bilden visar Triana — shopping och jugend i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/triana-shopping-och-jugend-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/omrade-las-palmas/",
+          "page_slug": "omrade-las-palmas",
+          "section_h3": "Triana — shopping och jugend",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Triana — shopping och jugend i Gran Canaria",
+          "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Triana — shopping och jugend i Gran Canaria",
+          "description": "En realistisk resebild från Triana — shopping och jugend i Gran Canaria. Bilden visar Triana — shopping och jugend i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/triana-shopping-och-jugend-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

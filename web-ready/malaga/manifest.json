@@ -1,92 +1,359 @@
 {
-  "generated_at": "2026-06-04T00:54:28.914169+00:00",
+  "generated_at": "2026-06-11T04:27:39.869147+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/malaga",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
-      "file": "bilder/web-ready/malaga/redo/el-ejido-universitet-takterrasser-malaga.jpg",
-      "filename": "el-ejido-universitet-takterrasser-malaga.jpg",
-      "brief_id": "malaga:var-ska-man-bo-i-malaga:el-ejido-universitetet-och-takterrasserna",
+      "source": "bilder/inbox/alternativ-2-guidad-tur-enklast-malaga.png",
+      "file": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg",
+      "filename": "alternativ-2-guidad-tur-enklast-malaga.jpg",
+      "brief_id": "malaga:vandring-malaga-caminito-del-rey:alternativ-2-guidad-tur-enklast",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
-      "page": "https://malaga.se/var-ska-man-bo-i-malaga/",
-      "page_id": 76,
-      "page_title": "Var ska man bo i Malaga",
-      "page_slug": "var-ska-man-bo-i-malaga",
-      "h3": "El Ejido – Universitetet och takterrasserna",
-      "h3_slug": "el-ejido-universitetet-och-takterrasserna",
-      "place": "El Ejido ovanför Málagas historiska centrum",
-      "gps": "36.7268, -4.4213",
-      "shot_type": "wide neighbourhood overview photograph",
-      "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
-      "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
-      "seo": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "page": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+      "page_id": 297,
+      "page_title": "Vandring i Málaga — Caminito del Rey och de bästa lederna 2026",
+      "page_slug": "vandring-malaga-caminito-del-rey",
+      "h3": "Alternativ 2 — Guidad tur (enklast)",
+      "h3_slug": "alternativ-2-guidad-tur-enklast",
+      "place": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "Alternativ 2 — Guidad tur (enklast) i Málaga med människor och realistisk resemiljö",
+      "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+      "seo": "En realistisk resebild från Alternativ 2 — Guidad tur (enklast) i Málaga. Bilden visar Alternativ 2 — Guidad tur (enklast) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/redo/el-ejido-universitet-takterrasser-malaga.jpg",
+        "preferred_source_download": "bilder/inbox/alternativ-2-guidad-tur-enklast-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg",
         "wordpress_target": {
-          "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
-          "page_slug": "var-ska-man-bo-i-malaga",
-          "section_h3": "El Ejido – Universitetet och takterrasserna",
+          "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+          "page_slug": "vandring-malaga-caminito-del-rey",
+          "section_h3": "Alternativ 2 — Guidad tur (enklast)",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "El Ejido – Universitetet och takterrasserna i Málaga",
-          "alt": "El Ejido – Universitetet och takterrasserna i Málaga med människor och realistisk resemiljö",
-          "caption": "El Ejido – Universitetet och takterrasserna i Málaga",
-          "description": "En realistisk resebild från El Ejido ovanför Málagas historiska centrum. Bilden visar El Ejido – Universitetet och takterrasserna i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+          "alt": "Alternativ 2 — Guidad tur (enklast) i Málaga med människor och realistisk resemiljö",
+          "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+          "description": "En realistisk resebild från Alternativ 2 — Guidad tur (enklast) i Málaga. Bilden visar Alternativ 2 — Guidad tur (enklast) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/malaga/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
-      "file": "bilder/web-ready/malaga/redo/lagunillas-gatukonst-distrikt-malaga.jpg",
-      "filename": "lagunillas-gatukonst-distrikt-malaga.jpg",
-      "brief_id": "malaga:var-ska-man-bo-i-malaga:lagunillas-malagas-gatukonst-distrikt",
+      "source": "bilder/inbox/alternativ-3-tag-buss-malaga.png",
+      "file": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg",
+      "filename": "alternativ-3-tag-buss-malaga.jpg",
+      "brief_id": "malaga:vandring-malaga-caminito-del-rey:alternativ-3-tag-buss",
       "domain": "malaga",
       "site": "malaga.se",
       "destination": "Málaga",
-      "page": "https://malaga.se/var-ska-man-bo-i-malaga/",
-      "page_id": 76,
-      "page_title": "Var ska man bo i Malaga",
-      "page_slug": "var-ska-man-bo-i-malaga",
-      "h3": "Lagunillas – Málagas gatukonst-distrikt",
-      "h3_slug": "lagunillas-malagas-gatukonst-distrikt",
-      "place": "Lagunillas mellan gamla stan och Gibralfaro i Málaga",
-      "gps": "36.7250, -4.4197",
-      "shot_type": "wide neighbourhood overview photograph",
-      "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
-      "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-      "seo": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "page": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+      "page_id": 297,
+      "page_title": "Vandring i Málaga — Caminito del Rey och de bästa lederna 2026",
+      "page_slug": "vandring-malaga-caminito-del-rey",
+      "h3": "Alternativ 3 — Tåg + buss",
+      "h3_slug": "alternativ-3-tag-buss",
+      "place": "Alternativ 3 — Tåg + buss i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "Alternativ 3 — Tåg + buss i Málaga med människor och realistisk resemiljö",
+      "caption": "Alternativ 3 — Tåg + buss i Málaga",
+      "seo": "En realistisk resebild från Alternativ 3 — Tåg + buss i Málaga. Bilden visar Alternativ 3 — Tåg + buss i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/redo/lagunillas-gatukonst-distrikt-malaga.jpg",
+        "preferred_source_download": "bilder/inbox/alternativ-3-tag-buss-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg",
         "wordpress_target": {
-          "page_url": "https://malaga.se/var-ska-man-bo-i-malaga/",
-          "page_slug": "var-ska-man-bo-i-malaga",
-          "section_h3": "Lagunillas – Málagas gatukonst-distrikt",
+          "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+          "page_slug": "vandring-malaga-caminito-del-rey",
+          "section_h3": "Alternativ 3 — Tåg + buss",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-          "alt": "Lagunillas – Málagas gatukonst-distrikt i Málaga med människor och realistisk resemiljö",
-          "caption": "Lagunillas – Málagas gatukonst-distrikt i Málaga",
-          "description": "En realistisk resebild från Lagunillas mellan gamla stan och Gibralfaro i Málaga. Bilden visar Lagunillas – Málagas gatukonst-distrikt i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Alternativ 3 — Tåg + buss i Málaga",
+          "alt": "Alternativ 3 — Tåg + buss i Málaga med människor och realistisk resemiljö",
+          "caption": "Alternativ 3 — Tåg + buss i Málaga",
+          "description": "En realistisk resebild från Alternativ 3 — Tåg + buss i Málaga. Bilden visar Alternativ 3 — Tåg + buss i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/malaga/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/dagsutflykt-ronda-malaga.png",
+      "file": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg",
+      "filename": "dagsutflykt-ronda-malaga.jpg",
+      "brief_id": "malaga:malaga-med-tonaringar:dagsutflykt-ronda",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-med-tonaringar/",
+      "page_id": 296,
+      "page_title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
+      "page_slug": "malaga-med-tonaringar",
+      "h3": "7. 🗺️ Dagsutflykt: Ronda",
+      "h3_slug": "dagsutflykt-ronda",
+      "place": "🗺️ Dagsutflykt: Ronda i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "🗺️ Dagsutflykt: Ronda i Málaga med människor och realistisk resemiljö",
+      "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
+      "seo": "En realistisk resebild från 🗺️ Dagsutflykt: Ronda i Málaga. Bilden visar 🗺️ Dagsutflykt: Ronda i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dagsutflykt-ronda-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-med-tonaringar/",
+          "page_slug": "malaga-med-tonaringar",
+          "section_h3": "7. 🗺️ Dagsutflykt: Ronda",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "🗺️ Dagsutflykt: Ronda i Málaga",
+          "alt": "🗺️ Dagsutflykt: Ronda i Málaga med människor och realistisk resemiljö",
+          "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
+          "description": "En realistisk resebild från 🗺️ Dagsutflykt: Ronda i Málaga. Bilden visar 🗺️ Dagsutflykt: Ronda i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/escape-rooms-malaga.png",
+      "file": "bilder/web-ready/malaga/escape-rooms-malaga.jpg",
+      "filename": "escape-rooms-malaga.jpg",
+      "brief_id": "malaga:malaga-med-tonaringar:escape-rooms",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-med-tonaringar/",
+      "page_id": 296,
+      "page_title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
+      "page_slug": "malaga-med-tonaringar",
+      "h3": "4. 🏰 Escape rooms",
+      "h3_slug": "escape-rooms",
+      "place": "🏰 Escape rooms i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
+      "caption": "🏰 Escape rooms i Málaga",
+      "seo": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/escape-rooms-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/escape-rooms-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-med-tonaringar/",
+          "page_slug": "malaga-med-tonaringar",
+          "section_h3": "4. 🏰 Escape rooms",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "🏰 Escape rooms i Málaga",
+          "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
+          "caption": "🏰 Escape rooms i Málaga",
+          "description": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/escape-rooms-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/laser-tag-och-bowling-malaga.png",
+      "file": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg",
+      "filename": "laser-tag-och-bowling-malaga.jpg",
+      "brief_id": "malaga:malaga-med-tonaringar:laser-tag-och-bowling",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-med-tonaringar/",
+      "page_id": 296,
+      "page_title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
+      "page_slug": "malaga-med-tonaringar",
+      "h3": "5. 🎳 Laser tag och bowling",
+      "h3_slug": "laser-tag-och-bowling",
+      "place": "🎳 Laser tag och bowling i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
+      "caption": "🎳 Laser tag och bowling i Málaga",
+      "seo": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/laser-tag-och-bowling-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-med-tonaringar/",
+          "page_slug": "malaga-med-tonaringar",
+          "section_h3": "5. 🎳 Laser tag och bowling",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "🎳 Laser tag och bowling i Málaga",
+          "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
+          "caption": "🎳 Laser tag och bowling i Málaga",
+          "description": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/montes-de-malaga-naturpark-malaga.png",
+      "file": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg",
+      "filename": "montes-de-malaga-naturpark-malaga.jpg",
+      "brief_id": "malaga:vandring-malaga-caminito-del-rey:montes-de-malaga-naturpark",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+      "page_id": 297,
+      "page_title": "Vandring i Málaga — Caminito del Rey och de bästa lederna 2026",
+      "page_slug": "vandring-malaga-caminito-del-rey",
+      "h3": "Montes de Málaga naturpark",
+      "h3_slug": "montes-de-malaga-naturpark",
+      "place": "Montes de Málaga naturpark i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "Montes de Málaga naturpark i Málaga med människor och realistisk resemiljö",
+      "caption": "Montes de Málaga naturpark i Málaga",
+      "seo": "En realistisk resebild från Montes de Málaga naturpark i Málaga. Bilden visar Montes de Málaga naturpark i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/montes-de-malaga-naturpark-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+          "page_slug": "vandring-malaga-caminito-del-rey",
+          "section_h3": "Montes de Málaga naturpark",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Montes de Málaga naturpark i Málaga",
+          "alt": "Montes de Málaga naturpark i Málaga med människor och realistisk resemiljö",
+          "caption": "Montes de Málaga naturpark i Málaga",
+          "description": "En realistisk resebild från Montes de Málaga naturpark i Málaga. Bilden visar Montes de Málaga naturpark i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/sendero-rio-chillar-nerja-malaga.png",
+      "file": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg",
+      "filename": "sendero-rio-chillar-nerja-malaga.jpg",
+      "brief_id": "malaga:vandring-malaga-caminito-del-rey:sendero-rio-chillar-nerja",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+      "page_id": 297,
+      "page_title": "Vandring i Málaga — Caminito del Rey och de bästa lederna 2026",
+      "page_slug": "vandring-malaga-caminito-del-rey",
+      "h3": "Sendero Río Chillar (Nerja)",
+      "h3_slug": "sendero-rio-chillar-nerja",
+      "place": "Sendero Río Chillar (Nerja) i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "Sendero Río Chillar (Nerja) i Málaga med människor och realistisk resemiljö",
+      "caption": "Sendero Río Chillar (Nerja) i Málaga",
+      "seo": "En realistisk resebild från Sendero Río Chillar (Nerja) i Málaga. Bilden visar Sendero Río Chillar (Nerja) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/sendero-rio-chillar-nerja-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
+          "page_slug": "vandring-malaga-caminito-del-rey",
+          "section_h3": "Sendero Río Chillar (Nerja)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Sendero Río Chillar (Nerja) i Málaga",
+          "alt": "Sendero Río Chillar (Nerja) i Málaga med människor och realistisk resemiljö",
+          "caption": "Sendero Río Chillar (Nerja) i Málaga",
+          "description": "En realistisk resebild från Sendero Río Chillar (Nerja) i Málaga. Bilden visar Sendero Río Chillar (Nerja) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/skateparken-vid-stranden-malaga.png",
+      "file": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg",
+      "filename": "skateparken-vid-stranden-malaga.jpg",
+      "brief_id": "malaga:malaga-med-tonaringar:skateparken-vid-stranden",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-med-tonaringar/",
+      "page_id": 296,
+      "page_title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
+      "page_slug": "malaga-med-tonaringar",
+      "h3": "6. 🛹 Skateparken vid stranden",
+      "h3_slug": "skateparken-vid-stranden",
+      "place": "🛹 Skateparken vid stranden i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "coastal travel photograph",
+      "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
+      "caption": "🛹 Skateparken vid stranden i Málaga",
+      "seo": "En realistisk resebild från 🛹 Skateparken vid stranden i Málaga. Bilden visar 🛹 Skateparken vid stranden i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/skateparken-vid-stranden-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-med-tonaringar/",
+          "page_slug": "malaga-med-tonaringar",
+          "section_h3": "6. 🛹 Skateparken vid stranden",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "🛹 Skateparken vid stranden i Málaga",
+          "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
+          "caption": "🛹 Skateparken vid stranden i Málaga",
+          "description": "En realistisk resebild från 🛹 Skateparken vid stranden i Málaga. Bilden visar 🛹 Skateparken vid stranden i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/street-art-tur-i-soho-malaga.png",
+      "file": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg",
+      "filename": "street-art-tur-i-soho-malaga.jpg",
+      "brief_id": "malaga:malaga-med-tonaringar:street-art-tur-i-soho",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-med-tonaringar/",
+      "page_id": 296,
+      "page_title": "Málaga med tonåringar 2026 — aktiviteter, tips och hotell",
+      "page_slug": "malaga-med-tonaringar",
+      "h3": "3. 🎭 Street Art-tur i Soho",
+      "h3_slug": "street-art-tur-i-soho",
+      "place": "🎭 Street Art-tur i Soho i Málaga",
+      "gps": "36.7213, -4.4214",
+      "shot_type": "editorial travel photograph",
+      "alt": "🎭 Street Art-tur i Soho i Málaga med människor och realistisk resemiljö",
+      "caption": "🎭 Street Art-tur i Soho i Málaga",
+      "seo": "En realistisk resebild från 🎭 Street Art-tur i Soho i Málaga. Bilden visar 🎭 Street Art-tur i Soho i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/street-art-tur-i-soho-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-med-tonaringar/",
+          "page_slug": "malaga-med-tonaringar",
+          "section_h3": "3. 🎭 Street Art-tur i Soho",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "🎭 Street Art-tur i Soho i Málaga",
+          "alt": "🎭 Street Art-tur i Soho i Málaga med människor och realistisk resemiljö",
+          "caption": "🎭 Street Art-tur i Soho i Málaga",
+          "description": "En realistisk resebild från 🎭 Street Art-tur i Soho i Málaga. Bilden visar 🎭 Street Art-tur i Soho i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
