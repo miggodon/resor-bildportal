@@ -4771,12 +4771,7 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-i-torremolinos",
-        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -4807,12 +4802,7 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-i-torremolinos",
-        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -4895,12 +4885,7 @@
     "h": 1080,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-i-torremolinos",
-        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -4991,10 +4976,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "torremolinos-flygplats-transfer",
-        "link": "https://torremolinos.se/torremolinos-flygplats-transfer/"
-      },
-      {
         "slug": "saker-att-gora-i-torremolinos",
         "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
       }
@@ -5033,12 +5014,7 @@
     "h": 941,
     "date": "2026-05-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-i-torremolinos",
-        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
