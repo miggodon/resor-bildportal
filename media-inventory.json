@@ -4556,7 +4556,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "hyrbil-i-torremolinos",
+        "link": "https://torremolinos.se/hyrbil-i-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4569,7 +4574,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4582,7 +4592,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4595,7 +4610,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4608,7 +4628,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4647,7 +4672,16 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      },
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4660,7 +4694,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -4852,10 +4891,6 @@
     "date": "2026-06-16",
     "managed": true,
     "used_on": [
-      {
-        "slug": "vandring-torremolinos-costa-del-sol",
-        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
-      },
       {
         "slug": "sevardheter-torremolinos",
         "link": "https://torremolinos.se/sevardheter-torremolinos/"

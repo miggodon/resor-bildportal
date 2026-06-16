@@ -5346,7 +5346,7 @@
     "title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
     "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
     "modified": "2026-06-16",
-    "words": 632,
+    "words": 633,
     "h2": 3,
     "h3": 9,
     "images": 6,
@@ -5372,11 +5372,15 @@
     },
     "money_total": 3,
     "gyg_issue": [],
-    "img_issue": [],
+    "img_issue": [
+      "dubblett"
+    ],
     "qa": "🟢 Bra",
     "needs_image": false,
     "score": 75,
-    "flags": [],
+    "flags": [
+      "🖼 dubblettbild (1)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
