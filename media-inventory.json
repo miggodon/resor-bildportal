@@ -1,6 +1,287 @@
 [
   {
     "domain": "malaga",
+    "id": 537,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/street-art-tur-i-soho-malaga.jpg",
+    "filename": "street-art-tur-i-soho-malaga.jpg",
+    "alt": "🎭 Street Art-tur i Soho i Málaga med människor och realistisk resemiljö",
+    "caption": "🎭 Street Art-tur i Soho i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 535,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/skateparken-vid-stranden-malaga.jpg",
+    "filename": "skateparken-vid-stranden-malaga.jpg",
+    "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
+    "caption": "🛹 Skateparken vid stranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 534,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/sendero-rio-chillar-nerja-malaga.jpg",
+    "filename": "sendero-rio-chillar-nerja-malaga.jpg",
+    "alt": "Sendero Río Chillar (Nerja) i Málaga med människor och realistisk resemiljö",
+    "caption": "Sendero Río Chillar (Nerja) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 533,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/montes-de-malaga-naturpark-malaga.jpg",
+    "filename": "montes-de-malaga-naturpark-malaga.jpg",
+    "alt": "Montes de Málaga naturpark i Málaga med människor och realistisk resemiljö",
+    "caption": "Montes de Málaga naturpark i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 532,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/laser-tag-och-bowling-malaga.jpg",
+    "filename": "laser-tag-och-bowling-malaga.jpg",
+    "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
+    "caption": "🎳 Laser tag och bowling i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 531,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/escape-rooms-malaga.jpg",
+    "filename": "escape-rooms-malaga.jpg",
+    "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
+    "caption": "🏰 Escape rooms i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 530,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dagsutflykt-ronda-malaga.jpg",
+    "filename": "dagsutflykt-ronda-malaga.jpg",
+    "alt": "🗺️ Dagsutflykt: Ronda i Málaga med människor och realistisk resemiljö",
+    "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 528,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/alternativ-3-tag-buss-malaga.jpg",
+    "filename": "alternativ-3-tag-buss-malaga.jpg",
+    "alt": "Alternativ 3 — Tåg + buss i Málaga med människor och realistisk resemiljö",
+    "caption": "Alternativ 3 — Tåg + buss i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-malaga-caminito-del-rey",
+        "link": "https://malaga.se/vandring-malaga-caminito-del-rey/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 526,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/alternativ-2-guidad-tur-enklast-malaga.jpg",
+    "filename": "alternativ-2-guidad-tur-enklast-malaga.jpg",
+    "alt": "Alternativ 2 — Guidad tur (enklast) i Málaga med människor och realistisk resemiljö",
+    "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-malaga-caminito-del-rey",
+        "link": "https://malaga.se/vandring-malaga-caminito-del-rey/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 522,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/theatro-club-lyxklubb-i-muelle-uno-malaga.jpg",
+    "filename": "theatro-club-lyxklubb-i-muelle-uno-malaga.jpg",
+    "alt": "Theatro Club — lyxklubb i Muelle Uno i Málaga",
+    "caption": "Theatro Club — lyxklubb i Muelle Uno",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-uteliv-barer-klubbar-flamenco",
+        "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 521,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/sala-wenge-alternativt-och-rockigt-malaga.jpg",
+    "filename": "sala-wenge-alternativt-och-rockigt-malaga.jpg",
+    "alt": "Sala Wenge — alternativt och rockigt nattliv i Málaga",
+    "caption": "Sala Wenge — alternativt och rockigt",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-uteliv-barer-klubbar-flamenco",
+        "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 520,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/plaza-mayor-malaga.jpg",
+    "filename": "plaza-mayor-malaga.jpg",
+    "alt": "Plaza Mayor shoppingcenter i Málaga",
+    "caption": "Plaza Mayor",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "shopping-malaga-guide",
+        "link": "https://malaga.se/shopping-malaga-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 519,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/la-tranca-autentiskt-och-opretentiost-malaga.jpg",
+    "filename": "la-tranca-autentiskt-och-opretentiost-malaga.jpg",
+    "alt": "La Tranca — autentiskt och opretentiöst i Málaga",
+    "caption": "La Tranca — autentiskt och opretentiöst",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-uteliv-barer-klubbar-flamenco",
+        "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 518,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/fler-sevardheter-om-du-har-tid-over-malaga.jpg",
+    "filename": "fler-sevardheter-om-du-har-tid-over-malaga.jpg",
+    "alt": "Fler sevärdheter i Málaga om du har tid över",
+    "caption": "Fler sevärdheter — om du har tid över",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sevardheter-malaga-topp-10",
+        "link": "https://malaga.se/sevardheter-malaga-topp-10/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 517,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/espadrillos-malaga.jpg",
+    "filename": "espadrillos-malaga.jpg",
+    "alt": "Espadrillos — traditionella spanska skor i Málaga",
+    "caption": "Espadrillos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "shopping-malaga-guide",
+        "link": "https://malaga.se/shopping-malaga-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 516,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/el-corte-ingles-malaga.jpg",
+    "filename": "el-corte-ingles-malaga.jpg",
+    "alt": "El Corte Inglés varuhus i Málaga",
+    "caption": "El Corte Inglés",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "shopping-malaga-guide",
+        "link": "https://malaga.se/shopping-malaga-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 515,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Malaga reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
     "id": 452,
     "url": "https://malaga.se/wp-content/uploads/2026/06/semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
     "filename": "semana-santa-paskveckan-april-varierar-per-ar-malaga.jpg",
@@ -1128,7 +1409,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-malaga",
@@ -1146,7 +1427,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-malaga",
@@ -1348,6 +1629,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "malaga-uteliv-barer-klubbar-flamenco",
+        "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
+      },
+      {
         "slug": "saker-att-gora-i-malaga",
         "link": "https://malaga.se/saker-att-gora-i-malaga/"
       }
@@ -1528,6 +1813,235 @@
         "link": "https://malaga.se/malaga-med-tonaringar/"
       }
     ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 389,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/vattenparken-i-faliraki-halvdagen-som-funkar-rhodos.jpg",
+    "filename": "vattenparken-i-faliraki-halvdagen-som-funkar-rhodos.jpg",
+    "alt": "Vattenparken i Faliraki — halvdag som funkar för tonåringar",
+    "caption": "Vattenparken i Faliraki — halvdagen som funkar",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-med-tonaringar",
+        "link": "https://rhodos.se/rhodos-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 388,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/tsambika-beach-i-september-rhodos.jpg",
+    "filename": "tsambika-beach-i-september-rhodos.jpg",
+    "alt": "Tsambika Beach på Rhodos i september",
+    "caption": "Tsambika Beach i september",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 387,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/tsambika-beach-bast-for-sma-barn-rhodos.jpg",
+    "filename": "tsambika-beach-bast-for-sma-barn-rhodos.jpg",
+    "alt": "Tsambika Beach — bäst för små barn på Rhodos",
+    "caption": "Tsambika Beach — bäst för små barn",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-med-barn",
+        "link": "https://rhodos.se/rhodos-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 386,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/tavernor-med-live-musik-i-gamla-stan-rhodos.jpg",
+    "filename": "tavernor-med-live-musik-i-gamla-stan-rhodos.jpg",
+    "alt": "Tavernor med live-musik i Gamla Stan på Rhodos",
+    "caption": "Tavernor med live-musik i Gamla Stan",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-uteliv",
+        "link": "https://rhodos.se/rhodos-uteliv/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 385,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/strandklubbar-langs-ixia-kusten-rhodos.jpg",
+    "filename": "strandklubbar-langs-ixia-kusten-rhodos.jpg",
+    "alt": "Strandklubbar längs Ixia-kusten på Rhodos",
+    "caption": "Strandklubbar längs Ixia-kusten",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 384,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/prasonisi-i-september-surfarnas-hogsasong-rhodos.jpg",
+    "filename": "prasonisi-i-september-surfarnas-hogsasong-rhodos.jpg",
+    "alt": "Prasonisi i september under surfarnas högsäsong",
+    "caption": "Prasonisi i september — surfarnas högsäsong",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 383,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/ostkusten-buss-till-lindos-och-faliraki-rhodos.jpg",
+    "filename": "ostkusten-buss-till-lindos-och-faliraki-rhodos.jpg",
+    "alt": "Östkusten på Rhodos med buss till Lindos och Faliraki",
+    "caption": "Östkusten — buss till Lindos och Faliraki",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-utan-hyrbil",
+        "link": "https://rhodos.se/rhodos-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 382,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/meze-meze-mesebord-for-hela-bordet-rhodos.jpg",
+    "filename": "meze-meze-mesebord-for-hela-bordet-rhodos.jpg",
+    "alt": "Meze Meze — traditionellt grekiskt mesebord för hela bordet",
+    "caption": "Meze Meze — mesebord för hela bordet",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 381,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/havet-runt-symi-snorkling-och-simning-rhodos.jpg",
+    "filename": "havet-runt-symi-snorkling-och-simning-rhodos.jpg",
+    "alt": "Havet runt Symi — kristallklart vatten för snorkling och simning",
+    "caption": "Havet runt Symi — snorkling och simning",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-rhodos",
+        "link": "https://rhodos.se/dagsutflykter-fran-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 380,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-main-beach-5-km-och-12-bla-flaggor-rhodos.jpg",
+    "filename": "faliraki-main-beach-5-km-och-12-bla-flaggor-rhodos.jpg",
+    "alt": "Faliraki Main Beach — 5 km strand med 12 Blå Flaggor",
+    "caption": "Faliraki Main Beach — 5 km och 12 Blå Flaggor",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 379,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-fishing-harbour-basta-maten-rhodos.jpg",
+    "filename": "faliraki-fishing-harbour-basta-maten-rhodos.jpg",
+    "alt": "Faliraki Fishing Harbour där du hittar bästa maten i Faliraki",
+    "caption": "Faliraki Fishing Harbour — bästa maten",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 378,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/cava-emery-rod-reserv-rhodos.jpg",
+    "filename": "cava-emery-rod-reserv-rhodos.jpg",
+    "alt": "Cava Emery — röd reserv från Embonas på Rhodos",
+    "caption": "Cava Emery — röd reserv",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-vin-embonas",
+        "link": "https://rhodos.se/rhodos-vin-embonas/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 377,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Rhodos reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "rhodos",
@@ -2887,6 +3401,19 @@
   },
   {
     "domain": "korfu",
+    "id": 354,
+    "url": "https://korfu.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Korfu reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "korfu",
     "id": 329,
     "url": "https://korfu.se/wp-content/uploads/2026/06/var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
     "filename": "var-ska-man-bo-pa-korfu-las-ocksa-korfu.jpg",
@@ -3692,6 +4219,216 @@
         "link": "https://korfu.se/"
       }
     ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 473,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/torremolinos-centrum-alternativ-torremolinos.jpg",
+    "filename": "torremolinos-centrum-alternativ-torremolinos.jpg",
+    "alt": "Torremolinos centrum – alternativ i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Torremolinos centrum – alternativ i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-i-torremolinos",
+        "link": "https://torremolinos.se/hyrbil-i-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 471,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-torremolinos.jpg",
+    "filename": "sierra-de-las-nieves-torremolinos.jpg",
+    "alt": "Sierra de las Nieves i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 469,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-nationalpark-torremolinos.jpg",
+    "filename": "sierra-de-las-nieves-nationalpark-torremolinos.jpg",
+    "alt": "Sierra de las Nieves nationalpark i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves nationalpark i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 467,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/paseo-maritimo-strandpromenaden-torremolinos.jpg",
+    "filename": "paseo-maritimo-strandpromenaden-torremolinos.jpg",
+    "alt": "Paseo Marítimo (strandpromenaden) i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 465,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/montes-de-malaga-torremolinos.jpg",
+    "filename": "montes-de-malaga-torremolinos.jpg",
+    "alt": "Montes de Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Montes de Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 463,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-pueblo-runt-torremolinos.jpg",
+    "filename": "mijas-pueblo-runt-torremolinos.jpg",
+    "alt": "Mijas Pueblo runt i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas Pueblo runt i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 461,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-och-bergsbyarna-torremolinos.jpg",
+    "filename": "mijas-och-bergsbyarna-torremolinos.jpg",
+    "alt": "Mijas och bergsbyarna i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas och bergsbyarna i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 459,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/malaga-torremolinos.jpg",
+    "filename": "malaga-torremolinos.jpg",
+    "alt": "Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      },
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 457,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/la-carihuela-torremolinos.jpg",
+    "filename": "la-carihuela-torremolinos.jpg",
+    "alt": "La Carihuela i Torremolinos med människor och realistisk resemiljö",
+    "caption": "La Carihuela i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 456,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/forbokad-transfer-forutsagbart-torremolinos.jpg",
+    "filename": "forbokad-transfer-forutsagbart-torremolinos.jpg",
+    "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 454,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/benalmadena-torremolinos.jpg",
+    "filename": "benalmadena-torremolinos.jpg",
+    "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Benalmádena i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 453,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Torremolinos reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -4694,7 +5431,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -4716,7 +5453,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -4915,7 +5652,7 @@
     "w": 1919,
     "h": 1080,
     "date": "2026-05-29",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -5033,6 +5770,55 @@
         "link": "https://torremolinos.se/"
       }
     ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 840,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/triana-shopping-och-jugend-grancanaria.jpg",
+    "filename": "triana-shopping-och-jugend-grancanaria.jpg",
+    "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Triana — shopping och jugend i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "omrade-las-palmas",
+        "link": "https://grancanaria.se/omrade-las-palmas/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 836,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/taxi-fran-flygplatsen-grancanaria.jpg",
+    "filename": "taxi-fran-flygplatsen-grancanaria.jpg",
+    "alt": "Taxi från flygplatsen på Gran Canaria",
+    "caption": "Taxi från flygplatsen",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 835,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Gran Canaria reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -6050,8 +6836,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
-        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+        "slug": "omrade-puerto-mogan",
+        "link": "https://grancanaria.se/omrade-puerto-mogan/"
       }
     ]
   },
@@ -7447,6 +8233,19 @@
         "link": "https://grancanaria.se/gran-canaria-for-par/"
       }
     ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 721,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Teneriffa reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -9442,6 +10241,19 @@
         "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
       }
     ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 780,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Lanzarote reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -12710,6 +13522,19 @@
   },
   {
     "domain": "fuerteventura",
+    "id": 532,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Fuerteventura reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "fuerteventura",
     "id": 469,
     "url": "https://fuerteventura.se/wp-content/uploads/2026/06/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
     "filename": "7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
@@ -14329,6 +15154,426 @@
         "link": "https://fuerteventura.se/fuerteventura-vandring/"
       }
     ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 186,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Chamonix reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 146,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Venedig reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "hawaii",
+    "id": 90,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Hawaii reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "florida",
+    "id": 184,
+    "url": "https://florida.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Florida reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "borneo",
+    "id": 87,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Borneo reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "provence",
+    "id": 200,
+    "url": "https://provence.se/wp-content/uploads/2026/06/vieux-port-stadens-hjarta-provence.jpg",
+    "filename": "vieux-port-stadens-hjarta-provence.jpg",
+    "alt": "Vieux-Port — stadens hjärta i Provence med människor och realistisk resemiljö",
+    "caption": "Vieux-Port — stadens hjärta i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 198,
+    "url": "https://provence.se/wp-content/uploads/2026/06/van-gogh-och-saint-paul-de-mausole-provence.jpg",
+    "filename": "van-gogh-och-saint-paul-de-mausole-provence.jpg",
+    "alt": "Van Gogh och Saint-Paul-de-Mausole i Provence med människor och realistisk resemiljö",
+    "caption": "Van Gogh och Saint-Paul-de-Mausole i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saint-remy-byguide",
+        "link": "https://provence.se/saint-remy-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 196,
+    "url": "https://provence.se/wp-content/uploads/2026/06/saint-remy-alpilles-hjarta-provence.jpg",
+    "filename": "saint-remy-alpilles-hjarta-provence.jpg",
+    "alt": "Saint-Rémy — Alpilles hjärta i Provence med människor och realistisk resemiljö",
+    "caption": "Saint-Rémy — Alpilles hjärta i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 194,
+    "url": "https://provence.se/wp-content/uploads/2026/06/promenade-des-anglais-ruhl-neptune-blue-beach-och-fler-provence.jpg",
+    "filename": "promenade-des-anglais-ruhl-neptune-blue-beach-och-fler-provence.jpg",
+    "alt": "Promenade des Anglais — Ruhl, Neptune, Blue Beach och fler i Provence med människor och realistisk resemiljö",
+    "caption": "Promenade des Anglais — Ruhl, Neptune, Blue Beach och fler i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 192,
+    "url": "https://provence.se/wp-content/uploads/2026/06/plage-du-castel-stranden-vid-castle-hill-provence.jpg",
+    "filename": "plage-du-castel-stranden-vid-castle-hill-provence.jpg",
+    "alt": "Plage du Castel — stranden vid Castle Hill i Provence med människor och realistisk resemiljö",
+    "caption": "Plage du Castel — stranden vid Castle Hill i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 190,
+    "url": "https://provence.se/wp-content/uploads/2026/06/plage-de-la-reserve-lugnare-och-exklusivare-provence.jpg",
+    "filename": "plage-de-la-reserve-lugnare-och-exklusivare-provence.jpg",
+    "alt": "Plage de la Réserve — lugnare och exklusivare i Provence med människor och realistisk resemiljö",
+    "caption": "Plage de la Réserve — lugnare och exklusivare i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 188,
+    "url": "https://provence.se/wp-content/uploads/2026/06/plage-de-carras-vastra-nice-narmast-flygplatsen-provence.jpg",
+    "filename": "plage-de-carras-vastra-nice-narmast-flygplatsen-provence.jpg",
+    "alt": "Plage de Carras — västra Nice, närmast flygplatsen i Provence med människor och realistisk resemiljö",
+    "caption": "Plage de Carras — västra Nice, närmast flygplatsen i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 186,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mucem-och-modern-marseille-provence.jpg",
+    "filename": "mucem-och-modern-marseille-provence.jpg",
+    "alt": "MuCEM och modern Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "MuCEM och modern Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 184,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mat-i-marseille-bouillabaisse-och-mer-provence.jpg",
+    "filename": "mat-i-marseille-bouillabaisse-och-mer-provence.jpg",
+    "alt": "Mat i Marseille — bouillabaisse och mer i Provence med människor och realistisk resemiljö",
+    "caption": "Mat i Marseille — bouillabaisse och mer i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 182,
+    "url": "https://provence.se/wp-content/uploads/2026/06/lourmarin-vad-gor-byn-speciell-provence.jpg",
+    "filename": "lourmarin-vad-gor-byn-speciell-provence.jpg",
+    "alt": "Lourmarin — vad gör byn speciell? i Provence med människor och realistisk resemiljö",
+    "caption": "Lourmarin — vad gör byn speciell? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lourmarin-byguide",
+        "link": "https://provence.se/lourmarin-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 180,
+    "url": "https://provence.se/wp-content/uploads/2026/06/le-panier-kullerstensgrander-och-street-art-provence.jpg",
+    "filename": "le-panier-kullerstensgrander-och-street-art-provence.jpg",
+    "alt": "Le Panier — kullerstensgränder och street art i Provence med människor och realistisk resemiljö",
+    "caption": "Le Panier — kullerstensgränder och street art i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 178,
+    "url": "https://provence.se/wp-content/uploads/2026/06/iles-de-lerins-oarna-utanfor-cannes-provence.jpg",
+    "filename": "iles-de-lerins-oarna-utanfor-cannes-provence.jpg",
+    "alt": "Îles de Lérins — öarna utanför Cannes i Provence med människor och realistisk resemiljö",
+    "caption": "Îles de Lérins — öarna utanför Cannes i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannes-guide",
+        "link": "https://provence.se/cannes-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 176,
+    "url": "https://provence.se/wp-content/uploads/2026/06/cykla-mont-ventoux-det-heliga-berget-provence.jpg",
+    "filename": "cykla-mont-ventoux-det-heliga-berget-provence.jpg",
+    "alt": "Cykla Mont Ventoux — det heliga berget i Provence med människor och realistisk resemiljö",
+    "caption": "Cykla Mont Ventoux — det heliga berget i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ventoux-drome",
+        "link": "https://provence.se/hyra-hus-provence/ventoux-drome/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 174,
+    "url": "https://provence.se/wp-content/uploads/2026/06/croix-de-provence-den-klassiska-leden-provence.jpg",
+    "filename": "croix-de-provence-den-klassiska-leden-provence.jpg",
+    "alt": "Croix de Provence — den klassiska leden i Provence med människor och realistisk resemiljö",
+    "caption": "Croix de Provence — den klassiska leden i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sainte-victoire-vandring",
+        "link": "https://provence.se/sainte-victoire-vandring/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 172,
+    "url": "https://provence.se/wp-content/uploads/2026/06/cours-mirabeau-torsdag-och-lordag-provence.jpg",
+    "filename": "cours-mirabeau-torsdag-och-lordag-provence.jpg",
+    "alt": "Cours Mirabeau — torsdag och lördag i Provence med människor och realistisk resemiljö",
+    "caption": "Cours Mirabeau — torsdag och lördag i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-marknader",
+        "link": "https://provence.se/aix-en-provence-marknader/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 170,
+    "url": "https://provence.se/wp-content/uploads/2026/06/coco-beach-party-och-cocktails-vid-vattnet-provence.jpg",
+    "filename": "coco-beach-party-och-cocktails-vid-vattnet-provence.jpg",
+    "alt": "Coco Beach — party och cocktails vid vattnet i Provence med människor och realistisk resemiljö",
+    "caption": "Coco Beach — party och cocktails vid vattnet i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 168,
+    "url": "https://provence.se/wp-content/uploads/2026/06/chateau-de-lourmarin-renassansborgen-provence.jpg",
+    "filename": "chateau-de-lourmarin-renassansborgen-provence.jpg",
+    "alt": "Château de Lourmarin — renässansborgen i Provence med människor och realistisk resemiljö",
+    "caption": "Château de Lourmarin — renässansborgen i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lourmarin-byguide",
+        "link": "https://provence.se/lourmarin-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 166,
+    "url": "https://provence.se/wp-content/uploads/2026/06/calanques-dagstur-fran-marseille-provence.jpg",
+    "filename": "calanques-dagstur-fran-marseille-provence.jpg",
+    "alt": "Calanques — dagstur från Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "Calanques — dagstur från Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 164,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-i-aix-centrum-eller-villa-provence.jpg",
+    "filename": "bo-i-aix-centrum-eller-villa-provence.jpg",
+    "alt": "Bo i Aix — centrum eller villa? i Provence med människor och realistisk resemiljö",
+    "caption": "Bo i Aix — centrum eller villa? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 163,
+    "url": "https://provence.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Provence reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "provence",

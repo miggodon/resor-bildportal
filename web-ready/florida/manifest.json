@@ -1,0 +1,749 @@
+{
+  "generated_at": "2026-06-16T11:13:12.343306+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/florida",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/10-dagar-orlando-miami-keys-florida.png",
+      "file": "bilder/web-ready/florida/10-dagar-orlando-miami-keys-florida.jpg",
+      "filename": "10-dagar-orlando-miami-keys-florida.jpg",
+      "brief_id": "florida:saker-att-gora-florida:10-dagar-orlando-miami-keys",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/saker-att-gora-florida/",
+      "page_id": 172,
+      "page_title": "Saker att göra i Florida — topp 25 upplevelser för svenskar",
+      "page_slug": "saker-att-gora-florida",
+      "h3": "10 dagar — Orlando + Miami/Keys",
+      "h3_slug": "10-dagar-orlando-miami-keys",
+      "place": "10 dagar — Orlando + Miami/Keys i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "10 dagar — Orlando + Miami/Keys i Florida med människor och realistisk resemiljö",
+      "caption": "10 dagar — Orlando + Miami/Keys i Florida",
+      "seo": "En realistisk resebild från 10 dagar — Orlando + Miami/Keys i Florida. Bilden visar 10 dagar — Orlando + Miami/Keys i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/10-dagar-orlando-miami-keys-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/10-dagar-orlando-miami-keys-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/saker-att-gora-florida/",
+          "page_slug": "saker-att-gora-florida",
+          "section_h3": "10 dagar — Orlando + Miami/Keys",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "10 dagar — Orlando + Miami/Keys i Florida",
+          "alt": "10 dagar — Orlando + Miami/Keys i Florida med människor och realistisk resemiljö",
+          "caption": "10 dagar — Orlando + Miami/Keys i Florida",
+          "description": "En realistisk resebild från 10 dagar — Orlando + Miami/Keys i Florida. Bilden visar 10 dagar — Orlando + Miami/Keys i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/10-dagar-orlando-miami-keys-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/7-dagar-orlando-fokus-florida.png",
+      "file": "bilder/web-ready/florida/7-dagar-orlando-fokus-florida.jpg",
+      "filename": "7-dagar-orlando-fokus-florida.jpg",
+      "brief_id": "florida:saker-att-gora-florida:7-dagar-orlando-fokus",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/saker-att-gora-florida/",
+      "page_id": 172,
+      "page_title": "Saker att göra i Florida — topp 25 upplevelser för svenskar",
+      "page_slug": "saker-att-gora-florida",
+      "h3": "7 dagar — Orlando-fokus",
+      "h3_slug": "7-dagar-orlando-fokus",
+      "place": "7 dagar — Orlando-fokus i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "7 dagar — Orlando-fokus i Florida med människor och realistisk resemiljö",
+      "caption": "7 dagar — Orlando-fokus i Florida",
+      "seo": "En realistisk resebild från 7 dagar — Orlando-fokus i Florida. Bilden visar 7 dagar — Orlando-fokus i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/7-dagar-orlando-fokus-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/7-dagar-orlando-fokus-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/saker-att-gora-florida/",
+          "page_slug": "saker-att-gora-florida",
+          "section_h3": "7 dagar — Orlando-fokus",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "7 dagar — Orlando-fokus i Florida",
+          "alt": "7 dagar — Orlando-fokus i Florida med människor och realistisk resemiljö",
+          "caption": "7 dagar — Orlando-fokus i Florida",
+          "description": "En realistisk resebild från 7 dagar — Orlando-fokus i Florida. Bilden visar 7 dagar — Orlando-fokus i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/7-dagar-orlando-fokus-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/7-dagar-strand-natur-utan-temaparker-florida.png",
+      "file": "bilder/web-ready/florida/7-dagar-strand-natur-utan-temaparker-florida.jpg",
+      "filename": "7-dagar-strand-natur-utan-temaparker-florida.jpg",
+      "brief_id": "florida:saker-att-gora-florida:7-dagar-strand-natur-utan-temaparker",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/saker-att-gora-florida/",
+      "page_id": 172,
+      "page_title": "Saker att göra i Florida — topp 25 upplevelser för svenskar",
+      "page_slug": "saker-att-gora-florida",
+      "h3": "7 dagar — strand & natur (utan temaparker)",
+      "h3_slug": "7-dagar-strand-natur-utan-temaparker",
+      "place": "7 dagar — strand & natur (utan temaparker) i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "coastal travel photograph",
+      "alt": "7 dagar — strand & natur (utan temaparker) i Florida med människor och realistisk resemiljö",
+      "caption": "7 dagar — strand & natur (utan temaparker) i Florida",
+      "seo": "En realistisk resebild från 7 dagar — strand & natur (utan temaparker) i Florida. Bilden visar 7 dagar — strand & natur (utan temaparker) i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/7-dagar-strand-natur-utan-temaparker-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/7-dagar-strand-natur-utan-temaparker-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/saker-att-gora-florida/",
+          "page_slug": "saker-att-gora-florida",
+          "section_h3": "7 dagar — strand & natur (utan temaparker)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "7 dagar — strand & natur (utan temaparker) i Florida",
+          "alt": "7 dagar — strand & natur (utan temaparker) i Florida med människor och realistisk resemiljö",
+          "caption": "7 dagar — strand & natur (utan temaparker) i Florida",
+          "description": "En realistisk resebild från 7 dagar — strand & natur (utan temaparker) i Florida. Bilden visar 7 dagar — strand & natur (utan temaparker) i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/7-dagar-strand-natur-utan-temaparker-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/brickell-och-downtown-business-och-skyline-florida.png",
+      "file": "bilder/web-ready/florida/brickell-och-downtown-business-och-skyline-florida.jpg",
+      "filename": "brickell-och-downtown-business-och-skyline-florida.jpg",
+      "brief_id": "florida:boende-florida:brickell-och-downtown-business-och-skyline",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Brickell och Downtown — business och skyline",
+      "h3_slug": "brickell-och-downtown-business-och-skyline",
+      "place": "Brickell och Downtown — business och skyline i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Brickell och Downtown — business och skyline i Florida med människor och realistisk resemiljö",
+      "caption": "Brickell och Downtown — business och skyline i Florida",
+      "seo": "En realistisk resebild från Brickell och Downtown — business och skyline i Florida. Bilden visar Brickell och Downtown — business och skyline i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/brickell-och-downtown-business-och-skyline-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/brickell-och-downtown-business-och-skyline-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Brickell och Downtown — business och skyline",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Brickell och Downtown — business och skyline i Florida",
+          "alt": "Brickell och Downtown — business och skyline i Florida med människor och realistisk resemiljö",
+          "caption": "Brickell och Downtown — business och skyline i Florida",
+          "description": "En realistisk resebild från Brickell och Downtown — business och skyline i Florida. Bilden visar Brickell och Downtown — business och skyline i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/brickell-och-downtown-business-och-skyline-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/brickell-skyline-och-vuxen-miami-florida.png",
+      "file": "bilder/web-ready/florida/brickell-skyline-och-vuxen-miami-florida.jpg",
+      "filename": "brickell-skyline-och-vuxen-miami-florida.jpg",
+      "brief_id": "florida:miami:brickell-skyline-och-vuxen-miami",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/miami/",
+      "page_id": 32,
+      "page_title": "Miami reseguide — stränder, kultur och subtropisk energi",
+      "page_slug": "miami",
+      "h3": "🏙️ Brickell — skyline och vuxen Miami",
+      "h3_slug": "brickell-skyline-och-vuxen-miami",
+      "place": "Brickell — skyline och vuxen Miami i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "Brickell — skyline och vuxen Miami i Florida med människor och realistisk resemiljö",
+      "caption": "Brickell — skyline och vuxen Miami i Florida",
+      "seo": "En realistisk resebild från Brickell — skyline och vuxen Miami i Florida. Bilden visar Brickell — skyline och vuxen Miami i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/brickell-skyline-och-vuxen-miami-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/brickell-skyline-och-vuxen-miami-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/miami/",
+          "page_slug": "miami",
+          "section_h3": "🏙️ Brickell — skyline och vuxen Miami",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Brickell — skyline och vuxen Miami i Florida",
+          "alt": "Brickell — skyline och vuxen Miami i Florida med människor och realistisk resemiljö",
+          "caption": "Brickell — skyline och vuxen Miami i Florida",
+          "description": "En realistisk resebild från Brickell — skyline och vuxen Miami i Florida. Bilden visar Brickell — skyline och vuxen Miami i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/brickell-skyline-och-vuxen-miami-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/disney-resorts-pa-parkomradet-florida.png",
+      "file": "bilder/web-ready/florida/disney-resorts-pa-parkomradet-florida.jpg",
+      "filename": "disney-resorts-pa-parkomradet-florida.jpg",
+      "brief_id": "florida:boende-florida:disney-resorts-pa-parkomradet",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Disney-resorts på parkområdet",
+      "h3_slug": "disney-resorts-pa-parkomradet",
+      "place": "Disney-resorts på parkområdet i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Disney-resorts på parkområdet i Florida med människor och realistisk resemiljö",
+      "caption": "Disney-resorts på parkområdet i Florida",
+      "seo": "En realistisk resebild från Disney-resorts på parkområdet i Florida. Bilden visar Disney-resorts på parkområdet i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/disney-resorts-pa-parkomradet-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/disney-resorts-pa-parkomradet-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Disney-resorts på parkområdet",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Disney-resorts på parkområdet i Florida",
+          "alt": "Disney-resorts på parkområdet i Florida med människor och realistisk resemiljö",
+          "caption": "Disney-resorts på parkområdet i Florida",
+          "description": "En realistisk resebild från Disney-resorts på parkområdet i Florida. Bilden visar Disney-resorts på parkområdet i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/disney-resorts-pa-parkomradet-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/everglades-dagsutflykt-fran-miami-florida.png",
+      "file": "bilder/web-ready/florida/everglades-dagsutflykt-fran-miami-florida.jpg",
+      "filename": "everglades-dagsutflykt-fran-miami-florida.jpg",
+      "brief_id": "florida:miami:everglades-dagsutflykt-fran-miami",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/miami/",
+      "page_id": 32,
+      "page_title": "Miami reseguide — stränder, kultur och subtropisk energi",
+      "page_slug": "miami",
+      "h3": "🐊 Everglades — dagsutflykt från Miami",
+      "h3_slug": "everglades-dagsutflykt-fran-miami",
+      "place": "Everglades — dagsutflykt från Miami i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "Everglades — dagsutflykt från Miami i Florida med människor och realistisk resemiljö",
+      "caption": "Everglades — dagsutflykt från Miami i Florida",
+      "seo": "En realistisk resebild från Everglades — dagsutflykt från Miami i Florida. Bilden visar Everglades — dagsutflykt från Miami i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/everglades-dagsutflykt-fran-miami-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/everglades-dagsutflykt-fran-miami-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/miami/",
+          "page_slug": "miami",
+          "section_h3": "🐊 Everglades — dagsutflykt från Miami",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Everglades — dagsutflykt från Miami i Florida",
+          "alt": "Everglades — dagsutflykt från Miami i Florida med människor och realistisk resemiljö",
+          "caption": "Everglades — dagsutflykt från Miami i Florida",
+          "description": "En realistisk resebild från Everglades — dagsutflykt från Miami i Florida. Bilden visar Everglades — dagsutflykt från Miami i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/everglades-dagsutflykt-fran-miami-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/international-drive-och-kissimmee-hotell-utanfor-parken-florida.png",
+      "file": "bilder/web-ready/florida/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+      "filename": "international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+      "brief_id": "florida:boende-florida:international-drive-och-kissimmee-hotell-utanfor-parken",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "International Drive och Kissimmee — hotell utanför parken",
+      "h3_slug": "international-drive-och-kissimmee-hotell-utanfor-parken",
+      "place": "International Drive och Kissimmee — hotell utanför parken i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "International Drive och Kissimmee — hotell utanför parken i Florida med människor och realistisk resemiljö",
+      "caption": "International Drive och Kissimmee — hotell utanför parken i Florida",
+      "seo": "En realistisk resebild från International Drive och Kissimmee — hotell utanför parken i Florida. Bilden visar International Drive och Kissimmee — hotell utanför parken i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/international-drive-och-kissimmee-hotell-utanfor-parken-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "International Drive och Kissimmee — hotell utanför parken",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "International Drive och Kissimmee — hotell utanför parken i Florida",
+          "alt": "International Drive och Kissimmee — hotell utanför parken i Florida med människor och realistisk resemiljö",
+          "caption": "International Drive och Kissimmee — hotell utanför parken i Florida",
+          "description": "En realistisk resebild från International Drive och Kissimmee — hotell utanför parken i Florida. Bilden visar International Drive och Kissimmee — hotell utanför parken i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/islamorada-och-marathon-mellankeys-florida.png",
+      "file": "bilder/web-ready/florida/islamorada-och-marathon-mellankeys-florida.jpg",
+      "filename": "islamorada-och-marathon-mellankeys-florida.jpg",
+      "brief_id": "florida:boende-florida:islamorada-och-marathon-mellankeys",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Islamorada och Marathon — mellankeys",
+      "h3_slug": "islamorada-och-marathon-mellankeys",
+      "place": "Islamorada och Marathon — mellankeys i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Islamorada och Marathon — mellankeys i Florida med människor och realistisk resemiljö",
+      "caption": "Islamorada och Marathon — mellankeys i Florida",
+      "seo": "En realistisk resebild från Islamorada och Marathon — mellankeys i Florida. Bilden visar Islamorada och Marathon — mellankeys i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/islamorada-och-marathon-mellankeys-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/islamorada-och-marathon-mellankeys-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Islamorada och Marathon — mellankeys",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Islamorada och Marathon — mellankeys i Florida",
+          "alt": "Islamorada och Marathon — mellankeys i Florida med människor och realistisk resemiljö",
+          "caption": "Islamorada och Marathon — mellankeys i Florida",
+          "description": "En realistisk resebild från Islamorada och Marathon — mellankeys i Florida. Bilden visar Islamorada och Marathon — mellankeys i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/islamorada-och-marathon-mellankeys-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/key-largo-dykning-och-nationalpark-florida.png",
+      "file": "bilder/web-ready/florida/key-largo-dykning-och-nationalpark-florida.jpg",
+      "filename": "key-largo-dykning-och-nationalpark-florida.jpg",
+      "brief_id": "florida:boende-florida:key-largo-dykning-och-nationalpark",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Key Largo — dykning och nationalpark",
+      "h3_slug": "key-largo-dykning-och-nationalpark",
+      "place": "Key Largo — dykning och nationalpark i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Key Largo — dykning och nationalpark i Florida med människor och realistisk resemiljö",
+      "caption": "Key Largo — dykning och nationalpark i Florida",
+      "seo": "En realistisk resebild från Key Largo — dykning och nationalpark i Florida. Bilden visar Key Largo — dykning och nationalpark i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/key-largo-dykning-och-nationalpark-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/key-largo-dykning-och-nationalpark-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Key Largo — dykning och nationalpark",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Key Largo — dykning och nationalpark i Florida",
+          "alt": "Key Largo — dykning och nationalpark i Florida med människor och realistisk resemiljö",
+          "caption": "Key Largo — dykning och nationalpark i Florida",
+          "description": "En realistisk resebild från Key Largo — dykning och nationalpark i Florida. Bilden visar Key Largo — dykning och nationalpark i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/key-largo-dykning-och-nationalpark-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/key-west-ons-huvudstad-florida.png",
+      "file": "bilder/web-ready/florida/key-west-ons-huvudstad-florida.jpg",
+      "filename": "key-west-ons-huvudstad-florida.jpg",
+      "brief_id": "florida:boende-florida:key-west-ons-huvudstad",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Key West — öns huvudstad",
+      "h3_slug": "key-west-ons-huvudstad",
+      "place": "Key West — öns huvudstad i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Key West — öns huvudstad i Florida med människor och realistisk resemiljö",
+      "caption": "Key West — öns huvudstad i Florida",
+      "seo": "En realistisk resebild från Key West — öns huvudstad i Florida. Bilden visar Key West — öns huvudstad i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/key-west-ons-huvudstad-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/key-west-ons-huvudstad-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Key West — öns huvudstad",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Key West — öns huvudstad i Florida",
+          "alt": "Key West — öns huvudstad i Florida med människor och realistisk resemiljö",
+          "caption": "Key West — öns huvudstad i Florida",
+          "description": "En realistisk resebild från Key West — öns huvudstad i Florida. Bilden visar Key West — öns huvudstad i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/key-west-ons-huvudstad-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/little-havana-kubansk-sjal-pa-calle-ocho-florida.png",
+      "file": "bilder/web-ready/florida/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+      "filename": "little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+      "brief_id": "florida:miami:little-havana-kubansk-sjal-pa-calle-ocho",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/miami/",
+      "page_id": 32,
+      "page_title": "Miami reseguide — stränder, kultur och subtropisk energi",
+      "page_slug": "miami",
+      "h3": "🇨🇺 Little Havana — kubansk själ på Calle Ocho",
+      "h3_slug": "little-havana-kubansk-sjal-pa-calle-ocho",
+      "place": "Little Havana — kubansk själ på Calle Ocho i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "Little Havana — kubansk själ på Calle Ocho i Florida med människor och realistisk resemiljö",
+      "caption": "Little Havana — kubansk själ på Calle Ocho i Florida",
+      "seo": "En realistisk resebild från Little Havana — kubansk själ på Calle Ocho i Florida. Bilden visar Little Havana — kubansk själ på Calle Ocho i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/little-havana-kubansk-sjal-pa-calle-ocho-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/miami/",
+          "page_slug": "miami",
+          "section_h3": "🇨🇺 Little Havana — kubansk själ på Calle Ocho",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Little Havana — kubansk själ på Calle Ocho i Florida",
+          "alt": "Little Havana — kubansk själ på Calle Ocho i Florida med människor och realistisk resemiljö",
+          "caption": "Little Havana — kubansk själ på Calle Ocho i Florida",
+          "description": "En realistisk resebild från Little Havana — kubansk själ på Calle Ocho i Florida. Bilden visar Little Havana — kubansk själ på Calle Ocho i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/mco-orlando-international-florida.png",
+      "file": "bilder/web-ready/florida/mco-orlando-international-florida.jpg",
+      "filename": "mco-orlando-international-florida.jpg",
+      "brief_id": "florida:hyrbil-florida:mco-orlando-international",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/hyrbil-florida/",
+      "page_id": 171,
+      "page_title": "Hyrbil i Florida — SunPass, försäkring och när du behöver bil",
+      "page_slug": "hyrbil-florida",
+      "h3": "MCO — Orlando International",
+      "h3_slug": "mco-orlando-international",
+      "place": "MCO — Orlando International i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "road trip travel photograph",
+      "alt": "MCO — Orlando International i Florida med människor och realistisk resemiljö",
+      "caption": "MCO — Orlando International i Florida",
+      "seo": "En realistisk resebild från MCO — Orlando International i Florida. Bilden visar MCO — Orlando International i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/mco-orlando-international-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/mco-orlando-international-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/hyrbil-florida/",
+          "page_slug": "hyrbil-florida",
+          "section_h3": "MCO — Orlando International",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "MCO — Orlando International i Florida",
+          "alt": "MCO — Orlando International i Florida med människor och realistisk resemiljö",
+          "caption": "MCO — Orlando International i Florida",
+          "description": "En realistisk resebild från MCO — Orlando International i Florida. Bilden visar MCO — Orlando International i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/mco-orlando-international-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/mia-miami-international-florida.png",
+      "file": "bilder/web-ready/florida/mia-miami-international-florida.jpg",
+      "filename": "mia-miami-international-florida.jpg",
+      "brief_id": "florida:hyrbil-florida:mia-miami-international",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/hyrbil-florida/",
+      "page_id": 171,
+      "page_title": "Hyrbil i Florida — SunPass, försäkring och när du behöver bil",
+      "page_slug": "hyrbil-florida",
+      "h3": "MIA — Miami International",
+      "h3_slug": "mia-miami-international",
+      "place": "MIA — Miami International i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "road trip travel photograph",
+      "alt": "MIA — Miami International i Florida med människor och realistisk resemiljö",
+      "caption": "MIA — Miami International i Florida",
+      "seo": "En realistisk resebild från MIA — Miami International i Florida. Bilden visar MIA — Miami International i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/mia-miami-international-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/mia-miami-international-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/hyrbil-florida/",
+          "page_slug": "hyrbil-florida",
+          "section_h3": "MIA — Miami International",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "MIA — Miami International i Florida",
+          "alt": "MIA — Miami International i Florida med människor och realistisk resemiljö",
+          "caption": "MIA — Miami International i Florida",
+          "description": "En realistisk resebild från MIA — Miami International i Florida. Bilden visar MIA — Miami International i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/mia-miami-international-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/miami-beach-norra-delen-och-bal-harbour-florida.png",
+      "file": "bilder/web-ready/florida/miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+      "filename": "miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+      "brief_id": "florida:boende-florida:miami-beach-norra-delen-och-bal-harbour",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "Miami Beach (norra delen) och Bal Harbour",
+      "h3_slug": "miami-beach-norra-delen-och-bal-harbour",
+      "place": "Miami Beach (norra delen) och Bal Harbour i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "coastal travel photograph",
+      "alt": "Miami Beach (norra delen) och Bal Harbour i Florida med människor och realistisk resemiljö",
+      "caption": "Miami Beach (norra delen) och Bal Harbour i Florida",
+      "seo": "En realistisk resebild från Miami Beach (norra delen) och Bal Harbour i Florida. Bilden visar Miami Beach (norra delen) och Bal Harbour i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/miami-beach-norra-delen-och-bal-harbour-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "Miami Beach (norra delen) och Bal Harbour",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Miami Beach (norra delen) och Bal Harbour i Florida",
+          "alt": "Miami Beach (norra delen) och Bal Harbour i Florida med människor och realistisk resemiljö",
+          "caption": "Miami Beach (norra delen) och Bal Harbour i Florida",
+          "description": "En realistisk resebild från Miami Beach (norra delen) och Bal Harbour i Florida. Bilden visar Miami Beach (norra delen) och Bal Harbour i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/miami-beach-norra-delen-och-bal-harbour-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/south-beach-art-deco-och-atlanten-florida.png",
+      "file": "bilder/web-ready/florida/south-beach-art-deco-och-atlanten-florida.jpg",
+      "filename": "south-beach-art-deco-och-atlanten-florida.jpg",
+      "brief_id": "florida:miami:south-beach-art-deco-och-atlanten",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/miami/",
+      "page_id": 32,
+      "page_title": "Miami reseguide — stränder, kultur och subtropisk energi",
+      "page_slug": "miami",
+      "h3": "🏖️ South Beach — Art Deco och Atlanten",
+      "h3_slug": "south-beach-art-deco-och-atlanten",
+      "place": "South Beach — Art Deco och Atlanten i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "coastal travel photograph",
+      "alt": "South Beach — Art Deco och Atlanten i Florida med människor och realistisk resemiljö",
+      "caption": "South Beach — Art Deco och Atlanten i Florida",
+      "seo": "En realistisk resebild från South Beach — Art Deco och Atlanten i Florida. Bilden visar South Beach — Art Deco och Atlanten i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/south-beach-art-deco-och-atlanten-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/south-beach-art-deco-och-atlanten-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/miami/",
+          "page_slug": "miami",
+          "section_h3": "🏖️ South Beach — Art Deco och Atlanten",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "South Beach — Art Deco och Atlanten i Florida",
+          "alt": "South Beach — Art Deco och Atlanten i Florida med människor och realistisk resemiljö",
+          "caption": "South Beach — Art Deco och Atlanten i Florida",
+          "description": "En realistisk resebild från South Beach — Art Deco och Atlanten i Florida. Bilden visar South Beach — Art Deco och Atlanten i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/south-beach-art-deco-och-atlanten-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/south-beach-sobe-strand-och-art-deco-florida.png",
+      "file": "bilder/web-ready/florida/south-beach-sobe-strand-och-art-deco-florida.jpg",
+      "filename": "south-beach-sobe-strand-och-art-deco-florida.jpg",
+      "brief_id": "florida:boende-florida:south-beach-sobe-strand-och-art-deco",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/boende-florida/",
+      "page_id": 170,
+      "page_title": "Boende i Florida — hotell, resort eller VRBO-villa?",
+      "page_slug": "boende-florida",
+      "h3": "South Beach (SoBe) — strand och Art Deco",
+      "h3_slug": "south-beach-sobe-strand-och-art-deco",
+      "place": "South Beach (SoBe) — strand och Art Deco i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "coastal travel photograph",
+      "alt": "South Beach (SoBe) — strand och Art Deco i Florida med människor och realistisk resemiljö",
+      "caption": "South Beach (SoBe) — strand och Art Deco i Florida",
+      "seo": "En realistisk resebild från South Beach (SoBe) — strand och Art Deco i Florida. Bilden visar South Beach (SoBe) — strand och Art Deco i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/south-beach-sobe-strand-och-art-deco-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/south-beach-sobe-strand-och-art-deco-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/boende-florida/",
+          "page_slug": "boende-florida",
+          "section_h3": "South Beach (SoBe) — strand och Art Deco",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "South Beach (SoBe) — strand och Art Deco i Florida",
+          "alt": "South Beach (SoBe) — strand och Art Deco i Florida med människor och realistisk resemiljö",
+          "caption": "South Beach (SoBe) — strand och Art Deco i Florida",
+          "description": "En realistisk resebild från South Beach (SoBe) — strand och Art Deco i Florida. Bilden visar South Beach (SoBe) — strand och Art Deco i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/south-beach-sobe-strand-och-art-deco-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/sport-inter-miami-och-miami-heat-florida.png",
+      "file": "bilder/web-ready/florida/sport-inter-miami-och-miami-heat-florida.jpg",
+      "filename": "sport-inter-miami-och-miami-heat-florida.jpg",
+      "brief_id": "florida:miami:sport-inter-miami-och-miami-heat",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/miami/",
+      "page_id": 32,
+      "page_title": "Miami reseguide — stränder, kultur och subtropisk energi",
+      "page_slug": "miami",
+      "h3": "⚽🏀 Sport — Inter Miami och Miami Heat",
+      "h3_slug": "sport-inter-miami-och-miami-heat",
+      "place": "Sport — Inter Miami och Miami Heat i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "Sport — Inter Miami och Miami Heat i Florida med människor och realistisk resemiljö",
+      "caption": "Sport — Inter Miami och Miami Heat i Florida",
+      "seo": "En realistisk resebild från Sport — Inter Miami och Miami Heat i Florida. Bilden visar Sport — Inter Miami och Miami Heat i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/sport-inter-miami-och-miami-heat-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/sport-inter-miami-och-miami-heat-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/miami/",
+          "page_slug": "miami",
+          "section_h3": "⚽🏀 Sport — Inter Miami och Miami Heat",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Sport — Inter Miami och Miami Heat i Florida",
+          "alt": "Sport — Inter Miami och Miami Heat i Florida med människor och realistisk resemiljö",
+          "caption": "Sport — Inter Miami och Miami Heat i Florida",
+          "description": "En realistisk resebild från Sport — Inter Miami och Miami Heat i Florida. Bilden visar Sport — Inter Miami och Miami Heat i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/sport-inter-miami-och-miami-heat-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/walt-disney-world-nr-1-7-9-13-florida.png",
+      "file": "bilder/web-ready/florida/walt-disney-world-nr-1-7-9-13-florida.jpg",
+      "filename": "walt-disney-world-nr-1-7-9-13-florida.jpg",
+      "brief_id": "florida:saker-att-gora-florida:walt-disney-world-nr-1-7-9-13",
+      "domain": "florida",
+      "site": "florida.se",
+      "destination": "Florida",
+      "page": "https://florida.se/saker-att-gora-florida/",
+      "page_id": 172,
+      "page_title": "Saker att göra i Florida — topp 25 upplevelser för svenskar",
+      "page_slug": "saker-att-gora-florida",
+      "h3": "Walt Disney World (nr 1, 7, 9, 13)",
+      "h3_slug": "walt-disney-world-nr-1-7-9-13",
+      "place": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+      "gps": "25.7617, -80.1918",
+      "shot_type": "editorial travel photograph",
+      "alt": "Walt Disney World (nr 1, 7, 9, 13) i Florida med människor och realistisk resemiljö",
+      "caption": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+      "seo": "En realistisk resebild från Walt Disney World (nr 1, 7, 9, 13) i Florida. Bilden visar Walt Disney World (nr 1, 7, 9, 13) i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/walt-disney-world-nr-1-7-9-13-florida.png",
+        "web_ready_file": "bilder/web-ready/florida/walt-disney-world-nr-1-7-9-13-florida.jpg",
+        "wordpress_target": {
+          "page_url": "https://florida.se/saker-att-gora-florida/",
+          "page_slug": "saker-att-gora-florida",
+          "section_h3": "Walt Disney World (nr 1, 7, 9, 13)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+          "alt": "Walt Disney World (nr 1, 7, 9, 13) i Florida med människor och realistisk resemiljö",
+          "caption": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+          "description": "En realistisk resebild från Walt Disney World (nr 1, 7, 9, 13) i Florida. Bilden visar Walt Disney World (nr 1, 7, 9, 13) i Florida under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/florida/walt-disney-world-nr-1-7-9-13-florida.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    }
+  ]
+}

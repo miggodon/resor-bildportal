@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/alternativ-2-guidad-tur-enklast-malaga.png",
-      "file": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\alternativ-2-guidad-tur-enklast-malaga.jpg",
       "filename": "alternativ-2-guidad-tur-enklast-malaga.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:alternativ-2-guidad-tur-enklast",
       "domain": "malaga",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Alternativ 2 — Guidad tur (enklast) i Málaga. Bilden visar Alternativ 2 — Guidad tur (enklast) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/alternativ-2-guidad-tur-enklast-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\alternativ-2-guidad-tur-enklast-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -39,13 +39,16 @@
           "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
           "description": "En realistisk resebild från Alternativ 2 — Guidad tur (enklast) i Málaga. Bilden visar Alternativ 2 — Guidad tur (enklast) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/alternativ-2-guidad-tur-enklast-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/alternativ-3-tag-buss-malaga.png",
-      "file": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\alternativ-3-tag-buss-malaga.jpg",
       "filename": "alternativ-3-tag-buss-malaga.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:alternativ-3-tag-buss",
       "domain": "malaga",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Alternativ 3 — Tåg + buss i Málaga. Bilden visar Alternativ 3 — Tåg + buss i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/alternativ-3-tag-buss-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\alternativ-3-tag-buss-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -78,13 +81,16 @@
           "caption": "Alternativ 3 — Tåg + buss i Málaga",
           "description": "En realistisk resebild från Alternativ 3 — Tåg + buss i Málaga. Bilden visar Alternativ 3 — Tåg + buss i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/alternativ-3-tag-buss-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dagsutflykt-ronda-malaga.png",
-      "file": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\dagsutflykt-ronda-malaga.jpg",
       "filename": "dagsutflykt-ronda-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:dagsutflykt-ronda",
       "domain": "malaga",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från 🗺️ Dagsutflykt: Ronda i Málaga. Bilden visar 🗺️ Dagsutflykt: Ronda i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dagsutflykt-ronda-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\dagsutflykt-ronda-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -117,13 +123,16 @@
           "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
           "description": "En realistisk resebild från 🗺️ Dagsutflykt: Ronda i Málaga. Bilden visar 🗺️ Dagsutflykt: Ronda i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/dagsutflykt-ronda-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/escape-rooms-malaga.png",
-      "file": "bilder/web-ready/malaga/escape-rooms-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\escape-rooms-malaga.jpg",
       "filename": "escape-rooms-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:escape-rooms",
       "domain": "malaga",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/escape-rooms-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/escape-rooms-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\escape-rooms-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -156,13 +165,16 @@
           "caption": "🏰 Escape rooms i Málaga",
           "description": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/escape-rooms-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/laser-tag-och-bowling-malaga.png",
-      "file": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\laser-tag-och-bowling-malaga.jpg",
       "filename": "laser-tag-och-bowling-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:laser-tag-och-bowling",
       "domain": "malaga",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/laser-tag-och-bowling-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\laser-tag-och-bowling-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -195,13 +207,16 @@
           "caption": "🎳 Laser tag och bowling i Málaga",
           "description": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/laser-tag-och-bowling-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/montes-de-malaga-naturpark-malaga.png",
-      "file": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\montes-de-malaga-naturpark-malaga.jpg",
       "filename": "montes-de-malaga-naturpark-malaga.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:montes-de-malaga-naturpark",
       "domain": "malaga",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Montes de Málaga naturpark i Málaga. Bilden visar Montes de Málaga naturpark i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/montes-de-malaga-naturpark-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\montes-de-malaga-naturpark-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -234,13 +249,16 @@
           "caption": "Montes de Málaga naturpark i Málaga",
           "description": "En realistisk resebild från Montes de Málaga naturpark i Málaga. Bilden visar Montes de Málaga naturpark i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/montes-de-malaga-naturpark-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sendero-rio-chillar-nerja-malaga.png",
-      "file": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\sendero-rio-chillar-nerja-malaga.jpg",
       "filename": "sendero-rio-chillar-nerja-malaga.jpg",
       "brief_id": "malaga:vandring-malaga-caminito-del-rey:sendero-rio-chillar-nerja",
       "domain": "malaga",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Sendero Río Chillar (Nerja) i Málaga. Bilden visar Sendero Río Chillar (Nerja) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sendero-rio-chillar-nerja-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\sendero-rio-chillar-nerja-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/vandring-malaga-caminito-del-rey/",
           "page_slug": "vandring-malaga-caminito-del-rey",
@@ -273,13 +291,16 @@
           "caption": "Sendero Río Chillar (Nerja) i Málaga",
           "description": "En realistisk resebild från Sendero Río Chillar (Nerja) i Málaga. Bilden visar Sendero Río Chillar (Nerja) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/sendero-rio-chillar-nerja-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/skateparken-vid-stranden-malaga.png",
-      "file": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\skateparken-vid-stranden-malaga.jpg",
       "filename": "skateparken-vid-stranden-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:skateparken-vid-stranden",
       "domain": "malaga",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från 🛹 Skateparken vid stranden i Málaga. Bilden visar 🛹 Skateparken vid stranden i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/skateparken-vid-stranden-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\skateparken-vid-stranden-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -312,13 +333,16 @@
           "caption": "🛹 Skateparken vid stranden i Málaga",
           "description": "En realistisk resebild från 🛹 Skateparken vid stranden i Málaga. Bilden visar 🛹 Skateparken vid stranden i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/skateparken-vid-stranden-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/street-art-tur-i-soho-malaga.png",
-      "file": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg",
+      "file": "bilder\\web-ready\\malaga\\redo\\street-art-tur-i-soho-malaga.jpg",
       "filename": "street-art-tur-i-soho-malaga.jpg",
       "brief_id": "malaga:malaga-med-tonaringar:street-art-tur-i-soho",
       "domain": "malaga",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från 🎭 Street Art-tur i Soho i Málaga. Bilden visar 🎭 Street Art-tur i Soho i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/street-art-tur-i-soho-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg",
+        "web_ready_file": "bilder\\web-ready\\malaga\\redo\\street-art-tur-i-soho-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-med-tonaringar/",
           "page_slug": "malaga-med-tonaringar",
@@ -351,9 +375,12 @@
           "caption": "🎭 Street Art-tur i Soho i Málaga",
           "description": "En realistisk resebild från 🎭 Street Art-tur i Soho i Málaga. Bilden visar 🎭 Street Art-tur i Soho i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\malaga\\redo"
       },
-      "inspection": "bilder/web-ready/malaga/street-art-tur-i-soho-malaga.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
