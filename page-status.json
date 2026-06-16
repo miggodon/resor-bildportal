@@ -16727,14 +16727,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 75,
+    "score": 95,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -16772,14 +16771,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 75,
+    "score": 95,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -16817,14 +16815,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 75,
+    "score": 95,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -16862,14 +16859,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 75,
+    "score": 95,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -17273,7 +17269,7 @@
     "slug": "universal-studios-orlando",
     "title": "Universal Studios Orlando — guide för svenska besökare 2026",
     "link": "https://florida.se/universal-studios-orlando/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1322,
     "h2": 9,
     "h3": 3,
@@ -17315,7 +17311,7 @@
     "slug": "disney-world-orlando",
     "title": "Walt Disney World Orlando — guide för svenska familjer 2026",
     "link": "https://florida.se/disney-world-orlando/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1816,
     "h2": 11,
     "h3": 10,
@@ -17358,8 +17354,8 @@
     "slug": "universitet-florida",
     "title": "Universitet i Florida — campus, college towns &#038; studier utomlands",
     "link": "https://florida.se/universitet-florida/",
-    "modified": "2026-06-11",
-    "words": 1198,
+    "modified": "2026-06-16",
+    "words": 1204,
     "h2": 11,
     "h3": 0,
     "images": 0,
@@ -17400,7 +17396,7 @@
     "slug": "kultur-florida",
     "title": "Kultur i Florida — Art Deco, Wynwood, museer &#038; festivaler",
     "link": "https://florida.se/kultur-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 958,
     "h2": 9,
     "h3": 0,
@@ -17442,7 +17438,7 @@
     "slug": "sport-florida",
     "title": "Sport i Florida — NFL, NBA, NHL, MLB och college football",
     "link": "https://florida.se/sport-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1176,
     "h2": 10,
     "h3": 0,
@@ -17484,7 +17480,7 @@
     "slug": "matguide-florida",
     "title": "Matguide Florida — bästa restaurangerna per region",
     "link": "https://florida.se/matguide-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1198,
     "h2": 9,
     "h3": 0,
@@ -17526,7 +17522,7 @@
     "slug": "basta-tiden-florida",
     "title": "Bästa tiden att resa till Florida — månad för månad",
     "link": "https://florida.se/basta-tiden-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1154,
     "h2": 8,
     "h3": 10,
@@ -17570,10 +17566,10 @@
     "title": "Saker att göra i Florida — topp 25 upplevelser för svenskar",
     "link": "https://florida.se/saker-att-gora-florida/",
     "modified": "2026-06-16",
-    "words": 1484,
+    "words": 1450,
     "h2": 9,
     "h3": 6,
-    "images": 4,
+    "images": 0,
     "internal": 14,
     "external": 0,
     "affiliate": 7,
@@ -17595,14 +17591,12 @@
     },
     "money_total": 1,
     "gyg_issue": [],
-    "img_issue": [
-      "botten"
-    ],
-    "qa": "🟡 OK",
-    "needs_image": false,
-    "score": 95,
+    "img_issue": [],
+    "qa": "🟢 Bra",
+    "needs_image": true,
+    "score": 90,
     "flags": [
-      "🖼 bild i botten"
+      "📷 väntar bild"
     ],
     "tier": "Best-in-class",
     "contaminated": false
@@ -17614,10 +17608,10 @@
     "title": "Hyrbil i Florida — SunPass, försäkring och när du behöver bil",
     "link": "https://florida.se/hyrbil-florida/",
     "modified": "2026-06-16",
-    "words": 1409,
+    "words": 1397,
     "h2": 10,
     "h3": 4,
-    "images": 2,
+    "images": 0,
     "internal": 12,
     "external": 0,
     "affiliate": 4,
@@ -17642,10 +17636,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
-    "needs_image": false,
-    "score": 95,
-    "flags": [],
-    "tier": "Best-in-class",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -17655,10 +17651,10 @@
     "title": "Boende i Florida — hotell, resort eller VRBO-villa?",
     "link": "https://florida.se/boende-florida/",
     "modified": "2026-06-16",
-    "words": 1474,
+    "words": 1409,
     "h2": 7,
     "h3": 10,
-    "images": 8,
+    "images": 0,
     "internal": 18,
     "external": 0,
     "affiliate": 10,
@@ -17682,9 +17678,11 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
-    "needs_image": false,
-    "score": 95,
-    "flags": [],
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "📷 väntar bild"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -17694,7 +17692,7 @@
     "slug": "vad-kostar-florida",
     "title": "Vad kostar en resa till Florida? — budgetguide 2026",
     "link": "https://florida.se/vad-kostar-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1000,
     "h2": 10,
     "h3": 0,
@@ -17736,7 +17734,7 @@
     "slug": "resa-till-florida",
     "title": "Resa till Florida — ESTA, flyg och praktiska tips för svenskar",
     "link": "https://florida.se/resa-till-florida/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1244,
     "h2": 8,
     "h3": 9,
@@ -17779,9 +17777,9 @@
     "slug": "guider",
     "title": "Guider — planera din resa till Florida",
     "link": "https://florida.se/guider/",
-    "modified": "2026-06-11",
-    "words": 439,
-    "h2": 4,
+    "modified": "2026-06-16",
+    "words": 395,
+    "h2": 3,
     "h3": 0,
     "images": 0,
     "internal": 30,
@@ -17913,14 +17911,14 @@
     "slug": "startsida",
     "title": "Florida reseguide — sol, stränder, temaparker och roadtrips från Sverige",
     "link": "https://florida.se/",
-    "modified": "2026-06-11",
-    "words": 2227,
-    "h2": 9,
+    "modified": "2026-06-16",
+    "words": 1921,
+    "h2": 8,
     "h3": 0,
     "images": 0,
-    "internal": 46,
+    "internal": 41,
     "external": 1,
-    "affiliate": 6,
+    "affiliate": 7,
     "type": "Startsida",
     "audience": "Bred",
     "aff_angle": [
@@ -17933,12 +17931,12 @@
       "hyrbil": 1,
       "hcom": 0,
       "vrbo": 2,
-      "hotell": 1,
+      "hotell": 2,
       "boende": 0,
       "flyg": 0,
       "gyg": 0
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -18299,7 +18297,7 @@
     "slug": "florida-keys",
     "title": "Florida Keys reseguide — roadtrip, Key West och snorkling",
     "link": "https://florida.se/florida-keys/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1393,
     "h2": 10,
     "h3": 0,
@@ -18342,7 +18340,7 @@
     "slug": "tampa",
     "title": "Tampa reseguide — Busch Gardens, Clearwater och Ybor City",
     "link": "https://florida.se/tampa/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1400,
     "h2": 11,
     "h3": 0,
@@ -18386,10 +18384,10 @@
     "title": "Miami reseguide — stränder, kultur och subtropisk energi",
     "link": "https://florida.se/miami/",
     "modified": "2026-06-16",
-    "words": 1857,
+    "words": 1814,
     "h2": 14,
     "h3": 0,
-    "images": 5,
+    "images": 0,
     "internal": 20,
     "external": 0,
     "affiliate": 10,
@@ -18414,10 +18412,11 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": false,
-    "score": 95,
+    "needs_image": true,
+    "score": 90,
     "flags": [
-      "⛔ förbjudet: Airbnb"
+      "⛔ förbjudet: Airbnb",
+      "📷 väntar bild"
     ],
     "tier": "Best-in-class",
     "contaminated": false
@@ -18428,7 +18427,7 @@
     "slug": "orlando",
     "title": "Orlando reseguide — Disney, Universal och mer än temaparker",
     "link": "https://florida.se/orlando/",
-    "modified": "2026-06-11",
+    "modified": "2026-06-16",
     "words": 1809,
     "h2": 12,
     "h3": 0,
