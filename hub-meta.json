@@ -1,5 +1,5 @@
 {
-  "last_export_utc": "2026-06-16T11:48:28.328425+00:00",
+  "last_export_utc": "2026-06-16T12:02:54.944949+00:00",
   "command": "python bilder/export_portfolio_hub.py",
   "workflow_url": "https://github.com/miggodon/resor/actions/workflows/portfolio-hub.yml",
   "public_portal_url": "https://miggodon.github.io/resor-bildportal/",

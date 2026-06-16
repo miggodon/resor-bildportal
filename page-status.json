@@ -14291,11 +14291,11 @@
     "slug": "aiguille-du-midi",
     "title": "Aiguille du Midi — biljetter, linbana &amp; utsikt 2026",
     "link": "https://chamonix.se/aiguille-du-midi/",
-    "modified": "2026-06-13",
-    "words": 573,
+    "modified": "2026-06-16",
+    "words": 584,
     "h2": 9,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 2,
     "affiliate": 4,
@@ -14319,12 +14319,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
-    "needs_image": true,
-    "score": 89,
-    "flags": [
-      "📷 väntar bild"
-    ],
-    "tier": "Berikad",
+    "needs_image": false,
+    "score": 94,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -14419,11 +14417,11 @@
     "slug": "vandring-chamonix",
     "title": "Vandring i Chamonix — Tour du Mont Blanc &amp; dagsturer 2026",
     "link": "https://chamonix.se/vandring-chamonix/",
-    "modified": "2026-06-13",
-    "words": 634,
+    "modified": "2026-06-16",
+    "words": 641,
     "h2": 7,
     "h3": 8,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 4,
     "affiliate": 7,
@@ -14447,11 +14445,9 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
-    "needs_image": true,
-    "score": 75,
-    "flags": [
-      "📷 väntar bild"
-    ],
+    "needs_image": false,
+    "score": 80,
+    "flags": [],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -14630,11 +14626,11 @@
     "slug": "chamonix-omraden",
     "title": "Chamonix områden — var ska man bo?",
     "link": "https://chamonix.se/chamonix-omraden/",
-    "modified": "2026-06-13",
-    "words": 926,
+    "modified": "2026-06-16",
+    "words": 954,
     "h2": 12,
     "h3": 0,
-    "images": 0,
+    "images": 3,
     "internal": 10,
     "external": 1,
     "affiliate": 7,
@@ -14659,11 +14655,9 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
-    "needs_image": true,
-    "score": 82,
-    "flags": [
-      "📷 väntar bild"
-    ],
+    "needs_image": false,
+    "score": 87,
+    "flags": [],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -14757,11 +14751,11 @@
     "slug": "chalet-guide-chamonix",
     "title": "Hyra chalet i Chamonix – komplett guide 2026",
     "link": "https://chamonix.se/chalet-guide-chamonix/",
-    "modified": "2026-06-13",
-    "words": 1474,
+    "modified": "2026-06-16",
+    "words": 1491,
     "h2": 12,
     "h3": 9,
-    "images": 0,
+    "images": 4,
     "internal": 13,
     "external": 1,
     "affiliate": 12,
@@ -14786,11 +14780,9 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
-    "needs_image": true,
-    "score": 95,
-    "flags": [
-      "📷 väntar bild"
-    ],
+    "needs_image": false,
+    "score": 100,
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -15057,11 +15049,11 @@
     "slug": "skidakning-chamonix",
     "title": "Skidåkning i Chamonix — guide till bästa åken",
     "link": "https://chamonix.se/skidakning-chamonix/",
-    "modified": "2026-06-13",
-    "words": 493,
+    "modified": "2026-06-16",
+    "words": 509,
     "h2": 5,
     "h3": 8,
-    "images": 0,
+    "images": 2,
     "internal": 4,
     "external": 1,
     "affiliate": 4,
@@ -15085,12 +15077,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
-    "needs_image": true,
-    "score": 82,
-    "flags": [
-      "📷 väntar bild"
-    ],
-    "tier": "Berikad",
+    "needs_image": false,
+    "score": 94,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -15099,11 +15089,11 @@
     "slug": "hyrbil-chamonix",
     "title": "Hyrbil Chamonix",
     "link": "https://chamonix.se/hyrbil-chamonix/",
-    "modified": "2026-06-09",
-    "words": 2008,
+    "modified": "2026-06-16",
+    "words": 2024,
     "h2": 11,
     "h3": 29,
-    "images": 0,
+    "images": 4,
     "internal": 8,
     "external": 3,
     "affiliate": 10,
@@ -15129,11 +15119,9 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
-    "needs_image": true,
-    "score": 95,
-    "flags": [
-      "📷 väntar bild"
-    ],
+    "needs_image": false,
+    "score": 100,
+    "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -16710,11 +16698,11 @@
     "slug": "big-island",
     "title": "Big Island - komplett guide till Hawaii",
     "link": "https://hawaii.se/big-island/",
-    "modified": "2026-06-09",
-    "words": 2194,
+    "modified": "2026-06-16",
+    "words": 2201,
     "h2": 8,
     "h3": 1,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 0,
     "affiliate": 3,
@@ -16736,14 +16724,17 @@
     },
     "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟢 Bra",
-    "needs_image": true,
-    "score": 90,
-    "flags": [
-      "📷 väntar bild"
+    "img_issue": [
+      "botten"
     ],
-    "tier": "Best-in-class",
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 75,
+    "flags": [
+      "slutar abrupt",
+      "🖼 bild i botten"
+    ],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -16752,11 +16743,11 @@
     "slug": "kauai",
     "title": "Kauai - komplett guide till Hawaii",
     "link": "https://hawaii.se/kauai/",
-    "modified": "2026-06-09",
-    "words": 1276,
+    "modified": "2026-06-16",
+    "words": 1282,
     "h2": 8,
     "h3": 1,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 0,
     "affiliate": 3,
@@ -16778,14 +16769,17 @@
     },
     "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟢 Bra",
-    "needs_image": true,
-    "score": 90,
-    "flags": [
-      "📷 väntar bild"
+    "img_issue": [
+      "botten"
     ],
-    "tier": "Best-in-class",
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 75,
+    "flags": [
+      "slutar abrupt",
+      "🖼 bild i botten"
+    ],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -16794,11 +16788,11 @@
     "slug": "maui",
     "title": "Maui - komplett guide till Hawaii",
     "link": "https://hawaii.se/maui/",
-    "modified": "2026-06-09",
-    "words": 1892,
+    "modified": "2026-06-16",
+    "words": 1898,
     "h2": 8,
     "h3": 1,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 0,
     "affiliate": 3,
@@ -16820,14 +16814,17 @@
     },
     "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟢 Bra",
-    "needs_image": true,
-    "score": 90,
-    "flags": [
-      "📷 väntar bild"
+    "img_issue": [
+      "botten"
     ],
-    "tier": "Best-in-class",
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 75,
+    "flags": [
+      "slutar abrupt",
+      "🖼 bild i botten"
+    ],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -16836,11 +16833,11 @@
     "slug": "oahu",
     "title": "Oahu - komplett guide till Hawaii",
     "link": "https://hawaii.se/oahu/",
-    "modified": "2026-06-09",
-    "words": 1652,
+    "modified": "2026-06-16",
+    "words": 1658,
     "h2": 7,
     "h3": 1,
-    "images": 0,
+    "images": 1,
     "internal": 3,
     "external": 0,
     "affiliate": 3,
@@ -16862,14 +16859,17 @@
     },
     "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "🟢 Bra",
-    "needs_image": true,
-    "score": 90,
-    "flags": [
-      "📷 väntar bild"
+    "img_issue": [
+      "botten"
     ],
-    "tier": "Best-in-class",
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 75,
+    "flags": [
+      "slutar abrupt",
+      "🖼 bild i botten"
+    ],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -17228,11 +17228,11 @@
     "slug": "start",
     "title": "Hawaii reseguide - boende, stränder &amp; äventyr",
     "link": "https://hawaii.se/",
-    "modified": "2026-06-09",
-    "words": 1527,
+    "modified": "2026-06-16",
+    "words": 1552,
     "h2": 11,
     "h3": 16,
-    "images": 0,
+    "images": 4,
     "internal": 33,
     "external": 3,
     "affiliate": 11,
@@ -17255,12 +17255,14 @@
     },
     "money_total": 6,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "✅ Topp",
-    "needs_image": true,
-    "score": 95,
+    "img_issue": [
+      "botten"
+    ],
+    "qa": "🟡 OK",
+    "needs_image": false,
+    "score": 100,
     "flags": [
-      "📷 väntar bild"
+      "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
     "contaminated": false

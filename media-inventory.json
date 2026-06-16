@@ -16010,6 +16010,276 @@
   },
   {
     "domain": "chamonix",
+    "id": 215,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+    "filename": "skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 213,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/runt-mont-blanc-chamonix.jpg",
+    "filename": "runt-mont-blanc-chamonix.jpg",
+    "alt": "Runt Mont Blanc i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Runt Mont Blanc i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 211,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/ovriga-byar-servoz-le-tour-vallorcine-chamonix.jpg",
+    "filename": "ovriga-byar-servoz-le-tour-vallorcine-chamonix.jpg",
+    "alt": "Övriga byar — Servoz, Le Tour & Vallorcine i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Övriga byar — Servoz, Le Tour &#038; Vallorcine i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 209,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/martigny-schweiz-chamonix.jpg",
+    "filename": "martigny-schweiz-chamonix.jpg",
+    "alt": "Martigny (Schweiz) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Martigny (Schweiz) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 207,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-praz-flegere-lugnt-och-naturskont-chamonix.jpg",
+    "filename": "les-praz-flegere-lugnt-och-naturskont-chamonix.jpg",
+    "alt": "Les Praz / Flégère — lugnt och naturskönt i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Praz / Flégère — lugnt och naturskönt i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 205,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-praz-flegere-chamonix.jpg",
+    "filename": "les-praz-flegere-chamonix.jpg",
+    "alt": "Les Praz / Flégère i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Praz / Flégère i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 203,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/glacier-du-tour-chamonix.jpg",
+    "filename": "glacier-du-tour-chamonix.jpg",
+    "alt": "Glacier du Tour — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Glacier du Tour — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 201,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/courmayeur-italien-chamonix.jpg",
+    "filename": "courmayeur-italien-chamonix.jpg",
+    "alt": "Courmayeur (Italien) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Courmayeur (Italien) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 199,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chamonix-centre-hjartat-av-dalen-chamonix.jpg",
+    "filename": "chamonix-centre-hjartat-av-dalen-chamonix.jpg",
+    "alt": "Chamonix Centre — hjärtat av dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Chamonix Centre — hjärtat av dalen i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 197,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chamonix-centre-chamonix.jpg",
+    "filename": "chamonix-centre-chamonix.jpg",
+    "alt": "Chamonix Centre i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Chamonix Centre i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 195,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chalet-guide-chamonix-les-houches-chamonix.jpg",
+    "filename": "chalet-guide-chamonix-les-houches-chamonix.jpg",
+    "alt": "Les Houches i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Houches i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 193,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/argentiere-chamonix.jpg",
+    "filename": "argentiere-chamonix.jpg",
+    "alt": "Argentière i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Argentière i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 191,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/annecy-chamonix.jpg",
+    "filename": "annecy-chamonix.jpg",
+    "alt": "Annecy i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Annecy i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 189,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg",
+    "filename": "aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg",
+    "alt": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 187,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguille-du-midi-biljetter-linbana-utsikt-2026-chamonix.jpg",
+    "filename": "aiguille-du-midi-biljetter-linbana-utsikt-2026-chamonix.jpg",
+    "alt": "Aiguille du Midi — biljetter, linbana & utsikt 2026 i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aiguille du Midi — biljetter, linbana &#038; utsikt 2026 i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aiguille-du-midi",
+        "link": "https://chamonix.se/aiguille-du-midi/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 186,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -16809,6 +17079,150 @@
     "date": "2026-06-16",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "hawaii",
+    "id": 105,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-upptacka-oahu-hawaii.jpg",
+    "filename": "redo-att-upptacka-oahu-hawaii.jpg",
+    "alt": "Redo att upptäcka Oahu? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att upptäcka Oahu? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "oahu",
+        "link": "https://hawaii.se/oahu/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 103,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-upptacka-maui-hawaii.jpg",
+    "filename": "redo-att-upptacka-maui-hawaii.jpg",
+    "alt": "Redo att upptäcka Maui? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att upptäcka Maui? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "maui",
+        "link": "https://hawaii.se/maui/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 101,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-upptacka-kauai-hawaii.jpg",
+    "filename": "redo-att-upptacka-kauai-hawaii.jpg",
+    "alt": "Redo att upptäcka Kauai? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att upptäcka Kauai? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kauai",
+        "link": "https://hawaii.se/kauai/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 99,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-upptacka-big-island-hawaii.jpg",
+    "filename": "redo-att-upptacka-big-island-hawaii.jpg",
+    "alt": "Redo att upptäcka Big Island? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att upptäcka Big Island? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "big-island",
+        "link": "https://hawaii.se/big-island/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 97,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/oahu-hjartat-hawaii.jpg",
+    "filename": "oahu-hjartat-hawaii.jpg",
+    "alt": "Oahu - Hjärtat i Hawaii med människor och realistisk resemiljö",
+    "caption": "Oahu - Hjärtat i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 95,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/maui-romantikern-hawaii.jpg",
+    "filename": "maui-romantikern-hawaii.jpg",
+    "alt": "Maui - Romantikern i Hawaii med människor och realistisk resemiljö",
+    "caption": "Maui - Romantikern i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 93,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/kauai-tradgardson-hawaii.jpg",
+    "filename": "kauai-tradgardson-hawaii.jpg",
+    "alt": "Kauai - Trädgårdsön i Hawaii med människor och realistisk resemiljö",
+    "caption": "Kauai - Trädgårdsön i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 91,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/helikoptertur-over-hawaii-en-gang-i-livet-hawaii.jpg",
+    "filename": "helikoptertur-over-hawaii-en-gang-i-livet-hawaii.jpg",
+    "alt": "Helikoptertur över Hawaii - en gång i livet i Hawaii med människor och realistisk resemiljö",
+    "caption": "Helikoptertur över Hawaii - en gång i livet i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
   },
   {
     "domain": "hawaii",

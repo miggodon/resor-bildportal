@@ -1,0 +1,344 @@
+{
+  "generated_at": "2026-06-16T11:49:41.862838+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/hawaii",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/helikoptertur-over-hawaii-en-gang-i-livet-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\helikoptertur-over-hawaii-en-gang-i-livet-hawaii.jpg",
+      "filename": "helikoptertur-over-hawaii-en-gang-i-livet-hawaii.jpg",
+      "brief_id": "hawaii:start:helikoptertur-over-hawaii-en-gang-i-livet",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/",
+      "page_id": 5,
+      "page_title": "Hawaii reseguide - boende, stränder & äventyr",
+      "page_slug": "start",
+      "h3": "🚁 Helikoptertur över Hawaii - en gång i livet",
+      "h3_slug": "helikoptertur-over-hawaii-en-gang-i-livet",
+      "place": "Helikoptertur över Hawaii - en gång i livet i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Helikoptertur över Hawaii - en gång i livet i Hawaii med människor och realistisk resemiljö",
+      "caption": "Helikoptertur över Hawaii - en gång i livet i Hawaii",
+      "seo": "En realistisk resebild från Helikoptertur över Hawaii - en gång i livet i Hawaii. Bilden visar Helikoptertur över Hawaii - en gång i livet i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/helikoptertur-over-hawaii-en-gang-i-livet-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\helikoptertur-over-hawaii-en-gang-i-livet-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/",
+          "page_slug": "start",
+          "section_h3": "🚁 Helikoptertur över Hawaii - en gång i livet",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Helikoptertur över Hawaii - en gång i livet i Hawaii",
+          "alt": "Helikoptertur över Hawaii - en gång i livet i Hawaii med människor och realistisk resemiljö",
+          "caption": "Helikoptertur över Hawaii - en gång i livet i Hawaii",
+          "description": "En realistisk resebild från Helikoptertur över Hawaii - en gång i livet i Hawaii. Bilden visar Helikoptertur över Hawaii - en gång i livet i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/kauai-tradgardson-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\kauai-tradgardson-hawaii.jpg",
+      "filename": "kauai-tradgardson-hawaii.jpg",
+      "brief_id": "hawaii:start:kauai-tradgardson",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/",
+      "page_id": 5,
+      "page_title": "Hawaii reseguide - boende, stränder & äventyr",
+      "page_slug": "start",
+      "h3": "Kauai - Trädgårdsön",
+      "h3_slug": "kauai-tradgardson",
+      "place": "Kauai - Trädgårdsön i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Kauai - Trädgårdsön i Hawaii med människor och realistisk resemiljö",
+      "caption": "Kauai - Trädgårdsön i Hawaii",
+      "seo": "En realistisk resebild från Kauai - Trädgårdsön i Hawaii. Bilden visar Kauai - Trädgårdsön i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/kauai-tradgardson-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\kauai-tradgardson-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/",
+          "page_slug": "start",
+          "section_h3": "Kauai - Trädgårdsön",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Kauai - Trädgårdsön i Hawaii",
+          "alt": "Kauai - Trädgårdsön i Hawaii med människor och realistisk resemiljö",
+          "caption": "Kauai - Trädgårdsön i Hawaii",
+          "description": "En realistisk resebild från Kauai - Trädgårdsön i Hawaii. Bilden visar Kauai - Trädgårdsön i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/maui-romantikern-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\maui-romantikern-hawaii.jpg",
+      "filename": "maui-romantikern-hawaii.jpg",
+      "brief_id": "hawaii:start:maui-romantikern",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/",
+      "page_id": 5,
+      "page_title": "Hawaii reseguide - boende, stränder & äventyr",
+      "page_slug": "start",
+      "h3": "Maui - Romantikern",
+      "h3_slug": "maui-romantikern",
+      "place": "Maui - Romantikern i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Maui - Romantikern i Hawaii med människor och realistisk resemiljö",
+      "caption": "Maui - Romantikern i Hawaii",
+      "seo": "En realistisk resebild från Maui - Romantikern i Hawaii. Bilden visar Maui - Romantikern i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/maui-romantikern-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\maui-romantikern-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/",
+          "page_slug": "start",
+          "section_h3": "Maui - Romantikern",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Maui - Romantikern i Hawaii",
+          "alt": "Maui - Romantikern i Hawaii med människor och realistisk resemiljö",
+          "caption": "Maui - Romantikern i Hawaii",
+          "description": "En realistisk resebild från Maui - Romantikern i Hawaii. Bilden visar Maui - Romantikern i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/oahu-hjartat-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\oahu-hjartat-hawaii.jpg",
+      "filename": "oahu-hjartat-hawaii.jpg",
+      "brief_id": "hawaii:start:oahu-hjartat",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/",
+      "page_id": 5,
+      "page_title": "Hawaii reseguide - boende, stränder & äventyr",
+      "page_slug": "start",
+      "h3": "Oahu - Hjärtat",
+      "h3_slug": "oahu-hjartat",
+      "place": "Oahu - Hjärtat i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Oahu - Hjärtat i Hawaii med människor och realistisk resemiljö",
+      "caption": "Oahu - Hjärtat i Hawaii",
+      "seo": "En realistisk resebild från Oahu - Hjärtat i Hawaii. Bilden visar Oahu - Hjärtat i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/oahu-hjartat-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\oahu-hjartat-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/",
+          "page_slug": "start",
+          "section_h3": "Oahu - Hjärtat",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Oahu - Hjärtat i Hawaii",
+          "alt": "Oahu - Hjärtat i Hawaii med människor och realistisk resemiljö",
+          "caption": "Oahu - Hjärtat i Hawaii",
+          "description": "En realistisk resebild från Oahu - Hjärtat i Hawaii. Bilden visar Oahu - Hjärtat i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/redo-att-upptacka-big-island-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-big-island-hawaii.jpg",
+      "filename": "redo-att-upptacka-big-island-hawaii.jpg",
+      "brief_id": "hawaii:big-island:redo-att-upptacka-big-island",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/big-island/",
+      "page_id": 46,
+      "page_title": "Big Island - komplett guide till Hawaii",
+      "page_slug": "big-island",
+      "h3": "🌺 Redo att upptäcka Big Island?",
+      "h3_slug": "redo-att-upptacka-big-island",
+      "place": "Redo att upptäcka Big Island? i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Redo att upptäcka Big Island? i Hawaii med människor och realistisk resemiljö",
+      "caption": "Redo att upptäcka Big Island? i Hawaii",
+      "seo": "En realistisk resebild från Redo att upptäcka Big Island? i Hawaii. Bilden visar Redo att upptäcka Big Island? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/redo-att-upptacka-big-island-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-big-island-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/big-island/",
+          "page_slug": "big-island",
+          "section_h3": "🌺 Redo att upptäcka Big Island?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Redo att upptäcka Big Island? i Hawaii",
+          "alt": "Redo att upptäcka Big Island? i Hawaii med människor och realistisk resemiljö",
+          "caption": "Redo att upptäcka Big Island? i Hawaii",
+          "description": "En realistisk resebild från Redo att upptäcka Big Island? i Hawaii. Bilden visar Redo att upptäcka Big Island? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/redo-att-upptacka-kauai-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-kauai-hawaii.jpg",
+      "filename": "redo-att-upptacka-kauai-hawaii.jpg",
+      "brief_id": "hawaii:kauai:redo-att-upptacka-kauai",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/kauai/",
+      "page_id": 45,
+      "page_title": "Kauai - komplett guide till Hawaii",
+      "page_slug": "kauai",
+      "h3": "🌺 Redo att upptäcka Kauai?",
+      "h3_slug": "redo-att-upptacka-kauai",
+      "place": "Redo att upptäcka Kauai? i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Redo att upptäcka Kauai? i Hawaii med människor och realistisk resemiljö",
+      "caption": "Redo att upptäcka Kauai? i Hawaii",
+      "seo": "En realistisk resebild från Redo att upptäcka Kauai? i Hawaii. Bilden visar Redo att upptäcka Kauai? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/redo-att-upptacka-kauai-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-kauai-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/kauai/",
+          "page_slug": "kauai",
+          "section_h3": "🌺 Redo att upptäcka Kauai?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Redo att upptäcka Kauai? i Hawaii",
+          "alt": "Redo att upptäcka Kauai? i Hawaii med människor och realistisk resemiljö",
+          "caption": "Redo att upptäcka Kauai? i Hawaii",
+          "description": "En realistisk resebild från Redo att upptäcka Kauai? i Hawaii. Bilden visar Redo att upptäcka Kauai? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/redo-att-upptacka-maui-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-maui-hawaii.jpg",
+      "filename": "redo-att-upptacka-maui-hawaii.jpg",
+      "brief_id": "hawaii:maui:redo-att-upptacka-maui",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/maui/",
+      "page_id": 44,
+      "page_title": "Maui - komplett guide till Hawaii",
+      "page_slug": "maui",
+      "h3": "🌺 Redo att upptäcka Maui?",
+      "h3_slug": "redo-att-upptacka-maui",
+      "place": "Redo att upptäcka Maui? i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Redo att upptäcka Maui? i Hawaii med människor och realistisk resemiljö",
+      "caption": "Redo att upptäcka Maui? i Hawaii",
+      "seo": "En realistisk resebild från Redo att upptäcka Maui? i Hawaii. Bilden visar Redo att upptäcka Maui? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/redo-att-upptacka-maui-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-maui-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/maui/",
+          "page_slug": "maui",
+          "section_h3": "🌺 Redo att upptäcka Maui?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Redo att upptäcka Maui? i Hawaii",
+          "alt": "Redo att upptäcka Maui? i Hawaii med människor och realistisk resemiljö",
+          "caption": "Redo att upptäcka Maui? i Hawaii",
+          "description": "En realistisk resebild från Redo att upptäcka Maui? i Hawaii. Bilden visar Redo att upptäcka Maui? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/redo-att-upptacka-oahu-hawaii.png",
+      "file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-oahu-hawaii.jpg",
+      "filename": "redo-att-upptacka-oahu-hawaii.jpg",
+      "brief_id": "hawaii:oahu:redo-att-upptacka-oahu",
+      "domain": "hawaii",
+      "site": "hawaii.se",
+      "destination": "Hawaii",
+      "page": "https://hawaii.se/oahu/",
+      "page_id": 43,
+      "page_title": "Oahu - komplett guide till Hawaii",
+      "page_slug": "oahu",
+      "h3": "🌺 Redo att upptäcka Oahu?",
+      "h3_slug": "redo-att-upptacka-oahu",
+      "place": "Redo att upptäcka Oahu? i Hawaii",
+      "gps": "21.4389, -157.9372",
+      "shot_type": "editorial travel photograph",
+      "alt": "Redo att upptäcka Oahu? i Hawaii med människor och realistisk resemiljö",
+      "caption": "Redo att upptäcka Oahu? i Hawaii",
+      "seo": "En realistisk resebild från Redo att upptäcka Oahu? i Hawaii. Bilden visar Redo att upptäcka Oahu? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/redo-att-upptacka-oahu-hawaii.png",
+        "web_ready_file": "bilder\\web-ready\\hawaii\\redo\\redo-att-upptacka-oahu-hawaii.jpg",
+        "wordpress_target": {
+          "page_url": "https://hawaii.se/oahu/",
+          "page_slug": "oahu",
+          "section_h3": "🌺 Redo att upptäcka Oahu?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Redo att upptäcka Oahu? i Hawaii",
+          "alt": "Redo att upptäcka Oahu? i Hawaii med människor och realistisk resemiljö",
+          "caption": "Redo att upptäcka Oahu? i Hawaii",
+          "description": "En realistisk resebild från Redo att upptäcka Oahu? i Hawaii. Bilden visar Redo att upptäcka Oahu? i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\hawaii\\redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    }
+  ]
+}
