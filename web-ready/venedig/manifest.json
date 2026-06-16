@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/118-oar-venedig.png",
-      "file": "bilder/web-ready/venedig/118-oar-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\118-oar-venedig.jpg",
       "filename": "118-oar-venedig.jpg",
       "brief_id": "venedig:startsida:118-oar",
       "domain": "venedig",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från 118 öar i Venedig. Bilden visar 118 öar i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/118-oar-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/118-oar-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\118-oar-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -39,13 +39,16 @@
           "caption": "118 öar i Venedig",
           "description": "En realistisk resebild från 118 öar i Venedig. Bilden visar 118 öar i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/118-oar-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/6-sestieri-venedig.png",
-      "file": "bilder/web-ready/venedig/6-sestieri-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\6-sestieri-venedig.jpg",
       "filename": "6-sestieri-venedig.jpg",
       "brief_id": "venedig:startsida:6-sestieri",
       "domain": "venedig",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från 6 sestieri i Venedig. Bilden visar 6 sestieri i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/6-sestieri-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/6-sestieri-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\6-sestieri-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -78,13 +81,16 @@
           "caption": "6 sestieri i Venedig",
           "description": "En realistisk resebild från 6 sestieri i Venedig. Bilden visar 6 sestieri i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/6-sestieri-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/acqua-alta-vad-du-behover-veta-venedig.png",
-      "file": "bilder/web-ready/venedig/acqua-alta-vad-du-behover-veta-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\acqua-alta-vad-du-behover-veta-venedig.jpg",
       "filename": "acqua-alta-vad-du-behover-veta-venedig.jpg",
       "brief_id": "venedig:basta-tiden-venedig:acqua-alta-vad-du-behover-veta",
       "domain": "venedig",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Acqua Alta — vad du behöver veta i Venedig. Bilden visar Acqua Alta — vad du behöver veta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/acqua-alta-vad-du-behover-veta-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/acqua-alta-vad-du-behover-veta-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\acqua-alta-vad-du-behover-veta-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/basta-tiden-venedig/",
           "page_slug": "basta-tiden-venedig",
@@ -117,13 +123,16 @@
           "caption": "Acqua Alta — vad du behöver veta i Venedig",
           "description": "En realistisk resebild från Acqua Alta — vad du behöver veta i Venedig. Bilden visar Acqua Alta — vad du behöver veta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/acqua-alta-vad-du-behover-veta-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/biennale-2026-vad-du-behover-veta-venedig.png",
-      "file": "bilder/web-ready/venedig/biennale-2026-vad-du-behover-veta-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\biennale-2026-vad-du-behover-veta-venedig.jpg",
       "filename": "biennale-2026-vad-du-behover-veta-venedig.jpg",
       "brief_id": "venedig:biennalen-venedig:biennale-2026-vad-du-behover-veta",
       "domain": "venedig",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Biennale 2026 — vad du behöver veta i Venedig. Bilden visar Biennale 2026 — vad du behöver veta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/biennale-2026-vad-du-behover-veta-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/biennale-2026-vad-du-behover-veta-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\biennale-2026-vad-du-behover-veta-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/biennalen-venedig/",
           "page_slug": "biennalen-venedig",
@@ -156,13 +165,16 @@
           "caption": "Biennale 2026 — vad du behöver veta i Venedig",
           "description": "En realistisk resebild från Biennale 2026 — vad du behöver veta i Venedig. Bilden visar Biennale 2026 — vad du behöver veta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/biennale-2026-vad-du-behover-veta-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boende-venedig-budgetrum-santa-croce-venedig.png",
-      "file": "bilder/web-ready/venedig/boende-venedig-budgetrum-santa-croce-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-budgetrum-santa-croce-venedig.jpg",
       "filename": "boende-venedig-budgetrum-santa-croce-venedig.jpg",
       "brief_id": "venedig:boende-venedig:budgetrum-santa-croce",
       "domain": "venedig",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Budgetrum, Santa Croce i Venedig. Bilden visar Budgetrum, Santa Croce i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-venedig-budgetrum-santa-croce-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/boende-venedig-budgetrum-santa-croce-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-budgetrum-santa-croce-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -195,13 +207,16 @@
           "caption": "Budgetrum, Santa Croce i Venedig",
           "description": "En realistisk resebild från Budgetrum, Santa Croce i Venedig. Bilden visar Budgetrum, Santa Croce i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/boende-venedig-budgetrum-santa-croce-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boende-venedig-cannaregio-venedig.png",
-      "file": "bilder/web-ready/venedig/boende-venedig-cannaregio-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-cannaregio-venedig.jpg",
       "filename": "boende-venedig-cannaregio-venedig.jpg",
       "brief_id": "venedig:boende-venedig:cannaregio",
       "domain": "venedig",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Cannaregio, Venedig. Bilden visar Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-venedig-cannaregio-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/boende-venedig-cannaregio-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-cannaregio-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -234,13 +249,16 @@
           "caption": "Cannaregio i Venedig",
           "description": "En realistisk resebild från Cannaregio, Venedig. Bilden visar Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/boende-venedig-cannaregio-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boende-venedig-dorsoduro-venedig.png",
-      "file": "bilder/web-ready/venedig/boende-venedig-dorsoduro-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-dorsoduro-venedig.jpg",
       "filename": "boende-venedig-dorsoduro-venedig.jpg",
       "brief_id": "venedig:boende-venedig:dorsoduro",
       "domain": "venedig",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Dorsoduro, Venedig. Bilden visar Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-venedig-dorsoduro-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/boende-venedig-dorsoduro-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-dorsoduro-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -273,13 +291,16 @@
           "caption": "Dorsoduro i Venedig",
           "description": "En realistisk resebild från Dorsoduro, Venedig. Bilden visar Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/boende-venedig-dorsoduro-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
-      "file": "bilder/web-ready/venedig/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
       "filename": "boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
       "brief_id": "venedig:boende-venedig:lagenhet-vid-kanal-cannaregio",
       "domain": "venedig",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Lägenhet vid kanal, Cannaregio i Venedig. Bilden visar Lägenhet vid kanal, Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -312,13 +333,16 @@
           "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
           "description": "En realistisk resebild från Lägenhet vid kanal, Cannaregio i Venedig. Bilden visar Lägenhet vid kanal, Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/buss-till-piazzale-roma-venedig.png",
-      "file": "bilder/web-ready/venedig/buss-till-piazzale-roma-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\buss-till-piazzale-roma-venedig.jpg",
       "filename": "buss-till-piazzale-roma-venedig.jpg",
       "brief_id": "venedig:resa-till-venedig:buss-till-piazzale-roma",
       "domain": "venedig",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Buss till Piazzale Roma i Venedig. Bilden visar Buss till Piazzale Roma i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/buss-till-piazzale-roma-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/buss-till-piazzale-roma-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\buss-till-piazzale-roma-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/resa-till-venedig/",
           "page_slug": "resa-till-venedig",
@@ -351,13 +375,16 @@
           "caption": "Buss till Piazzale Roma i Venedig",
           "description": "En realistisk resebild från Buss till Piazzale Roma i Venedig. Bilden visar Buss till Piazzale Roma i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/buss-till-piazzale-roma-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cannaregio-basta-allroundvalet-venedig.png",
-      "file": "bilder/web-ready/venedig/cannaregio-basta-allroundvalet-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\cannaregio-basta-allroundvalet-venedig.jpg",
       "filename": "cannaregio-basta-allroundvalet-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:cannaregio-basta-allroundvalet",
       "domain": "venedig",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Cannaregio: bästa allroundvalet i Venedig. Bilden visar Cannaregio: bästa allroundvalet i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cannaregio-basta-allroundvalet-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/cannaregio-basta-allroundvalet-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\cannaregio-basta-allroundvalet-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -390,13 +417,16 @@
           "caption": "Cannaregio: bästa allroundvalet i Venedig",
           "description": "En realistisk resebild från Cannaregio: bästa allroundvalet i Venedig. Bilden visar Cannaregio: bästa allroundvalet i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/cannaregio-basta-allroundvalet-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cannaregio-det-lokala-koket-venedig.png",
-      "file": "bilder/web-ready/venedig/cannaregio-det-lokala-koket-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\cannaregio-det-lokala-koket-venedig.jpg",
       "filename": "cannaregio-det-lokala-koket-venedig.jpg",
       "brief_id": "venedig:restauranger-venedig:cannaregio-det-lokala-koket",
       "domain": "venedig",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Cannaregio — det lokala köket i Venedig. Bilden visar Cannaregio — det lokala köket i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cannaregio-det-lokala-koket-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/cannaregio-det-lokala-koket-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\cannaregio-det-lokala-koket-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/restauranger-venedig/",
           "page_slug": "restauranger-venedig",
@@ -429,13 +459,16 @@
           "caption": "Cannaregio — det lokala köket i Venedig",
           "description": "En realistisk resebild från Cannaregio — det lokala köket i Venedig. Bilden visar Cannaregio — det lokala köket i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/cannaregio-det-lokala-koket-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cannaregio-lokalt-och-prisvart-venedig.png",
-      "file": "bilder/web-ready/venedig/cannaregio-lokalt-och-prisvart-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\cannaregio-lokalt-och-prisvart-venedig.jpg",
       "filename": "cannaregio-lokalt-och-prisvart-venedig.jpg",
       "brief_id": "venedig:hotell-venedig:cannaregio-lokalt-och-prisvart",
       "domain": "venedig",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Cannaregio — lokalt och prisvärt i Venedig. Bilden visar Cannaregio — lokalt och prisvärt i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cannaregio-lokalt-och-prisvart-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/cannaregio-lokalt-och-prisvart-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\cannaregio-lokalt-och-prisvart-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hotell-venedig/",
           "page_slug": "hotell-venedig",
@@ -468,13 +501,16 @@
           "caption": "Cannaregio — lokalt och prisvärt i Venedig",
           "description": "En realistisk resebild från Cannaregio — lokalt och prisvärt i Venedig. Bilden visar Cannaregio — lokalt och prisvärt i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/cannaregio-lokalt-och-prisvart-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/castello-venedig.png",
-      "file": "bilder/web-ready/venedig/castello-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\castello-venedig.jpg",
       "filename": "castello-venedig.jpg",
       "brief_id": "venedig:startsida:castello",
       "domain": "venedig",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från Castello i Venedig. Bilden visar Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/castello-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/castello-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\castello-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -507,13 +543,16 @@
           "caption": "Castello i Venedig",
           "description": "En realistisk resebild från Castello i Venedig. Bilden visar Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/castello-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/centralt-lage-san-marco-venedig.png",
-      "file": "bilder/web-ready/venedig/centralt-lage-san-marco-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\centralt-lage-san-marco-venedig.jpg",
       "filename": "centralt-lage-san-marco-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:centralt-lage-san-marco",
       "domain": "venedig",
@@ -533,7 +572,7 @@
       "seo": "En realistisk resebild från Centralt läge, San Marco i Venedig. Bilden visar Centralt läge, San Marco i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/centralt-lage-san-marco-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/centralt-lage-san-marco-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\centralt-lage-san-marco-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -546,13 +585,16 @@
           "caption": "Centralt läge, San Marco i Venedig",
           "description": "En realistisk resebild från Centralt läge, San Marco i Venedig. Bilden visar Centralt läge, San Marco i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/centralt-lage-san-marco-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.png",
-      "file": "bilder/web-ready/venedig/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
       "filename": "dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
       "brief_id": "venedig:2-dagar-i-venedig:dag-1-ankomst-canal-grande-och-forsta-kvallen",
       "domain": "venedig",
@@ -572,7 +614,7 @@
       "seo": "En realistisk resebild från Dag 1: ankomst, Canal Grande och första kvällen i Venedig. Bilden visar Dag 1: ankomst, Canal Grande och första kvällen i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/2-dagar-i-venedig/",
           "page_slug": "2-dagar-i-venedig",
@@ -585,13 +627,16 @@
           "caption": "Dag 1: ankomst, Canal Grande och första kvällen i Venedig",
           "description": "En realistisk resebild från Dag 1: ankomst, Canal Grande och första kvällen i Venedig. Bilden visar Dag 1: ankomst, Canal Grande och första kvällen i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-1-venedig-cortina-dampezzo-venedig.png",
-      "file": "bilder/web-ready/venedig/dag-1-venedig-cortina-dampezzo-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\dag-1-venedig-cortina-dampezzo-venedig.jpg",
       "filename": "dag-1-venedig-cortina-dampezzo-venedig.jpg",
       "brief_id": "venedig:venedig-dolomiterna-roadtrip:dag-1-venedig-cortina-dampezzo",
       "domain": "venedig",
@@ -611,7 +656,7 @@
       "seo": "En realistisk resebild från Dag 1: Venedig → Cortina d’Ampezzo i Venedig. Bilden visar Dag 1: Venedig → Cortina d’Ampezzo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-1-venedig-cortina-dampezzo-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/dag-1-venedig-cortina-dampezzo-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\dag-1-venedig-cortina-dampezzo-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/venedig-dolomiterna-roadtrip/",
           "page_slug": "venedig-dolomiterna-roadtrip",
@@ -624,13 +669,16 @@
           "caption": "Dag 1: Venedig → Cortina d’Ampezzo i Venedig",
           "description": "En realistisk resebild från Dag 1: Venedig → Cortina d’Ampezzo i Venedig. Bilden visar Dag 1: Venedig → Cortina d’Ampezzo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/dag-1-venedig-cortina-dampezzo-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.png",
-      "file": "bilder/web-ready/venedig/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
       "filename": "dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
       "brief_id": "venedig:venedig-dolomiterna-roadtrip:dag-2-passo-giau-och-tre-cime-di-lavaredo",
       "domain": "venedig",
@@ -650,7 +698,7 @@
       "seo": "En realistisk resebild från Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig. Bilden visar Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/venedig-dolomiterna-roadtrip/",
           "page_slug": "venedig-dolomiterna-roadtrip",
@@ -663,13 +711,16 @@
           "caption": "Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig",
           "description": "En realistisk resebild från Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig. Bilden visar Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.png",
-      "file": "bilder/web-ready/venedig/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
       "filename": "dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
       "brief_id": "venedig:2-dagar-i-venedig:dag-2-san-marco-tidigt-dorsoduro-efter-lunch",
       "domain": "venedig",
@@ -689,7 +740,7 @@
       "seo": "En realistisk resebild från Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig. Bilden visar Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/2-dagar-i-venedig/",
           "page_slug": "2-dagar-i-venedig",
@@ -702,13 +753,16 @@
           "caption": "Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig",
           "description": "En realistisk resebild från Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig. Bilden visar Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-3-lago-di-braies-tillbaka-till-venedig.png",
-      "file": "bilder/web-ready/venedig/dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
       "filename": "dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
       "brief_id": "venedig:venedig-dolomiterna-roadtrip:dag-3-lago-di-braies-tillbaka-till-venedig",
       "domain": "venedig",
@@ -728,7 +782,7 @@
       "seo": "En realistisk resebild från Dag 3: Lago di Braies → tillbaka till Venedig i Venedig. Bilden visar Dag 3: Lago di Braies → tillbaka till Venedig i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-3-lago-di-braies-tillbaka-till-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/venedig-dolomiterna-roadtrip/",
           "page_slug": "venedig-dolomiterna-roadtrip",
@@ -741,13 +795,16 @@
           "caption": "Dag 3: Lago di Braies → tillbaka till Venedig i Venedig",
           "description": "En realistisk resebild från Dag 3: Lago di Braies → tillbaka till Venedig i Venedig. Bilden visar Dag 3: Lago di Braies → tillbaka till Venedig i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/dag-3-lago-di-braies-tillbaka-till-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/familjelagenhet-giudecca-venedig.png",
-      "file": "bilder/web-ready/venedig/familjelagenhet-giudecca-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\familjelagenhet-giudecca-venedig.jpg",
       "filename": "familjelagenhet-giudecca-venedig.jpg",
       "brief_id": "venedig:boende-venedig:familjelagenhet-giudecca",
       "domain": "venedig",
@@ -767,7 +824,7 @@
       "seo": "En realistisk resebild från Familjelägenhet, Giudecca i Venedig. Bilden visar Familjelägenhet, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/familjelagenhet-giudecca-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/familjelagenhet-giudecca-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\familjelagenhet-giudecca-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -780,13 +837,16 @@
           "caption": "Familjelägenhet, Giudecca i Venedig",
           "description": "En realistisk resebild från Familjelägenhet, Giudecca i Venedig. Bilden visar Familjelägenhet, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/familjelagenhet-giudecca-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/giudecca-venedig.png",
-      "file": "bilder/web-ready/venedig/giudecca-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\giudecca-venedig.jpg",
       "filename": "giudecca-venedig.jpg",
       "brief_id": "venedig:boende-venedig:giudecca",
       "domain": "venedig",
@@ -806,7 +866,7 @@
       "seo": "En realistisk resebild från Giudecca i Venedig. Bilden visar Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/giudecca-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/giudecca-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\giudecca-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -819,13 +879,16 @@
           "caption": "Giudecca i Venedig",
           "description": "En realistisk resebild från Giudecca i Venedig. Bilden visar Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/giudecca-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/gondoltur-i-solnedgang-venedig.png",
-      "file": "bilder/web-ready/venedig/gondoltur-i-solnedgang-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\gondoltur-i-solnedgang-venedig.jpg",
       "filename": "gondoltur-i-solnedgang-venedig.jpg",
       "brief_id": "venedig:romantisk-resa-venedig:gondoltur-i-solnedgang",
       "domain": "venedig",
@@ -845,7 +908,7 @@
       "seo": "En realistisk resebild från Gondoltur i solnedgång i Venedig. Bilden visar Gondoltur i solnedgång i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/gondoltur-i-solnedgang-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/gondoltur-i-solnedgang-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\gondoltur-i-solnedgang-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/romantisk-resa-venedig/",
           "page_slug": "romantisk-resa-venedig",
@@ -858,13 +921,16 @@
           "caption": "Gondoltur i solnedgång i Venedig",
           "description": "En realistisk resebild från Gondoltur i solnedgång i Venedig. Bilden visar Gondoltur i solnedgång i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/gondoltur-i-solnedgang-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.png",
-      "file": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
       "filename": "hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:budgetrum-santa-croce",
       "domain": "venedig",
@@ -884,7 +950,7 @@
       "seo": "En realistisk resebild från Budgetrum, Santa Croce i Venedig. Bilden visar Budgetrum, Santa Croce i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -897,13 +963,16 @@
           "caption": "Budgetrum, Santa Croce i Venedig",
           "description": "En realistisk resebild från Budgetrum, Santa Croce i Venedig. Bilden visar Budgetrum, Santa Croce i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
-      "file": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
       "filename": "hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:lagenhet-vid-kanal-cannaregio",
       "domain": "venedig",
@@ -923,7 +992,7 @@
       "seo": "En realistisk resebild från Lägenhet vid kanal, Cannaregio i Venedig. Bilden visar Lägenhet vid kanal, Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -936,13 +1005,16 @@
           "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
           "description": "En realistisk resebild från Lägenhet vid kanal, Cannaregio i Venedig. Bilden visar Lägenhet vid kanal, Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lagenhet-i-castello-venedig.png",
-      "file": "bilder/web-ready/venedig/lagenhet-i-castello-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\lagenhet-i-castello-venedig.jpg",
       "filename": "lagenhet-i-castello-venedig.jpg",
       "brief_id": "venedig:venedig-biennale-boende-castello:lagenhet-i-castello",
       "domain": "venedig",
@@ -962,7 +1034,7 @@
       "seo": "En realistisk resebild från Lägenhet i Castello i Venedig. Bilden visar Lägenhet i Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lagenhet-i-castello-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/lagenhet-i-castello-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\lagenhet-i-castello-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/venedig-biennale-boende-castello/",
           "page_slug": "venedig-biennale-boende-castello",
@@ -975,13 +1047,16 @@
           "caption": "Lägenhet i Castello i Venedig",
           "description": "En realistisk resebild från Lägenhet i Castello i Venedig. Bilden visar Lägenhet i Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/lagenhet-i-castello-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lagenhet-med-utsikt-giudecca-venedig.png",
-      "file": "bilder/web-ready/venedig/lagenhet-med-utsikt-giudecca-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\lagenhet-med-utsikt-giudecca-venedig.jpg",
       "filename": "lagenhet-med-utsikt-giudecca-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:lagenhet-med-utsikt-giudecca",
       "domain": "venedig",
@@ -1001,7 +1076,7 @@
       "seo": "En realistisk resebild från Lägenhet med utsikt, Giudecca i Venedig. Bilden visar Lägenhet med utsikt, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lagenhet-med-utsikt-giudecca-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/lagenhet-med-utsikt-giudecca-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\lagenhet-med-utsikt-giudecca-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -1014,13 +1089,16 @@
           "caption": "Lägenhet med utsikt, Giudecca i Venedig",
           "description": "En realistisk resebild från Lägenhet med utsikt, Giudecca i Venedig. Bilden visar Lägenhet med utsikt, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/lagenhet-med-utsikt-giudecca-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lagenhet-och-rum-i-cannaregio-venedig.png",
-      "file": "bilder/web-ready/venedig/lagenhet-och-rum-i-cannaregio-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\lagenhet-och-rum-i-cannaregio-venedig.jpg",
       "filename": "lagenhet-och-rum-i-cannaregio-venedig.jpg",
       "brief_id": "venedig:cannaregio-venedig-boende:lagenhet-och-rum-i-cannaregio",
       "domain": "venedig",
@@ -1040,7 +1118,7 @@
       "seo": "En realistisk resebild från Lägenhet och rum i Cannaregio i Venedig. Bilden visar Lägenhet och rum i Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lagenhet-och-rum-i-cannaregio-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/lagenhet-och-rum-i-cannaregio-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\lagenhet-och-rum-i-cannaregio-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/cannaregio-venedig-boende/",
           "page_slug": "cannaregio-venedig-boende",
@@ -1053,13 +1131,16 @@
           "caption": "Lägenhet och rum i Cannaregio i Venedig",
           "description": "En realistisk resebild från Lägenhet och rum i Cannaregio i Venedig. Bilden visar Lägenhet och rum i Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/lagenhet-och-rum-i-cannaregio-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lido-di-venezia-strand-och-lugn-venedig.png",
-      "file": "bilder/web-ready/venedig/lido-di-venezia-strand-och-lugn-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\lido-di-venezia-strand-och-lugn-venedig.jpg",
       "filename": "lido-di-venezia-strand-och-lugn-venedig.jpg",
       "brief_id": "venedig:hotell-venedig:lido-di-venezia-strand-och-lugn",
       "domain": "venedig",
@@ -1079,7 +1160,7 @@
       "seo": "En realistisk resebild från Lido di Venezia — strand och lugn i Venedig. Bilden visar Lido di Venezia — strand och lugn i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lido-di-venezia-strand-och-lugn-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/lido-di-venezia-strand-och-lugn-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\lido-di-venezia-strand-och-lugn-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hotell-venedig/",
           "page_slug": "hotell-venedig",
@@ -1092,13 +1173,16 @@
           "caption": "Lido di Venezia — strand och lugn i Venedig",
           "description": "En realistisk resebild från Lido di Venezia — strand och lugn i Venedig. Bilden visar Lido di Venezia — strand och lugn i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/lido-di-venezia-strand-och-lugn-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lido-venedig.png",
-      "file": "bilder/web-ready/venedig/lido-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\lido-venedig.jpg",
       "filename": "lido-venedig.jpg",
       "brief_id": "venedig:boende-venedig:lido",
       "domain": "venedig",
@@ -1118,7 +1202,7 @@
       "seo": "En realistisk resebild från Lido i Venedig. Bilden visar Lido i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lido-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/lido-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\lido-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -1131,13 +1215,16 @@
           "caption": "Lido i Venedig",
           "description": "En realistisk resebild från Lido i Venedig. Bilden visar Lido i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/lido-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mestre-venedig.png",
-      "file": "bilder/web-ready/venedig/mestre-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\mestre-venedig.jpg",
       "filename": "mestre-venedig.jpg",
       "brief_id": "venedig:boende-venedig:mestre",
       "domain": "venedig",
@@ -1157,7 +1244,7 @@
       "seo": "En realistisk resebild från Mestre i Venedig. Bilden visar Mestre i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mestre-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/mestre-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\mestre-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -1170,13 +1257,16 @@
           "caption": "Mestre i Venedig",
           "description": "En realistisk resebild från Mestre i Venedig. Bilden visar Mestre i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/mestre-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/rum-i-castello-nara-biennalen-venedig.png",
-      "file": "bilder/web-ready/venedig/rum-i-castello-nara-biennalen-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\rum-i-castello-nara-biennalen-venedig.jpg",
       "filename": "rum-i-castello-nara-biennalen-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:rum-i-castello-nara-biennalen",
       "domain": "venedig",
@@ -1196,7 +1286,7 @@
       "seo": "En realistisk resebild från Rum i Castello, nära Biennalen i Venedig. Bilden visar Rum i Castello, nära Biennalen i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/rum-i-castello-nara-biennalen-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/rum-i-castello-nara-biennalen-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\rum-i-castello-nara-biennalen-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -1209,13 +1299,16 @@
           "caption": "Rum i Castello, nära Biennalen i Venedig",
           "description": "En realistisk resebild från Rum i Castello, nära Biennalen i Venedig. Bilden visar Rum i Castello, nära Biennalen i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/rum-i-castello-nara-biennalen-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/san-marco-mitt-i-allt-venedig.png",
-      "file": "bilder/web-ready/venedig/san-marco-mitt-i-allt-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\san-marco-mitt-i-allt-venedig.jpg",
       "filename": "san-marco-mitt-i-allt-venedig.jpg",
       "brief_id": "venedig:hotell-venedig:san-marco-mitt-i-allt",
       "domain": "venedig",
@@ -1235,7 +1328,7 @@
       "seo": "En realistisk resebild från San Marco — mitt i allt i Venedig. Bilden visar San Marco — mitt i allt i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/san-marco-mitt-i-allt-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/san-marco-mitt-i-allt-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\san-marco-mitt-i-allt-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hotell-venedig/",
           "page_slug": "hotell-venedig",
@@ -1248,13 +1341,16 @@
           "caption": "San Marco — mitt i allt i Venedig",
           "description": "En realistisk resebild från San Marco — mitt i allt i Venedig. Bilden visar San Marco — mitt i allt i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/san-marco-mitt-i-allt-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/san-marco-och-san-polo-venedig.png",
-      "file": "bilder/web-ready/venedig/san-marco-och-san-polo-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\san-marco-och-san-polo-venedig.jpg",
       "filename": "san-marco-och-san-polo-venedig.jpg",
       "brief_id": "venedig:boende-venedig:san-marco-och-san-polo",
       "domain": "venedig",
@@ -1274,7 +1370,7 @@
       "seo": "En realistisk resebild från San Marco och San Polo i Venedig. Bilden visar San Marco och San Polo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/san-marco-och-san-polo-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/san-marco-och-san-polo-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\san-marco-och-san-polo-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -1287,13 +1383,16 @@
           "caption": "San Marco och San Polo i Venedig",
           "description": "En realistisk resebild från San Marco och San Polo i Venedig. Bilden visar San Marco och San Polo i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/san-marco-och-san-polo-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/san-marco-venedig.png",
-      "file": "bilder/web-ready/venedig/san-marco-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\san-marco-venedig.jpg",
       "filename": "san-marco-venedig.jpg",
       "brief_id": "venedig:startsida:san-marco",
       "domain": "venedig",
@@ -1313,7 +1412,7 @@
       "seo": "En realistisk resebild från San Marco i Venedig. Bilden visar San Marco i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/san-marco-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/san-marco-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\san-marco-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -1326,13 +1425,16 @@
           "caption": "San Marco i Venedig",
           "description": "En realistisk resebild från San Marco i Venedig. Bilden visar San Marco i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/san-marco-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/santa-croce-billigt-och-akta-venedig.png",
-      "file": "bilder/web-ready/venedig/santa-croce-billigt-och-akta-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\santa-croce-billigt-och-akta-venedig.jpg",
       "filename": "santa-croce-billigt-och-akta-venedig.jpg",
       "brief_id": "venedig:restauranger-venedig:santa-croce-billigt-och-akta",
       "domain": "venedig",
@@ -1352,7 +1454,7 @@
       "seo": "En realistisk resebild från Santa Croce — billigt och äkta i Venedig. Bilden visar Santa Croce — billigt och äkta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/santa-croce-billigt-och-akta-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/santa-croce-billigt-och-akta-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\santa-croce-billigt-och-akta-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/restauranger-venedig/",
           "page_slug": "restauranger-venedig",
@@ -1365,13 +1467,16 @@
           "caption": "Santa Croce — billigt och äkta i Venedig",
           "description": "En realistisk resebild från Santa Croce — billigt och äkta i Venedig. Bilden visar Santa Croce — billigt och äkta i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/santa-croce-billigt-och-akta-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/santa-croce-giudecca-och-mestre-venedig.png",
-      "file": "bilder/web-ready/venedig/santa-croce-giudecca-och-mestre-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\santa-croce-giudecca-och-mestre-venedig.jpg",
       "filename": "santa-croce-giudecca-och-mestre-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:santa-croce-giudecca-och-mestre",
       "domain": "venedig",
@@ -1391,7 +1496,7 @@
       "seo": "En realistisk resebild från Santa Croce, Giudecca och Mestre i Venedig. Bilden visar Santa Croce, Giudecca och Mestre i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/santa-croce-giudecca-och-mestre-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/santa-croce-giudecca-och-mestre-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\santa-croce-giudecca-och-mestre-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -1404,13 +1509,16 @@
           "caption": "Santa Croce, Giudecca och Mestre i Venedig",
           "description": "En realistisk resebild från Santa Croce, Giudecca och Mestre i Venedig. Bilden visar Santa Croce, Giudecca och Mestre i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/santa-croce-giudecca-och-mestre-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/santa-croce-och-castello-venedig.png",
-      "file": "bilder/web-ready/venedig/santa-croce-och-castello-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\santa-croce-och-castello-venedig.jpg",
       "filename": "santa-croce-och-castello-venedig.jpg",
       "brief_id": "venedig:boende-venedig:santa-croce-och-castello",
       "domain": "venedig",
@@ -1430,7 +1538,7 @@
       "seo": "En realistisk resebild från Santa Croce och Castello i Venedig. Bilden visar Santa Croce och Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/santa-croce-och-castello-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/santa-croce-och-castello-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\santa-croce-och-castello-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -1443,13 +1551,16 @@
           "caption": "Santa Croce och Castello i Venedig",
           "description": "En realistisk resebild från Santa Croce och Castello i Venedig. Bilden visar Santa Croce och Castello i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/santa-croce-och-castello-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/solnedgang-vid-punta-della-dogana-venedig.png",
-      "file": "bilder/web-ready/venedig/solnedgang-vid-punta-della-dogana-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\solnedgang-vid-punta-della-dogana-venedig.jpg",
       "filename": "solnedgang-vid-punta-della-dogana-venedig.jpg",
       "brief_id": "venedig:romantisk-resa-venedig:solnedgang-vid-punta-della-dogana",
       "domain": "venedig",
@@ -1469,7 +1580,7 @@
       "seo": "En realistisk resebild från Solnedgång vid Punta della Dogana i Venedig. Bilden visar Solnedgång vid Punta della Dogana i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/solnedgang-vid-punta-della-dogana-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/solnedgang-vid-punta-della-dogana-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\solnedgang-vid-punta-della-dogana-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/romantisk-resa-venedig/",
           "page_slug": "romantisk-resa-venedig",
@@ -1482,13 +1593,16 @@
           "caption": "Solnedgång vid Punta della Dogana i Venedig",
           "description": "En realistisk resebild från Solnedgång vid Punta della Dogana i Venedig. Bilden visar Solnedgång vid Punta della Dogana i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/solnedgang-vid-punta-della-dogana-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/startsida-cannaregio-venedig.png",
-      "file": "bilder/web-ready/venedig/startsida-cannaregio-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\startsida-cannaregio-venedig.jpg",
       "filename": "startsida-cannaregio-venedig.jpg",
       "brief_id": "venedig:startsida:cannaregio",
       "domain": "venedig",
@@ -1508,7 +1622,7 @@
       "seo": "En realistisk resebild från Cannaregio, Venedig. Bilden visar Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/startsida-cannaregio-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/startsida-cannaregio-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\startsida-cannaregio-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -1521,13 +1635,16 @@
           "caption": "Cannaregio i Venedig",
           "description": "En realistisk resebild från Cannaregio, Venedig. Bilden visar Cannaregio i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/startsida-cannaregio-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/startsida-dorsoduro-venedig.png",
-      "file": "bilder/web-ready/venedig/startsida-dorsoduro-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\startsida-dorsoduro-venedig.jpg",
       "filename": "startsida-dorsoduro-venedig.jpg",
       "brief_id": "venedig:startsida:dorsoduro",
       "domain": "venedig",
@@ -1547,7 +1664,7 @@
       "seo": "En realistisk resebild från Dorsoduro, Venedig. Bilden visar Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/startsida-dorsoduro-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/startsida-dorsoduro-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\startsida-dorsoduro-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/",
           "page_slug": "startsida",
@@ -1560,13 +1677,16 @@
           "caption": "Dorsoduro i Venedig",
           "description": "En realistisk resebild från Dorsoduro, Venedig. Bilden visar Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/startsida-dorsoduro-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/studio-nara-accademia-dorsoduro-venedig.png",
-      "file": "bilder/web-ready/venedig/studio-nara-accademia-dorsoduro-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\studio-nara-accademia-dorsoduro-venedig.jpg",
       "filename": "studio-nara-accademia-dorsoduro-venedig.jpg",
       "brief_id": "venedig:hyra-lagenhet-rum-venedig:studio-nara-accademia-dorsoduro",
       "domain": "venedig",
@@ -1586,7 +1706,7 @@
       "seo": "En realistisk resebild från Studio nära Accademia, Dorsoduro i Venedig. Bilden visar Studio nära Accademia, Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/studio-nara-accademia-dorsoduro-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/studio-nara-accademia-dorsoduro-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\studio-nara-accademia-dorsoduro-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/hyra-lagenhet-rum-venedig/",
           "page_slug": "hyra-lagenhet-rum-venedig",
@@ -1599,13 +1719,16 @@
           "caption": "Studio nära Accademia, Dorsoduro i Venedig",
           "description": "En realistisk resebild från Studio nära Accademia, Dorsoduro i Venedig. Bilden visar Studio nära Accademia, Dorsoduro i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/studio-nara-accademia-dorsoduro-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/studio-nara-accademia-venedig.png",
-      "file": "bilder/web-ready/venedig/studio-nara-accademia-venedig.jpg",
+      "file": "bilder\\web-ready\\venedig\\redo\\studio-nara-accademia-venedig.jpg",
       "filename": "studio-nara-accademia-venedig.jpg",
       "brief_id": "venedig:boende-venedig:studio-nara-accademia",
       "domain": "venedig",
@@ -1625,7 +1748,7 @@
       "seo": "En realistisk resebild från Studio nära Accademia i Venedig. Bilden visar Studio nära Accademia i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/studio-nara-accademia-venedig.png",
-        "web_ready_file": "bilder/web-ready/venedig/studio-nara-accademia-venedig.jpg",
+        "web_ready_file": "bilder\\web-ready\\venedig\\redo\\studio-nara-accademia-venedig.jpg",
         "wordpress_target": {
           "page_url": "https://venedig.se/boende-venedig/",
           "page_slug": "boende-venedig",
@@ -1638,9 +1761,12 @@
           "caption": "Studio nära Accademia i Venedig",
           "description": "En realistisk resebild från Studio nära Accademia i Venedig. Bilden visar Studio nära Accademia i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\venedig\\redo"
       },
-      "inspection": "bilder/web-ready/venedig/studio-nara-accademia-venedig.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

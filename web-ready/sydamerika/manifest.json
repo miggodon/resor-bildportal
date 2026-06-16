@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/basta-tiden-att-besoka-machu-picchu-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
       "filename": "basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
       "brief_id": "sydamerika:machu-picchu:basta-tiden-att-besoka-machu-picchu",
       "domain": "sydamerika",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Bästa tiden att besöka Machu Picchu i Sydamerika. Bilden visar Bästa tiden att besöka Machu Picchu i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-tiden-att-besoka-machu-picchu-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/machu-picchu/",
           "page_slug": "machu-picchu",
@@ -39,13 +39,16 @@
           "caption": "Bästa tiden att besöka Machu Picchu i Sydamerika",
           "description": "En realistisk resebild från Bästa tiden att besöka Machu Picchu i Sydamerika. Bilden visar Bästa tiden att besöka Machu Picchu i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/basta-tiden-att-besoka-machu-picchu-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/basta-tiden-att-resa-till-galapagos-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
       "filename": "basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
       "brief_id": "sydamerika:galapagos:basta-tiden-att-resa-till-galapagos",
       "domain": "sydamerika",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Bästa tiden att resa till Galápagos i Sydamerika. Bilden visar Bästa tiden att resa till Galápagos i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-tiden-att-resa-till-galapagos-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/galapagos/",
           "page_slug": "galapagos",
@@ -78,13 +81,16 @@
           "caption": "Bästa tiden att resa till Galápagos i Sydamerika",
           "description": "En realistisk resebild från Bästa tiden att resa till Galápagos i Sydamerika. Bilden visar Bästa tiden att resa till Galápagos i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/basta-tiden-att-resa-till-galapagos-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dagstur-till-base-de-las-torres-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/dagstur-till-base-de-las-torres-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\dagstur-till-base-de-las-torres-sydamerika.jpg",
       "filename": "dagstur-till-base-de-las-torres-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:dagstur-till-base-de-las-torres",
       "domain": "sydamerika",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Dagstur till Base de las Torres i Sydamerika. Bilden visar Dagstur till Base de las Torres i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dagstur-till-base-de-las-torres-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/dagstur-till-base-de-las-torres-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\dagstur-till-base-de-las-torres-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -117,13 +123,16 @@
           "caption": "Dagstur till Base de las Torres i Sydamerika",
           "description": "En realistisk resebild från Dagstur till Base de las Torres i Sydamerika. Bilden visar Dagstur till Base de las Torres i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/dagstur-till-base-de-las-torres-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/garganta-del-diablo-devils-throat-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/garganta-del-diablo-devils-throat-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\garganta-del-diablo-devils-throat-sydamerika.jpg",
       "filename": "garganta-del-diablo-devils-throat-sydamerika.jpg",
       "brief_id": "sydamerika:iguazu:garganta-del-diablo-devils-throat",
       "domain": "sydamerika",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Garganta del Diablo — Devil’s Throat i Sydamerika. Bilden visar Garganta del Diablo — Devil’s Throat i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/garganta-del-diablo-devils-throat-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/garganta-del-diablo-devils-throat-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\garganta-del-diablo-devils-throat-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/iguazu/",
           "page_slug": "iguazu",
@@ -156,13 +165,16 @@
           "caption": "Garganta del Diablo — Devil’s Throat i Sydamerika",
           "description": "En realistisk resebild från Garganta del Diablo — Devil’s Throat i Sydamerika. Bilden visar Garganta del Diablo — Devil’s Throat i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/garganta-del-diablo-devils-throat-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/gransen-mellan-argentina-och-brasilien-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
       "filename": "gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
       "brief_id": "sydamerika:iguazu:gransen-mellan-argentina-och-brasilien",
       "domain": "sydamerika",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Gränsen mellan Argentina och Brasilien i Sydamerika. Bilden visar Gränsen mellan Argentina och Brasilien i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/gransen-mellan-argentina-och-brasilien-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/iguazu/",
           "page_slug": "iguazu",
@@ -195,13 +207,16 @@
           "caption": "Gränsen mellan Argentina och Brasilien i Sydamerika",
           "description": "En realistisk resebild från Gränsen mellan Argentina och Brasilien i Sydamerika. Bilden visar Gränsen mellan Argentina och Brasilien i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/gransen-mellan-argentina-och-brasilien-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hojdsjuka-cusco-och-ruinerna-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
       "filename": "hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
       "brief_id": "sydamerika:machu-picchu:hojdsjuka-cusco-och-ruinerna",
       "domain": "sydamerika",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Höjdsjuka — Cusco och ruinerna i Sydamerika. Bilden visar Höjdsjuka — Cusco och ruinerna i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hojdsjuka-cusco-och-ruinerna-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/machu-picchu/",
           "page_slug": "machu-picchu",
@@ -234,13 +249,16 @@
           "caption": "Höjdsjuka — Cusco och ruinerna i Sydamerika",
           "description": "En realistisk resebild från Höjdsjuka — Cusco och ruinerna i Sydamerika. Bilden visar Höjdsjuka — Cusco och ruinerna i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/hojdsjuka-cusco-och-ruinerna-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/inca-trail-vs-salkantay-vs-dagstur-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
       "filename": "inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
       "brief_id": "sydamerika:machu-picchu:inca-trail-vs-salkantay-vs-dagstur",
       "domain": "sydamerika",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Inca Trail vs Salkantay vs dagstur i Sydamerika. Bilden visar Inca Trail vs Salkantay vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/inca-trail-vs-salkantay-vs-dagstur-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/machu-picchu/",
           "page_slug": "machu-picchu",
@@ -273,13 +291,16 @@
           "caption": "Inca Trail vs Salkantay vs dagstur i Sydamerika",
           "description": "En realistisk resebild från Inca Trail vs Salkantay vs dagstur i Sydamerika. Bilden visar Inca Trail vs Salkantay vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kombinera-uyuni-med-atacama-chile-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
       "filename": "kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
       "brief_id": "sydamerika:salar-de-uyuni:kombinera-uyuni-med-atacama-chile",
       "domain": "sydamerika",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Kombinera Uyuni med Atacama (Chile) i Sydamerika. Bilden visar Kombinera Uyuni med Atacama (Chile) i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kombinera-uyuni-med-atacama-chile-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/salar-de-uyuni/",
           "page_slug": "salar-de-uyuni",
@@ -312,13 +333,16 @@
           "caption": "Kombinera Uyuni med Atacama (Chile) i Sydamerika",
           "description": "En realistisk resebild från Kombinera Uyuni med Atacama (Chile) i Sydamerika. Bilden visar Kombinera Uyuni med Atacama (Chile) i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/kombinera-uyuni-med-atacama-chile-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/leticia-rurrenabaque-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/leticia-rurrenabaque-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\leticia-rurrenabaque-sydamerika.jpg",
       "filename": "leticia-rurrenabaque-sydamerika.jpg",
       "brief_id": "sydamerika:amazonas:leticia-rurrenabaque",
       "domain": "sydamerika",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Leticia & 🇧🇴 Rurrenabaque i Sydamerika. Bilden visar Leticia & 🇧🇴 Rurrenabaque i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/leticia-rurrenabaque-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/leticia-rurrenabaque-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\leticia-rurrenabaque-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/amazonas/",
           "page_slug": "amazonas",
@@ -351,13 +375,16 @@
           "caption": "Leticia & 🇧🇴 Rurrenabaque i Sydamerika",
           "description": "En realistisk resebild från Leticia & 🇧🇴 Rurrenabaque i Sydamerika. Bilden visar Leticia & 🇧🇴 Rurrenabaque i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/leticia-rurrenabaque-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/manaus-brasiliens-klassiska-ingang-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
       "filename": "manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
       "brief_id": "sydamerika:amazonas:manaus-brasiliens-klassiska-ingang",
       "domain": "sydamerika",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Manaus — Brasiliens klassiska ingång i Sydamerika. Bilden visar Manaus — Brasiliens klassiska ingång i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/manaus-brasiliens-klassiska-ingang-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/amazonas/",
           "page_slug": "amazonas",
@@ -390,13 +417,16 @@
           "caption": "Manaus — Brasiliens klassiska ingång i Sydamerika",
           "description": "En realistisk resebild från Manaus — Brasiliens klassiska ingång i Sydamerika. Bilden visar Manaus — Brasiliens klassiska ingång i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/manaus-brasiliens-klassiska-ingang-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/patagonien-pa-kartan-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/patagonien-pa-kartan-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\patagonien-pa-kartan-sydamerika.jpg",
       "filename": "patagonien-pa-kartan-sydamerika.jpg",
       "brief_id": "sydamerika:patagonien:patagonien-pa-kartan",
       "domain": "sydamerika",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Patagonien på kartan i Sydamerika. Bilden visar Patagonien på kartan i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/patagonien-pa-kartan-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/patagonien-pa-kartan-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\patagonien-pa-kartan-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/patagonien/",
           "page_slug": "patagonien",
@@ -429,13 +459,16 @@
           "caption": "Patagonien på kartan i Sydamerika",
           "description": "En realistisk resebild från Patagonien på kartan i Sydamerika. Bilden visar Patagonien på kartan i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/patagonien-pa-kartan-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/perito-moreno-glaciar-fran-el-calafate-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
       "filename": "perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
       "brief_id": "sydamerika:patagonien:perito-moreno-glaciar-fran-el-calafate",
       "domain": "sydamerika",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Perito Moreno — glaciär från El Calafate i Sydamerika. Bilden visar Perito Moreno — glaciär från El Calafate i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/perito-moreno-glaciar-fran-el-calafate-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/patagonien/",
           "page_slug": "patagonien",
@@ -468,13 +501,16 @@
           "caption": "Perito Moreno — glaciär från El Calafate i Sydamerika",
           "description": "En realistisk resebild från Perito Moreno — glaciär från El Calafate i Sydamerika. Bilden visar Perito Moreno — glaciär från El Calafate i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/peru-iquitos-vs-sodra-amazonas-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
       "filename": "peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
       "brief_id": "sydamerika:amazonas:peru-iquitos-vs-sodra-amazonas",
       "domain": "sydamerika",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från Peru — Iquitos vs södra Amazonas i Sydamerika. Bilden visar Peru — Iquitos vs södra Amazonas i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/peru-iquitos-vs-sodra-amazonas-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/amazonas/",
           "page_slug": "amazonas",
@@ -507,13 +543,16 @@
           "caption": "Peru — Iquitos vs södra Amazonas i Sydamerika",
           "description": "En realistisk resebild från Peru — Iquitos vs södra Amazonas i Sydamerika. Bilden visar Peru — Iquitos vs södra Amazonas i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/peru-iquitos-vs-sodra-amazonas-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/puerto-natales-bas-fore-och-efter-trek-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
       "filename": "puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:puerto-natales-bas-fore-och-efter-trek",
       "domain": "sydamerika",
@@ -533,7 +572,7 @@
       "seo": "En realistisk resebild från Puerto Natales — bas före och efter trek i Sydamerika. Bilden visar Puerto Natales — bas före och efter trek i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/puerto-natales-bas-fore-och-efter-trek-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -546,13 +585,16 @@
           "caption": "Puerto Natales — bas före och efter trek i Sydamerika",
           "description": "En realistisk resebild från Puerto Natales — bas före och efter trek i Sydamerika. Bilden visar Puerto Natales — bas före och efter trek i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
       "filename": "sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
       "brief_id": "sydamerika:galapagos:sa-tar-du-dig-till-galapagos-steg-for-steg",
       "domain": "sydamerika",
@@ -572,7 +614,7 @@
       "seo": "En realistisk resebild från Så tar du dig till Galápagos — steg för steg i Sydamerika. Bilden visar Så tar du dig till Galápagos — steg för steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/galapagos/",
           "page_slug": "galapagos",
@@ -585,13 +627,16 @@
           "caption": "Så tar du dig till Galápagos — steg för steg i Sydamerika",
           "description": "En realistisk resebild från Så tar du dig till Galápagos — steg för steg i Sydamerika. Bilden visar Så tar du dig till Galápagos — steg för steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sa-tar-du-dig-till-uyuni-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-uyuni-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-dig-till-uyuni-sydamerika.jpg",
       "filename": "sa-tar-du-dig-till-uyuni-sydamerika.jpg",
       "brief_id": "sydamerika:salar-de-uyuni:sa-tar-du-dig-till-uyuni",
       "domain": "sydamerika",
@@ -611,7 +656,7 @@
       "seo": "En realistisk resebild från Så tar du dig till Uyuni i Sydamerika. Bilden visar Så tar du dig till Uyuni i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sa-tar-du-dig-till-uyuni-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-uyuni-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-dig-till-uyuni-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/salar-de-uyuni/",
           "page_slug": "salar-de-uyuni",
@@ -624,13 +669,16 @@
           "caption": "Så tar du dig till Uyuni i Sydamerika",
           "description": "En realistisk resebild från Så tar du dig till Uyuni i Sydamerika. Bilden visar Så tar du dig till Uyuni i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/sa-tar-du-dig-till-uyuni-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
       "filename": "sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
       "brief_id": "sydamerika:machu-picchu:sa-tar-du-sig-till-machu-picchu-steg-for-steg",
       "domain": "sydamerika",
@@ -650,7 +698,7 @@
       "seo": "En realistisk resebild från Så tar du sig till Machu Picchu — steg för steg i Sydamerika. Bilden visar Så tar du sig till Machu Picchu — steg för steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/machu-picchu/",
           "page_slug": "machu-picchu",
@@ -663,13 +711,16 @@
           "caption": "Så tar du sig till Machu Picchu — steg för steg i Sydamerika",
           "description": "En realistisk resebild från Så tar du sig till Machu Picchu — steg för steg i Sydamerika. Bilden visar Så tar du sig till Machu Picchu — steg för steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/torres-del-paine-w-trek-vs-dagstur-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
       "filename": "torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
       "brief_id": "sydamerika:patagonien:torres-del-paine-w-trek-vs-dagstur",
       "domain": "sydamerika",
@@ -689,7 +740,7 @@
       "seo": "En realistisk resebild från Torres del Paine — W-trek vs dagstur i Sydamerika. Bilden visar Torres del Paine — W-trek vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/torres-del-paine-w-trek-vs-dagstur-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/patagonien/",
           "page_slug": "patagonien",
@@ -702,13 +753,16 @@
           "caption": "Torres del Paine — W-trek vs dagstur i Sydamerika",
           "description": "En realistisk resebild från Torres del Paine — W-trek vs dagstur i Sydamerika. Bilden visar Torres del Paine — W-trek vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vilken-amazonas-fem-ingangar-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/vilken-amazonas-fem-ingangar-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\vilken-amazonas-fem-ingangar-sydamerika.jpg",
       "filename": "vilken-amazonas-fem-ingangar-sydamerika.jpg",
       "brief_id": "sydamerika:amazonas:vilken-amazonas-fem-ingangar",
       "domain": "sydamerika",
@@ -728,7 +782,7 @@
       "seo": "En realistisk resebild från Vilken Amazonas? — fem ingångar i Sydamerika. Bilden visar Vilken Amazonas? — fem ingångar i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/vilken-amazonas-fem-ingangar-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/vilken-amazonas-fem-ingangar-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\vilken-amazonas-fem-ingangar-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/amazonas/",
           "page_slug": "amazonas",
@@ -741,13 +795,16 @@
           "caption": "Vilken Amazonas? — fem ingångar i Sydamerika",
           "description": "En realistisk resebild från Vilken Amazonas? — fem ingångar i Sydamerika. Bilden visar Vilken Amazonas? — fem ingångar i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/vilken-amazonas-fem-ingangar-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/wayna-picchu-vs-machu-picchu-mountain-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
+      "file": "bilder\\web-ready\\sydamerika\\redo\\wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
       "filename": "wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
       "brief_id": "sydamerika:machu-picchu:wayna-picchu-vs-machu-picchu-mountain",
       "domain": "sydamerika",
@@ -767,7 +824,7 @@
       "seo": "En realistisk resebild från Wayna Picchu vs Machu Picchu Mountain i Sydamerika. Bilden visar Wayna Picchu vs Machu Picchu Mountain i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/wayna-picchu-vs-machu-picchu-mountain-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
+        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/machu-picchu/",
           "page_slug": "machu-picchu",
@@ -780,9 +837,12 @@
           "caption": "Wayna Picchu vs Machu Picchu Mountain i Sydamerika",
           "description": "En realistisk resebild från Wayna Picchu vs Machu Picchu Mountain i Sydamerika. Bilden visar Wayna Picchu vs Machu Picchu Mountain i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

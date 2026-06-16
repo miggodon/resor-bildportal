@@ -1,6 +1,123 @@
 [
   {
     "domain": "malaga",
+    "id": 546,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/street-art-tur-i-soho-malaga-1.jpg",
+    "filename": "street-art-tur-i-soho-malaga-1.jpg",
+    "alt": "🎭 Street Art-tur i Soho i Málaga med människor och realistisk resemiljö",
+    "caption": "🎭 Street Art-tur i Soho i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 545,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/skateparken-vid-stranden-malaga-1.jpg",
+    "filename": "skateparken-vid-stranden-malaga-1.jpg",
+    "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
+    "caption": "🛹 Skateparken vid stranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 544,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/sendero-rio-chillar-nerja-malaga-1.jpg",
+    "filename": "sendero-rio-chillar-nerja-malaga-1.jpg",
+    "alt": "Sendero Río Chillar (Nerja) i Málaga med människor och realistisk resemiljö",
+    "caption": "Sendero Río Chillar (Nerja) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 543,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/montes-de-malaga-naturpark-malaga-1.jpg",
+    "filename": "montes-de-malaga-naturpark-malaga-1.jpg",
+    "alt": "Montes de Málaga naturpark i Málaga med människor och realistisk resemiljö",
+    "caption": "Montes de Málaga naturpark i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 542,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/laser-tag-och-bowling-malaga-1.jpg",
+    "filename": "laser-tag-och-bowling-malaga-1.jpg",
+    "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
+    "caption": "🎳 Laser tag och bowling i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 541,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/escape-rooms-malaga-1.jpg",
+    "filename": "escape-rooms-malaga-1.jpg",
+    "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
+    "caption": "🏰 Escape rooms i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 540,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dagsutflykt-ronda-malaga-1.jpg",
+    "filename": "dagsutflykt-ronda-malaga-1.jpg",
+    "alt": "🗺️ Dagsutflykt: Ronda i Málaga med människor och realistisk resemiljö",
+    "caption": "🗺️ Dagsutflykt: Ronda i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 539,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/alternativ-3-tag-buss-malaga-1.jpg",
+    "filename": "alternativ-3-tag-buss-malaga-1.jpg",
+    "alt": "Alternativ 3 — Tåg + buss i Málaga med människor och realistisk resemiljö",
+    "caption": "Alternativ 3 — Tåg + buss i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 538,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/alternativ-2-guidad-tur-enklast-malaga-1.jpg",
+    "filename": "alternativ-2-guidad-tur-enklast-malaga-1.jpg",
+    "alt": "Alternativ 2 — Guidad tur (enklast) i Málaga med människor och realistisk resemiljö",
+    "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
     "id": 537,
     "url": "https://malaga.se/wp-content/uploads/2026/06/street-art-tur-i-soho-malaga.jpg",
     "filename": "street-art-tur-i-soho-malaga.jpg",
@@ -1816,6 +1933,188 @@
   },
   {
     "domain": "rhodos",
+    "id": 413,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/vinprovning-i-embonas-vid-solnedgangen-rhodos-1.jpg",
+    "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos-1.jpg",
+    "alt": "Vinprovning i Embonas vid solnedgången i Rhodos med människor och realistisk resemiljö",
+    "caption": "Vinprovning i Embonas vid solnedgången i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 412,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos-1.jpg",
+    "filename": "st-pauls-bay-i-lindos-det-ultimata-ceremonilaget-rhodos-1.jpg",
+    "alt": "St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos med människor och realistisk resemiljö",
+    "caption": "St Paul’s Bay i Lindos — det ultimata ceremoniläget i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 411,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/solbadare-juliaugusti-rhodos-1.jpg",
+    "filename": "solbadare-juliaugusti-rhodos-1.jpg",
+    "alt": "Solbadare: Juli–Augusti i Rhodos med människor och realistisk resemiljö",
+    "caption": "Solbadare: Juli–Augusti i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 410,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/rodos-park-suites-spa-rhodos-stad-rhodos-1.jpg",
+    "filename": "rodos-park-suites-spa-rhodos-stad-rhodos-1.jpg",
+    "alt": "Rodos Park Suites & Spa – Rhodos stad i Rhodos med människor och realistisk resemiljö",
+    "caption": "Rodos Park Suites &#038; Spa – Rhodos stad i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 409,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/privat-solnedgangskryssning-rhodos-1.jpg",
+    "filename": "privat-solnedgangskryssning-rhodos-1.jpg",
+    "alt": "Privat solnedgångskryssning i Rhodos med människor och realistisk resemiljö",
+    "caption": "Privat solnedgångskryssning i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 408,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/prisjagare-april-oktober-november-rhodos-1.jpg",
+    "filename": "prisjagare-april-oktober-november-rhodos-1.jpg",
+    "alt": "Prisjägare: April, Oktober, November i Rhodos med människor och realistisk resemiljö",
+    "caption": "Prisjägare: April, Oktober, November i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 407,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/par-romantiker-maj-september-oktober-rhodos-1.jpg",
+    "filename": "par-romantiker-maj-september-oktober-rhodos-1.jpg",
+    "alt": "Par & romantiker: Maj, September, Oktober i Rhodos med människor och realistisk resemiljö",
+    "caption": "Par &#038; romantiker: Maj, September, Oktober i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 406,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/middag-pa-mavrikos-i-lindos-rhodos-1.jpg",
+    "filename": "middag-pa-mavrikos-i-lindos-rhodos-1.jpg",
+    "alt": "Middag på Mavrikos i Lindos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Middag på Mavrikos i Lindos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 405,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/melenos-lindos-12-rum-i-byn-rhodos-1.jpg",
+    "filename": "melenos-lindos-12-rum-i-byn-rhodos-1.jpg",
+    "alt": "Melenos Lindos — 12 rum i byn i Rhodos med människor och realistisk resemiljö",
+    "caption": "Melenos Lindos — 12 rum i byn i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 404,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos-1.jpg",
+    "filename": "marco-polo-mansion-ottomansk-herrgard-i-gamla-stan-rhodos-1.jpg",
+    "alt": "Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos med människor och realistisk resemiljö",
+    "caption": "Marco Polo Mansion — ottomansk herrgård i Gamla Stan i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 403,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/lindos-blu-adults-only-med-infinity-pool-rhodos-1.jpg",
+    "filename": "lindos-blu-adults-only-med-infinity-pool-rhodos-1.jpg",
+    "alt": "Lindos Blu — adults-only med infinity pool i Rhodos med människor och realistisk resemiljö",
+    "caption": "Lindos Blu — adults-only med infinity pool i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 402,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/lindos-akropolis-solnedgangsvigsel-rhodos-1.jpg",
+    "filename": "lindos-akropolis-solnedgangsvigsel-rhodos-1.jpg",
+    "alt": "Lindos Akropolis solnedgångsvigsel i Rhodos med människor och realistisk resemiljö",
+    "caption": "Lindos Akropolis solnedgångsvigsel i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 401,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos-1.jpg",
+    "filename": "casa-cook-rhodes-modern-lyx-vid-kolymbia-rhodos-1.jpg",
+    "alt": "Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos med människor och realistisk resemiljö",
+    "caption": "Casa Cook Rhodes — modern lyx vid Kolymbia i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 400,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/barnfamiljer-juni-september-rhodos-1.jpg",
+    "filename": "barnfamiljer-juni-september-rhodos-1.jpg",
+    "alt": "Barnfamiljer: Juni & September i Rhodos med människor och realistisk resemiljö",
+    "caption": "Barnfamiljer: Juni &#038; September i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
     "id": 389,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/vattenparken-i-faliraki-halvdagen-som-funkar-rhodos.jpg",
     "filename": "vattenparken-i-faliraki-halvdagen-som-funkar-rhodos.jpg",
@@ -3401,6 +3700,32 @@
   },
   {
     "domain": "korfu",
+    "id": 356,
+    "url": "https://korfu.se/wp-content/uploads/2026/06/bella-venezia-charm-i-gamla-stan-korfu-1.jpg",
+    "filename": "bella-venezia-charm-i-gamla-stan-korfu-1.jpg",
+    "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
+    "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "korfu",
+    "id": 355,
+    "url": "https://korfu.se/wp-content/uploads/2026/06/arcadion-hotel-basta-lage-i-gamla-stan-korfu-1.jpg",
+    "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu-1.jpg",
+    "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
+    "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "korfu",
     "id": 354,
     "url": "https://korfu.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -4219,6 +4544,175 @@
         "link": "https://korfu.se/"
       }
     ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 487,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/torremolinos-centrum-alternativ-torremolinos-1.jpg",
+    "filename": "torremolinos-centrum-alternativ-torremolinos-1.jpg",
+    "alt": "Torremolinos centrum – alternativ i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Torremolinos centrum – alternativ i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 486,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-torremolinos-1.jpg",
+    "filename": "sierra-de-las-nieves-torremolinos-1.jpg",
+    "alt": "Sierra de las Nieves i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 485,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-nationalpark-torremolinos-1.jpg",
+    "filename": "sierra-de-las-nieves-nationalpark-torremolinos-1.jpg",
+    "alt": "Sierra de las Nieves nationalpark i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves nationalpark i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 484,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/paseo-maritimo-strandpromenaden-torremolinos-1.jpg",
+    "filename": "paseo-maritimo-strandpromenaden-torremolinos-1.jpg",
+    "alt": "Paseo Marítimo (strandpromenaden) i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 483,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/montes-de-malaga-torremolinos-1.jpg",
+    "filename": "montes-de-malaga-torremolinos-1.jpg",
+    "alt": "Montes de Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Montes de Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 482,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-pueblo-runt-torremolinos-1.jpg",
+    "filename": "mijas-pueblo-runt-torremolinos-1.jpg",
+    "alt": "Mijas Pueblo runt i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas Pueblo runt i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 481,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-och-bergsbyarna-torremolinos-1.jpg",
+    "filename": "mijas-och-bergsbyarna-torremolinos-1.jpg",
+    "alt": "Mijas och bergsbyarna i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas och bergsbyarna i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 480,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/malaga-torremolinos-1.jpg",
+    "filename": "malaga-torremolinos-1.jpg",
+    "alt": "Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 479,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/la-carihuela-torremolinos-1.jpg",
+    "filename": "la-carihuela-torremolinos-1.jpg",
+    "alt": "La Carihuela i Torremolinos med människor och realistisk resemiljö",
+    "caption": "La Carihuela i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 478,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/forbokad-transfer-forutsagbart-torremolinos-2.jpg",
+    "filename": "forbokad-transfer-forutsagbart-torremolinos-2.jpg",
+    "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 477,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/benalmadena-torremolinos-2.jpg",
+    "filename": "benalmadena-torremolinos-2.jpg",
+    "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Benalmádena i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 476,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/forbokad-transfer-forutsagbart-torremolinos-1.jpg",
+    "filename": "forbokad-transfer-forutsagbart-torremolinos-1.jpg",
+    "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 475,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/benalmadena-torremolinos-1.jpg",
+    "filename": "benalmadena-torremolinos-1.jpg",
+    "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Benalmádena i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -10244,6 +10738,304 @@
   },
   {
     "domain": "lanzarote",
+    "id": 805,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/vilken-dag-ska-timanfaya-ligga-lanzarote-1.jpg",
+    "filename": "vilken-dag-ska-timanfaya-ligga-lanzarote-1.jpg",
+    "alt": "Vilken dag ska Timanfaya ligga? i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Vilken dag ska Timanfaya ligga? i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 804,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote-1.jpg",
+    "filename": "sol-lanzarote-puerto-del-carmen-matagorda-lanzarote-1.jpg",
+    "alt": "Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 803,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/ska-man-gora-la-graciosa-lanzarote-1.jpg",
+    "filename": "ska-man-gora-la-graciosa-lanzarote-1.jpg",
+    "alt": "Ska man göra La Graciosa? i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Ska man göra La Graciosa? i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 802,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/sandos-papagayo-beach-resort-playa-blanca-lanzarote-1.jpg",
+    "filename": "sandos-papagayo-beach-resort-playa-blanca-lanzarote-1.jpg",
+    "alt": "Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 800,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/racker-en-vecka-pa-lanzarote-1.jpg",
+    "filename": "racker-en-vecka-pa-lanzarote-1.jpg",
+    "alt": "Räcker en vecka på Lanzarote? i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Räcker en vecka på Lanzarote? i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 799,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote-1.jpg",
+    "filename": "princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote-1.jpg",
+    "alt": "Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 797,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/pensionarer-lanzarote-1.jpg",
+    "filename": "pensionarer-lanzarote-1.jpg",
+    "alt": "Pensionärer i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Pensionärer i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 796,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/lanis-suites-de-luxe-puerto-del-carmen-lanzarote-1.jpg",
+    "filename": "lanis-suites-de-luxe-puerto-del-carmen-lanzarote-1.jpg",
+    "alt": "Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 795,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/kan-man-bada-pa-lanzarote-i-januari-lanzarote-1.jpg",
+    "filename": "kan-man-bada-pa-lanzarote-i-januari-lanzarote-1.jpg",
+    "alt": "Kan man bada på Lanzarote i januari? i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Kan man bada på Lanzarote i januari? i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 794,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/kan-man-bada-pa-lanzarote-aret-runt-lanzarote-1.jpg",
+    "filename": "kan-man-bada-pa-lanzarote-aret-runt-lanzarote-1.jpg",
+    "alt": "Kan man bada på Lanzarote året runt? i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Kan man bada på Lanzarote året runt? i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 793,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/hotel-fariones-puerto-del-carmen-lanzarote-1.jpg",
+    "filename": "hotel-fariones-puerto-del-carmen-lanzarote-1.jpg",
+    "alt": "Hotel Fariones — Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Hotel Fariones — Puerto del Carmen i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 792,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/h10-timanfaya-palace-playa-blanca-lanzarote-1.jpg",
+    "filename": "h10-timanfaya-palace-playa-blanca-lanzarote-1.jpg",
+    "alt": "H10 Timanfaya Palace — Playa Blanca i Lanzarote med människor och realistisk resemiljö",
+    "caption": "H10 Timanfaya Palace — Playa Blanca i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 791,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/h10-rubicon-palace-playa-blanca-lanzarote-1.jpg",
+    "filename": "h10-rubicon-palace-playa-blanca-lanzarote-1.jpg",
+    "alt": "H10 Rubicón Palace — Playa Blanca i Lanzarote med människor och realistisk resemiljö",
+    "caption": "H10 Rubicón Palace — Playa Blanca i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 789,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/for-surf-foto-lanzarote-1.jpg",
+    "filename": "for-surf-foto-lanzarote-1.jpg",
+    "alt": "För surf/foto i Lanzarote med människor och realistisk resemiljö",
+    "caption": "För surf/foto i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 788,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/for-strand-lanzarote-1.jpg",
+    "filename": "for-strand-lanzarote-1.jpg",
+    "alt": "För strand i Lanzarote med människor och realistisk resemiljö",
+    "caption": "För strand i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 787,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/barcelo-teguise-beach-costa-teguise-lanzarote-1.jpg",
+    "filename": "barcelo-teguise-beach-costa-teguise-lanzarote-1.jpg",
+    "alt": "Barceló Teguise Beach — Costa Teguise i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Barceló Teguise Beach — Costa Teguise i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 786,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/arrecife-gran-hotel-spa-arrecife-lanzarote-1.jpg",
+    "filename": "arrecife-gran-hotel-spa-arrecife-lanzarote-1.jpg",
+    "alt": "Arrecife Gran Hotel & Spa — Arrecife i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Arrecife Gran Hotel &#038; Spa — Arrecife i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 785,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/aqua-suites-puerto-del-carmen-lanzarote-1.jpg",
+    "filename": "aqua-suites-puerto-del-carmen-lanzarote-1.jpg",
+    "alt": "Aqua Suites — Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Aqua Suites — Puerto del Carmen i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 784,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote-1.jpg",
+    "filename": "apartamentos-livvo-morromar-puerto-del-carmen-lanzarote-1.jpg",
+    "alt": "Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 783,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote-1.jpg",
+    "filename": "7-dagar-pa-lanzarote-utan-hyrbil-lanzarote-1.jpg",
+    "alt": "Utan hyrbil i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Utan hyrbil i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lanzarote",
+    "id": 781,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/7-dagar-pa-lanzarote-par-lanzarote-1.jpg",
+    "filename": "7-dagar-pa-lanzarote-par-lanzarote-1.jpg",
+    "alt": "Par i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Par i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
     "id": 780,
     "url": "https://lanzarote.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -13522,6 +14314,32 @@
   },
   {
     "domain": "fuerteventura",
+    "id": 534,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura-1.jpg",
+    "filename": "7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura-1.jpg",
+    "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
+    "caption": "Boka din resa i Fuerteventura",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "fuerteventura",
+    "id": 533,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura-1.jpg",
+    "filename": "5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura-1.jpg",
+    "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
+    "caption": "Boka din resa i Fuerteventura",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "fuerteventura",
     "id": 532,
     "url": "https://fuerteventura.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -15170,6 +15988,782 @@
   },
   {
     "domain": "venedig",
+    "id": 228,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/studio-nara-accademia-venedig.jpg",
+    "filename": "studio-nara-accademia-venedig.jpg",
+    "alt": "Studio nära Accademia i Venedig med människor och realistisk resemiljö",
+    "caption": "Studio nära Accademia i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 226,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/studio-nara-accademia-dorsoduro-venedig.jpg",
+    "filename": "studio-nara-accademia-dorsoduro-venedig.jpg",
+    "alt": "Studio nära Accademia, Dorsoduro i Venedig med människor och realistisk resemiljö",
+    "caption": "Studio nära Accademia, Dorsoduro i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 224,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-dorsoduro-venedig.jpg",
+    "filename": "startsida-dorsoduro-venedig.jpg",
+    "alt": "Dorsoduro i Venedig med människor och realistisk resemiljö",
+    "caption": "Dorsoduro i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 222,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-cannaregio-venedig.jpg",
+    "filename": "startsida-cannaregio-venedig.jpg",
+    "alt": "Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 220,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/solnedgang-vid-punta-della-dogana-venedig.jpg",
+    "filename": "solnedgang-vid-punta-della-dogana-venedig.jpg",
+    "alt": "Solnedgång vid Punta della Dogana i Venedig med människor och realistisk resemiljö",
+    "caption": "Solnedgång vid Punta della Dogana i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "romantisk-resa-venedig",
+        "link": "https://venedig.se/romantisk-resa-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 218,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/santa-croce-och-castello-venedig.jpg",
+    "filename": "santa-croce-och-castello-venedig.jpg",
+    "alt": "Santa Croce och Castello i Venedig med människor och realistisk resemiljö",
+    "caption": "Santa Croce och Castello i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 216,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/santa-croce-giudecca-och-mestre-venedig.jpg",
+    "filename": "santa-croce-giudecca-och-mestre-venedig.jpg",
+    "alt": "Santa Croce, Giudecca och Mestre i Venedig med människor och realistisk resemiljö",
+    "caption": "Santa Croce, Giudecca och Mestre i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 214,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/santa-croce-billigt-och-akta-venedig.jpg",
+    "filename": "santa-croce-billigt-och-akta-venedig.jpg",
+    "alt": "Santa Croce — billigt och äkta i Venedig med människor och realistisk resemiljö",
+    "caption": "Santa Croce — billigt och äkta i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "restauranger-venedig",
+        "link": "https://venedig.se/restauranger-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 212,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/san-marco-venedig.jpg",
+    "filename": "san-marco-venedig.jpg",
+    "alt": "San Marco i Venedig med människor och realistisk resemiljö",
+    "caption": "San Marco i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      },
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 210,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/san-marco-och-san-polo-venedig.jpg",
+    "filename": "san-marco-och-san-polo-venedig.jpg",
+    "alt": "San Marco och San Polo i Venedig med människor och realistisk resemiljö",
+    "caption": "San Marco och San Polo i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 208,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/san-marco-mitt-i-allt-venedig.jpg",
+    "filename": "san-marco-mitt-i-allt-venedig.jpg",
+    "alt": "San Marco — mitt i allt i Venedig med människor och realistisk resemiljö",
+    "caption": "San Marco — mitt i allt i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-venedig",
+        "link": "https://venedig.se/hotell-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 206,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/rum-i-castello-nara-biennalen-venedig.jpg",
+    "filename": "rum-i-castello-nara-biennalen-venedig.jpg",
+    "alt": "Rum i Castello, nära Biennalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Rum i Castello, nära Biennalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 204,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/mestre-venedig.jpg",
+    "filename": "mestre-venedig.jpg",
+    "alt": "Mestre i Venedig med människor och realistisk resemiljö",
+    "caption": "Mestre i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 202,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lido-venedig.jpg",
+    "filename": "lido-venedig.jpg",
+    "alt": "Lido i Venedig med människor och realistisk resemiljö",
+    "caption": "Lido i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 200,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lido-di-venezia-strand-och-lugn-venedig.jpg",
+    "filename": "lido-di-venezia-strand-och-lugn-venedig.jpg",
+    "alt": "Lido di Venezia — strand och lugn i Venedig med människor och realistisk resemiljö",
+    "caption": "Lido di Venezia — strand och lugn i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-venedig",
+        "link": "https://venedig.se/hotell-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 198,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lagenhet-och-rum-i-cannaregio-venedig.jpg",
+    "filename": "lagenhet-och-rum-i-cannaregio-venedig.jpg",
+    "alt": "Lägenhet och rum i Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet och rum i Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannaregio-venedig-boende",
+        "link": "https://venedig.se/cannaregio-venedig-boende/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 196,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lagenhet-med-utsikt-giudecca-venedig.jpg",
+    "filename": "lagenhet-med-utsikt-giudecca-venedig.jpg",
+    "alt": "Lägenhet med utsikt, Giudecca i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet med utsikt, Giudecca i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 194,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lagenhet-i-castello-venedig.jpg",
+    "filename": "lagenhet-i-castello-venedig.jpg",
+    "alt": "Lägenhet i Castello i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet i Castello i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-biennale-boende-castello",
+        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 192,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+    "filename": "hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+    "alt": "Lägenhet vid kanal, Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 190,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
+    "filename": "hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
+    "alt": "Budgetrum, Santa Croce i Venedig med människor och realistisk resemiljö",
+    "caption": "Budgetrum, Santa Croce i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 188,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/gondoltur-i-solnedgang-venedig.jpg",
+    "filename": "gondoltur-i-solnedgang-venedig.jpg",
+    "alt": "Gondoltur i solnedgång i Venedig med människor och realistisk resemiljö",
+    "caption": "Gondoltur i solnedgång i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "romantisk-resa-venedig",
+        "link": "https://venedig.se/romantisk-resa-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 187,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/giudecca-venedig.jpg",
+    "filename": "giudecca-venedig.jpg",
+    "alt": "Giudecca i Venedig med människor och realistisk resemiljö",
+    "caption": "Giudecca i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 185,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/familjelagenhet-giudecca-venedig.jpg",
+    "filename": "familjelagenhet-giudecca-venedig.jpg",
+    "alt": "Familjelägenhet, Giudecca i Venedig med människor och realistisk resemiljö",
+    "caption": "Familjelägenhet, Giudecca i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 183,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
+    "filename": "dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
+    "alt": "Dag 3: Lago di Braies → tillbaka till Venedig i Venedig med människor och realistisk resemiljö",
+    "caption": "Dag 3: Lago di Braies → tillbaka till Venedig i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-dolomiterna-roadtrip",
+        "link": "https://venedig.se/venedig-dolomiterna-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 181,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
+    "filename": "dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
+    "alt": "Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig med människor och realistisk resemiljö",
+    "caption": "Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "2-dagar-i-venedig",
+        "link": "https://venedig.se/2-dagar-i-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 179,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
+    "filename": "dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
+    "alt": "Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig med människor och realistisk resemiljö",
+    "caption": "Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-dolomiterna-roadtrip",
+        "link": "https://venedig.se/venedig-dolomiterna-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 177,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dag-1-venedig-cortina-dampezzo-venedig.jpg",
+    "filename": "dag-1-venedig-cortina-dampezzo-venedig.jpg",
+    "alt": "Dag 1: Venedig → Cortina d’Ampezzo i Venedig med människor och realistisk resemiljö",
+    "caption": "Dag 1: Venedig → Cortina d’Ampezzo i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-dolomiterna-roadtrip",
+        "link": "https://venedig.se/venedig-dolomiterna-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 175,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
+    "filename": "dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
+    "alt": "Dag 1: ankomst, Canal Grande och första kvällen i Venedig med människor och realistisk resemiljö",
+    "caption": "Dag 1: ankomst, Canal Grande och första kvällen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "2-dagar-i-venedig",
+        "link": "https://venedig.se/2-dagar-i-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 173,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/centralt-lage-san-marco-venedig.jpg",
+    "filename": "centralt-lage-san-marco-venedig.jpg",
+    "alt": "Centralt läge, San Marco i Venedig med människor och realistisk resemiljö",
+    "caption": "Centralt läge, San Marco i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 171,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/castello-venedig.jpg",
+    "filename": "castello-venedig.jpg",
+    "alt": "Castello i Venedig med människor och realistisk resemiljö",
+    "caption": "Castello i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-biennale-boende-castello",
+        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+      },
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 169,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/cannaregio-lokalt-och-prisvart-venedig.jpg",
+    "filename": "cannaregio-lokalt-och-prisvart-venedig.jpg",
+    "alt": "Cannaregio — lokalt och prisvärt i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio — lokalt och prisvärt i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-venedig",
+        "link": "https://venedig.se/hotell-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 167,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/cannaregio-det-lokala-koket-venedig.jpg",
+    "filename": "cannaregio-det-lokala-koket-venedig.jpg",
+    "alt": "Cannaregio — det lokala köket i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio — det lokala köket i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "restauranger-venedig",
+        "link": "https://venedig.se/restauranger-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 165,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/cannaregio-basta-allroundvalet-venedig.jpg",
+    "filename": "cannaregio-basta-allroundvalet-venedig.jpg",
+    "alt": "Cannaregio: bästa allroundvalet i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio: bästa allroundvalet i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 163,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/buss-till-piazzale-roma-venedig.jpg",
+    "filename": "buss-till-piazzale-roma-venedig.jpg",
+    "alt": "Buss till Piazzale Roma i Venedig med människor och realistisk resemiljö",
+    "caption": "Buss till Piazzale Roma i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "resa-till-venedig",
+        "link": "https://venedig.se/resa-till-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 161,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+    "filename": "boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+    "alt": "Lägenhet vid kanal, Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 159,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-venedig-dorsoduro-venedig.jpg",
+    "filename": "boende-venedig-dorsoduro-venedig.jpg",
+    "alt": "Dorsoduro i Venedig med människor och realistisk resemiljö",
+    "caption": "Dorsoduro i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 157,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-venedig-cannaregio-venedig.jpg",
+    "filename": "boende-venedig-cannaregio-venedig.jpg",
+    "alt": "Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 155,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-venedig-budgetrum-santa-croce-venedig.jpg",
+    "filename": "boende-venedig-budgetrum-santa-croce-venedig.jpg",
+    "alt": "Budgetrum, Santa Croce i Venedig med människor och realistisk resemiljö",
+    "caption": "Budgetrum, Santa Croce i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 153,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/biennale-2026-vad-du-behover-veta-venedig.jpg",
+    "filename": "biennale-2026-vad-du-behover-veta-venedig.jpg",
+    "alt": "Biennale 2026 — vad du behöver veta i Venedig med människor och realistisk resemiljö",
+    "caption": "Biennale 2026 — vad du behöver veta i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "biennalen-venedig",
+        "link": "https://venedig.se/biennalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 151,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/acqua-alta-vad-du-behover-veta-venedig.jpg",
+    "filename": "acqua-alta-vad-du-behover-veta-venedig.jpg",
+    "alt": "Acqua Alta — vad du behöver veta i Venedig med människor och realistisk resemiljö",
+    "caption": "Acqua Alta — vad du behöver veta i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-venedig",
+        "link": "https://venedig.se/basta-tiden-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 149,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/6-sestieri-venedig.jpg",
+    "filename": "6-sestieri-venedig.jpg",
+    "alt": "6 sestieri i Venedig med människor och realistisk resemiljö",
+    "caption": "6 sestieri i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 147,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/118-oar-venedig.jpg",
+    "filename": "118-oar-venedig.jpg",
+    "alt": "118 öar i Venedig med människor och realistisk resemiljö",
+    "caption": "118 öar i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
     "id": 146,
     "url": "https://venedig.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -15196,6 +16790,348 @@
   },
   {
     "domain": "florida",
+    "id": 221,
+    "url": "https://florida.se/wp-content/uploads/2026/06/walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "filename": "walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "alt": "Walt Disney World (nr 1, 7, 9, 13) i Florida med människor och realistisk resemiljö",
+    "caption": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 219,
+    "url": "https://florida.se/wp-content/uploads/2026/06/sport-inter-miami-och-miami-heat-florida.jpg",
+    "filename": "sport-inter-miami-och-miami-heat-florida.jpg",
+    "alt": "Sport — Inter Miami och Miami Heat i Florida med människor och realistisk resemiljö",
+    "caption": "Sport — Inter Miami och Miami Heat i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 217,
+    "url": "https://florida.se/wp-content/uploads/2026/06/south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "filename": "south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "alt": "South Beach (SoBe) — strand och Art Deco i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach (SoBe) — strand och Art Deco i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 215,
+    "url": "https://florida.se/wp-content/uploads/2026/06/south-beach-art-deco-och-atlanten-florida.jpg",
+    "filename": "south-beach-art-deco-och-atlanten-florida.jpg",
+    "alt": "South Beach — Art Deco och Atlanten i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach — Art Deco och Atlanten i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 213,
+    "url": "https://florida.se/wp-content/uploads/2026/06/miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "filename": "miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "alt": "Miami Beach (norra delen) och Bal Harbour i Florida med människor och realistisk resemiljö",
+    "caption": "Miami Beach (norra delen) och Bal Harbour i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 211,
+    "url": "https://florida.se/wp-content/uploads/2026/06/mia-miami-international-florida.jpg",
+    "filename": "mia-miami-international-florida.jpg",
+    "alt": "MIA — Miami International i Florida med människor och realistisk resemiljö",
+    "caption": "MIA — Miami International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 209,
+    "url": "https://florida.se/wp-content/uploads/2026/06/mco-orlando-international-florida.jpg",
+    "filename": "mco-orlando-international-florida.jpg",
+    "alt": "MCO — Orlando International i Florida med människor och realistisk resemiljö",
+    "caption": "MCO — Orlando International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 207,
+    "url": "https://florida.se/wp-content/uploads/2026/06/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "filename": "little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "alt": "Little Havana — kubansk själ på Calle Ocho i Florida med människor och realistisk resemiljö",
+    "caption": "Little Havana — kubansk själ på Calle Ocho i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 205,
+    "url": "https://florida.se/wp-content/uploads/2026/06/key-west-ons-huvudstad-florida.jpg",
+    "filename": "key-west-ons-huvudstad-florida.jpg",
+    "alt": "Key West — öns huvudstad i Florida med människor och realistisk resemiljö",
+    "caption": "Key West — öns huvudstad i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 203,
+    "url": "https://florida.se/wp-content/uploads/2026/06/key-largo-dykning-och-nationalpark-florida.jpg",
+    "filename": "key-largo-dykning-och-nationalpark-florida.jpg",
+    "alt": "Key Largo — dykning och nationalpark i Florida med människor och realistisk resemiljö",
+    "caption": "Key Largo — dykning och nationalpark i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 201,
+    "url": "https://florida.se/wp-content/uploads/2026/06/islamorada-och-marathon-mellankeys-florida.jpg",
+    "filename": "islamorada-och-marathon-mellankeys-florida.jpg",
+    "alt": "Islamorada och Marathon — mellankeys i Florida med människor och realistisk resemiljö",
+    "caption": "Islamorada och Marathon — mellankeys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 199,
+    "url": "https://florida.se/wp-content/uploads/2026/06/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "filename": "international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "alt": "International Drive och Kissimmee — hotell utanför parken i Florida med människor och realistisk resemiljö",
+    "caption": "International Drive och Kissimmee — hotell utanför parken i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 197,
+    "url": "https://florida.se/wp-content/uploads/2026/06/everglades-dagsutflykt-fran-miami-florida.jpg",
+    "filename": "everglades-dagsutflykt-fran-miami-florida.jpg",
+    "alt": "Everglades — dagsutflykt från Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Everglades — dagsutflykt från Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 195,
+    "url": "https://florida.se/wp-content/uploads/2026/06/disney-resorts-pa-parkomradet-florida.jpg",
+    "filename": "disney-resorts-pa-parkomradet-florida.jpg",
+    "alt": "Disney-resorts på parkområdet i Florida med människor och realistisk resemiljö",
+    "caption": "Disney-resorts på parkområdet i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 193,
+    "url": "https://florida.se/wp-content/uploads/2026/06/brickell-skyline-och-vuxen-miami-florida.jpg",
+    "filename": "brickell-skyline-och-vuxen-miami-florida.jpg",
+    "alt": "Brickell — skyline och vuxen Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell — skyline och vuxen Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 191,
+    "url": "https://florida.se/wp-content/uploads/2026/06/brickell-och-downtown-business-och-skyline-florida.jpg",
+    "filename": "brickell-och-downtown-business-och-skyline-florida.jpg",
+    "alt": "Brickell och Downtown — business och skyline i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell och Downtown — business och skyline i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 189,
+    "url": "https://florida.se/wp-content/uploads/2026/06/7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "filename": "7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "alt": "7 dagar — strand & natur (utan temaparker) i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — strand &#038; natur (utan temaparker) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 187,
+    "url": "https://florida.se/wp-content/uploads/2026/06/7-dagar-orlando-fokus-florida.jpg",
+    "filename": "7-dagar-orlando-fokus-florida.jpg",
+    "alt": "7 dagar — Orlando-fokus i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — Orlando-fokus i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 185,
+    "url": "https://florida.se/wp-content/uploads/2026/06/10-dagar-orlando-miami-keys-florida.jpg",
+    "filename": "10-dagar-orlando-miami-keys-florida.jpg",
+    "alt": "10 dagar — Orlando + Miami/Keys i Florida med människor och realistisk resemiljö",
+    "caption": "10 dagar — Orlando + Miami/Keys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
     "id": 184,
     "url": "https://florida.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -15206,6 +17142,150 @@
     "date": "2026-06-16",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "borneo",
+    "id": 102,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/sepilok-eller-sandakan-borneo.jpg",
+    "filename": "sepilok-eller-sandakan-borneo.jpg",
+    "alt": "Sepilok eller Sandakan? i Borneo med människor och realistisk resemiljö",
+    "caption": "Sepilok eller Sandakan? i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-nara-sepilok",
+        "link": "https://borneo.se/bo-nara-sepilok/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 100,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
+    "filename": "semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
+    "alt": "Semenggoh: stark halvdag, inte hela rutten i Borneo med människor och realistisk resemiljö",
+    "caption": "Semenggoh: stark halvdag, inte hela rutten i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 98,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/sa-valjer-du-hotell-i-kuching-borneo.jpg",
+    "filename": "sa-valjer-du-hotell-i-kuching-borneo.jpg",
+    "alt": "Så väljer du hotell i Kuching i Borneo med människor och realistisk resemiljö",
+    "caption": "Så väljer du hotell i Kuching i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 96,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
+    "filename": "kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
+    "alt": "Kuching är Borneos bästa mjuka start i Borneo med människor och realistisk resemiljö",
+    "caption": "Kuching är Borneos bästa mjuka start i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 94,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
+    "filename": "djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
+    "alt": "Djungel, orangutanger, floder och smart logistik i Borneo med människor och realistisk resemiljö",
+    "caption": "Djungel, orangutanger, floder och smart logistik i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://borneo.se/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 92,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
+    "filename": "bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
+    "alt": "Bako: välj dagstur eller övernattning med rätt förväntan i Borneo med människor och realistisk resemiljö",
+    "caption": "Bako: välj dagstur eller övernattning med rätt förväntan i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 90,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/4-5-dagar-i-kuching-utan-stress-borneo.jpg",
+    "filename": "4-5-dagar-i-kuching-utan-stress-borneo.jpg",
+    "alt": "4-5 dagar i Kuching utan stress i Borneo med människor och realistisk resemiljö",
+    "caption": "4-5 dagar i Kuching utan stress i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 88,
+    "url": "https://borneo.se/wp-content/uploads/2026/06/2-eller-3-natter-vid-kinabatangan-borneo.jpg",
+    "filename": "2-eller-3-natter-vid-kinabatangan-borneo.jpg",
+    "alt": "2 eller 3 nätter vid Kinabatangan? i Borneo med människor och realistisk resemiljö",
+    "caption": "2 eller 3 nätter vid Kinabatangan? i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-kinabatangan-borneo",
+        "link": "https://borneo.se/boende-kinabatangan-borneo/"
+      }
+    ]
   },
   {
     "domain": "borneo",
@@ -15222,6 +17302,24 @@
   },
   {
     "domain": "provence",
+    "id": 202,
+    "url": "https://provence.se/wp-content/uploads/2026/06/sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
+    "filename": "sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
+    "alt": "Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence med människor och realistisk resemiljö",
+    "caption": "Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 200,
     "url": "https://provence.se/wp-content/uploads/2026/06/vieux-port-stadens-hjarta-provence.jpg",
     "filename": "vieux-port-stadens-hjarta-provence.jpg",
@@ -15230,7 +17328,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -15248,7 +17346,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -15266,7 +17364,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -15284,7 +17382,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -15302,7 +17400,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -15320,7 +17418,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -15338,7 +17436,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -15356,7 +17454,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -15374,7 +17472,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -15392,7 +17490,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -15410,7 +17508,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -15428,7 +17526,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -15446,7 +17544,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ventoux-drome",
@@ -15464,7 +17562,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "sainte-victoire-vandring",
@@ -15482,7 +17580,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -15500,7 +17598,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -15518,7 +17616,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -15536,7 +17634,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -15554,7 +17652,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -15684,6 +17782,366 @@
       {
         "slug": "hyra-villa-provence-pool",
         "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 228,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
+    "filename": "wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
+    "alt": "Wayna Picchu vs Machu Picchu Mountain i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Wayna Picchu vs Machu Picchu Mountain i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "machu-picchu",
+        "link": "https://sydamerika.se/machu-picchu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 226,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/vilken-amazonas-fem-ingangar-sydamerika.jpg",
+    "filename": "vilken-amazonas-fem-ingangar-sydamerika.jpg",
+    "alt": "Vilken Amazonas? — fem ingångar i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Vilken Amazonas? — fem ingångar i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "amazonas",
+        "link": "https://sydamerika.se/amazonas/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 224,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
+    "filename": "torres-del-paine-w-trek-vs-dagstur-sydamerika.jpg",
+    "alt": "Torres del Paine — W-trek vs dagstur i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Torres del Paine — W-trek vs dagstur i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "patagonien",
+        "link": "https://sydamerika.se/patagonien/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 222,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
+    "filename": "sa-tar-du-sig-till-machu-picchu-steg-for-steg-sydamerika.jpg",
+    "alt": "Så tar du sig till Machu Picchu — steg för steg i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Så tar du sig till Machu Picchu — steg för steg i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "machu-picchu",
+        "link": "https://sydamerika.se/machu-picchu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 220,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/sa-tar-du-dig-till-uyuni-sydamerika.jpg",
+    "filename": "sa-tar-du-dig-till-uyuni-sydamerika.jpg",
+    "alt": "Så tar du dig till Uyuni i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Så tar du dig till Uyuni i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "salar-de-uyuni",
+        "link": "https://sydamerika.se/salar-de-uyuni/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 218,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
+    "filename": "sa-tar-du-dig-till-galapagos-steg-for-steg-sydamerika.jpg",
+    "alt": "Så tar du dig till Galápagos — steg för steg i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Så tar du dig till Galápagos — steg för steg i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "galapagos",
+        "link": "https://sydamerika.se/galapagos/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 216,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
+    "filename": "puerto-natales-bas-fore-och-efter-trek-sydamerika.jpg",
+    "alt": "Puerto Natales — bas före och efter trek i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Puerto Natales — bas före och efter trek i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 214,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
+    "filename": "peru-iquitos-vs-sodra-amazonas-sydamerika.jpg",
+    "alt": "Peru — Iquitos vs södra Amazonas i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Peru — Iquitos vs södra Amazonas i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "amazonas",
+        "link": "https://sydamerika.se/amazonas/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 212,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
+    "filename": "perito-moreno-glaciar-fran-el-calafate-sydamerika.jpg",
+    "alt": "Perito Moreno — glaciär från El Calafate i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Perito Moreno — glaciär från El Calafate i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "patagonien",
+        "link": "https://sydamerika.se/patagonien/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 210,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/patagonien-pa-kartan-sydamerika.jpg",
+    "filename": "patagonien-pa-kartan-sydamerika.jpg",
+    "alt": "Patagonien på kartan i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Patagonien på kartan i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "patagonien",
+        "link": "https://sydamerika.se/patagonien/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 208,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
+    "filename": "manaus-brasiliens-klassiska-ingang-sydamerika.jpg",
+    "alt": "Manaus — Brasiliens klassiska ingång i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Manaus — Brasiliens klassiska ingång i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "amazonas",
+        "link": "https://sydamerika.se/amazonas/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 206,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/leticia-rurrenabaque-sydamerika.jpg",
+    "filename": "leticia-rurrenabaque-sydamerika.jpg",
+    "alt": "Leticia & 🇧🇴 Rurrenabaque i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Leticia &#038; 🇧🇴 Rurrenabaque i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "amazonas",
+        "link": "https://sydamerika.se/amazonas/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 204,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
+    "filename": "kombinera-uyuni-med-atacama-chile-sydamerika.jpg",
+    "alt": "Kombinera Uyuni med Atacama (Chile) i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Kombinera Uyuni med Atacama (Chile) i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "salar-de-uyuni",
+        "link": "https://sydamerika.se/salar-de-uyuni/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 202,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
+    "filename": "inca-trail-vs-salkantay-vs-dagstur-sydamerika.jpg",
+    "alt": "Inca Trail vs Salkantay vs dagstur i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Inca Trail vs Salkantay vs dagstur i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "machu-picchu",
+        "link": "https://sydamerika.se/machu-picchu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 200,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
+    "filename": "hojdsjuka-cusco-och-ruinerna-sydamerika.jpg",
+    "alt": "Höjdsjuka — Cusco och ruinerna i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Höjdsjuka — Cusco och ruinerna i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "machu-picchu",
+        "link": "https://sydamerika.se/machu-picchu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 198,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
+    "filename": "gransen-mellan-argentina-och-brasilien-sydamerika.jpg",
+    "alt": "Gränsen mellan Argentina och Brasilien i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Gränsen mellan Argentina och Brasilien i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "iguazu",
+        "link": "https://sydamerika.se/iguazu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 196,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/garganta-del-diablo-devils-throat-sydamerika.jpg",
+    "filename": "garganta-del-diablo-devils-throat-sydamerika.jpg",
+    "alt": "Garganta del Diablo — Devil’s Throat i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Garganta del Diablo — Devil’s Throat i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "iguazu",
+        "link": "https://sydamerika.se/iguazu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 194,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/dagstur-till-base-de-las-torres-sydamerika.jpg",
+    "filename": "dagstur-till-base-de-las-torres-sydamerika.jpg",
+    "alt": "Dagstur till Base de las Torres i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Dagstur till Base de las Torres i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 192,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
+    "filename": "basta-tiden-att-resa-till-galapagos-sydamerika.jpg",
+    "alt": "Bästa tiden att resa till Galápagos i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att resa till Galápagos i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "galapagos",
+        "link": "https://sydamerika.se/galapagos/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 190,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
+    "filename": "basta-tiden-att-besoka-machu-picchu-sydamerika.jpg",
+    "alt": "Bästa tiden att besöka Machu Picchu i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att besöka Machu Picchu i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "machu-picchu",
+        "link": "https://sydamerika.se/machu-picchu/"
       }
     ]
   },

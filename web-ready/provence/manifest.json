@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/sodra-luberon-lourmarin-cucuron-ansouis-provence.png",
-      "file": "bilder/web-ready/provence/sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
       "filename": "sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
       "brief_id": "provence:hyra-villa-provence-pool:sodra-luberon-lourmarin-cucuron-ansouis",
       "domain": "provence",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence. Bilden visar Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sodra-luberon-lourmarin-cucuron-ansouis-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyra-villa-provence-pool/",
           "page_slug": "hyra-villa-provence-pool",
@@ -39,9 +39,12 @@
           "caption": "Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence",
           "description": "En realistisk resebild från Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence. Bilden visar Södra Luberon — Lourmarin, Cucuron, Ansouis i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
       "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
       "domain": "korfu",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+      "file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
       "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
       "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
       "domain": "korfu",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "web_ready_file": "bilder\\web-ready\\korfu\\redo\\bella-venezia-charm-i-gamla-stan-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
           "page_slug": "basta-hotellen-pa-korfu",
@@ -84,7 +84,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "ready_folder": "bilder\\web-ready\\korfu\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }

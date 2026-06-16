@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/7-dagar-pa-lanzarote-par-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-par-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-par-lanzarote.jpg",
       "filename": "7-dagar-pa-lanzarote-par-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:par",
       "domain": "lanzarote",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Par i Lanzarote. Bilden visar Par i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-lanzarote-par-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-par-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-par-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
       "filename": "7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:utan-hyrbil",
       "domain": "lanzarote",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från Utan hyrbil i Lanzarote. Bilden visar Utan hyrbil i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\7-dagar-pa-lanzarote-utan-hyrbil-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -84,13 +84,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
       "filename": "apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:apartamentos-livvo-morromar-puerto-del-carmen",
       "domain": "lanzarote",
@@ -110,7 +110,7 @@
       "seo": "En realistisk resebild från Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote. Bilden visar Apartamentos LIVVO Morromar — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\apartamentos-livvo-morromar-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -126,13 +126,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/aqua-suites-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/aqua-suites-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\aqua-suites-puerto-del-carmen-lanzarote.jpg",
       "filename": "aqua-suites-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:aqua-suites-puerto-del-carmen",
       "domain": "lanzarote",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Aqua Suites — Puerto del Carmen i Lanzarote. Bilden visar Aqua Suites — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/aqua-suites-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/aqua-suites-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\aqua-suites-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -168,13 +168,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/arrecife-gran-hotel-spa-arrecife-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
       "filename": "arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:arrecife-gran-hotel-spa-arrecife",
       "domain": "lanzarote",
@@ -194,7 +194,7 @@
       "seo": "En realistisk resebild från Arrecife Gran Hotel & Spa — Arrecife i Lanzarote. Bilden visar Arrecife Gran Hotel & Spa — Arrecife i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/arrecife-gran-hotel-spa-arrecife-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-gran-hotel-spa-arrecife-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -210,13 +210,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/barcelo-teguise-beach-costa-teguise-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
       "filename": "barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:barcelo-teguise-beach-costa-teguise",
       "domain": "lanzarote",
@@ -236,7 +236,7 @@
       "seo": "En realistisk resebild från Barceló Teguise Beach — Costa Teguise i Lanzarote. Bilden visar Barceló Teguise Beach — Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barcelo-teguise-beach-costa-teguise-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\barcelo-teguise-beach-costa-teguise-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -252,13 +252,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/for-strand-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/for-strand-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\for-strand-lanzarote.jpg",
       "filename": "for-strand-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-strand",
       "domain": "lanzarote",
@@ -278,7 +278,7 @@
       "seo": "En realistisk resebild från För strand i Lanzarote. Bilden visar För strand i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-strand-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/for-strand-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\for-strand-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -294,13 +294,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/for-surf-foto-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/for-surf-foto-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\for-surf-foto-lanzarote.jpg",
       "filename": "for-surf-foto-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-surf-foto",
       "domain": "lanzarote",
@@ -320,7 +320,7 @@
       "seo": "En realistisk resebild från För surf/foto i Lanzarote. Bilden visar För surf/foto i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-surf-foto-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/for-surf-foto-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\for-surf-foto-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -336,13 +336,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/h10-rubicon-palace-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/h10-rubicon-palace-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\h10-rubicon-palace-playa-blanca-lanzarote.jpg",
       "filename": "h10-rubicon-palace-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:h10-rubicon-palace-playa-blanca",
       "domain": "lanzarote",
@@ -362,7 +362,7 @@
       "seo": "En realistisk resebild från H10 Rubicón Palace — Playa Blanca i Lanzarote. Bilden visar H10 Rubicón Palace — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/h10-rubicon-palace-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/h10-rubicon-palace-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\h10-rubicon-palace-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -378,13 +378,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/h10-timanfaya-palace-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
       "filename": "h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:h10-timanfaya-palace-playa-blanca",
       "domain": "lanzarote",
@@ -404,7 +404,7 @@
       "seo": "En realistisk resebild från H10 Timanfaya Palace — Playa Blanca i Lanzarote. Bilden visar H10 Timanfaya Palace — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/h10-timanfaya-palace-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\h10-timanfaya-palace-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -420,13 +420,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotel-fariones-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/hotel-fariones-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\hotel-fariones-puerto-del-carmen-lanzarote.jpg",
       "filename": "hotel-fariones-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:hotel-fariones-puerto-del-carmen",
       "domain": "lanzarote",
@@ -446,7 +446,7 @@
       "seo": "En realistisk resebild från Hotel Fariones — Puerto del Carmen i Lanzarote. Bilden visar Hotel Fariones — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-fariones-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/hotel-fariones-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\hotel-fariones-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -462,13 +462,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
       "filename": "kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:kan-man-bada-pa-lanzarote-aret-runt",
       "domain": "lanzarote",
@@ -488,7 +488,7 @@
       "seo": "En realistisk resebild från Kan man bada på Lanzarote året runt? i Lanzarote. Bilden visar Kan man bada på Lanzarote året runt? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-aret-runt-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -504,13 +504,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kan-man-bada-pa-lanzarote-i-januari-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
       "filename": "kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
       "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:kan-man-bada-pa-lanzarote-i-januari",
       "domain": "lanzarote",
@@ -530,7 +530,7 @@
       "seo": "En realistisk resebild från Kan man bada på Lanzarote i januari? i Lanzarote. Bilden visar Kan man bada på Lanzarote i januari? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-bada-pa-lanzarote-i-januari-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\kan-man-bada-pa-lanzarote-i-januari-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
           "page_slug": "basta-stranderna-pa-lanzarote",
@@ -546,13 +546,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
       "filename": "lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:lanis-suites-de-luxe-puerto-del-carmen",
       "domain": "lanzarote",
@@ -572,7 +572,7 @@
       "seo": "En realistisk resebild från Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote. Bilden visar Lani’s Suites de Luxe — Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\lanis-suites-de-luxe-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -588,13 +588,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/pensionarer-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/pensionarer-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\pensionarer-lanzarote.jpg",
       "filename": "pensionarer-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:pensionarer",
       "domain": "lanzarote",
@@ -614,7 +614,7 @@
       "seo": "En realistisk resebild från Pensionärer i Lanzarote. Bilden visar Pensionärer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/pensionarer-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/pensionarer-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\pensionarer-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -630,13 +630,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
       "filename": "princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:princesa-yaiza-suite-hotel-resort-playa-blanca",
       "domain": "lanzarote",
@@ -656,7 +656,7 @@
       "seo": "En realistisk resebild från Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote. Bilden visar Princesa Yaiza Suite Hotel Resort — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\princesa-yaiza-suite-hotel-resort-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -672,13 +672,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/racker-en-vecka-pa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/racker-en-vecka-pa-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\racker-en-vecka-pa-lanzarote.jpg",
       "filename": "racker-en-vecka-pa-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:racker-en-vecka-pa-lanzarote",
       "domain": "lanzarote",
@@ -698,7 +698,7 @@
       "seo": "En realistisk resebild från Räcker en vecka på Lanzarote? i Lanzarote. Bilden visar Räcker en vecka på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/racker-en-vecka-pa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/racker-en-vecka-pa-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\racker-en-vecka-pa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -714,13 +714,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sandos-papagayo-beach-resort-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
       "filename": "sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:sandos-papagayo-beach-resort-playa-blanca",
       "domain": "lanzarote",
@@ -740,7 +740,7 @@
       "seo": "En realistisk resebild från Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote. Bilden visar Sandos Papagayo Beach Resort — Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sandos-papagayo-beach-resort-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\sandos-papagayo-beach-resort-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -756,13 +756,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/ska-man-gora-la-graciosa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/ska-man-gora-la-graciosa-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\ska-man-gora-la-graciosa-lanzarote.jpg",
       "filename": "ska-man-gora-la-graciosa-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:ska-man-gora-la-graciosa",
       "domain": "lanzarote",
@@ -782,7 +782,7 @@
       "seo": "En realistisk resebild från Ska man göra La Graciosa? i Lanzarote. Bilden visar Ska man göra La Graciosa? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/ska-man-gora-la-graciosa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/ska-man-gora-la-graciosa-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\ska-man-gora-la-graciosa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -798,13 +798,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
       "filename": "sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
       "brief_id": "lanzarote:basta-hotellen-pa-lanzarote:sol-lanzarote-puerto-del-carmen-matagorda",
       "domain": "lanzarote",
@@ -824,7 +824,7 @@
       "seo": "En realistisk resebild från Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote. Bilden visar Sol Lanzarote — Puerto del Carmen (Matagorda) i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\sol-lanzarote-puerto-del-carmen-matagorda-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
           "page_slug": "basta-hotellen-pa-lanzarote",
@@ -840,13 +840,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/vilken-dag-ska-timanfaya-ligga-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/redo/vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
+      "file": "bilder\\web-ready\\lanzarote\\redo\\vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
       "filename": "vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:vilken-dag-ska-timanfaya-ligga",
       "domain": "lanzarote",
@@ -866,7 +866,7 @@
       "seo": "En realistisk resebild från Vilken dag ska Timanfaya ligga? i Lanzarote. Bilden visar Vilken dag ska Timanfaya ligga? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/vilken-dag-ska-timanfaya-ligga-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/redo/vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
+        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\vilken-dag-ska-timanfaya-ligga-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -882,7 +882,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/lanzarote/redo"
+        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
