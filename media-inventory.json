@@ -17029,7 +17029,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -17047,7 +17047,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -18754,6 +18754,402 @@
   },
   {
     "domain": "provence",
+    "id": 249,
+    "url": "https://provence.se/wp-content/uploads/2026/06/transport-flygplats-tag-och-metro-provence.jpg",
+    "filename": "transport-flygplats-tag-och-metro-provence.jpg",
+    "alt": "Transport — flygplats, tåg och metro i Provence med människor och realistisk resemiljö",
+    "caption": "Transport — flygplats, tåg och metro i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 247,
+    "url": "https://provence.se/wp-content/uploads/2026/06/strander-prado-och-kusten-provence.jpg",
+    "filename": "strander-prado-och-kusten-provence.jpg",
+    "alt": "Stränder — Prado och kusten i Provence med människor och realistisk resemiljö",
+    "caption": "Stränder — Prado och kusten i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 245,
+    "url": "https://provence.se/wp-content/uploads/2026/06/praktiskt-fran-sverige-provence.jpg",
+    "filename": "praktiskt-fran-sverige-provence.jpg",
+    "alt": "Praktiskt från Sverige i Provence med människor och realistisk resemiljö",
+    "caption": "Praktiskt från Sverige i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://provence.se/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 243,
+    "url": "https://provence.se/wp-content/uploads/2026/06/planera-din-marseille-resa-provence.jpg",
+    "filename": "planera-din-marseille-resa-provence.jpg",
+    "alt": "Planera din Marseille-resa i Provence med människor och realistisk resemiljö",
+    "caption": "Planera din Marseille-resa i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 241,
+    "url": "https://provence.se/wp-content/uploads/2026/06/norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
+    "filename": "norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
+    "alt": "Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence med människor och realistisk resemiljö",
+    "caption": "Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-villa-provence-pool",
+        "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 239,
+    "url": "https://provence.se/wp-content/uploads/2026/06/nce-nice-cote-dazur-provence.jpg",
+    "filename": "nce-nice-cote-dazur-provence.jpg",
+    "alt": "NCE — Nice Côte d’Azur i Provence med människor och realistisk resemiljö",
+    "caption": "NCE — Nice Côte d’Azur i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-roadtrip-provence",
+        "link": "https://provence.se/hyrbil-roadtrip-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 237,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mrs-marseille-provence.jpg",
+    "filename": "mrs-marseille-provence.jpg",
+    "alt": "MRS — Marseille Provence i Provence med människor och realistisk resemiljö",
+    "caption": "MRS — Marseille Provence i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-roadtrip-provence",
+        "link": "https://provence.se/hyrbil-roadtrip-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 235,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mistral-vind-som-styr-packningen-provence.jpg",
+    "filename": "mistral-vind-som-styr-packningen-provence.jpg",
+    "alt": "Mistral — vind som styr packningen i Provence med människor och realistisk resemiljö",
+    "caption": "Mistral — vind som styr packningen i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-provence",
+        "link": "https://provence.se/basta-tiden-att-resa-till-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 233,
+    "url": "https://provence.se/wp-content/uploads/2026/06/michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
+    "filename": "michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
+    "alt": "Michelin och fine dining — i Aix och närliggande i Provence med människor och realistisk resemiljö",
+    "caption": "Michelin och fine dining — i Aix och närliggande i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-restauranger",
+        "link": "https://provence.se/aix-en-provence-restauranger/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 231,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mas-pa-gard-camargue-provence.jpg",
+    "filename": "mas-pa-gard-camargue-provence.jpg",
+    "alt": "Mas på gård, Camargue i Provence med människor och realistisk resemiljö",
+    "caption": "Mas på gård, Camargue i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-i-provence",
+        "link": "https://provence.se/var-ska-man-bo-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 229,
+    "url": "https://provence.se/wp-content/uploads/2026/06/lavendel-nar-och-var-provence.jpg",
+    "filename": "lavendel-nar-och-var-provence.jpg",
+    "alt": "Lavendel — när och var i Provence med människor och realistisk resemiljö",
+    "caption": "Lavendel — när och var i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-provence",
+        "link": "https://provence.se/basta-tiden-att-resa-till-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 227,
+    "url": "https://provence.se/wp-content/uploads/2026/06/lagenhet-med-havsutsikt-nice-provence.jpg",
+    "filename": "lagenhet-med-havsutsikt-nice-provence.jpg",
+    "alt": "Lägenhet med havsutsikt, Nice i Provence med människor och realistisk resemiljö",
+    "caption": "Lägenhet med havsutsikt, Nice i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-i-provence",
+        "link": "https://provence.se/var-ska-man-bo-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 225,
+    "url": "https://provence.se/wp-content/uploads/2026/06/kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
+    "filename": "kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
+    "alt": "Kombinera Roussillon med Gordes och norra Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Kombinera Roussillon med Gordes och norra Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "roussillon-byguide",
+        "link": "https://provence.se/roussillon-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 223,
+    "url": "https://provence.se/wp-content/uploads/2026/06/hyrbil-per-dag-provence.jpg",
+    "filename": "hyrbil-per-dag-provence.jpg",
+    "alt": "Hyrbil — per dag i Provence med människor och realistisk resemiljö",
+    "caption": "Hyrbil — per dag i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-kostar-provence",
+        "link": "https://provence.se/vad-kostar-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 221,
+    "url": "https://provence.se/wp-content/uploads/2026/06/gordes-vad-gor-byn-speciell-provence.jpg",
+    "filename": "gordes-vad-gor-byn-speciell-provence.jpg",
+    "alt": "Gordes — vad gör byn speciell? i Provence med människor och realistisk resemiljö",
+    "caption": "Gordes — vad gör byn speciell? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 219,
+    "url": "https://provence.se/wp-content/uploads/2026/06/festivaler-evenemang-2026-provence.jpg",
+    "filename": "festivaler-evenemang-2026-provence.jpg",
+    "alt": "Festivaler & evenemang 2026 i Provence med människor och realistisk resemiljö",
+    "caption": "Festivaler &#038; evenemang 2026 i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-provence",
+        "link": "https://provence.se/basta-tiden-att-resa-till-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 217,
+    "url": "https://provence.se/wp-content/uploads/2026/06/dagsutflykter-fran-marseille-provence.jpg",
+    "filename": "dagsutflykter-fran-marseille-provence.jpg",
+    "alt": "Dagsutflykter från Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "Dagsutflykter från Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 215,
+    "url": "https://provence.se/wp-content/uploads/2026/06/cezanne-och-sainte-victoire-provence.jpg",
+    "filename": "cezanne-och-sainte-victoire-provence.jpg",
+    "alt": "Cézanne och Sainte-Victoire i Provence med människor och realistisk resemiljö",
+    "caption": "Cézanne och Sainte-Victoire i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence",
+        "link": "https://provence.se/aix-en-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 213,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-nara-gordes-provence.jpg",
+    "filename": "bo-nara-gordes-provence.jpg",
+    "alt": "Bo nära Gordes i Provence med människor och realistisk resemiljö",
+    "caption": "Bo nära Gordes i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 211,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-mitt-i-lavendeln-provence.jpg",
+    "filename": "bo-mitt-i-lavendeln-provence.jpg",
+    "alt": "Bo mitt i lavendeln i Provence med människor och realistisk resemiljö",
+    "caption": "Bo mitt i lavendeln i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lavendel-i-provence",
+        "link": "https://provence.se/lavendel-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 209,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-i-avignon-innanfor-murarna-provence.jpg",
+    "filename": "bo-i-avignon-innanfor-murarna-provence.jpg",
+    "alt": "Bo i Avignon — innanför murarna i Provence med människor och realistisk resemiljö",
+    "caption": "Bo i Avignon — innanför murarna i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 207,
+    "url": "https://provence.se/wp-content/uploads/2026/06/basta-tiden-att-besoka-marseille-provence.jpg",
+    "filename": "basta-tiden-att-besoka-marseille-provence.jpg",
+    "alt": "Bästa tiden att besöka Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att besöka Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 202,
     "url": "https://provence.se/wp-content/uploads/2026/06/sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
     "filename": "sodra-luberon-lourmarin-cucuron-ansouis-provence.jpg",
@@ -18762,7 +19158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-villa-provence-pool",

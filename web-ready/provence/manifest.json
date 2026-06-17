@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/basta-tiden-att-besoka-marseille-provence.png",
-      "file": "bilder/web-ready/provence/basta-tiden-att-besoka-marseille-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\basta-tiden-att-besoka-marseille-provence.jpg",
       "filename": "basta-tiden-att-besoka-marseille-provence.jpg",
       "brief_id": "provence:marseille-guide:basta-tiden-att-besoka-marseille",
       "domain": "provence",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Bästa tiden att besöka Marseille i Provence. Bilden visar Bästa tiden att besöka Marseille i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/basta-tiden-att-besoka-marseille-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/basta-tiden-att-besoka-marseille-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\basta-tiden-att-besoka-marseille-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/marseille-guide/",
           "page_slug": "marseille-guide",
@@ -39,13 +39,16 @@
           "caption": "Bästa tiden att besöka Marseille i Provence",
           "description": "En realistisk resebild från Bästa tiden att besöka Marseille i Provence. Bilden visar Bästa tiden att besöka Marseille i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/basta-tiden-att-besoka-marseille-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bo-i-avignon-innanfor-murarna-provence.png",
-      "file": "bilder/web-ready/provence/bo-i-avignon-innanfor-murarna-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\bo-i-avignon-innanfor-murarna-provence.jpg",
       "filename": "bo-i-avignon-innanfor-murarna-provence.jpg",
       "brief_id": "provence:aix-avignon:bo-i-avignon-innanfor-murarna",
       "domain": "provence",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Bo i Avignon — innanför murarna i Provence. Bilden visar Bo i Avignon — innanför murarna i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bo-i-avignon-innanfor-murarna-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/bo-i-avignon-innanfor-murarna-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\bo-i-avignon-innanfor-murarna-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyra-hus-provence/aix-avignon/",
           "page_slug": "aix-avignon",
@@ -78,13 +81,16 @@
           "caption": "Bo i Avignon — innanför murarna i Provence",
           "description": "En realistisk resebild från Bo i Avignon — innanför murarna i Provence. Bilden visar Bo i Avignon — innanför murarna i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/bo-i-avignon-innanfor-murarna-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bo-mitt-i-lavendeln-provence.png",
-      "file": "bilder/web-ready/provence/bo-mitt-i-lavendeln-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\bo-mitt-i-lavendeln-provence.jpg",
       "filename": "bo-mitt-i-lavendeln-provence.jpg",
       "brief_id": "provence:lavendel-i-provence:bo-mitt-i-lavendeln",
       "domain": "provence",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Bo mitt i lavendeln i Provence. Bilden visar Bo mitt i lavendeln i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bo-mitt-i-lavendeln-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/bo-mitt-i-lavendeln-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\bo-mitt-i-lavendeln-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/lavendel-i-provence/",
           "page_slug": "lavendel-i-provence",
@@ -117,13 +123,16 @@
           "caption": "Bo mitt i lavendeln i Provence",
           "description": "En realistisk resebild från Bo mitt i lavendeln i Provence. Bilden visar Bo mitt i lavendeln i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/bo-mitt-i-lavendeln-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bo-nara-gordes-provence.png",
-      "file": "bilder/web-ready/provence/bo-nara-gordes-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\bo-nara-gordes-provence.jpg",
       "filename": "bo-nara-gordes-provence.jpg",
       "brief_id": "provence:gordes-byguide:bo-nara-gordes",
       "domain": "provence",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Bo nära Gordes i Provence. Bilden visar Bo nära Gordes i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bo-nara-gordes-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/bo-nara-gordes-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\bo-nara-gordes-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/gordes-byguide/",
           "page_slug": "gordes-byguide",
@@ -156,13 +165,16 @@
           "caption": "Bo nära Gordes i Provence",
           "description": "En realistisk resebild från Bo nära Gordes i Provence. Bilden visar Bo nära Gordes i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/bo-nara-gordes-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cezanne-och-sainte-victoire-provence.png",
-      "file": "bilder/web-ready/provence/cezanne-och-sainte-victoire-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\cezanne-och-sainte-victoire-provence.jpg",
       "filename": "cezanne-och-sainte-victoire-provence.jpg",
       "brief_id": "provence:aix-en-provence:cezanne-och-sainte-victoire",
       "domain": "provence",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Cézanne och Sainte-Victoire i Provence. Bilden visar Cézanne och Sainte-Victoire i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cezanne-och-sainte-victoire-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/cezanne-och-sainte-victoire-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\cezanne-och-sainte-victoire-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/aix-en-provence/",
           "page_slug": "aix-en-provence",
@@ -195,13 +207,16 @@
           "caption": "Cézanne och Sainte-Victoire i Provence",
           "description": "En realistisk resebild från Cézanne och Sainte-Victoire i Provence. Bilden visar Cézanne och Sainte-Victoire i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/cezanne-och-sainte-victoire-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dagsutflykter-fran-marseille-provence.png",
-      "file": "bilder/web-ready/provence/dagsutflykter-fran-marseille-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\dagsutflykter-fran-marseille-provence.jpg",
       "filename": "dagsutflykter-fran-marseille-provence.jpg",
       "brief_id": "provence:marseille-guide:dagsutflykter-fran-marseille",
       "domain": "provence",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Dagsutflykter från Marseille i Provence. Bilden visar Dagsutflykter från Marseille i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dagsutflykter-fran-marseille-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/dagsutflykter-fran-marseille-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\dagsutflykter-fran-marseille-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/marseille-guide/",
           "page_slug": "marseille-guide",
@@ -234,13 +249,16 @@
           "caption": "Dagsutflykter från Marseille i Provence",
           "description": "En realistisk resebild från Dagsutflykter från Marseille i Provence. Bilden visar Dagsutflykter från Marseille i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/dagsutflykter-fran-marseille-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/festivaler-evenemang-2026-provence.png",
-      "file": "bilder/web-ready/provence/festivaler-evenemang-2026-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\festivaler-evenemang-2026-provence.jpg",
       "filename": "festivaler-evenemang-2026-provence.jpg",
       "brief_id": "provence:basta-tiden-att-resa-till-provence:festivaler-evenemang-2026",
       "domain": "provence",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Festivaler & evenemang 2026 i Provence. Bilden visar Festivaler & evenemang 2026 i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/festivaler-evenemang-2026-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/festivaler-evenemang-2026-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\festivaler-evenemang-2026-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/basta-tiden-att-resa-till-provence/",
           "page_slug": "basta-tiden-att-resa-till-provence",
@@ -273,13 +291,16 @@
           "caption": "Festivaler & evenemang 2026 i Provence",
           "description": "En realistisk resebild från Festivaler & evenemang 2026 i Provence. Bilden visar Festivaler & evenemang 2026 i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/festivaler-evenemang-2026-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/gordes-vad-gor-byn-speciell-provence.png",
-      "file": "bilder/web-ready/provence/gordes-vad-gor-byn-speciell-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\gordes-vad-gor-byn-speciell-provence.jpg",
       "filename": "gordes-vad-gor-byn-speciell-provence.jpg",
       "brief_id": "provence:gordes-byguide:gordes-vad-gor-byn-speciell",
       "domain": "provence",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Gordes — vad gör byn speciell? i Provence. Bilden visar Gordes — vad gör byn speciell? i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/gordes-vad-gor-byn-speciell-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/gordes-vad-gor-byn-speciell-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\gordes-vad-gor-byn-speciell-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/gordes-byguide/",
           "page_slug": "gordes-byguide",
@@ -312,13 +333,16 @@
           "caption": "Gordes — vad gör byn speciell? i Provence",
           "description": "En realistisk resebild från Gordes — vad gör byn speciell? i Provence. Bilden visar Gordes — vad gör byn speciell? i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/gordes-vad-gor-byn-speciell-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyrbil-per-dag-provence.png",
-      "file": "bilder/web-ready/provence/hyrbil-per-dag-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\hyrbil-per-dag-provence.jpg",
       "filename": "hyrbil-per-dag-provence.jpg",
       "brief_id": "provence:vad-kostar-provence:hyrbil-per-dag",
       "domain": "provence",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Hyrbil — per dag i Provence. Bilden visar Hyrbil — per dag i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyrbil-per-dag-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/hyrbil-per-dag-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\hyrbil-per-dag-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/vad-kostar-provence/",
           "page_slug": "vad-kostar-provence",
@@ -351,13 +375,16 @@
           "caption": "Hyrbil — per dag i Provence",
           "description": "En realistisk resebild från Hyrbil — per dag i Provence. Bilden visar Hyrbil — per dag i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/hyrbil-per-dag-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kombinera-roussillon-med-gordes-och-norra-luberon-provence.png",
-      "file": "bilder/web-ready/provence/kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
       "filename": "kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
       "brief_id": "provence:roussillon-byguide:kombinera-roussillon-med-gordes-och-norra-luberon",
       "domain": "provence",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Kombinera Roussillon med Gordes och norra Luberon i Provence. Bilden visar Kombinera Roussillon med Gordes och norra Luberon i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kombinera-roussillon-med-gordes-och-norra-luberon-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/roussillon-byguide/",
           "page_slug": "roussillon-byguide",
@@ -390,13 +417,16 @@
           "caption": "Kombinera Roussillon med Gordes och norra Luberon i Provence",
           "description": "En realistisk resebild från Kombinera Roussillon med Gordes och norra Luberon i Provence. Bilden visar Kombinera Roussillon med Gordes och norra Luberon i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/kombinera-roussillon-med-gordes-och-norra-luberon-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lagenhet-med-havsutsikt-nice-provence.png",
-      "file": "bilder/web-ready/provence/lagenhet-med-havsutsikt-nice-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\lagenhet-med-havsutsikt-nice-provence.jpg",
       "filename": "lagenhet-med-havsutsikt-nice-provence.jpg",
       "brief_id": "provence:var-ska-man-bo-i-provence:lagenhet-med-havsutsikt-nice",
       "domain": "provence",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Lägenhet med havsutsikt, Nice i Provence. Bilden visar Lägenhet med havsutsikt, Nice i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lagenhet-med-havsutsikt-nice-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/lagenhet-med-havsutsikt-nice-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\lagenhet-med-havsutsikt-nice-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/var-ska-man-bo-i-provence/",
           "page_slug": "var-ska-man-bo-i-provence",
@@ -429,13 +459,16 @@
           "caption": "Lägenhet med havsutsikt, Nice i Provence",
           "description": "En realistisk resebild från Lägenhet med havsutsikt, Nice i Provence. Bilden visar Lägenhet med havsutsikt, Nice i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/lagenhet-med-havsutsikt-nice-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lavendel-nar-och-var-provence.png",
-      "file": "bilder/web-ready/provence/lavendel-nar-och-var-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\lavendel-nar-och-var-provence.jpg",
       "filename": "lavendel-nar-och-var-provence.jpg",
       "brief_id": "provence:basta-tiden-att-resa-till-provence:lavendel-nar-och-var",
       "domain": "provence",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Lavendel — när och var i Provence. Bilden visar Lavendel — när och var i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lavendel-nar-och-var-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/lavendel-nar-och-var-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\lavendel-nar-och-var-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/basta-tiden-att-resa-till-provence/",
           "page_slug": "basta-tiden-att-resa-till-provence",
@@ -468,13 +501,16 @@
           "caption": "Lavendel — när och var i Provence",
           "description": "En realistisk resebild från Lavendel — när och var i Provence. Bilden visar Lavendel — när och var i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/lavendel-nar-och-var-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mas-pa-gard-camargue-provence.png",
-      "file": "bilder/web-ready/provence/mas-pa-gard-camargue-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\mas-pa-gard-camargue-provence.jpg",
       "filename": "mas-pa-gard-camargue-provence.jpg",
       "brief_id": "provence:var-ska-man-bo-i-provence:mas-pa-gard-camargue",
       "domain": "provence",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från Mas på gård, Camargue i Provence. Bilden visar Mas på gård, Camargue i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mas-pa-gard-camargue-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/mas-pa-gard-camargue-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\mas-pa-gard-camargue-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/var-ska-man-bo-i-provence/",
           "page_slug": "var-ska-man-bo-i-provence",
@@ -507,13 +543,16 @@
           "caption": "Mas på gård, Camargue i Provence",
           "description": "En realistisk resebild från Mas på gård, Camargue i Provence. Bilden visar Mas på gård, Camargue i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/mas-pa-gard-camargue-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/michelin-och-fine-dining-i-aix-och-narliggande-provence.png",
-      "file": "bilder/web-ready/provence/michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
       "filename": "michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
       "brief_id": "provence:aix-en-provence-restauranger:michelin-och-fine-dining-i-aix-och-narliggande",
       "domain": "provence",
@@ -533,7 +572,7 @@
       "seo": "En realistisk resebild från Michelin och fine dining — i Aix och närliggande i Provence. Bilden visar Michelin och fine dining — i Aix och närliggande i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/michelin-och-fine-dining-i-aix-och-narliggande-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/aix-en-provence-restauranger/",
           "page_slug": "aix-en-provence-restauranger",
@@ -546,13 +585,16 @@
           "caption": "Michelin och fine dining — i Aix och närliggande i Provence",
           "description": "En realistisk resebild från Michelin och fine dining — i Aix och närliggande i Provence. Bilden visar Michelin och fine dining — i Aix och närliggande i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/michelin-och-fine-dining-i-aix-och-narliggande-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mistral-vind-som-styr-packningen-provence.png",
-      "file": "bilder/web-ready/provence/mistral-vind-som-styr-packningen-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\mistral-vind-som-styr-packningen-provence.jpg",
       "filename": "mistral-vind-som-styr-packningen-provence.jpg",
       "brief_id": "provence:basta-tiden-att-resa-till-provence:mistral-vind-som-styr-packningen",
       "domain": "provence",
@@ -572,7 +614,7 @@
       "seo": "En realistisk resebild från Mistral — vind som styr packningen i Provence. Bilden visar Mistral — vind som styr packningen i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mistral-vind-som-styr-packningen-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/mistral-vind-som-styr-packningen-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\mistral-vind-som-styr-packningen-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/basta-tiden-att-resa-till-provence/",
           "page_slug": "basta-tiden-att-resa-till-provence",
@@ -585,13 +627,16 @@
           "caption": "Mistral — vind som styr packningen i Provence",
           "description": "En realistisk resebild från Mistral — vind som styr packningen i Provence. Bilden visar Mistral — vind som styr packningen i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/mistral-vind-som-styr-packningen-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mrs-marseille-provence.png",
-      "file": "bilder/web-ready/provence/mrs-marseille-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\mrs-marseille-provence.jpg",
       "filename": "mrs-marseille-provence.jpg",
       "brief_id": "provence:hyrbil-roadtrip-provence:mrs-marseille-provence",
       "domain": "provence",
@@ -611,7 +656,7 @@
       "seo": "En realistisk resebild från MRS — Marseille Provence i Provence. Bilden visar MRS — Marseille Provence i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mrs-marseille-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/mrs-marseille-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\mrs-marseille-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyrbil-roadtrip-provence/",
           "page_slug": "hyrbil-roadtrip-provence",
@@ -624,13 +669,16 @@
           "caption": "MRS — Marseille Provence i Provence",
           "description": "En realistisk resebild från MRS — Marseille Provence i Provence. Bilden visar MRS — Marseille Provence i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/mrs-marseille-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/nce-nice-cote-dazur-provence.png",
-      "file": "bilder/web-ready/provence/nce-nice-cote-dazur-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\nce-nice-cote-dazur-provence.jpg",
       "filename": "nce-nice-cote-dazur-provence.jpg",
       "brief_id": "provence:hyrbil-roadtrip-provence:nce-nice-cote-dazur",
       "domain": "provence",
@@ -650,7 +698,7 @@
       "seo": "En realistisk resebild från NCE — Nice Côte d’Azur i Provence. Bilden visar NCE — Nice Côte d’Azur i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/nce-nice-cote-dazur-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/nce-nice-cote-dazur-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\nce-nice-cote-dazur-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyrbil-roadtrip-provence/",
           "page_slug": "hyrbil-roadtrip-provence",
@@ -663,13 +711,16 @@
           "caption": "NCE — Nice Côte d’Azur i Provence",
           "description": "En realistisk resebild från NCE — Nice Côte d’Azur i Provence. Bilden visar NCE — Nice Côte d’Azur i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/nce-nice-cote-dazur-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/norra-luberon-gordes-menerbes-bonnieux-provence.png",
-      "file": "bilder/web-ready/provence/norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
       "filename": "norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
       "brief_id": "provence:hyra-villa-provence-pool:norra-luberon-gordes-menerbes-bonnieux",
       "domain": "provence",
@@ -689,7 +740,7 @@
       "seo": "En realistisk resebild från Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence. Bilden visar Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/norra-luberon-gordes-menerbes-bonnieux-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\norra-luberon-gordes-menerbes-bonnieux-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyra-villa-provence-pool/",
           "page_slug": "hyra-villa-provence-pool",
@@ -702,13 +753,16 @@
           "caption": "Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence",
           "description": "En realistisk resebild från Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence. Bilden visar Norra Luberon — Gordes, Ménerbes, Bonnieux i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/norra-luberon-gordes-menerbes-bonnieux-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/planera-din-marseille-resa-provence.png",
-      "file": "bilder/web-ready/provence/planera-din-marseille-resa-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\planera-din-marseille-resa-provence.jpg",
       "filename": "planera-din-marseille-resa-provence.jpg",
       "brief_id": "provence:marseille-guide:planera-din-marseille-resa",
       "domain": "provence",
@@ -728,7 +782,7 @@
       "seo": "En realistisk resebild från Planera din Marseille-resa i Provence. Bilden visar Planera din Marseille-resa i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/planera-din-marseille-resa-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/planera-din-marseille-resa-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\planera-din-marseille-resa-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/marseille-guide/",
           "page_slug": "marseille-guide",
@@ -741,13 +795,16 @@
           "caption": "Planera din Marseille-resa i Provence",
           "description": "En realistisk resebild från Planera din Marseille-resa i Provence. Bilden visar Planera din Marseille-resa i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/planera-din-marseille-resa-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/praktiskt-fran-sverige-provence.png",
-      "file": "bilder/web-ready/provence/praktiskt-fran-sverige-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\praktiskt-fran-sverige-provence.jpg",
       "filename": "praktiskt-fran-sverige-provence.jpg",
       "brief_id": "provence:startsida:praktiskt-fran-sverige",
       "domain": "provence",
@@ -767,7 +824,7 @@
       "seo": "En realistisk resebild från Praktiskt från Sverige i Provence. Bilden visar Praktiskt från Sverige i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/praktiskt-fran-sverige-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/praktiskt-fran-sverige-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\praktiskt-fran-sverige-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/",
           "page_slug": "startsida",
@@ -780,13 +837,16 @@
           "caption": "Praktiskt från Sverige i Provence",
           "description": "En realistisk resebild från Praktiskt från Sverige i Provence. Bilden visar Praktiskt från Sverige i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/praktiskt-fran-sverige-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/strander-prado-och-kusten-provence.png",
-      "file": "bilder/web-ready/provence/strander-prado-och-kusten-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\strander-prado-och-kusten-provence.jpg",
       "filename": "strander-prado-och-kusten-provence.jpg",
       "brief_id": "provence:marseille-guide:strander-prado-och-kusten",
       "domain": "provence",
@@ -806,7 +866,7 @@
       "seo": "En realistisk resebild från Stränder — Prado och kusten i Provence. Bilden visar Stränder — Prado och kusten i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/strander-prado-och-kusten-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/strander-prado-och-kusten-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\strander-prado-och-kusten-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/marseille-guide/",
           "page_slug": "marseille-guide",
@@ -819,13 +879,16 @@
           "caption": "Stränder — Prado och kusten i Provence",
           "description": "En realistisk resebild från Stränder — Prado och kusten i Provence. Bilden visar Stränder — Prado och kusten i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/strander-prado-och-kusten-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/transport-flygplats-tag-och-metro-provence.png",
-      "file": "bilder/web-ready/provence/transport-flygplats-tag-och-metro-provence.jpg",
+      "file": "bilder\\web-ready\\provence\\redo\\transport-flygplats-tag-och-metro-provence.jpg",
       "filename": "transport-flygplats-tag-och-metro-provence.jpg",
       "brief_id": "provence:marseille-guide:transport-flygplats-tag-och-metro",
       "domain": "provence",
@@ -845,7 +908,7 @@
       "seo": "En realistisk resebild från Transport — flygplats, tåg och metro i Provence. Bilden visar Transport — flygplats, tåg och metro i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/transport-flygplats-tag-och-metro-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/transport-flygplats-tag-och-metro-provence.jpg",
+        "web_ready_file": "bilder\\web-ready\\provence\\redo\\transport-flygplats-tag-och-metro-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/marseille-guide/",
           "page_slug": "marseille-guide",
@@ -858,9 +921,12 @@
           "caption": "Transport — flygplats, tåg och metro i Provence",
           "description": "En realistisk resebild från Transport — flygplats, tåg och metro i Provence. Bilden visar Transport — flygplats, tåg och metro i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\provence\\redo"
       },
-      "inspection": "bilder/web-ready/provence/transport-flygplats-tag-och-metro-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

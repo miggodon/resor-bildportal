@@ -81,17 +81,17 @@
       <h1>Resor image portal</h1>
       <p>En portal för alla domäner. Öppna en prompt, klistra in i ChatGPT, spara PNG med exakt filnamn och ladda upp den i bilder/inbox på GitHub.</p>
       <div class="summary">
-        <span class="pill">Generated 2026-06-17T13:17:24.549857+00:00</span>
+        <span class="pill">Generated 2026-06-17T13:47:03.560041+00:00</span>
         <span class="pill">15 domäner</span>
         <span class="pill">30 redo</span>
-        <span class="pill">28 staging JPG</span>
+        <span class="pill">15 staging JPG</span>
         <span class="pill">0 PNG i inbox</span>
         <span class="pill">3063 att skapa</span>
-        <span class="pill">521 hög prio</span>
-        <span class="pill">3121 briefs totalt</span>
+        <span class="pill">514 hög prio</span>
+        <span class="pill">3108 briefs totalt</span>
         <span class="pill">523 sidor live</span>
-        <span class="pill">1125 WP-bilder</span>
-        <span class="pill">271 väntar bild</span>
+        <span class="pill">1147 WP-bilder</span>
+        <span class="pill">262 väntar bild</span>
       </div>
       <div class="primary-nav">
         <a class="biglink" href="bildindex.html">📸 Bildindex — publicerade (pipeline)</a>
@@ -120,15 +120,18 @@
     <section class="hub-toolbar" id="refresh-hub">
       <h2>Hub underhåll</h2>
       <p class="portfolio-note">
-        Senast exporterad: <b>2026-06-17T12:27:49.387138+00:00</b> · 523 sidor i snapshot.
+        Senast exporterad: <b>2026-06-17T13:17:24.571812+00:00</b> · 523 sidor i snapshot.
         Data är inte live — kör export efter WP-publicering.
       </p>
       <div class="hub-actions">
-        <a class="hub-btn primary" href="https://github.com/miggodon/resor/actions/workflows/portfolio-hub.yml" target="_blank" rel="noopener">🔄 Kör export i GitHub Actions</a>
+        <button type="button" class="hub-btn primary" id="publish-images-btn" title="Triggar image-pipeline.yml med auto-publish">🚀 Publicera bilder till WordPress</button>
+        <a class="hub-btn" href="https://github.com/miggodon/resor/actions/workflows/portfolio-hub.yml" target="_blank" rel="noopener">🔄 Kör export i GitHub Actions</a>
         <button type="button" class="hub-btn" id="hub-reload">📥 Ladda om sidan</button>
         <button type="button" class="hub-btn" data-copy-target="hub-cmd">📋 Kopiera export-kommando</button>
         <a class="hub-btn" href="https://miggodon.github.io/resor-bildportal/">🌐 Öppna live-portal</a>
+        <button type="button" class="hub-btn" id="pat-clear-btn" title="Glöm sparad PAT i denna webbläsare">🔑 Glöm PAT</button>
       </div>
+      <p id="publish-status" class="hub-warn" style="display:none;"></p>
       <input id="hub-cmd" type="text" readonly value="python bilder/export_portfolio_hub.py" class="hub-cmd">
       <p class="hub-warn">⛔ Använd <b>inte</b> <code>bilder/export_public_portal.py</code> för hub — det kan radera sidor/media/bildindex. Använd <code>export_portfolio_hub.py</code>.</p>
     </section>
@@ -139,7 +142,7 @@
       <div class="wq-grid">
         <div class="wq-card">
           <h3>❌ Fix krävs</h3>
-          <ul><li><span class="wq-dom">florida</span> <a href="https://florida.se/om-florida-guiden/" target="_blank" rel="noopener">Om Florida-guiden</a> <span class="wq-meta">score 28</span></li><li><span class="wq-dom">sydamerika</span> <a href="https://sydamerika.se/om-sydamerika-guiden/" target="_blank" rel="noopener">Om Sydamerika-guiden</a> <span class="wq-meta">score 28</span></li><li><span class="wq-dom">florida</span> <a href="https://florida.se/affiliate-information/" target="_blank" rel="noopener">Affiliate-information</a> <span class="wq-meta">score 34</span></li><li><span class="wq-dom">sydamerika</span> <a href="https://sydamerika.se/affiliate-information/" target="_blank" rel="noopener">Affiliate-information</a> <span class="wq-meta">score 35</span></li><li><span class="wq-dom">hawaii</span> <a href="https://hawaii.se/om-guiden/" target="_blank" rel="noopener">Om guiden</a> <span class="wq-meta">score 53</span></li><li><span class="wq-dom">hawaii</span> <a href="https://hawaii.se/boende-hawaii/" target="_blank" rel="noopener">Boende på Hawaii - hotell, resorter &amp;amp; boendetips</a> <span class="wq-meta">score 68</span></li><li><span class="wq-dom">florida</span> <a href="https://florida.se/" target="_blank" rel="noopener">Florida reseguide — sol, stränder, temaparker och roadtr</a> <span class="wq-meta">score 95</span></li><li><span class="wq-dom">florida</span> <a href="https://florida.se/miami/" target="_blank" rel="noopener">Miami reseguide — stränder, kultur och subtropisk energi</a> <span class="wq-meta">score 95</span></li></ul>
+          <ul><li><span class="wq-dom">florida</span> <a href="https://florida.se/om-florida-guiden/" target="_blank" rel="noopener">Om Florida-guiden</a> <span class="wq-meta">score 28</span></li><li><span class="wq-dom">sydamerika</span> <a href="https://sydamerika.se/om-sydamerika-guiden/" target="_blank" rel="noopener">Om Sydamerika-guiden</a> <span class="wq-meta">score 28</span></li><li><span class="wq-dom">florida</span> <a href="https://florida.se/affiliate-information/" target="_blank" rel="noopener">Affiliate-information</a> <span class="wq-meta">score 34</span></li><li><span class="wq-dom">sydamerika</span> <a href="https://sydamerika.se/affiliate-information/" target="_blank" rel="noopener">Affiliate-information</a> <span class="wq-meta">score 35</span></li><li><span class="wq-dom">lanzarote</span> <a href="https://lanzarote.se/vandring-lanzarote-vulkanleder-kust/" target="_blank" rel="noopener">Vandring på Lanzarote – guide till vulkanleder och kust</a> <span class="wq-meta">score 48</span></li><li><span class="wq-dom">hawaii</span> <a href="https://hawaii.se/om-guiden/" target="_blank" rel="noopener">Om guiden</a> <span class="wq-meta">score 53</span></li><li><span class="wq-dom">lanzarote</span> <a href="https://lanzarote.se/famara-surf-strand-lanzarote/" target="_blank" rel="noopener">Famara Lanzarote – komplett guide till surf och strand</a> <span class="wq-meta">score 55</span></li><li><span class="wq-dom">malaga</span> <a href="https://malaga.se/malaga-med-tonaringar/" target="_blank" rel="noopener">Málaga med tonåringar 2026 — aktiviteter, tips och hotel</a> <span class="wq-meta">score 62</span></li><li><span class="wq-dom">hawaii</span> <a href="https://hawaii.se/boende-hawaii/" target="_blank" rel="noopener">Boende på Hawaii - hotell, resorter &amp;amp; boendetips</a> <span class="wq-meta">score 68</span></li><li><span class="wq-dom">teneriffa</span> <a href="https://teneriffa.se/teneriffa-digital-nomad-guide/" target="_blank" rel="noopener">Digital nomad på Teneriffa – bästa områden, wifi och lån</a> <span class="wq-meta">score 74</span></li></ul>
         </div>
         <div class="wq-card">
           <h3>📷 Väntar bild (score &lt;75)</h3>
@@ -151,7 +154,7 @@
         </div>
         <div class="wq-card">
           <h3>⚠ Domäner under tryck</h3>
-          <ul><li><b>Sydamerika</b> — 28 flaggade, 4 svaga (&lt;60)</li><li><b>Fuerteventura</b> — 31 flaggade, 0 svaga (&lt;60)</li><li><b>Torremolinos</b> — 27 flaggade, 3 svaga (&lt;60)</li><li><b>Florida</b> — 26 flaggade, 2 svaga (&lt;60)</li><li><b>Rhodos</b> — 27 flaggade, 1 svaga (&lt;60)</li><li><b>Venedig</b> — 26 flaggade, 2 svaga (&lt;60)</li><li><b>Malaga</b> — 27 flaggade, 0 svaga (&lt;60)</li><li><b>Teneriffa</b> — 27 flaggade, 0 svaga (&lt;60)</li></ul>
+          <ul><li><b>Sydamerika</b> — 28 flaggade, 4 svaga (&lt;60)</li><li><b>Fuerteventura</b> — 31 flaggade, 0 svaga (&lt;60)</li><li><b>Torremolinos</b> — 27 flaggade, 3 svaga (&lt;60)</li><li><b>Florida</b> — 26 flaggade, 2 svaga (&lt;60)</li><li><b>Gran Canaria</b> — 28 flaggade, 0 svaga (&lt;60)</li><li><b>Rhodos</b> — 27 flaggade, 1 svaga (&lt;60)</li><li><b>Venedig</b> — 26 flaggade, 2 svaga (&lt;60)</li><li><b>Malaga</b> — 27 flaggade, 0 svaga (&lt;60)</li></ul>
         </div>
       </div>
     </section>
@@ -190,7 +193,7 @@
             <tr>
               <td><a href="korfu/">Korfu</a></td>
               <td>30</td>
-              <td>89</td>
+              <td>86</td>
               <td>14</td>
               <td>10</td>
               <td>42</td>
@@ -210,8 +213,8 @@
             <tr>
               <td><a href="grancanaria/">Gran Canaria</a></td>
               <td>60</td>
-              <td>87</td>
-              <td>24</td>
+              <td>86</td>
+              <td>28</td>
               <td>17</td>
               <td>122</td>
               <td>0/703 (0%)</td>
@@ -220,7 +223,7 @@
             <tr>
               <td><a href="teneriffa/">Teneriffa</a></td>
               <td>42</td>
-              <td>90</td>
+              <td>89</td>
               <td>27</td>
               <td>20</td>
               <td>132</td>
@@ -230,8 +233,8 @@
             <tr>
               <td><a href="lanzarote/">Lanzarote</a></td>
               <td>40</td>
-              <td>84</td>
-              <td>24</td>
+              <td>83</td>
+              <td>23</td>
               <td>12</td>
               <td>230</td>
               <td>8/398 (2%)</td>
@@ -260,7 +263,7 @@
             <tr>
               <td><a href="venedig/">Venedig</a></td>
               <td>35</td>
-              <td>71</td>
+              <td>73</td>
               <td>26</td>
               <td>22</td>
               <td>43</td>
@@ -300,17 +303,17 @@
             <tr>
               <td><a href="provence/">Provence</a></td>
               <td>35</td>
-              <td>88</td>
-              <td>24</td>
-              <td>22</td>
-              <td>27</td>
-              <td>13/217 (6%)</td>
+              <td>92</td>
+              <td>17</td>
+              <td>13</td>
+              <td>49</td>
+              <td>0/204 (0%)</td>
               <td><a class="open-link" href="provence/">Briefs</a></td>
             </tr>
             <tr>
               <td><a href="sydamerika/">Sydamerika</a></td>
               <td>36</td>
-              <td>77</td>
+              <td>78</td>
               <td>28</td>
               <td>28</td>
               <td>27</td>
@@ -1443,21 +1446,21 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Provence</h2>
-          <p>13 av 217 JPG finns, 0 redo</p>
+          <p>0 av 204 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="provence/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="13 av 217 klara"><span style="width:6%"></span></div>
+      <div class="meter" aria-label="0 av 204 klara"><span style="width:0%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
-        <span><strong>13</strong> staging JPG</span>
+        <span><strong>0</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
         <span><strong>204</strong> att skapa</span>
       </div>
       <div class="priority-line">
-        <span>79 hög prio</span>
-        <span>32 medium</span>
-        <span>106 låg</span>
+        <span>72 hög prio</span>
+        <span>27 medium</span>
+        <span>105 låg</span>
       </div>
       <div class="upload-path">
         <span>Ladda upp PNG här</span>
@@ -1644,6 +1647,89 @@ Important constraints:
         const url = new URL(window.location.href);
         url.searchParams.set("t", String(Date.now()));
         window.location.href = url.toString();
+      });
+    }
+
+    // ─── Publish-images-knapp + PAT-hantering ──────────────────────────────
+    const GITHUB_REPO = "miggodon/resor";
+    const WORKFLOW_FILE = "image-pipeline.yml";
+    const PAT_KEY = "resor_github_pat";
+
+    function showStatus(msg, isError) {
+      const el = document.getElementById("publish-status");
+      if (!el) return;
+      el.style.display = "block";
+      el.textContent = msg;
+      el.style.background = isError ? "#fee2e2" : "#dbeafe";
+      el.style.borderColor = isError ? "#fca5a5" : "#93c5fd";
+      el.style.color = isError ? "#991b1b" : "#1e40af";
+    }
+
+    function getPat() {
+      let pat = localStorage.getItem(PAT_KEY);
+      if (!pat) {
+        pat = prompt(
+          "Klistra in en GitHub Personal Access Token (PAT) med 'actions:write' scope.\n" +
+          "Skapa: github.com/settings/tokens (fine-grained), repo=miggodon/resor.\n" +
+          "Sparas BARA i denna webblasare (localStorage), aldrig pa server."
+        );
+        if (pat) {
+          pat = pat.trim();
+          localStorage.setItem(PAT_KEY, pat);
+        }
+      }
+      return pat;
+    }
+
+    async function triggerWorkflow() {
+      const pat = getPat();
+      if (!pat) { showStatus("Ingen PAT angiven — avbryter.", true); return; }
+
+      showStatus("Skickar workflow_dispatch till image-pipeline.yml ...", false);
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+          {
+            method: "POST",
+            headers: {
+              "Accept": "application/vnd.github+json",
+              "Authorization": `Bearer ${pat}`,
+              "X-GitHub-Api-Version": "2022-11-28",
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              ref: "main",
+              inputs: { auto_publish: "true" },
+            }),
+          }
+        );
+        if (res.status === 204) {
+          showStatus(
+            "OK Workflow startad! Folj forloppet pa: github.com/" + GITHUB_REPO + "/actions",
+            false
+          );
+        } else if (res.status === 401 || res.status === 403) {
+          localStorage.removeItem(PAT_KEY);
+          showStatus("Authentication fail — PAT-en rensad. Forsok igen och klistra ny PAT.", true);
+        } else {
+          const txt = await res.text();
+          showStatus(`Fel ${res.status}: ${txt.slice(0, 200)}`, true);
+        }
+      } catch (e) {
+        showStatus("Natfel: " + e.message, true);
+      }
+    }
+
+    const publishBtn = document.getElementById("publish-images-btn");
+    if (publishBtn) {
+      publishBtn.addEventListener("click", triggerWorkflow);
+    }
+
+    const patClearBtn = document.getElementById("pat-clear-btn");
+    if (patClearBtn) {
+      patClearBtn.addEventListener("click", () => {
+        localStorage.removeItem(PAT_KEY);
+        showStatus("Sparad PAT raderad fran denna webblasare.", false);
       });
     }
   </script>
