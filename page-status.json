@@ -6,7 +6,7 @@
     "title": "Málaga för pensionärer och seniorer — guide till längre vistelse",
     "link": "https://malaga.se/malaga-for-seniorer-langliggare/",
     "modified": "2026-06-06",
-    "words": 339,
+    "words": 345,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -28,9 +28,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -49,7 +49,7 @@
     "title": "Hyrbil för Caminito del Rey &#038; natur från Málaga",
     "link": "https://malaga.se/hyrbil-malaga-caminito-natur/",
     "modified": "2026-06-06",
-    "words": 914,
+    "words": 920,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -72,9 +72,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -91,7 +91,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende i Málaga &#038; Andalusien",
     "link": "https://malaga.se/malaga-par-roadtrip/",
     "modified": "2026-06-06",
-    "words": 911,
+    "words": 915,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -113,9 +113,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -134,7 +134,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget i Málaga",
     "link": "https://malaga.se/hyrbil-malaga-vanner/",
     "modified": "2026-06-06",
-    "words": 915,
+    "words": 918,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -156,9 +156,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -177,7 +177,7 @@
     "title": "Hyrbil &#038; boende i Málaga för barnfamiljer",
     "link": "https://malaga.se/hyrbil-malaga-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 927,
+    "words": 931,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -199,9 +199,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -220,13 +220,13 @@
     "title": "Málaga på hösten – guide till september, oktober och november",
     "link": "https://malaga.se/malaga-pa-hosten/",
     "modified": "2026-06-04",
-    "words": 571,
+    "words": 555,
     "h2": 8,
     "h3": 2,
     "images": 0,
     "internal": 8,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -262,13 +262,13 @@
     "title": "Golf i Málaga – Costa del Sol, bästa banorna och tips",
     "link": "https://malaga.se/golf-malaga/",
     "modified": "2026-06-05",
-    "words": 580,
+    "words": 564,
     "h2": 6,
     "h3": 8,
     "images": 6,
     "internal": 7,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -302,13 +302,13 @@
     "title": "Stadsdelar i Málaga – bästa lägen att bo och utforska",
     "link": "https://malaga.se/stadsdelar-malaga/",
     "modified": "2026-06-04",
-    "words": 521,
+    "words": 505,
     "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 5,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -344,13 +344,13 @@
     "title": "All inclusive Málaga – finns det och är det värt det?",
     "link": "https://malaga.se/malaga-all-inclusive/",
     "modified": "2026-06-05",
-    "words": 530,
+    "words": 514,
     "h2": 6,
     "h3": 2,
     "images": 2,
     "internal": 5,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -384,13 +384,13 @@
     "title": "Málaga HBTQ-guide – välkomnande stad vid Medelhavet",
     "link": "https://malaga.se/malaga-hbtq/",
     "modified": "2026-06-05",
-    "words": 460,
+    "words": 444,
     "h2": 7,
     "h3": 3,
     "images": 2,
     "internal": 7,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -424,13 +424,13 @@
     "title": "Málaga solo – guide för soloresenären till Andalusien",
     "link": "https://malaga.se/malaga-solo/",
     "modified": "2026-06-05",
-    "words": 541,
+    "words": 531,
     "h2": 8,
     "h3": 5,
     "images": 3,
     "internal": 7,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -446,9 +446,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -465,13 +465,13 @@
     "title": "Málaga på helgen – 2–3 dagars guide till det bästa",
     "link": "https://malaga.se/malaga-pa-helgen/",
     "modified": "2026-06-04",
-    "words": 446,
+    "words": 430,
     "h2": 7,
     "h3": 6,
     "images": 0,
     "internal": 5,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Reseplan",
     "audience": "Bred",
     "aff_angle": [
@@ -507,13 +507,13 @@
     "title": "Málaga för första gången – komplett guide för nybörjaren",
     "link": "https://malaga.se/malaga-forsta-gangen/",
     "modified": "2026-06-05",
-    "words": 529,
+    "words": 513,
     "h2": 8,
     "h3": 3,
     "images": 1,
     "internal": 7,
     "external": 0,
-    "affiliate": 2,
+    "affiliate": 3,
     "type": "Reseplan",
     "audience": "Bred",
     "aff_angle": [
@@ -547,7 +547,7 @@
     "title": "Málaga med vänner – guide till sällskapsresan på Costa del Sol",
     "link": "https://malaga.se/malaga-med-vanner/",
     "modified": "2026-06-05",
-    "words": 569,
+    "words": 574,
     "h2": 8,
     "h3": 5,
     "images": 3,
@@ -569,9 +569,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -588,13 +588,13 @@
     "title": "Málaga för seniorer – guide till sol, kultur och långvistelse",
     "link": "https://malaga.se/malaga-for-seniorer/",
     "modified": "2026-06-05",
-    "words": 713,
+    "words": 697,
     "h2": 7,
     "h3": 11,
     "images": 5,
     "internal": 8,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Målgruppsguide",
     "audience": "Seniorer",
     "aff_angle": [
@@ -614,9 +614,9 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 82,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -778,14 +778,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 62,
+    "score": 82,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -1981,7 +1980,7 @@
     "title": "Rhodos för HBTQ-resenärer — välkomnande och öppet klimat",
     "link": "https://rhodos.se/rhodos-hbtq/",
     "modified": "2026-06-07",
-    "words": 717,
+    "words": 722,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -2003,9 +2002,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -2024,7 +2023,7 @@
     "title": "Rhodos för pensionärer — guide till välmående semester på Dodekaneserna",
     "link": "https://rhodos.se/rhodos-for-pensionarer/",
     "modified": "2026-06-06",
-    "words": 343,
+    "words": 349,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -2046,9 +2045,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2067,7 +2066,7 @@
     "title": "Hyrbil för vandring &#038; vindsurf på Rhodos",
     "link": "https://rhodos.se/hyrbil-rhodos-vandring-vindsurf/",
     "modified": "2026-06-06",
-    "words": 920,
+    "words": 924,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -2090,9 +2089,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -2111,7 +2110,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Rhodos",
     "link": "https://rhodos.se/rhodos-par-roadtrip/",
     "modified": "2026-06-17",
-    "words": 936,
+    "words": 940,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -2133,9 +2132,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -2152,7 +2151,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Rhodos",
     "link": "https://rhodos.se/hyrbil-rhodos-vanner/",
     "modified": "2026-06-06",
-    "words": 959,
+    "words": 962,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -2174,9 +2173,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -2193,7 +2192,7 @@
     "title": "Hyrbil &#038; villa på Rhodos för barnfamiljer",
     "link": "https://rhodos.se/hyrbil-rhodos-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 975,
+    "words": 979,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -2216,9 +2215,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -2277,7 +2276,7 @@
     "title": "Rhodos med tonåringar 2026 — aktiviteter, mat och hotell som funkar",
     "link": "https://rhodos.se/rhodos-med-tonaringar/",
     "modified": "2026-06-16",
-    "words": 518,
+    "words": 524,
     "h2": 4,
     "h3": 7,
     "images": 1,
@@ -2299,9 +2298,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2361,7 +2360,7 @@
     "title": "Ixia på Rhodos 2026 — vindsurfarnas hemma och strandklubbar",
     "link": "https://rhodos.se/ixia-vind-surfing/",
     "modified": "2026-06-16",
-    "words": 436,
+    "words": 441,
     "h2": 5,
     "h3": 6,
     "images": 2,
@@ -2383,9 +2382,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2404,7 +2403,7 @@
     "title": "Faliraki på Rhodos 2026 — strand, vattenpark och allt du behöver veta",
     "link": "https://rhodos.se/faliraki-guide/",
     "modified": "2026-06-16",
-    "words": 517,
+    "words": 522,
     "h2": 6,
     "h3": 8,
     "images": 2,
@@ -2426,9 +2425,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2487,7 +2486,7 @@
     "title": "Dykning och snorkling på Rhodos 2026 — de bästa platserna",
     "link": "https://rhodos.se/rhodos-dykning-snorkling/",
     "modified": "2026-06-05",
-    "words": 464,
+    "words": 470,
     "h2": 4,
     "h3": 8,
     "images": 1,
@@ -2508,12 +2507,12 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 75,
     "flags": [
@@ -2529,7 +2528,7 @@
     "title": "Vinprovning på Rhodos 2026 — Embonas vingård och Emery Winery",
     "link": "https://rhodos.se/rhodos-vin-embonas/",
     "modified": "2026-06-16",
-    "words": 566,
+    "words": 571,
     "h2": 5,
     "h3": 7,
     "images": 1,
@@ -2550,12 +2549,12 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 82,
     "flags": [
@@ -2571,7 +2570,7 @@
     "title": "Bröllopsresa Rhodos 2026 — honeymoon på Egeishavets pärla",
     "link": "https://rhodos.se/brollopsresa-rhodos/",
     "modified": "2026-06-17",
-    "words": 507,
+    "words": 512,
     "h2": 4,
     "h3": 9,
     "images": 7,
@@ -2593,9 +2592,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -2659,7 +2658,7 @@
     "title": "Rhodos utan hyrbil 2026 — buss, båt och vad du faktiskt missar",
     "link": "https://rhodos.se/rhodos-utan-hyrbil/",
     "modified": "2026-06-16",
-    "words": 439,
+    "words": 445,
     "h2": 5,
     "h3": 4,
     "images": 2,
@@ -2681,9 +2680,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2745,7 +2744,7 @@
     "title": "Rhodos i september och oktober 2026 — guldmånader med perfekt badväder",
     "link": "https://rhodos.se/rhodos-september-oktober/",
     "modified": "2026-06-16",
-    "words": 544,
+    "words": 549,
     "h2": 6,
     "h3": 4,
     "images": 4,
@@ -2767,9 +2766,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -2786,7 +2785,7 @@
     "title": "Vandring på Rhodos 2026 — Petaloudes, Seven Springs och Attavyros",
     "link": "https://rhodos.se/vandring-rhodos/",
     "modified": "2026-06-03",
-    "words": 707,
+    "words": 712,
     "h2": 5,
     "h3": 4,
     "images": 0,
@@ -2807,9 +2806,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -2955,7 +2954,7 @@
     "title": "Rhodos för par 2026 — romantisk guide till Egeishavets pärla",
     "link": "https://rhodos.se/rhodos-for-par/",
     "modified": "2026-06-05",
-    "words": 635,
+    "words": 640,
     "h2": 5,
     "h3": 9,
     "images": 1,
@@ -2977,9 +2976,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -2996,7 +2995,7 @@
     "title": "Rhodos med barn 2026 — stränder, aktiviteter och familjehotell",
     "link": "https://rhodos.se/rhodos-med-barn/",
     "modified": "2026-06-16",
-    "words": 693,
+    "words": 698,
     "h2": 6,
     "h3": 5,
     "images": 1,
@@ -3018,9 +3017,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3037,7 +3036,7 @@
     "title": "Dagsutflykter från Rhodos 2026 — Symi, fjärilar och medeltida slott",
     "link": "https://rhodos.se/dagsutflykter-fran-rhodos/",
     "modified": "2026-06-16",
-    "words": 773,
+    "words": 785,
     "h2": 6,
     "h3": 4,
     "images": 2,
@@ -3058,9 +3057,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 1,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3077,7 +3076,7 @@
     "title": "Rhodos Gamla Stan 2026 — UNESCO-staden du inte kan missa",
     "link": "https://rhodos.se/rhodos-gamla-stan/",
     "modified": "2026-06-03",
-    "words": 851,
+    "words": 858,
     "h2": 8,
     "h3": 6,
     "images": 0,
@@ -3098,12 +3097,12 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 77,
     "flags": [
@@ -3120,7 +3119,7 @@
     "title": "Lindos på Rhodos 2026 — Akropolis, byn och St Paul&#8217;s Bay",
     "link": "https://rhodos.se/lindos-rhodos/",
     "modified": "2026-06-03",
-    "words": 890,
+    "words": 895,
     "h2": 7,
     "h3": 6,
     "images": 0,
@@ -3142,12 +3141,12 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 84,
     "flags": [
@@ -3163,7 +3162,7 @@
     "title": "Rhodos matguide 2026 — meze, lokala specialiteter och bästa tavernorna",
     "link": "https://rhodos.se/matguide-rhodos/",
     "modified": "2026-06-16",
-    "words": 1150,
+    "words": 1154,
     "h2": 6,
     "h3": 11,
     "images": 2,
@@ -3184,12 +3183,12 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 82,
     "flags": [
@@ -3504,13 +3503,13 @@
     "title": "Bästa hotellen på Rhodos 2026 — 11 utvalda från lyx till boutique",
     "link": "https://rhodos.se/basta-hotellen-pa-rhodos/",
     "modified": "2026-06-17",
-    "words": 2223,
+    "words": 2191,
     "h2": 11,
     "h3": 15,
     "images": 12,
     "internal": 15,
     "external": 0,
-    "affiliate": 15,
+    "affiliate": 17,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -3591,7 +3590,7 @@
     "title": "Rhodos – Komplett reseguide till solens ö 2026",
     "link": "https://rhodos.se/",
     "modified": "2026-06-17",
-    "words": 948,
+    "words": 951,
     "h2": 9,
     "h3": 0,
     "images": 7,
@@ -3613,9 +3612,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -3636,7 +3635,7 @@
     "title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
     "link": "https://korfu.se/dagsutflykter-fran-korfu/",
     "modified": "2026-06-07",
-    "words": 772,
+    "words": 779,
     "h2": 3,
     "h3": 6,
     "images": 0,
@@ -3658,9 +3657,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3721,7 +3720,7 @@
     "title": "Korfu för HBTQ-resenärer — välkomnande Jonisk ö",
     "link": "https://korfu.se/korfu-hbtq/",
     "modified": "2026-06-07",
-    "words": 739,
+    "words": 744,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -3743,9 +3742,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3764,7 +3763,7 @@
     "title": "Korfu för pensionärer — guide till välmående semester på Joniska öarna",
     "link": "https://korfu.se/korfu-for-pensionarer/",
     "modified": "2026-06-06",
-    "words": 342,
+    "words": 348,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -3786,9 +3785,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -3807,7 +3806,7 @@
     "title": "Hyrbil för vandring &#038; natur på Korfu",
     "link": "https://korfu.se/hyrbil-korfu-vandring/",
     "modified": "2026-06-06",
-    "words": 906,
+    "words": 910,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -3830,9 +3829,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3851,7 +3850,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Korfu",
     "link": "https://korfu.se/korfu-par-roadtrip/",
     "modified": "2026-06-06",
-    "words": 943,
+    "words": 947,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -3873,9 +3872,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -3892,7 +3891,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Korfu",
     "link": "https://korfu.se/hyrbil-korfu-vanner/",
     "modified": "2026-06-06",
-    "words": 947,
+    "words": 950,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -3914,9 +3913,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -3935,7 +3934,7 @@
     "title": "Hyrbil &#038; villa på Korfu för barnfamiljer",
     "link": "https://korfu.se/hyrbil-korfu-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 967,
+    "words": 971,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -3958,9 +3957,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -4629,14 +4628,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 80,
+    "score": 100,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -4718,15 +4716,14 @@
       "dubblett",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 80,
+    "score": 100,
     "flags": [
-      "slutar abrupt",
       "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -4765,14 +4762,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 80,
+    "score": 100,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -4812,15 +4808,14 @@
       "dubblett",
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 80,
+    "score": 100,
     "flags": [
-      "slutar abrupt",
       "🖼 dubblettbild (1)",
       "🖼 bild i botten"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -5344,7 +5339,7 @@
     "title": "Vandring och natur nära Torremolinos — Caminito del Rey och Costa del Sol",
     "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/",
     "modified": "2026-06-17",
-    "words": 627,
+    "words": 634,
     "h2": 3,
     "h3": 9,
     "images": 5,
@@ -5366,9 +5361,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 3,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -5385,7 +5380,7 @@
     "title": "Vad kostar en vecka i Torremolinos? Budget, medel och lyx 2026",
     "link": "https://torremolinos.se/vad-kostar-torremolinos/",
     "modified": "2026-06-07",
-    "words": 725,
+    "words": 730,
     "h2": 6,
     "h3": 2,
     "images": 0,
@@ -5407,9 +5402,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -5428,7 +5423,7 @@
     "title": "Torremolinos för HBTQ-resenärer — La Nogalera och 60 år av tradition",
     "link": "https://torremolinos.se/torremolinos-hbtq/",
     "modified": "2026-06-07",
-    "words": 771,
+    "words": 776,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -5450,9 +5445,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -5471,7 +5466,7 @@
     "title": "Torremolinos för pensionärer — guide till längre vistelse på Costa del Sol",
     "link": "https://torremolinos.se/torremolinos-for-pensionarer/",
     "modified": "2026-06-06",
-    "words": 350,
+    "words": 356,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -5493,9 +5488,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -5514,7 +5509,7 @@
     "title": "Hyrbil för utflykter &#038; natur från Torremolinos",
     "link": "https://torremolinos.se/hyrbil-torremolinos-utflykter-natur/",
     "modified": "2026-06-06",
-    "words": 863,
+    "words": 868,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -5537,9 +5532,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -5558,7 +5553,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende från Torremolinos",
     "link": "https://torremolinos.se/torremolinos-par-roadtrip/",
     "modified": "2026-06-06",
-    "words": 874,
+    "words": 878,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -5580,9 +5575,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -5599,7 +5594,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget i Torremolinos",
     "link": "https://torremolinos.se/hyrbil-torremolinos-vanner/",
     "modified": "2026-06-06",
-    "words": 859,
+    "words": 862,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -5621,9 +5616,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -5642,7 +5637,7 @@
     "title": "Hyrbil &#038; boende i Torremolinos för barnfamiljer",
     "link": "https://torremolinos.se/hyrbil-torremolinos-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 884,
+    "words": 888,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -5664,9 +5659,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -5683,7 +5678,7 @@
     "title": "Torremolinos områden – karta och guide till stadsdelarna",
     "link": "https://torremolinos.se/omraden-torremolinos/",
     "modified": "2026-06-06",
-    "words": 569,
+    "words": 574,
     "h2": 8,
     "h3": 7,
     "images": 7,
@@ -5705,9 +5700,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -5729,7 +5724,7 @@
     "title": "Mat i Torremolinos – lokal mat, typiska rätter och matstil",
     "link": "https://torremolinos.se/mat-torremolinos/",
     "modified": "2026-06-06",
-    "words": 681,
+    "words": 687,
     "h2": 7,
     "h3": 9,
     "images": 9,
@@ -5750,9 +5745,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -5774,7 +5769,7 @@
     "title": "Sevärdheter i Torremolinos – historia, kultur och utsiktsplatser",
     "link": "https://torremolinos.se/sevardheter-torremolinos/",
     "modified": "2026-06-17",
-    "words": 739,
+    "words": 745,
     "h2": 13,
     "h3": 7,
     "images": 3,
@@ -5796,9 +5791,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 1,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -5840,12 +5835,15 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [],
+    "img_issue": [
+      "botten"
+    ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 67,
     "flags": [
-      "omonetiserad"
+      "omonetiserad",
+      "🖼 bild i botten"
     ],
     "tier": "Påbörjad",
     "contaminated": false
@@ -5857,7 +5855,7 @@
     "title": "Dagsutflykter från Torremolinos – bästa utflykterna längs Costa del Sol",
     "link": "https://torremolinos.se/dagsutflykter-fran-torremolinos/",
     "modified": "2026-06-07",
-    "words": 974,
+    "words": 981,
     "h2": 12,
     "h3": 5,
     "images": 3,
@@ -5879,9 +5877,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 1,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -5898,7 +5896,7 @@
     "title": "Torremolinos med barn – familjevänlig guide till Costa del Sol",
     "link": "https://torremolinos.se/torremolinos-med-barn/",
     "modified": "2026-06-06",
-    "words": 648,
+    "words": 654,
     "h2": 7,
     "h3": 9,
     "images": 9,
@@ -5919,9 +5917,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -5943,7 +5941,7 @@
     "title": "Nattliv i Torremolinos – barer, klubbar och strandliv",
     "link": "https://torremolinos.se/nattliv-torremolinos/",
     "modified": "2026-06-06",
-    "words": 433,
+    "words": 438,
     "h2": 7,
     "h3": 5,
     "images": 4,
@@ -5965,9 +5963,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [
       "botten"
@@ -5989,7 +5987,7 @@
     "title": "Restauranger i Torremolinos – bästa ställena att äta 2025",
     "link": "https://torremolinos.se/restauranger-torremolinos/",
     "modified": "2026-06-06",
-    "words": 499,
+    "words": 503,
     "h2": 7,
     "h3": 5,
     "images": 4,
@@ -6010,9 +6008,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -6245,7 +6243,7 @@
     "title": "Hyrbil i Torremolinos",
     "link": "https://torremolinos.se/hyrbil-i-torremolinos/",
     "modified": "2026-06-17",
-    "words": 3333,
+    "words": 3339,
     "h2": 25,
     "h3": 16,
     "images": 1,
@@ -6268,9 +6266,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 9,
+    "money_total": 10,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -6758,7 +6756,7 @@
     "title": "Hyrbil för vandring &#038; surf på Gran Canaria",
     "link": "https://grancanaria.se/hyrbil-grancanaria-vandring-surf/",
     "modified": "2026-06-06",
-    "words": 897,
+    "words": 902,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -6781,9 +6779,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -6800,7 +6798,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Gran Canaria",
     "link": "https://grancanaria.se/grancanaria-par-roadtrip/",
     "modified": "2026-06-06",
-    "words": 889,
+    "words": 894,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -6822,9 +6820,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -6841,7 +6839,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Gran Canaria",
     "link": "https://grancanaria.se/hyrbil-grancanaria-vanner/",
     "modified": "2026-06-06",
-    "words": 913,
+    "words": 917,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -6863,9 +6861,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -6884,7 +6882,7 @@
     "title": "Hyrbil &#038; villa på Gran Canaria för barnfamiljer",
     "link": "https://grancanaria.se/hyrbil-grancanaria-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 910,
+    "words": 915,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -6907,9 +6905,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -7011,13 +7009,13 @@
     "title": "Meloneras Gran Canaria – lyxkvarteret vid havet",
     "link": "https://grancanaria.se/meloneras/",
     "modified": "2026-06-06",
-    "words": 602,
+    "words": 588,
     "h2": 8,
     "h3": 3,
     "images": 1,
     "internal": 8,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -7135,7 +7133,7 @@
     "title": "Gran Canaria med vänner – guide till den perfekta sällskapsresan",
     "link": "https://grancanaria.se/gran-canaria-med-vanner/",
     "modified": "2026-06-05",
-    "words": 764,
+    "words": 771,
     "h2": 8,
     "h3": 10,
     "images": 0,
@@ -7157,9 +7155,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -7178,13 +7176,13 @@
     "title": "Playa del Inglés – komplett guide till Gran Canarias största resort",
     "link": "https://grancanaria.se/playa-del-ingles/",
     "modified": "2026-06-07",
-    "words": 745,
+    "words": 741,
     "h2": 9,
     "h3": 3,
     "images": 0,
     "internal": 9,
     "external": 0,
-    "affiliate": 4,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -7200,9 +7198,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -7760,13 +7758,13 @@
     "title": "All inclusive på Gran Canaria: är det värt det? Områden, hotelltyper och vem som ska boka",
     "link": "https://grancanaria.se/all-inclusive-gran-canaria/",
     "modified": "2026-06-06",
-    "words": 1349,
+    "words": 1334,
     "h2": 12,
     "h3": 29,
     "images": 5,
     "internal": 9,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -7788,11 +7786,9 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 74,
-    "flags": [
-      "omonetiserad"
-    ],
-    "tier": "Påbörjad",
+    "score": 89,
+    "flags": [],
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -7882,7 +7878,7 @@
     "title": "Gran Canaria för HBTQ-resenärer: Yumbo, Pride, stränder, boende och trygga områden",
     "link": "https://grancanaria.se/gran-canaria-hbtq/",
     "modified": "2026-06-06",
-    "words": 1660,
+    "words": 1667,
     "h2": 16,
     "h3": 26,
     "images": 4,
@@ -7904,9 +7900,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -7963,7 +7959,7 @@
     "title": "Gran Canaria för pensionärer och långliggare: bästa områdena, boendet och praktiska tips",
     "link": "https://grancanaria.se/gran-canaria-pensionarer-langliggare/",
     "modified": "2026-06-06",
-    "words": 1824,
+    "words": 1831,
     "h2": 16,
     "h3": 25,
     "images": 4,
@@ -7985,9 +7981,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -8004,13 +8000,13 @@
     "title": "Gran Canaria för par: bästa områdena, hotellen, stränderna och romantiska utflykter",
     "link": "https://grancanaria.se/gran-canaria-for-par/",
     "modified": "2026-06-06",
-    "words": 1804,
+    "words": 1796,
     "h2": 14,
     "h3": 34,
     "images": 3,
     "internal": 11,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Hotell",
     "audience": "Par",
     "aff_angle": [
@@ -8026,18 +8022,16 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 80,
-    "flags": [
-      "omonetiserad"
-    ],
-    "tier": "Berikad",
+    "score": 95,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8128,7 +8122,7 @@
     "title": "Gran Canaria flygplats, transfer och så tar du dig runt",
     "link": "https://grancanaria.se/gran-canaria-flygplats-transfer-ta-sig-runt/",
     "modified": "2026-06-06",
-    "words": 1612,
+    "words": 1619,
     "h2": 15,
     "h3": 2,
     "images": 1,
@@ -8150,9 +8144,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -8210,13 +8204,13 @@
     "title": "Gran Canaria med barn: bästa områdena, stränderna och hotellen för familjer",
     "link": "https://grancanaria.se/gran-canaria-med-barn/",
     "modified": "2026-06-06",
-    "words": 2112,
+    "words": 2104,
     "h2": 17,
     "h3": 30,
     "images": 3,
     "internal": 11,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Hotell",
     "audience": "Familjer",
     "aff_angle": [
@@ -8232,18 +8226,16 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 80,
-    "flags": [
-      "omonetiserad"
-    ],
-    "tier": "Berikad",
+    "score": 95,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8253,17 +8245,17 @@
     "title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
     "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
     "modified": "2026-06-03",
-    "words": 1944,
+    "words": 1929,
     "h2": 13,
     "h3": 30,
     "images": 3,
     "internal": 12,
     "external": 0,
-    "affiliate": 0,
+    "affiliate": 1,
     "type": "Reseplan",
     "audience": "Bred",
     "aff_angle": [
-      "Hotell"
+      "Funnel/allmän"
     ],
     "indexed": true,
     "cta": 0,
@@ -8281,11 +8273,9 @@
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 80,
-    "flags": [
-      "omonetiserad"
-    ],
-    "tier": "Berikad",
+    "score": 95,
+    "flags": [],
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -8336,7 +8326,7 @@
     "title": "Vandring på Gran Canaria — Roque Nublo, GR 131 och gömda leder",
     "link": "https://grancanaria.se/vandring-gran-canaria/",
     "modified": "2026-06-06",
-    "words": 839,
+    "words": 846,
     "h2": 6,
     "h3": 8,
     "images": 0,
@@ -8357,9 +8347,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -8584,7 +8574,7 @@
     "title": "Bästa tiden att resa till Gran Canaria",
     "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
     "modified": "2026-06-06",
-    "words": 865,
+    "words": 871,
     "h2": 5,
     "h3": 11,
     "images": 0,
@@ -8606,9 +8596,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -8627,7 +8617,7 @@
     "title": "Vad kostar en vecka på Gran Canaria? Budget, medel, lyx 2026",
     "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
     "modified": "2026-06-06",
-    "words": 1568,
+    "words": 1574,
     "h2": 13,
     "h3": 18,
     "images": 5,
@@ -8649,9 +8639,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -8915,13 +8905,13 @@
     "title": "Bästa hotellen på Gran Canaria — guide för skandinaver",
     "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
     "modified": "2026-06-06",
-    "words": 5177,
+    "words": 5155,
     "h2": 12,
     "h3": 25,
     "images": 25,
     "internal": 61,
     "external": 2,
-    "affiliate": 53,
+    "affiliate": 55,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -8962,13 +8952,13 @@
     "title": "Var ska man bo på Gran Canaria? — Komplett områdesguide",
     "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/",
     "modified": "2026-06-07",
-    "words": 3487,
+    "words": 3476,
     "h2": 12,
     "h3": 21,
     "images": 10,
     "internal": 53,
     "external": 4,
-    "affiliate": 41,
+    "affiliate": 42,
     "type": "Områden",
     "audience": "Bred",
     "aff_angle": [
@@ -9010,7 +9000,7 @@
     "title": "Dagsutflykter från Teneriffa — Teide, Masca och La Gomera",
     "link": "https://teneriffa.se/dagsutflykter-fran-teneriffa/",
     "modified": "2026-06-07",
-    "words": 823,
+    "words": 830,
     "h2": 3,
     "h3": 6,
     "images": 0,
@@ -9032,9 +9022,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -9053,7 +9043,7 @@
     "title": "Teneriffa för HBTQ-resenärer — guide till öppen och välkomnande destination",
     "link": "https://teneriffa.se/teneriffa-hbtq/",
     "modified": "2026-06-07",
-    "words": 725,
+    "words": 730,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -9075,9 +9065,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -9096,7 +9086,7 @@
     "title": "Teneriffa för pensionärer och långliggare — guide till längre vistelse",
     "link": "https://teneriffa.se/teneriffa-for-pensionarer-langliggare/",
     "modified": "2026-06-06",
-    "words": 356,
+    "words": 362,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -9118,9 +9108,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -9139,7 +9129,7 @@
     "title": "Hyrbil för vandring &#038; surf på Teneriffa",
     "link": "https://teneriffa.se/hyrbil-teneriffa-vandring-surf/",
     "modified": "2026-06-06",
-    "words": 956,
+    "words": 960,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -9162,9 +9152,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -9181,7 +9171,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Teneriffa",
     "link": "https://teneriffa.se/teneriffa-par-roadtrip/",
     "modified": "2026-06-17",
-    "words": 906,
+    "words": 910,
     "h2": 7,
     "h3": 0,
     "images": 2,
@@ -9203,9 +9193,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -9222,7 +9212,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Teneriffa",
     "link": "https://teneriffa.se/hyrbil-teneriffa-vanner/",
     "modified": "2026-06-17",
-    "words": 926,
+    "words": 929,
     "h2": 7,
     "h3": 0,
     "images": 2,
@@ -9244,9 +9234,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -9263,7 +9253,7 @@
     "title": "Hyrbil &#038; villa på Teneriffa för barnfamiljer",
     "link": "https://teneriffa.se/hyrbil-teneriffa-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 931,
+    "words": 935,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -9286,9 +9276,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -10221,14 +10211,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 74,
+    "score": 94,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -10795,7 +10784,7 @@
     "title": "Vad kostar en vecka på Lanzarote? Budget, medel och lyx 2026",
     "link": "https://lanzarote.se/vad-kostar-en-vecka-pa-lanzarote/",
     "modified": "2026-06-07",
-    "words": 756,
+    "words": 761,
     "h2": 6,
     "h3": 2,
     "images": 0,
@@ -10817,9 +10806,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -10838,7 +10827,7 @@
     "title": "Dagsutflykter från Lanzarote — La Graciosa, Timanfaya och Fuerteventura",
     "link": "https://lanzarote.se/dagsutflykter-fran-lanzarote/",
     "modified": "2026-06-07",
-    "words": 835,
+    "words": 842,
     "h2": 3,
     "h3": 6,
     "images": 0,
@@ -10860,9 +10849,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -10924,7 +10913,7 @@
     "title": "Lanzarote för HBTQ-resenärer — öppen och välkomnande ö",
     "link": "https://lanzarote.se/lanzarote-hbtq/",
     "modified": "2026-06-07",
-    "words": 722,
+    "words": 727,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -10946,9 +10935,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -10967,7 +10956,7 @@
     "title": "Hyrbil för aktiva på Lanzarote – surf, vandring &#038; natur",
     "link": "https://lanzarote.se/hyrbil-lanzarote-aktiv/",
     "modified": "2026-06-07",
-    "words": 869,
+    "words": 874,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -10990,9 +10979,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -11011,7 +11000,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Lanzarote",
     "link": "https://lanzarote.se/lanzarote-par-roadtrip/",
     "modified": "2026-06-07",
-    "words": 903,
+    "words": 907,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -11033,9 +11022,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -11054,7 +11043,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Lanzarote",
     "link": "https://lanzarote.se/hyrbil-lanzarote-vanner/",
     "modified": "2026-06-07",
-    "words": 906,
+    "words": 909,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -11076,9 +11065,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -11097,7 +11086,7 @@
     "title": "Hyrbil &#038; villa på Lanzarote för barnfamiljer",
     "link": "https://lanzarote.se/hyrbil-lanzarote-barnfamilj/",
     "modified": "2026-06-07",
-    "words": 911,
+    "words": 915,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -11120,9 +11109,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -11224,7 +11213,7 @@
     "title": "Lugna stränder på Lanzarote — guide för seniorer, par och tillgänglighet",
     "link": "https://lanzarote.se/lanzarote-lugna-strander-guide/",
     "modified": "2026-06-07",
-    "words": 2484,
+    "words": 2488,
     "h2": 10,
     "h3": 17,
     "images": 6,
@@ -11246,9 +11235,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -11265,7 +11254,7 @@
     "title": "Lanzarote-guider",
     "link": "https://lanzarote.se/guider/",
     "modified": "2026-06-08",
-    "words": 850,
+    "words": 853,
     "h2": 17,
     "h3": 25,
     "images": 0,
@@ -11287,9 +11276,9 @@
       "hotell": 3,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 7,
+    "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -11333,11 +11322,15 @@
     },
     "money_total": 0,
     "gyg_issue": [],
-    "img_issue": [],
+    "img_issue": [
+      "botten"
+    ],
     "qa": "🟡 OK",
     "needs_image": false,
     "score": 75,
-    "flags": [],
+    "flags": [
+      "🖼 bild i botten"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -11629,14 +11622,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 48,
+    "score": 68,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Rå",
+    "tier": "Påbörjad",
     "contaminated": false
   },
   {
@@ -11884,14 +11876,13 @@
     "img_issue": [
       "botten"
     ],
-    "qa": "❌ Fix krävs",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 55,
+    "score": 75,
     "flags": [
-      "slutar abrupt",
       "🖼 bild i botten"
     ],
-    "tier": "Påbörjad",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -12363,13 +12354,13 @@
     "title": "Bästa hotellen på Lanzarote — guide för skandinaver",
     "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/",
     "modified": "2026-06-17",
-    "words": 4931,
+    "words": 4922,
     "h2": 14,
     "h3": 22,
     "images": 25,
     "internal": 43,
     "external": 0,
-    "affiliate": 36,
+    "affiliate": 38,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -12385,9 +12376,9 @@
       "hotell": 30,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 3
     },
-    "money_total": 32,
+    "money_total": 35,
     "gyg_issue": [],
     "img_issue": [
       "dubblett",
@@ -12451,7 +12442,7 @@
     "title": "Lanzarote — Guider, tips och ärliga rekommendationer",
     "link": "https://lanzarote.se/",
     "modified": "2026-06-06",
-    "words": 1265,
+    "words": 1284,
     "h2": 10,
     "h3": 34,
     "images": 4,
@@ -12473,9 +12464,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 3
     },
-    "money_total": 5,
+    "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -12576,7 +12567,7 @@
     "title": "Dagsutflykter från Fuerteventura — Lobos, Lanzarote och Cofete",
     "link": "https://fuerteventura.se/dagsutflykter-fran-fuerteventura/",
     "modified": "2026-06-07",
-    "words": 770,
+    "words": 777,
     "h2": 3,
     "h3": 6,
     "images": 0,
@@ -12598,9 +12589,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 5,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -12619,7 +12610,7 @@
     "title": "Fuerteventura för HBTQ-resenärer — välkomnande ö",
     "link": "https://fuerteventura.se/fuerteventura-hbtq/",
     "modified": "2026-06-07",
-    "words": 732,
+    "words": 737,
     "h2": 9,
     "h3": 0,
     "images": 0,
@@ -12641,9 +12632,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -12662,7 +12653,7 @@
     "title": "Fuerteventura för pensionärer — guide till längre vistelse",
     "link": "https://fuerteventura.se/fuerteventura-for-pensionarer/",
     "modified": "2026-06-06",
-    "words": 341,
+    "words": 347,
     "h2": 4,
     "h3": 0,
     "images": 0,
@@ -12684,9 +12675,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
@@ -12705,7 +12696,7 @@
     "title": "Hyrbil för surf &#038; vindsurf på Fuerteventura",
     "link": "https://fuerteventura.se/hyrbil-fuerteventura-surf/",
     "modified": "2026-06-06",
-    "words": 894,
+    "words": 898,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -12728,9 +12719,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -12749,7 +12740,7 @@
     "title": "Roadtrip för par: hyrbil &#038; boende på Fuerteventura",
     "link": "https://fuerteventura.se/fuerteventura-par-roadtrip/",
     "modified": "2026-06-06",
-    "words": 883,
+    "words": 887,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -12771,9 +12762,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -12790,7 +12781,7 @@
     "title": "Hyrbil &#038; boende för kompisgänget på Fuerteventura",
     "link": "https://fuerteventura.se/hyrbil-fuerteventura-vanner/",
     "modified": "2026-06-06",
-    "words": 908,
+    "words": 911,
     "h2": 7,
     "h3": 0,
     "images": 0,
@@ -12812,9 +12803,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟢 Bra",
@@ -12833,7 +12824,7 @@
     "title": "Hyrbil &#038; villa på Fuerteventura för barnfamiljer",
     "link": "https://fuerteventura.se/hyrbil-fuerteventura-barnfamilj/",
     "modified": "2026-06-06",
-    "words": 924,
+    "words": 928,
     "h2": 7,
     "h3": 0,
     "images": 1,
@@ -12856,9 +12847,9 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -15202,13 +15193,13 @@
     "title": "Biennalen i Venedig — boende, biljetter och tips",
     "link": "https://venedig.se/biennalen-venedig/",
     "modified": "2026-06-17",
-    "words": 169,
+    "words": 171,
     "h2": 4,
     "h3": 0,
     "images": 1,
     "internal": 5,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -15224,14 +15215,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 72,
+    "score": 67,
     "flags": [
       "tunt content"
     ],
@@ -15245,13 +15236,13 @@
     "title": "Karnevalen i Venedig — guide, boende och tips 2026",
     "link": "https://venedig.se/karnevalen-venedig/",
     "modified": "2026-06-10",
-    "words": 220,
+    "words": 222,
     "h2": 5,
     "h3": 0,
     "images": 0,
     "internal": 5,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -15267,14 +15258,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 67,
+    "score": 62,
     "flags": [
       "tunt content",
       "📷 väntar bild"
@@ -15289,13 +15280,13 @@
     "title": "Venedig till Dolomiterna — perfekt roadtrip på 2–3 dagar",
     "link": "https://venedig.se/venedig-dolomiterna-roadtrip/",
     "modified": "2026-06-17",
-    "words": 640,
+    "words": 642,
     "h2": 6,
     "h3": 4,
     "images": 3,
     "internal": 3,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 3,
     "type": "Reseplan",
     "audience": "Bred",
     "aff_angle": [
@@ -15311,14 +15302,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 80,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -15330,13 +15321,13 @@
     "title": "Romantisk resa till Venedig — parweekend du minns hela livet",
     "link": "https://venedig.se/romantisk-resa-venedig/",
     "modified": "2026-06-17",
-    "words": 519,
+    "words": 521,
     "h2": 5,
     "h3": 6,
     "images": 1,
     "internal": 7,
-    "external": 1,
-    "affiliate": 7,
+    "external": 0,
+    "affiliate": 6,
     "type": "Generell",
     "audience": "Par",
     "aff_angle": [
@@ -15352,16 +15343,16 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 94,
+    "score": 89,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -15371,13 +15362,13 @@
     "title": "Dolda pärlor i Venedig — undangömda platser bortom turiststråken",
     "link": "https://venedig.se/dolda-parlor-venedig/",
     "modified": "2026-06-10",
-    "words": 671,
+    "words": 673,
     "h2": 10,
     "h3": 1,
     "images": 0,
     "internal": 2,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -15393,14 +15384,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 82,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -15414,13 +15405,13 @@
     "title": "Gratis i Venedig — 12 saker du kan göra utan att betala",
     "link": "https://venedig.se/gratis-venedig/",
     "modified": "2026-06-10",
-    "words": 744,
+    "words": 746,
     "h2": 14,
     "h3": 1,
     "images": 0,
     "internal": 2,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -15436,14 +15427,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 82,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -15457,13 +15448,13 @@
     "title": "Gondol i Venedig — priser, tips och allt du behöver veta",
     "link": "https://venedig.se/gondol-venedig/",
     "modified": "2026-06-10",
-    "words": 1413,
+    "words": 1417,
     "h2": 10,
     "h3": 3,
     "images": 0,
     "internal": 9,
-    "external": 2,
-    "affiliate": 15,
+    "external": 0,
+    "affiliate": 13,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -15478,14 +15469,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 2
     },
-    "money_total": 0,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -15499,13 +15490,13 @@
     "title": "Murano och Burano — dagsutflykt till öarna",
     "link": "https://venedig.se/murano-burano-dagsutflykt/",
     "modified": "2026-06-10",
-    "words": 594,
+    "words": 596,
     "h2": 6,
     "h3": 1,
     "images": 0,
     "internal": 3,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 4,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -15521,14 +15512,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": true,
-    "score": 89,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -15542,13 +15533,13 @@
     "title": "Restauranger i Venedig — från cicchetti till Michelin",
     "link": "https://venedig.se/restauranger-venedig/",
     "modified": "2026-06-17",
-    "words": 609,
+    "words": 611,
     "h2": 5,
     "h3": 6,
     "images": 2,
     "internal": 2,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Mat & nöje",
     "audience": "Bred",
     "aff_angle": [
@@ -15564,14 +15555,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": false,
-    "score": 73,
+    "score": 68,
     "flags": [],
     "tier": "Påbörjad",
     "contaminated": false
@@ -15583,13 +15574,13 @@
     "title": "Hotell i Venedig — var du ska bo och hur du bokar smart",
     "link": "https://venedig.se/hotell-venedig/",
     "modified": "2026-06-17",
-    "words": 633,
+    "words": 635,
     "h2": 5,
     "h3": 7,
     "images": 3,
     "internal": 3,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -15605,14 +15596,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": false,
-    "score": 80,
+    "score": 75,
     "flags": [],
     "tier": "Berikad",
     "contaminated": false
@@ -16296,13 +16287,13 @@
     "title": "Guider till Venedig",
     "link": "https://venedig.se/guider/",
     "modified": "2026-06-10",
-    "words": 217,
+    "words": 219,
     "h2": 1,
     "h3": 0,
     "images": 0,
     "internal": 22,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Guide-hub",
     "audience": "Bred",
     "aff_angle": [
@@ -16317,14 +16308,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 67,
+    "score": 62,
     "flags": [
       "tunt content",
       "📷 väntar bild"
@@ -16506,13 +16497,13 @@
     "title": "Saker att göra i Venedig",
     "link": "https://venedig.se/saker-att-gora-venedig/",
     "modified": "2026-06-10",
-    "words": 1051,
+    "words": 1053,
     "h2": 11,
     "h3": 1,
     "images": 0,
     "internal": 1,
-    "external": 1,
-    "affiliate": 2,
+    "external": 0,
+    "affiliate": 1,
     "type": "Aktiviteter",
     "audience": "Bred",
     "aff_angle": [
@@ -16527,14 +16518,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 82,
+    "score": 77,
     "flags": [
       "få internlänkar",
       "📷 väntar bild"
@@ -16637,13 +16628,13 @@
     "title": "Venedig guide &#8211; boende, transfer och smarta tips",
     "link": "https://venedig.se/",
     "modified": "2026-06-17",
-    "words": 669,
+    "words": 671,
     "h2": 4,
     "h3": 14,
     "images": 3,
     "internal": 15,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 4,
     "type": "Startsida",
     "audience": "Bred",
     "aff_angle": [
@@ -16659,16 +16650,16 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟡 OK",
+    "qa": "✅ Topp",
     "needs_image": false,
-    "score": 94,
+    "score": 89,
     "flags": [],
-    "tier": "Best-in-class",
+    "tier": "Berikad",
     "contaminated": false
   },
   {
@@ -19431,13 +19422,13 @@
     "title": "Nice stränder — komplett guide till rivierans bad och plages",
     "link": "https://provence.se/nice-strander/",
     "modified": "2026-06-16",
-    "words": 3527,
+    "words": 3534,
     "h2": 14,
     "h3": 6,
     "images": 5,
     "internal": 22,
-    "external": 1,
-    "affiliate": 9,
+    "external": 0,
+    "affiliate": 8,
     "type": "Stränder",
     "audience": "Bred",
     "aff_angle": [
@@ -19453,14 +19444,14 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 7,
+    "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -19472,13 +19463,13 @@
     "title": "Calanques-guide — vandring, båtturer och Cassis",
     "link": "https://provence.se/calanques-guide/",
     "modified": "2026-06-11",
-    "words": 1011,
+    "words": 1017,
     "h2": 10,
     "h3": 2,
     "images": 0,
     "internal": 16,
-    "external": 2,
-    "affiliate": 11,
+    "external": 1,
+    "affiliate": 10,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
     "aff_angle": [
@@ -19493,15 +19484,18 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
-    "gyg_issue": [],
+    "money_total": 5,
+    "gyg_issue": [
+      "over3"
+    ],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟡 OK",
     "needs_image": true,
     "score": 95,
     "flags": [
+      "⚠ GYG >3 kort",
       "📷 väntar bild"
     ],
     "tier": "Best-in-class",
@@ -19514,13 +19508,13 @@
     "title": "Marseille reseguide — Vieux-Port, Le Panier och porten till Calanques",
     "link": "https://provence.se/marseille-guide/",
     "modified": "2026-06-16",
-    "words": 1353,
+    "words": 1359,
     "h2": 13,
     "h3": 0,
     "images": 5,
     "internal": 25,
-    "external": 1,
-    "affiliate": 9,
+    "external": 0,
+    "affiliate": 8,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19536,14 +19530,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 7,
+    "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -19555,13 +19549,13 @@
     "title": "Cannes reseguide — filmfestival, La Croisette och öarna",
     "link": "https://provence.se/cannes-guide/",
     "modified": "2026-06-16",
-    "words": 1054,
+    "words": 1060,
     "h2": 10,
     "h3": 0,
     "images": 1,
     "internal": 16,
-    "external": 1,
-    "affiliate": 7,
+    "external": 0,
+    "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19577,14 +19571,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 5,
+    "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -19596,13 +19590,13 @@
     "title": "Nice reseguide — Franska rivieran, gamla stan och dagsutflykter",
     "link": "https://provence.se/nice-guide/",
     "modified": "2026-06-11",
-    "words": 1780,
+    "words": 1786,
     "h2": 11,
     "h3": 5,
     "images": 0,
     "internal": 15,
-    "external": 1,
-    "affiliate": 6,
+    "external": 0,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19618,14 +19612,14 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 5,
+    "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19639,13 +19633,13 @@
     "title": "Restauranger i Aix-en-Provence — bistros, terrasser och Michelin i närheten",
     "link": "https://provence.se/aix-en-provence-restauranger/",
     "modified": "2026-06-11",
-    "words": 1587,
+    "words": 1592,
     "h2": 12,
     "h3": 0,
     "images": 0,
     "internal": 20,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 3,
     "type": "Mat & nöje",
     "audience": "Bred",
     "aff_angle": [
@@ -19661,14 +19655,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19722,13 +19716,13 @@
     "title": "Sainte-Victoire vandring — leder, Croix de Provence och praktiska tips",
     "link": "https://provence.se/sainte-victoire-vandring/",
     "modified": "2026-06-16",
-    "words": 1496,
+    "words": 1502,
     "h2": 11,
     "h3": 2,
     "images": 1,
     "internal": 18,
-    "external": 1,
-    "affiliate": 9,
+    "external": 0,
+    "affiliate": 8,
     "type": "Praktiskt/aktiv",
     "audience": "Aktiva",
     "aff_angle": [
@@ -19743,14 +19737,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 5,
+    "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -19762,13 +19756,13 @@
     "title": "Vin i Aix-en-Provence — rosé, Coteaux d&#8217;Aix och vingårdar att besöka",
     "link": "https://provence.se/aix-en-provence-vin/",
     "modified": "2026-06-11",
-    "words": 1953,
+    "words": 1958,
     "h2": 11,
     "h3": 3,
     "images": 0,
     "internal": 20,
-    "external": 1,
-    "affiliate": 11,
+    "external": 0,
+    "affiliate": 10,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19783,14 +19777,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 5,
+    "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19804,13 +19798,13 @@
     "title": "Marknader i Aix-en-Provence — tisdag, torsdag, lördag och vad du ska köpa",
     "link": "https://provence.se/aix-en-provence-marknader/",
     "modified": "2026-06-16",
-    "words": 1564,
+    "words": 1569,
     "h2": 12,
     "h3": 0,
     "images": 1,
     "internal": 21,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19825,14 +19819,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
+    "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -19844,13 +19838,13 @@
     "title": "Cézanne i Aix-en-Provence — ateljé, Jas de Bouffan och Sainte-Victoire",
     "link": "https://provence.se/cezanne-i-aix/",
     "modified": "2026-06-11",
-    "words": 1695,
+    "words": 1700,
     "h2": 11,
     "h3": 2,
     "images": 0,
     "internal": 17,
-    "external": 1,
-    "affiliate": 8,
+    "external": 0,
+    "affiliate": 7,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19865,14 +19859,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19886,13 +19880,13 @@
     "title": "Sevärdheter i Aix-en-Provence — fontäner, museer och en dag i Vieil Aix",
     "link": "https://provence.se/aix-en-provence-sevardheter/",
     "modified": "2026-06-11",
-    "words": 2095,
+    "words": 2100,
     "h2": 13,
     "h3": 0,
     "images": 0,
     "internal": 21,
-    "external": 1,
-    "affiliate": 3,
+    "external": 0,
+    "affiliate": 2,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19907,14 +19901,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19928,13 +19922,13 @@
     "title": "Aix-en-Provence guide — marknader, Cézanne och porten till Luberon",
     "link": "https://provence.se/aix-en-provence/",
     "modified": "2026-06-11",
-    "words": 1440,
+    "words": 1445,
     "h2": 12,
     "h3": 0,
     "images": 0,
     "internal": 30,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 4,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -19949,14 +19943,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 4,
+    "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
       "📷 väntar bild"
     ],
@@ -19970,13 +19964,13 @@
     "title": "Camargue — flamingos, hästar, ris och budgetboende",
     "link": "https://provence.se/hyra-hus-provence/camargue/",
     "modified": "2026-06-11",
-    "words": 968,
+    "words": 974,
     "h2": 10,
     "h3": 0,
     "images": 0,
     "internal": 14,
-    "external": 1,
-    "affiliate": 8,
+    "external": 0,
+    "affiliate": 7,
     "type": "Hotell",
     "audience": "Bred",
     "aff_angle": [
@@ -19992,14 +19986,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 6,
+    "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
-    "score": 82,
+    "score": 77,
     "flags": [
       "📷 väntar bild"
     ],
@@ -20013,13 +20007,13 @@
     "title": "Hyra hus i Ventoux &#038; Drôme provençale — lavendel, cykling och äkta landsbygd 2026",
     "link": "https://provence.se/hyra-hus-provence/ventoux-drome/",
     "modified": "2026-06-16",
-    "words": 958,
+    "words": 966,
     "h2": 9,
     "h3": 0,
     "images": 1,
     "internal": 12,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20034,15 +20028,19 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
-    "gyg_issue": [],
+    "money_total": 4,
+    "gyg_issue": [
+      "over3"
+    ],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟡 OK",
     "needs_image": false,
-    "score": 100,
-    "flags": [],
+    "score": 95,
+    "flags": [
+      "⚠ GYG >3 kort"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -20053,13 +20051,13 @@
     "title": "Hyra hus i Var &#038; Verdon — Gorges du Verdon, natur och byar 2026",
     "link": "https://provence.se/hyra-hus-provence/var-verdon/",
     "modified": "2026-06-11",
-    "words": 1054,
+    "words": 1061,
     "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 12,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20074,15 +20072,18 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 3,
-    "gyg_issue": [],
+    "money_total": 4,
+    "gyg_issue": [
+      "over3"
+    ],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟡 OK",
     "needs_image": true,
-    "score": 95,
+    "score": 90,
     "flags": [
+      "⚠ GYG >3 kort",
       "📷 väntar bild"
     ],
     "tier": "Best-in-class",
@@ -20388,13 +20389,13 @@
     "title": "Lavendel i Provence",
     "link": "https://provence.se/lavendel-i-provence/",
     "modified": "2026-06-16",
-    "words": 716,
+    "words": 719,
     "h2": 7,
     "h3": 1,
     "images": 0,
     "internal": 7,
-    "external": 2,
-    "affiliate": 7,
+    "external": 1,
+    "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20409,15 +20410,18 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
-    "gyg_issue": [],
+    "money_total": 2,
+    "gyg_issue": [
+      "over3"
+    ],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟡 OK",
     "needs_image": true,
     "score": 89,
     "flags": [
+      "⚠ GYG >3 kort",
       "📷 väntar bild"
     ],
     "tier": "Berikad",
@@ -20430,13 +20434,13 @@
     "title": "Byar och rutter i Provence",
     "link": "https://provence.se/byar-och-rutter-i-provence/",
     "modified": "2026-06-09",
-    "words": 470,
+    "words": 473,
     "h2": 7,
     "h3": 1,
     "images": 0,
     "internal": 7,
-    "external": 2,
-    "affiliate": 5,
+    "external": 1,
+    "affiliate": 4,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20451,15 +20455,18 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
-    "gyg_issue": [],
+    "money_total": 1,
+    "gyg_issue": [
+      "over3"
+    ],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
     "score": 82,
     "flags": [
+      "⚠ GYG >3 kort",
       "📷 väntar bild"
     ],
     "tier": "Berikad",
@@ -20641,13 +20648,13 @@
     "title": "Perito Moreno-glaciären — El Calafate, turer och bokning 2026",
     "link": "https://sydamerika.se/perito-moreno/",
     "modified": "2026-06-10",
-    "words": 677,
+    "words": 678,
     "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 16,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20663,14 +20670,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 89,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -20684,13 +20691,13 @@
     "title": "Atacamaöknen — San Pedro, geysrar och stjärnhimmel 2026",
     "link": "https://sydamerika.se/atacama/",
     "modified": "2026-06-10",
-    "words": 505,
+    "words": 506,
     "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 13,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20706,14 +20713,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 89,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -20727,13 +20734,13 @@
     "title": "Pantanal — safari, jaguarräv och bokning 2026",
     "link": "https://sydamerika.se/pantanal/",
     "modified": "2026-06-10",
-    "words": 526,
+    "words": 527,
     "h2": 9,
     "h3": 0,
     "images": 0,
     "internal": 13,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20749,14 +20756,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": true,
-    "score": 89,
+    "score": 84,
     "flags": [
       "📷 väntar bild"
     ],
@@ -20770,13 +20777,13 @@
     "title": "Amazonas — lodge, ingångar per land och bokning 2026",
     "link": "https://sydamerika.se/amazonas/",
     "modified": "2026-06-17",
-    "words": 1432,
+    "words": 1433,
     "h2": 14,
     "h3": 0,
     "images": 4,
     "internal": 28,
-    "external": 2,
-    "affiliate": 5,
+    "external": 1,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20792,9 +20799,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -20811,13 +20818,13 @@
     "title": "Torres del Paine — W-trek, bokning och praktisk guide 2026",
     "link": "https://sydamerika.se/torres-del-paine/",
     "modified": "2026-06-17",
-    "words": 1620,
+    "words": 1621,
     "h2": 15,
     "h3": 0,
     "images": 4,
     "internal": 16,
-    "external": 3,
-    "affiliate": 5,
+    "external": 2,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20833,9 +20840,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -20852,13 +20859,13 @@
     "title": "Galápagos — kryssning, landbaserat och bokning 2026",
     "link": "https://sydamerika.se/galapagos/",
     "modified": "2026-06-17",
-    "words": 985,
+    "words": 986,
     "h2": 12,
     "h3": 0,
     "images": 2,
     "internal": 15,
-    "external": 2,
-    "affiliate": 5,
+    "external": 1,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20874,9 +20881,9 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -20893,13 +20900,13 @@
     "title": "Iguazú-vattenfallen — Argentina, Brasilien och bokning 2026",
     "link": "https://sydamerika.se/iguazu/",
     "modified": "2026-06-17",
-    "words": 1119,
+    "words": 1120,
     "h2": 13,
     "h3": 0,
     "images": 2,
     "internal": 19,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20915,14 +20922,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -20934,13 +20941,13 @@
     "title": "Salar de Uyuni — turer, säsong, pris och bokning 2026",
     "link": "https://sydamerika.se/salar-de-uyuni/",
     "modified": "2026-06-17",
-    "words": 1402,
+    "words": 1403,
     "h2": 13,
     "h3": 0,
     "images": 2,
     "internal": 20,
-    "external": 1,
-    "affiliate": 5,
+    "external": 0,
+    "affiliate": 3,
     "type": "Säsong/väder",
     "audience": "Bred",
     "aff_angle": [
@@ -20956,14 +20963,14 @@
       "hotell": 1,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 1,
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
     "needs_image": false,
-    "score": 100,
+    "score": 95,
     "flags": [],
     "tier": "Best-in-class",
     "contaminated": false
@@ -20975,13 +20982,13 @@
     "title": "Machu Picchu — biljetter, tåg, turer och bokning 2026",
     "link": "https://sydamerika.se/machu-picchu/",
     "modified": "2026-06-17",
-    "words": 1608,
+    "words": 1609,
     "h2": 16,
     "h3": 0,
     "images": 5,
     "internal": 20,
-    "external": 3,
-    "affiliate": 7,
+    "external": 2,
+    "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
     "aff_angle": [
@@ -20997,9 +21004,9 @@
       "hotell": 2,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 2,
+    "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "✅ Topp",
@@ -21487,13 +21494,13 @@
     "title": "Aktiviteter i Sydamerika — toppupplevelser &#038; bokning",
     "link": "https://sydamerika.se/aktiviteter-sydamerika/",
     "modified": "2026-06-10",
-    "words": 285,
+    "words": 286,
     "h2": 3,
     "h3": 0,
     "images": 0,
     "internal": 14,
-    "external": 1,
-    "affiliate": 4,
+    "external": 0,
+    "affiliate": 2,
     "type": "Aktiviteter",
     "audience": "Bred",
     "aff_angle": [
@@ -21508,14 +21515,14 @@
       "hotell": 0,
       "boende": 0,
       "flyg": 0,
-      "gyg": 0
+      "gyg": 1
     },
-    "money_total": 0,
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "🟡 OK",
     "needs_image": true,
-    "score": 67,
+    "score": 62,
     "flags": [
       "tunt content",
       "📷 väntar bild"
