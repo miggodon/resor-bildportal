@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/chamonix-med-barn-chamonix.png",
-      "file": "bilder/web-ready/chamonix/chamonix-med-barn-chamonix.jpg",
+      "file": "bilder\\web-ready\\chamonix\\redo\\chamonix-med-barn-chamonix.jpg",
       "filename": "chamonix-med-barn-chamonix.jpg",
       "brief_id": "chamonix:startsida:chamonix-med-barn",
       "domain": "chamonix",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Chamonix med barn i Chamonix-Mont-Blanc. Bilden visar Chamonix med barn i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/chamonix-med-barn-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/chamonix-med-barn-chamonix.jpg",
+        "web_ready_file": "bilder\\web-ready\\chamonix\\redo\\chamonix-med-barn-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/",
           "page_slug": "startsida",
@@ -39,13 +39,16 @@
           "caption": "Chamonix med barn i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Chamonix med barn i Chamonix-Mont-Blanc. Bilden visar Chamonix med barn i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\chamonix\\redo"
       },
-      "inspection": "bilder/web-ready/chamonix/chamonix-med-barn-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/las-var-kompletta-chalet-guide-chamonix.png",
-      "file": "bilder/web-ready/chamonix/las-var-kompletta-chalet-guide-chamonix.jpg",
+      "file": "bilder\\web-ready\\chamonix\\redo\\las-var-kompletta-chalet-guide-chamonix.jpg",
       "filename": "las-var-kompletta-chalet-guide-chamonix.jpg",
       "brief_id": "chamonix:boende-chamonix:las-var-kompletta-chalet-guide",
       "domain": "chamonix",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc. Bilden visar Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/las-var-kompletta-chalet-guide-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/las-var-kompletta-chalet-guide-chamonix.jpg",
+        "web_ready_file": "bilder\\web-ready\\chamonix\\redo\\las-var-kompletta-chalet-guide-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/boende-chamonix/",
           "page_slug": "boende-chamonix",
@@ -78,9 +81,12 @@
           "caption": "Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc. Bilden visar Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder\\web-ready\\chamonix\\redo"
       },
-      "inspection": "bilder/web-ready/chamonix/las-var-kompletta-chalet-guide-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
