@@ -1918,6 +1918,132 @@
   },
   {
     "domain": "rhodos",
+    "id": 443,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/stormestarens-palats-tillganglig-rhodos.jpg",
+    "filename": "stormestarens-palats-tillganglig-rhodos.jpg",
+    "alt": "Stormestarens Palats — tillgänglig i Rhodos med människor och realistisk resemiljö",
+    "caption": "Stormestarens Palats — tillgänglig i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-senior-aldre",
+        "link": "https://rhodos.se/rhodos-senior-aldre/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 441,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/snabbfakta-om-rhodos.jpg",
+    "filename": "snabbfakta-om-rhodos.jpg",
+    "alt": "Snabbfakta om Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Snabbfakta om Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://rhodos.se/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 439,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/snabb-resplan-7-dagar-pa-rhodos.jpg",
+    "filename": "snabb-resplan-7-dagar-pa-rhodos.jpg",
+    "alt": "Snabb resplan — 7 dagar på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Snabb resplan — 7 dagar på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://rhodos.se/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 437,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/rhodos-par-roadtrip-boende-villa-eller-hotell-rhodos.jpg",
+    "filename": "rhodos-par-roadtrip-boende-villa-eller-hotell-rhodos.jpg",
+    "alt": "Boende: villa eller hotell? i Rhodos med människor och realistisk resemiljö",
+    "caption": "Boende: villa eller hotell? i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-par-roadtrip",
+        "link": "https://rhodos.se/rhodos-par-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 435,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/populara-omraden-pa-rhodos.jpg",
+    "filename": "populara-omraden-pa-rhodos.jpg",
+    "alt": "Populära områden på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Populära områden på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://rhodos.se/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 433,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/populara-aktiviteter-pa-rhodos.jpg",
+    "filename": "populara-aktiviteter-pa-rhodos.jpg",
+    "alt": "Populära aktiviteter på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Populära aktiviteter på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://rhodos.se/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 431,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/packa-ratt-for-varje-sasong-pa-rhodos.jpg",
+    "filename": "packa-ratt-for-varje-sasong-pa-rhodos.jpg",
+    "alt": "Packa rätt för varje säsong på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Packa rätt för varje säsong på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "packlista-rhodos",
+        "link": "https://rhodos.se/packlista-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
     "id": 413,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/vinprovning-i-embonas-vid-solnedgangen-rhodos-1.jpg",
     "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos-1.jpg",
@@ -2481,7 +2607,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -2494,7 +2620,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2512,7 +2638,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vanner",
@@ -2530,7 +2656,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-rhodos",
@@ -2548,7 +2674,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2566,7 +2692,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -2584,7 +2710,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -2602,7 +2728,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2620,7 +2746,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -2633,7 +2759,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2651,7 +2777,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2669,7 +2795,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2687,7 +2813,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -2705,7 +2831,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-barnfamilj",
@@ -8718,6 +8844,402 @@
   },
   {
     "domain": "teneriffa",
+    "id": 764,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vilken-strand-ar-bast-for-snorkling-teneriffa.jpg",
+    "filename": "vilken-strand-ar-bast-for-snorkling-teneriffa.jpg",
+    "alt": "Vilken strand är bäst för snorkling? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vilken strand är bäst för snorkling? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-teneriffa",
+        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 762,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vilken-bil-ska-vi-valja-for-teide-och-masca-teneriffa.jpg",
+    "filename": "vilken-bil-ska-vi-valja-for-teide-och-masca-teneriffa.jpg",
+    "alt": "Vilken bil ska vi välja för Teide och Masca? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vilken bil ska vi välja för Teide och Masca? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 760,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vilken-ar-teneriffas-basta-strand-for-barn-teneriffa.jpg",
+    "filename": "vilken-ar-teneriffas-basta-strand-for-barn-teneriffa.jpg",
+    "alt": "Vilken är Teneriffas bästa strand för barn? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vilken är Teneriffas bästa strand för barn? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-teneriffa",
+        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 758,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vastra-kustvagen-los-gigantes-och-valskadning-teneriffa.jpg",
+    "filename": "vastra-kustvagen-los-gigantes-och-valskadning-teneriffa.jpg",
+    "alt": "Västra kustvägen — Los Gigantes och valskådning i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Västra kustvägen — Los Gigantes och valskådning i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 756,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vadret-i-puerto-de-la-cruz-vad-du-maste-veta-teneriffa.jpg",
+    "filename": "vadret-i-puerto-de-la-cruz-vad-du-maste-veta-teneriffa.jpg",
+    "alt": "Vädret i Puerto de la Cruz – vad du måste veta i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vädret i Puerto de la Cruz – vad du måste veta i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 754,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/upphamtning-direkt-i-resorten-teneriffa.jpg",
+    "filename": "upphamtning-direkt-i-resorten-teneriffa.jpg",
+    "alt": "Upphämtning direkt i resorten i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Upphämtning direkt i resorten i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 752,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-par-roadtrip-boende-villa-eller-hotell-teneriffa.jpg",
+    "filename": "teneriffa-par-roadtrip-boende-villa-eller-hotell-teneriffa.jpg",
+    "alt": "Boende: villa eller hotell? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Boende: villa eller hotell? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-par-roadtrip",
+        "link": "https://teneriffa.se/teneriffa-par-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 750,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teide-med-barn-teneriffa.jpg",
+    "filename": "teide-med-barn-teneriffa.jpg",
+    "alt": "Teide med barn i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Teide med barn i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-vandring",
+        "link": "https://teneriffa.se/teneriffa-vandring/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 748,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teide-i-november-teneriffa.jpg",
+    "filename": "teide-i-november-teneriffa.jpg",
+    "alt": "Teide i november i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Teide i november i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-november",
+        "link": "https://teneriffa.se/teneriffa-i-november/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 746,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teide-dramatik-for-naturintresserade-barn-teneriffa.jpg",
+    "filename": "teide-dramatik-for-naturintresserade-barn-teneriffa.jpg",
+    "alt": "Teide – dramatik för naturintresserade barn i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Teide – dramatik för naturintresserade barn i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-med-barn-familjeguide",
+        "link": "https://teneriffa.se/teneriffa-med-barn-familjeguide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 744,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/sydkusten-jamfort-med-norra-och-hogre-delar-teneriffa.jpg",
+    "filename": "sydkusten-jamfort-med-norra-och-hogre-delar-teneriffa.jpg",
+    "alt": "Sydkusten jämfört med norra och högre delar i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Sydkusten jämfört med norra och högre delar i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-ska-man-packa-till-teneriffa",
+        "link": "https://teneriffa.se/vad-ska-man-packa-till-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 742,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/strander-i-puerto-de-la-cruz-svartsand-och-klipphav-teneriffa.jpg",
+    "filename": "strander-i-puerto-de-la-cruz-svartsand-och-klipphav-teneriffa.jpg",
+    "alt": "Stränder i Puerto de la Cruz – svartsand och klipphav i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Stränder i Puerto de la Cruz – svartsand och klipphav i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 740,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/stadskarnan-promenera-i-puerto-de-la-cruz-teneriffa.jpg",
+    "filename": "stadskarnan-promenera-i-puerto-de-la-cruz-teneriffa.jpg",
+    "alt": "Stadskärnan – promenera i Puerto de la Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Stadskärnan – promenera i Puerto de la Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 738,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/seniorer-60-teneriffa.jpg",
+    "filename": "seniorer-60-teneriffa.jpg",
+    "alt": "Seniorer (60+) i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Seniorer (60+) i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-teneriffa",
+        "link": "https://teneriffa.se/var-ska-man-bo-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 736,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/puerto-de-la-cruz-vs-puerto-de-mogan-gran-canaria-teneriffa.jpg",
+    "filename": "puerto-de-la-cruz-vs-puerto-de-mogan-gran-canaria-teneriffa.jpg",
+    "alt": "Puerto de la Cruz vs Puerto de Mogán (Gran Canaria) i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Puerto de la Cruz vs Puerto de Mogán (Gran Canaria) i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 734,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/puerto-de-la-cruz-vs-costa-adeje-direkt-vagledning-teneriffa.jpg",
+    "filename": "puerto-de-la-cruz-vs-costa-adeje-direkt-vagledning-teneriffa.jpg",
+    "alt": "Puerto de la Cruz vs Costa Adeje – direkt vägledning i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Puerto de la Cruz vs Costa Adeje – direkt vägledning i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 732,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/puerto-de-la-cruz-eller-costa-adeje-vad-ar-skillnaden-teneriffa.jpg",
+    "filename": "puerto-de-la-cruz-eller-costa-adeje-vad-ar-skillnaden-teneriffa.jpg",
+    "alt": "Puerto de la Cruz eller Costa Adeje – vad är skillnaden? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Puerto de la Cruz eller Costa Adeje – vad är skillnaden? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 730,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg",
+    "filename": "playa-las-vistas-och-los-cristianos-enklast-med-buss-teneriffa.jpg",
+    "alt": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa Las Vistas och Los Cristianos — enklast med buss i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 728,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/par-och-romantik-teneriffa.jpg",
+    "filename": "par-och-romantik-teneriffa.jpg",
+    "alt": "Par och romantik i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Par och romantik i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-teneriffa",
+        "link": "https://teneriffa.se/var-ska-man-bo-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 726,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/hyrbil-teneriffa-vanner-boende-villa-eller-hotell-teneriffa.jpg",
+    "filename": "hyrbil-teneriffa-vanner-boende-villa-eller-hotell-teneriffa.jpg",
+    "alt": "Boende: villa eller hotell? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Boende: villa eller hotell? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-teneriffa-vanner",
+        "link": "https://teneriffa.se/hyrbil-teneriffa-vanner/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 724,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/hotell-i-puerto-de-la-cruz-vad-finns-och-vad-passar-teneriffa.jpg",
+    "filename": "hotell-i-puerto-de-la-cruz-vad-finns-och-vad-passar-teneriffa.jpg",
+    "alt": "Hotell i Puerto de la Cruz – vad finns och vad passar i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Hotell i Puerto de la Cruz – vad finns och vad passar i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 722,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/har-teneriffa-vita-strander-teneriffa.jpg",
+    "filename": "har-teneriffa-vita-strander-teneriffa.jpg",
+    "alt": "Har Teneriffa vita stränder? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Har Teneriffa vita stränder? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-teneriffa",
+        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
     "id": 721,
     "url": "https://teneriffa.se/wp-content/uploads/2026/06/favicon-512.png",
     "filename": "favicon-512.png",
@@ -10513,7 +11035,12 @@
     "h": 1024,
     "date": "2026-05-28",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
   },
   {
     "domain": "teneriffa",
@@ -10721,6 +11248,132 @@
       {
         "slug": "hyrbil-pa-teneriffa",
         "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 843,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
+    "filename": "puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
+    "alt": "Puerto Calero — lyxmarinan för vuxna i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Puerto Calero — lyxmarinan för vuxna i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-lanzarote",
+        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 841,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+    "filename": "playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+    "alt": "Playa de Papagayo — de skyddade vikarna i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Playa de Papagayo — de skyddade vikarna i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-lanzarote",
+        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 839,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
+    "filename": "playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
+    "alt": "Playa de las Cucharas — vindsurfingparadiset i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Playa de las Cucharas — vindsurfingparadiset i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-lanzarote",
+        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 837,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+    "filename": "playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+    "alt": "Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Playa Blanca, Playa Dorada &#038; Playa Flamingo — barnfamiljernas val i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-lanzarote",
+        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 835,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+    "filename": "lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+    "alt": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-lanzarote",
+        "link": "https://lanzarote.se/hyrbil-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 833,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
+    "filename": "hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
+    "alt": "César Manrique-rutten i Lanzarote med människor och realistisk resemiljö",
+    "caption": "César Manrique-rutten i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-lanzarote",
+        "link": "https://lanzarote.se/hyrbil-pa-lanzarote/"
+      }
+    ]
+  },
+  {
+    "domain": "lanzarote",
+    "id": 831,
+    "url": "https://lanzarote.se/wp-content/uploads/2026/06/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
+    "filename": "arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
+    "alt": "Arrecife — den autentiska huvudstaden med överraskande strand i Lanzarote med människor och realistisk resemiljö",
+    "caption": "Arrecife — den autentiska huvudstaden med överraskande strand i Lanzarote",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-lanzarote",
+        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
       }
     ]
   },
@@ -11128,7 +11781,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11141,7 +11794,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11154,7 +11807,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-lanzarote",
@@ -11172,7 +11825,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11190,7 +11843,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11203,7 +11856,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11216,7 +11869,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11229,7 +11882,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11242,7 +11895,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11260,7 +11913,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -11273,7 +11926,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11291,7 +11944,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11309,7 +11962,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11327,7 +11980,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11345,7 +11998,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11363,7 +12016,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11381,7 +12034,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11399,7 +12052,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11417,7 +12070,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11435,7 +12088,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -11453,7 +12106,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -15928,6 +16581,482 @@
   },
   {
     "domain": "chamonix",
+    "id": 283,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/vandring-chamonix.jpg",
+    "filename": "vandring-chamonix.jpg",
+    "alt": "Vandring i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Vandring i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 281,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/transfer-geneve-chamonix.jpg",
+    "filename": "transfer-geneve-chamonix.jpg",
+    "alt": "Transfer Genève → Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Transfer Genève → Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 280,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/startsida-skidakning-chamonix.jpg",
+    "filename": "startsida-skidakning-chamonix.jpg",
+    "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidåkning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "chamonix",
+    "id": 278,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/startsida-skidakning-chamonix-2.jpg",
+    "filename": "startsida-skidakning-chamonix-2.jpg",
+    "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidåkning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 277,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/startsida-hyrbil-fran-geneve-chamonix.jpg",
+    "filename": "startsida-hyrbil-fran-geneve-chamonix.jpg",
+    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "chamonix",
+    "id": 275,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/startsida-hyrbil-fran-geneve-chamonix-2.jpg",
+    "filename": "startsida-hyrbil-fran-geneve-chamonix-2.jpg",
+    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 273,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/sommar-i-chamonix.jpg",
+    "filename": "sommar-i-chamonix.jpg",
+    "alt": "Sommar i Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Sommar i Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 271,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skipass-chamonix-boka-online-chamonix.jpg",
+    "filename": "skipass-chamonix-boka-online-chamonix.jpg",
+    "alt": "SkiPass Chamonix — boka online i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "SkiPass Chamonix — boka online i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 269,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skid-in-ski-out-chamonix.jpg",
+    "filename": "skid-in-ski-out-chamonix.jpg",
+    "alt": "Skid-in / Ski-out i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skid-in / Ski-out i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 267,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/oversiktskarta-chamonix-dalen-chamonix.jpg",
+    "filename": "oversiktskarta-chamonix-dalen-chamonix.jpg",
+    "alt": "Översiktskarta — Chamonix-dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Översiktskarta — Chamonix-dalen i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 265,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/offpist-chamonix.jpg",
+    "filename": "offpist-chamonix.jpg",
+    "alt": "Offpist i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Offpist i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 263,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-houches-bast-for-barnfamiljer-chamonix.jpg",
+    "filename": "les-houches-bast-for-barnfamiljer-chamonix.jpg",
+    "alt": "Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 261,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/le-tour-balme-1-4532-270-m-chamonix.jpg",
+    "filename": "le-tour-balme-1-4532-270-m-chamonix.jpg",
+    "alt": "Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 259,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/hotell-vardshus-chamonix.jpg",
+    "filename": "hotell-vardshus-chamonix.jpg",
+    "alt": "Hotell & Värdshus i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hotell &#038; Värdshus i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 257,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/frihet-i-dalen-chamonix.jpg",
+    "filename": "frihet-i-dalen-chamonix.jpg",
+    "alt": "Frihet i dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Frihet i dalen i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 255,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/darfor-hyra-chalet-lagenhet-via-hyra-lagenhet-chamonix.jpg",
+    "filename": "darfor-hyra-chalet-lagenhet-via-hyra-lagenhet-chamonix.jpg",
+    "alt": "Därför hyra chalet/lägenhet via hyra lägenhet i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Därför hyra chalet/lägenhet via hyra lägenhet i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 253,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/dagsutflykter-chamonix.jpg",
+    "filename": "dagsutflykter-chamonix.jpg",
+    "alt": "Dagsutflykter i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Dagsutflykter i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 251,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chamonix-centrum-chamonix.jpg",
+    "filename": "chamonix-centrum-chamonix.jpg",
+    "alt": "Chamonix centrum i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Chamonix centrum i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 249,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chalets-lagenheter-chamonix.jpg",
+    "filename": "chalets-lagenheter-chamonix.jpg",
+    "alt": "Chalets & Lägenheter i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Chalets &#038; Lägenheter i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 247,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/chalet-guide-chamonix.jpg",
+    "filename": "chalet-guide-chamonix.jpg",
+    "alt": "Chalet-guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Chalet-guide i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 245,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/budget-mellanklass-chamonix.jpg",
+    "filename": "budget-mellanklass-chamonix.jpg",
+    "alt": "Budget & Mellanklass i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Budget &#038; Mellanklass i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 243,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/budget-chamonix.jpg",
+    "filename": "budget-chamonix.jpg",
+    "alt": "Budget i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Budget i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 241,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-tiden-chamonix.jpg",
+    "filename": "basta-tiden-chamonix.jpg",
+    "alt": "Bästa tiden i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Bästa tiden i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 239,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-restaurangerna-chamonix.jpg",
+    "filename": "basta-restaurangerna-chamonix.jpg",
+    "alt": "Bästa restaurangerna i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Bästa restaurangerna i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 237,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-hotellen-chamonix.jpg",
+    "filename": "basta-hotellen-chamonix.jpg",
+    "alt": "Bästa hotellen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Bästa hotellen i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 235,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/argentiere-basta-skidakningen-chamonix.jpg",
+    "filename": "argentiere-basta-skidakningen-chamonix.jpg",
+    "alt": "Argentière — bästa skidåkningen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Argentière — bästa skidåkningen i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 233,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aktiviteter-upplevelser-chamonix.jpg",
+    "filename": "aktiviteter-upplevelser-chamonix.jpg",
+    "alt": "Aktiviteter & Upplevelser i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aktiviteter &#038; Upplevelser i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://chamonix.se/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 215,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg",
     "filename": "skidakning-chamonix-hyrbil-fran-geneve-chamonix.jpg",
@@ -15936,7 +17065,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -15954,7 +17083,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -15972,7 +17101,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -15990,7 +17119,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -16008,7 +17137,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -16026,7 +17155,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -16044,7 +17173,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-chamonix",
@@ -16062,7 +17191,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -16080,7 +17209,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -16098,7 +17227,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -16116,7 +17245,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -16134,7 +17263,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -16152,7 +17281,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -16170,7 +17299,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -16188,7 +17317,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aiguille-du-midi",
@@ -18110,6 +19239,114 @@
   },
   {
     "domain": "sydamerika",
+    "id": 267,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/southern-cone-loop-sydamerika.jpg",
+    "filename": "southern-cone-loop-sydamerika.jpg",
+    "alt": "Southern Cone-loop i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Southern Cone-loop i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "backpacker-rutter-sydamerika",
+        "link": "https://sydamerika.se/backpacker-rutter-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 265,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/peruboliviachile-axeln-sydamerika.jpg",
+    "filename": "peruboliviachile-axeln-sydamerika.jpg",
+    "alt": "Peru–Bolivia–Chile-axeln i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Peru–Bolivia–Chile-axeln i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "backpacker-rutter-sydamerika",
+        "link": "https://sydamerika.se/backpacker-rutter-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 263,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
+    "filename": "logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
+    "alt": "Logi inne i parken — Vertice & Fantastico Sur i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Logi inne i parken — Vertice &#038; Fantastico Sur i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 261,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/gringo-trail-sydamerika.jpg",
+    "filename": "gringo-trail-sydamerika.jpg",
+    "alt": "Gringo Trail i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Gringo Trail i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "backpacker-rutter-sydamerika",
+        "link": "https://sydamerika.se/backpacker-rutter-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 259,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/colombia-kaffeaxeln-sydamerika.jpg",
+    "filename": "colombia-kaffeaxeln-sydamerika.jpg",
+    "alt": "Colombia kaffeaxeln i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Colombia kaffeaxeln i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "backpacker-rutter-sydamerika",
+        "link": "https://sydamerika.se/backpacker-rutter-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 257,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/06/budget-vad-kostar-torres-del-paine-sydamerika.jpg",
+    "filename": "budget-vad-kostar-torres-del-paine-sydamerika.jpg",
+    "alt": "Budget — vad kostar Torres del Paine? i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Budget — vad kostar Torres del Paine? i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-17",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
     "id": 228,
     "url": "https://sydamerika.se/wp-content/uploads/2026/06/wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
     "filename": "wayna-picchu-vs-machu-picchu-mountain-sydamerika.jpg",
@@ -18118,7 +19355,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -18136,7 +19373,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "amazonas",
@@ -18154,7 +19391,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "patagonien",
@@ -18172,7 +19409,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -18190,7 +19427,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "salar-de-uyuni",
@@ -18208,7 +19445,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "galapagos",
@@ -18226,7 +19463,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -18244,7 +19481,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "amazonas",
@@ -18262,7 +19499,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "patagonien",
@@ -18280,7 +19517,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -18293,7 +19530,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "amazonas",
@@ -18311,7 +19548,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "amazonas",
@@ -18329,7 +19566,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "salar-de-uyuni",
@@ -18347,7 +19584,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -18365,7 +19602,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -18383,7 +19620,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "iguazu",
@@ -18401,7 +19638,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "iguazu",
@@ -18419,7 +19656,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -18437,7 +19674,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "galapagos",
@@ -18455,7 +19692,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "machu-picchu",
