@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/2-eller-3-natter-vid-kinabatangan-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\2-eller-3-natter-vid-kinabatangan-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/2-eller-3-natter-vid-kinabatangan-borneo.jpg",
       "filename": "2-eller-3-natter-vid-kinabatangan-borneo.jpg",
       "brief_id": "borneo:boende-kinabatangan-borneo:2-eller-3-natter-vid-kinabatangan",
       "domain": "borneo",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från 2 eller 3 nätter vid Kinabatangan? i Borneo. Bilden visar 2 eller 3 nätter vid Kinabatangan? i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/2-eller-3-natter-vid-kinabatangan-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\2-eller-3-natter-vid-kinabatangan-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/2-eller-3-natter-vid-kinabatangan-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/boende-kinabatangan-borneo/",
           "page_slug": "boende-kinabatangan-borneo",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/4-5-dagar-i-kuching-utan-stress-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\4-5-dagar-i-kuching-utan-stress-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/4-5-dagar-i-kuching-utan-stress-borneo.jpg",
       "filename": "4-5-dagar-i-kuching-utan-stress-borneo.jpg",
       "brief_id": "borneo:kuching-bako-semenggoh-guide:4-5-dagar-i-kuching-utan-stress",
       "domain": "borneo",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från 4-5 dagar i Kuching utan stress i Borneo. Bilden visar 4-5 dagar i Kuching utan stress i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/4-5-dagar-i-kuching-utan-stress-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\4-5-dagar-i-kuching-utan-stress-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/4-5-dagar-i-kuching-utan-stress-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/kuching-bako-semenggoh-guide/",
           "page_slug": "kuching-bako-semenggoh-guide",
@@ -84,13 +84,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
       "filename": "bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
       "brief_id": "borneo:kuching-bako-semenggoh-guide:bako-valj-dagstur-eller-overnattning-med-ratt-forvantan",
       "domain": "borneo",
@@ -110,7 +110,7 @@
       "seo": "En realistisk resebild från Bako: välj dagstur eller övernattning med rätt förväntan i Borneo. Bilden visar Bako: välj dagstur eller övernattning med rätt förväntan i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/kuching-bako-semenggoh-guide/",
           "page_slug": "kuching-bako-semenggoh-guide",
@@ -126,13 +126,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/djungel-orangutanger-floder-och-smart-logistik-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
       "filename": "djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
       "brief_id": "borneo:startsida:djungel-orangutanger-floder-och-smart-logistik",
       "domain": "borneo",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Djungel, orangutanger, floder och smart logistik i Borneo. Bilden visar Djungel, orangutanger, floder och smart logistik i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/djungel-orangutanger-floder-och-smart-logistik-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/",
           "page_slug": "startsida",
@@ -168,13 +168,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kuching-ar-borneos-basta-mjuka-start-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
       "filename": "kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
       "brief_id": "borneo:kuching-bako-semenggoh-guide:kuching-ar-borneos-basta-mjuka-start",
       "domain": "borneo",
@@ -194,7 +194,7 @@
       "seo": "En realistisk resebild från Kuching är Borneos bästa mjuka start i Borneo. Bilden visar Kuching är Borneos bästa mjuka start i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kuching-ar-borneos-basta-mjuka-start-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/kuching-bako-semenggoh-guide/",
           "page_slug": "kuching-bako-semenggoh-guide",
@@ -210,13 +210,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sa-valjer-du-hotell-i-kuching-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\sa-valjer-du-hotell-i-kuching-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/sa-valjer-du-hotell-i-kuching-borneo.jpg",
       "filename": "sa-valjer-du-hotell-i-kuching-borneo.jpg",
       "brief_id": "borneo:kuching-bako-semenggoh-guide:sa-valjer-du-hotell-i-kuching",
       "domain": "borneo",
@@ -236,7 +236,7 @@
       "seo": "En realistisk resebild från Så väljer du hotell i Kuching i Borneo. Bilden visar Så väljer du hotell i Kuching i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sa-valjer-du-hotell-i-kuching-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\sa-valjer-du-hotell-i-kuching-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/sa-valjer-du-hotell-i-kuching-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/kuching-bako-semenggoh-guide/",
           "page_slug": "kuching-bako-semenggoh-guide",
@@ -252,13 +252,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/semenggoh-stark-halvdag-inte-hela-rutten-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
       "filename": "semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
       "brief_id": "borneo:kuching-bako-semenggoh-guide:semenggoh-stark-halvdag-inte-hela-rutten",
       "domain": "borneo",
@@ -278,7 +278,7 @@
       "seo": "En realistisk resebild från Semenggoh: stark halvdag, inte hela rutten i Borneo. Bilden visar Semenggoh: stark halvdag, inte hela rutten i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/semenggoh-stark-halvdag-inte-hela-rutten-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/semenggoh-stark-halvdag-inte-hela-rutten-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/kuching-bako-semenggoh-guide/",
           "page_slug": "kuching-bako-semenggoh-guide",
@@ -294,13 +294,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sepilok-eller-sandakan-borneo.png",
-      "file": "bilder\\web-ready\\borneo\\redo\\sepilok-eller-sandakan-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/sepilok-eller-sandakan-borneo.jpg",
       "filename": "sepilok-eller-sandakan-borneo.jpg",
       "brief_id": "borneo:bo-nara-sepilok:sepilok-eller-sandakan",
       "domain": "borneo",
@@ -320,7 +320,7 @@
       "seo": "En realistisk resebild från Sepilok eller Sandakan? i Borneo. Bilden visar Sepilok eller Sandakan? i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sepilok-eller-sandakan-borneo.png",
-        "web_ready_file": "bilder\\web-ready\\borneo\\redo\\sepilok-eller-sandakan-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/sepilok-eller-sandakan-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/bo-nara-sepilok/",
           "page_slug": "bo-nara-sepilok",
@@ -336,7 +336,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\borneo\\redo"
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }

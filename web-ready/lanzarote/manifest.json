@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
       "filename": "arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
       "brief_id": "lanzarote:var-ska-man-bo-pa-lanzarote:arrecife-den-autentiska-huvudstaden-med-overraskande-strand",
       "domain": "lanzarote",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Arrecife — den autentiska huvudstaden med överraskande strand i Lanzarote. Bilden visar Arrecife — den autentiska huvudstaden med överraskande strand i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/arrecife-den-autentiska-huvudstaden-med-overraskande-strand-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/",
           "page_slug": "var-ska-man-bo-pa-lanzarote",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
       "filename": "hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
       "brief_id": "lanzarote:hyrbil-pa-lanzarote:cesar-manrique-rutten",
       "domain": "lanzarote",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från César Manrique-rutten i Lanzarote. Bilden visar César Manrique-rutten i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/hyrbil-pa-lanzarote-cesar-manrique-rutten-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/hyrbil-pa-lanzarote/",
           "page_slug": "hyrbil-pa-lanzarote",
@@ -84,13 +84,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lanzarote-flygplats-ace-cesar-manrique-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
       "filename": "lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
       "brief_id": "lanzarote:hyrbil-pa-lanzarote:lanzarote-flygplats-ace-cesar-manrique-lanzarote",
       "domain": "lanzarote",
@@ -110,7 +110,7 @@
       "seo": "En realistisk resebild från Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote. Bilden visar Lanzarote flygplats (ACE) — César Manrique-Lanzarote i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lanzarote-flygplats-ace-cesar-manrique-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/lanzarote-flygplats-ace-cesar-manrique-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/hyrbil-pa-lanzarote/",
           "page_slug": "hyrbil-pa-lanzarote",
@@ -126,13 +126,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
       "filename": "playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
       "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val",
       "domain": "lanzarote",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote. Bilden visar Playa Blanca, Playa Dorada & Playa Flamingo — barnfamiljernas val i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/playa-blanca-playa-dorada-playa-flamingo-barnfamiljernas-val-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
           "page_slug": "basta-stranderna-pa-lanzarote",
@@ -168,13 +168,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/playa-de-las-cucharas-vindsurfingparadiset-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
       "filename": "playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
       "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:playa-de-las-cucharas-vindsurfingparadiset",
       "domain": "lanzarote",
@@ -194,7 +194,7 @@
       "seo": "En realistisk resebild från Playa de las Cucharas — vindsurfingparadiset i Lanzarote. Bilden visar Playa de las Cucharas — vindsurfingparadiset i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/playa-de-las-cucharas-vindsurfingparadiset-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/playa-de-las-cucharas-vindsurfingparadiset-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
           "page_slug": "basta-stranderna-pa-lanzarote",
@@ -210,13 +210,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/playa-de-papagayo-de-skyddade-vikarna-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
       "filename": "playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
       "brief_id": "lanzarote:basta-stranderna-pa-lanzarote:playa-de-papagayo-de-skyddade-vikarna",
       "domain": "lanzarote",
@@ -236,7 +236,7 @@
       "seo": "En realistisk resebild från Playa de Papagayo — de skyddade vikarna i Lanzarote. Bilden visar Playa de Papagayo — de skyddade vikarna i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/playa-de-papagayo-de-skyddade-vikarna-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/playa-de-papagayo-de-skyddade-vikarna-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/basta-stranderna-pa-lanzarote/",
           "page_slug": "basta-stranderna-pa-lanzarote",
@@ -252,13 +252,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/puerto-calero-lyxmarinan-for-vuxna-lanzarote.png",
-      "file": "bilder\\web-ready\\lanzarote\\redo\\puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
       "filename": "puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
       "brief_id": "lanzarote:var-ska-man-bo-pa-lanzarote:puerto-calero-lyxmarinan-for-vuxna",
       "domain": "lanzarote",
@@ -278,7 +278,7 @@
       "seo": "En realistisk resebild från Puerto Calero — lyxmarinan för vuxna i Lanzarote. Bilden visar Puerto Calero — lyxmarinan för vuxna i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/puerto-calero-lyxmarinan-for-vuxna-lanzarote.png",
-        "web_ready_file": "bilder\\web-ready\\lanzarote\\redo\\puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/puerto-calero-lyxmarinan-for-vuxna-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/",
           "page_slug": "var-ska-man-bo-pa-lanzarote",
@@ -294,7 +294,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\lanzarote\\redo"
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }

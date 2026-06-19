@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-      "file": "bilder\\web-ready\\fuerteventura\\redo\\5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "filename": "5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "brief_id": "fuerteventura:5-dagar-pa-fuerteventura:boka-din-resa",
       "domain": "fuerteventura",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Boka din resa i Fuerteventura. Bilden visar Boka din resa i Fuerteventura under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-        "web_ready_file": "bilder\\web-ready\\fuerteventura\\redo\\5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
         "wordpress_target": {
           "page_url": "https://fuerteventura.se/5-dagar-pa-fuerteventura/",
           "page_slug": "5-dagar-pa-fuerteventura",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\fuerteventura\\redo"
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-      "file": "bilder\\web-ready\\fuerteventura\\redo\\7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "filename": "7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
       "brief_id": "fuerteventura:7-dagar-pa-fuerteventura:boka-din-resa",
       "domain": "fuerteventura",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från Boka din resa i Fuerteventura. Bilden visar Boka din resa i Fuerteventura under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
-        "web_ready_file": "bilder\\web-ready\\fuerteventura\\redo\\7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
         "wordpress_target": {
           "page_url": "https://fuerteventura.se/7-dagar-pa-fuerteventura/",
           "page_slug": "7-dagar-pa-fuerteventura",
@@ -84,7 +84,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\fuerteventura\\redo"
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }

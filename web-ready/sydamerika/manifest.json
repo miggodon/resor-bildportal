@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/budget-vad-kostar-torres-del-paine-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\budget-vad-kostar-torres-del-paine-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/budget-vad-kostar-torres-del-paine-sydamerika.jpg",
       "filename": "budget-vad-kostar-torres-del-paine-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:budget-vad-kostar-torres-del-paine",
       "domain": "sydamerika",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Budget — vad kostar Torres del Paine? i Sydamerika. Bilden visar Budget — vad kostar Torres del Paine? i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/budget-vad-kostar-torres-del-paine-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\budget-vad-kostar-torres-del-paine-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/budget-vad-kostar-torres-del-paine-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/colombia-kaffeaxeln-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\colombia-kaffeaxeln-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/colombia-kaffeaxeln-sydamerika.jpg",
       "filename": "colombia-kaffeaxeln-sydamerika.jpg",
       "brief_id": "sydamerika:backpacker-rutter-sydamerika:colombia-kaffeaxeln",
       "domain": "sydamerika",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från Colombia kaffeaxeln i Sydamerika. Bilden visar Colombia kaffeaxeln i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/colombia-kaffeaxeln-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\colombia-kaffeaxeln-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/colombia-kaffeaxeln-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/backpacker-rutter-sydamerika/",
           "page_slug": "backpacker-rutter-sydamerika",
@@ -84,13 +84,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/gringo-trail-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\gringo-trail-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/gringo-trail-sydamerika.jpg",
       "filename": "gringo-trail-sydamerika.jpg",
       "brief_id": "sydamerika:backpacker-rutter-sydamerika:gringo-trail",
       "domain": "sydamerika",
@@ -110,7 +110,7 @@
       "seo": "En realistisk resebild från Gringo Trail i Sydamerika. Bilden visar Gringo Trail i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/gringo-trail-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\gringo-trail-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/gringo-trail-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/backpacker-rutter-sydamerika/",
           "page_slug": "backpacker-rutter-sydamerika",
@@ -126,13 +126,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/logi-inne-i-parken-vertice-fantastico-sur-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
       "filename": "logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:logi-inne-i-parken-vertice-fantastico-sur",
       "domain": "sydamerika",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Logi inne i parken — Vertice & Fantastico Sur i Sydamerika. Bilden visar Logi inne i parken — Vertice & Fantastico Sur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/logi-inne-i-parken-vertice-fantastico-sur-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/logi-inne-i-parken-vertice-fantastico-sur-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -168,13 +168,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/peruboliviachile-axeln-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\peruboliviachile-axeln-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/peruboliviachile-axeln-sydamerika.jpg",
       "filename": "peruboliviachile-axeln-sydamerika.jpg",
       "brief_id": "sydamerika:backpacker-rutter-sydamerika:peruboliviachile-axeln",
       "domain": "sydamerika",
@@ -194,7 +194,7 @@
       "seo": "En realistisk resebild från Peru–Bolivia–Chile-axeln i Sydamerika. Bilden visar Peru–Bolivia–Chile-axeln i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/peruboliviachile-axeln-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\peruboliviachile-axeln-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/peruboliviachile-axeln-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/backpacker-rutter-sydamerika/",
           "page_slug": "backpacker-rutter-sydamerika",
@@ -210,13 +210,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/southern-cone-loop-sydamerika.png",
-      "file": "bilder\\web-ready\\sydamerika\\redo\\southern-cone-loop-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/southern-cone-loop-sydamerika.jpg",
       "filename": "southern-cone-loop-sydamerika.jpg",
       "brief_id": "sydamerika:backpacker-rutter-sydamerika:southern-cone-loop",
       "domain": "sydamerika",
@@ -236,7 +236,7 @@
       "seo": "En realistisk resebild från Southern Cone-loop i Sydamerika. Bilden visar Southern Cone-loop i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/southern-cone-loop-sydamerika.png",
-        "web_ready_file": "bilder\\web-ready\\sydamerika\\redo\\southern-cone-loop-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/southern-cone-loop-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/backpacker-rutter-sydamerika/",
           "page_slug": "backpacker-rutter-sydamerika",
@@ -252,7 +252,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\sydamerika\\redo"
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }

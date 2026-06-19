@@ -1,6 +1,294 @@
 [
   {
     "domain": "malaga",
+    "id": 604,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/taxi-fran-agp-malaga.jpg",
+    "filename": "taxi-fran-agp-malaga.jpg",
+    "alt": "Taxi från AGP i Málaga med människor och realistisk resemiljö",
+    "caption": "Taxi från AGP i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-flygplats",
+        "link": "https://malaga.se/malaga-flygplats/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 602,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/snabbguide-stranderna-i-ordning-centrum-osterut-malaga.jpg",
+    "filename": "snabbguide-stranderna-i-ordning-centrum-osterut-malaga.jpg",
+    "alt": "Snabbguide — stränderna i ordning (centrum → österut) i Málaga med människor och realistisk resemiljö",
+    "caption": "Snabbguide — stränderna i ordning (centrum → österut) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 600,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/rastro-de-malaga-lordagar-malaga.jpg",
+    "filename": "rastro-de-malaga-lordagar-malaga.jpg",
+    "alt": "Rastro de Málaga (lördagar) i Málaga med människor och realistisk resemiljö",
+    "caption": "Rastro de Málaga (lördagar) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "shopping-malaga-guide",
+        "link": "https://malaga.se/shopping-malaga-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 598,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/mercadillo-de-malaga-sondagar-malaga.jpg",
+    "filename": "mercadillo-de-malaga-sondagar-malaga.jpg",
+    "alt": "Mercadillo de Málaga (söndagar) i Málaga med människor och realistisk resemiljö",
+    "caption": "Mercadillo de Málaga (söndagar) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "shopping-malaga-guide",
+        "link": "https://malaga.se/shopping-malaga-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 596,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/alhambra-allt-du-behover-veta-innan-du-aker-malaga.jpg",
+    "filename": "alhambra-allt-du-behover-veta-innan-du-aker-malaga.jpg",
+    "alt": "Alhambra — allt du behöver veta innan du åker i Málaga med människor och realistisk resemiljö",
+    "caption": "Alhambra — allt du behöver veta innan du åker i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "granada-dagsutflykt-fran-malaga",
+        "link": "https://malaga.se/granada-dagsutflykt-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 594,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/9-playa-de-la-arana-malagas-hemligaste-strand-malaga.jpg",
+    "filename": "9-playa-de-la-arana-malagas-hemligaste-strand-malaga.jpg",
+    "alt": "Playa de la Araña — Málagas hemligaste strand i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa de la Araña — Málagas hemligaste strand i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 592,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/8-penon-del-cuervo-den-vilda-stranden-malaga.jpg",
+    "filename": "8-penon-del-cuervo-den-vilda-stranden-malaga.jpg",
+    "alt": "Peñón del Cuervo — den vilda stranden i Málaga med människor och realistisk resemiljö",
+    "caption": "Peñón del Cuervo — den vilda stranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 590,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/6-playa-del-dedo-familjestranden-malaga.jpg",
+    "filename": "6-playa-del-dedo-familjestranden-malaga.jpg",
+    "alt": "Playa del Dedo — familjestranden i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa del Dedo — familjestranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 588,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/5-el-palo-malagas-mest-autentiska-strandby-malaga.jpg",
+    "filename": "5-el-palo-malagas-mest-autentiska-strandby-malaga.jpg",
+    "alt": "El Palo — Málagas mest autentiska strandby i Málaga med människor och realistisk resemiljö",
+    "caption": "El Palo — Málagas mest autentiska strandby i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 586,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/4-pedregalejo-fiskelaget-med-malagas-basta-mat-malaga.jpg",
+    "filename": "4-pedregalejo-fiskelaget-med-malagas-basta-mat-malaga.jpg",
+    "alt": "Pedregalejo — fiskeläget med Málagas bästa mat i Málaga med människor och realistisk resemiljö",
+    "caption": "Pedregalejo — fiskeläget med Málagas bästa mat i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 584,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/3-pedregalejo-fiskelaget-med-malagas-basta-mat-malaga.jpg",
+    "filename": "3-pedregalejo-fiskelaget-med-malagas-basta-mat-malaga.jpg",
+    "alt": "Pedregalejo — fiskeläget med Málagas bästa mat i Málaga med människor och realistisk resemiljö",
+    "caption": "Pedregalejo — fiskeläget med Málagas bästa mat i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 582,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/3-banos-del-carmen-historisk-charm-med-basta-chiringuiton-malaga.jpg",
+    "filename": "3-banos-del-carmen-historisk-charm-med-basta-chiringuiton-malaga.jpg",
+    "alt": "Baños del Carmen — historisk charm med bästa chiringuiton i Málaga med människor och realistisk resemiljö",
+    "caption": "Baños del Carmen — historisk charm med bästa chiringuiton i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 580,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/2-playa-la-caleta-lugnast-nara-stan-malaga.jpg",
+    "filename": "2-playa-la-caleta-lugnast-nara-stan-malaga.jpg",
+    "alt": "Playa la Caleta — lugnast nära stan i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa la Caleta — lugnast nära stan i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 578,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/2-banos-del-carmen-malagas-mest-alskade-hemlighet-malaga.jpg",
+    "filename": "2-banos-del-carmen-malagas-mest-alskade-hemlighet-malaga.jpg",
+    "alt": "Baños del Carmen — Málagas mest älskade hemlighet i Málaga med människor och realistisk resemiljö",
+    "caption": "Baños del Carmen — Málagas mest älskade hemlighet i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 576,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/10-playa-de-la-misericordia-promenadstranden-malaga.jpg",
+    "filename": "10-playa-de-la-misericordia-promenadstranden-malaga.jpg",
+    "alt": "Playa de la Misericordia — promenadstranden i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa de la Misericordia — promenadstranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 574,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/1-playa-la-malagueta-malagas-citystrand-malaga.jpg",
+    "filename": "1-playa-la-malagueta-malagas-citystrand-malaga.jpg",
+    "alt": "Playa la Malagueta — Málagas citystrand i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa la Malagueta — Málagas citystrand i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 546,
     "url": "https://malaga.se/wp-content/uploads/2026/06/street-art-tur-i-soho-malaga-1.jpg",
     "filename": "street-art-tur-i-soho-malaga-1.jpg",
@@ -126,7 +414,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -139,7 +427,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -152,7 +440,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -165,7 +453,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -178,7 +466,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -191,7 +479,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -204,7 +492,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-med-tonaringar",
@@ -222,7 +510,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -240,7 +528,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -1918,6 +2206,366 @@
   },
   {
     "domain": "rhodos",
+    "id": 499,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/soder-om-centrum-lugnare-och-mer-familjeprofil-rhodos.jpg",
+    "filename": "soder-om-centrum-lugnare-och-mer-familjeprofil-rhodos.jpg",
+    "alt": "Söder om centrum — lugnare och mer familjeprofil i Rhodos med människor och realistisk resemiljö",
+    "caption": "Söder om centrum — lugnare och mer familjeprofil i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 497,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/pask-bokning-viktig-varning-rhodos.jpg",
+    "filename": "pask-bokning-viktig-varning-rhodos.jpg",
+    "alt": "Påsk-bokning — viktig varning i Rhodos med människor och realistisk resemiljö",
+    "caption": "Påsk-bokning — viktig varning i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-i-april-och-maj",
+        "link": "https://rhodos.se/rhodos-i-april-och-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 495,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/macao-art-cafe-gamla-stan-rhodos.jpg",
+    "filename": "macao-art-cafe-gamla-stan-rhodos.jpg",
+    "alt": "Macao Art Café — Gamla Stan i Rhodos med människor och realistisk resemiljö",
+    "caption": "Macao Art Café — Gamla Stan i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-digital-nomad",
+        "link": "https://rhodos.se/rhodos-digital-nomad/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 493,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/hammam-bar-i-gamla-stan-rhodos.jpg",
+    "filename": "hammam-bar-i-gamla-stan-rhodos.jpg",
+    "alt": "Hammam Bar i Gamla Stan i Rhodos med människor och realistisk resemiljö",
+    "caption": "Hammam Bar i Gamla Stan i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-uteliv",
+        "link": "https://rhodos.se/rhodos-uteliv/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 491,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-beach-allt-pa-ett-stalle-rhodos.jpg",
+    "filename": "faliraki-beach-allt-pa-ett-stalle-rhodos.jpg",
+    "alt": "Faliraki Beach — allt på ett ställe i Rhodos med människor och realistisk resemiljö",
+    "caption": "Faliraki Beach — allt på ett ställe i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-med-barn",
+        "link": "https://rhodos.se/rhodos-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 489,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/elli-beach-rhodos-stads-tillgangligaste-strand-rhodos.jpg",
+    "filename": "elli-beach-rhodos-stads-tillgangligaste-strand-rhodos.jpg",
+    "alt": "Elli Beach — Rhodos stads tillgängligaste strand i Rhodos med människor och realistisk resemiljö",
+    "caption": "Elli Beach — Rhodos stads tillgängligaste strand i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-senior-aldre",
+        "link": "https://rhodos.se/rhodos-senior-aldre/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 487,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-6-petaloudes-epta-piges-och-bad-rhodos.jpg",
+    "filename": "dag-6-petaloudes-epta-piges-och-bad-rhodos.jpg",
+    "alt": "Dag 6 — Petaloudes, Epta Piges och bad i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 6 — Petaloudes, Epta Piges och bad i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 485,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-2-gamla-stan-pa-djupet-rhodos.jpg",
+    "filename": "dag-2-gamla-stan-pa-djupet-rhodos.jpg",
+    "alt": "Dag 2 — Gamla Stan på djupet i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 2 — Gamla Stan på djupet i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 483,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-1-ankomst-och-gamla-stan-pa-kvallen-rhodos.jpg",
+    "filename": "dag-1-ankomst-och-gamla-stan-pa-kvallen-rhodos.jpg",
+    "alt": "Dag 1 — Ankomst och Gamla Stan på kvällen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 1 — Ankomst och Gamla Stan på kvällen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 481,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/athiri-den-vita-drottningen-rhodos.jpg",
+    "filename": "athiri-den-vita-drottningen-rhodos.jpg",
+    "alt": "Athiri — den vita drottningen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Athiri — den vita drottningen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-vin-embonas",
+        "link": "https://rhodos.se/rhodos-vin-embonas/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 479,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/athena-lindia-templet-300-f-kr-rhodos.jpg",
+    "filename": "athena-lindia-templet-300-f-kr-rhodos.jpg",
+    "alt": "Athena Lindia-templet (300 f.Kr.) i Rhodos med människor och realistisk resemiljö",
+    "caption": "Athena Lindia-templet (300 f.Kr.) i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lindos-rhodos",
+        "link": "https://rhodos.se/lindos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 477,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/mavrikos-familjen-som-lagar-lindos-sedan-1933-rhodos.jpg",
+    "filename": "mavrikos-familjen-som-lagar-lindos-sedan-1933-rhodos.jpg",
+    "alt": "Mavrikos — familjen som lagar Lindos sedan 1933 i Rhodos med människor och realistisk resemiljö",
+    "caption": "Mavrikos — familjen som lagar Lindos sedan 1933 i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 475,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kafelivet-i-gamla-stan-perfekt-senior-tempo-rhodos.jpg",
+    "filename": "kafelivet-i-gamla-stan-perfekt-senior-tempo-rhodos.jpg",
+    "alt": "Kafélivet i Gamla Stan — perfekt senior-tempo i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kafélivet i Gamla Stan — perfekt senior-tempo i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-senior-aldre",
+        "link": "https://rhodos.se/rhodos-senior-aldre/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 473,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-beach-bars-rhodos.jpg",
+    "filename": "faliraki-beach-bars-rhodos.jpg",
+    "alt": "Faliraki Beach Bars i Rhodos med människor och realistisk resemiljö",
+    "caption": "Faliraki Beach Bars i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-uteliv",
+        "link": "https://rhodos.se/rhodos-uteliv/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 471,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/basta-omradena-pa-rhodos-for-pensionarer-rhodos.jpg",
+    "filename": "basta-omradena-pa-rhodos-for-pensionarer-rhodos.jpg",
+    "alt": "Bästa områdena på Rhodos för pensionärer i Rhodos med människor och realistisk resemiljö",
+    "caption": "Bästa områdena på Rhodos för pensionärer i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-for-pensionarer",
+        "link": "https://rhodos.se/rhodos-for-pensionarer/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 469,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/rhodos-par-roadtrip-sa-funkar-hyrbil-pa-rhodos.jpg",
+    "filename": "rhodos-par-roadtrip-sa-funkar-hyrbil-pa-rhodos.jpg",
+    "alt": "Så funkar hyrbil på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Så funkar hyrbil på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-par-roadtrip",
+        "link": "https://rhodos.se/rhodos-par-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 467,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/packlista-for-barnfamiljer-rhodos.jpg",
+    "filename": "packlista-for-barnfamiljer-rhodos.jpg",
+    "alt": "Packlista för barnfamiljer i Rhodos med människor och realistisk resemiljö",
+    "caption": "Packlista för barnfamiljer i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "packlista-rhodos",
+        "link": "https://rhodos.se/packlista-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 465,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/mat-noje-rhodos.jpg",
+    "filename": "mat-noje-rhodos.jpg",
+    "alt": "Mat & nöje i Rhodos med människor och realistisk resemiljö",
+    "caption": "Mat &#038; nöje i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://rhodos.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 463,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/hyrbil-rhodos-barnfamilj-boende-villa-eller-hotell-rhodos.jpg",
+    "filename": "hyrbil-rhodos-barnfamilj-boende-villa-eller-hotell-rhodos.jpg",
+    "alt": "Boende: villa eller hotell? i Rhodos med människor och realistisk resemiljö",
+    "caption": "Boende: villa eller hotell? i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-rhodos-barnfamilj",
+        "link": "https://rhodos.se/hyrbil-rhodos-barnfamilj/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 461,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/hbtq-vanliga-omraden-pa-rhodos.jpg",
+    "filename": "hbtq-vanliga-omraden-pa-rhodos.jpg",
+    "alt": "HBTQ-vänliga områden på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "HBTQ-vänliga områden på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-hbtq",
+        "link": "https://rhodos.se/rhodos-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
     "id": 443,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/stormestarens-palats-tillganglig-rhodos.jpg",
     "filename": "stormestarens-palats-tillganglig-rhodos.jpg",
@@ -1926,7 +2574,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-senior-aldre",
@@ -1944,7 +2592,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -1962,7 +2610,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -1980,7 +2628,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-par-roadtrip",
@@ -1998,7 +2646,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -2016,7 +2664,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -2034,7 +2682,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "packlista-rhodos",
@@ -4640,6 +5288,169 @@
   },
   {
     "domain": "torremolinos",
+    "id": 559,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/torremolinos-centrum-alternativ-torremolinos-2.jpg",
+    "filename": "torremolinos-centrum-alternativ-torremolinos-2.jpg",
+    "alt": "Torremolinos centrum – alternativ i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Torremolinos centrum – alternativ i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 558,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-torremolinos-2.jpg",
+    "filename": "sierra-de-las-nieves-torremolinos-2.jpg",
+    "alt": "Sierra de las Nieves i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 557,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/sierra-de-las-nieves-nationalpark-torremolinos-2.jpg",
+    "filename": "sierra-de-las-nieves-nationalpark-torremolinos-2.jpg",
+    "alt": "Sierra de las Nieves nationalpark i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Sierra de las Nieves nationalpark i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 555,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/paseo-maritimo-strandpromenaden-torremolinos-2.jpg",
+    "filename": "paseo-maritimo-strandpromenaden-torremolinos-2.jpg",
+    "alt": "Paseo Marítimo (strandpromenaden) i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Paseo Marítimo (strandpromenaden) i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vandring-torremolinos-costa-del-sol",
+        "link": "https://torremolinos.se/vandring-torremolinos-costa-del-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 554,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/montes-de-malaga-torremolinos-2.jpg",
+    "filename": "montes-de-malaga-torremolinos-2.jpg",
+    "alt": "Montes de Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Montes de Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 553,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-pueblo-runt-torremolinos-3.jpg",
+    "filename": "mijas-pueblo-runt-torremolinos-3.jpg",
+    "alt": "Mijas Pueblo runt i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas Pueblo runt i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-i-torremolinos",
+        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 552,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-och-bergsbyarna-torremolinos-2.jpg",
+    "filename": "mijas-och-bergsbyarna-torremolinos-2.jpg",
+    "alt": "Mijas och bergsbyarna i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Mijas och bergsbyarna i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 551,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/malaga-torremolinos-2.jpg",
+    "filename": "malaga-torremolinos-2.jpg",
+    "alt": "Málaga i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Málaga i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-i-torremolinos",
+        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
+    "id": 550,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/la-carihuela-torremolinos-2.jpg",
+    "filename": "la-carihuela-torremolinos-2.jpg",
+    "alt": "La Carihuela i Torremolinos med människor och realistisk resemiljö",
+    "caption": "La Carihuela i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 549,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/forbokad-transfer-forutsagbart-torremolinos-4.jpg",
+    "filename": "forbokad-transfer-forutsagbart-torremolinos-4.jpg",
+    "alt": "Förbokad transfer — förutsägbart i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Förbokad transfer — förutsägbart i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "torremolinos",
+    "id": 548,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/benalmadena-torremolinos-3.jpg",
+    "filename": "benalmadena-torremolinos-3.jpg",
+    "alt": "Benalmádena i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Benalmádena i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-i-torremolinos",
+        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
     "id": 503,
     "url": "https://torremolinos.se/wp-content/uploads/2026/06/mijas-pueblo-runt-torremolinos-2.jpg",
     "filename": "mijas-pueblo-runt-torremolinos-2.jpg",
@@ -4667,7 +5478,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "torremolinos-flygplats-transfer",
+        "link": "https://torremolinos.se/torremolinos-flygplats-transfer/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -5071,6 +5887,10 @@
       {
         "slug": "nattliv-torremolinos",
         "link": "https://torremolinos.se/nattliv-torremolinos/"
+      },
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
       }
     ]
   },
@@ -5107,6 +5927,10 @@
       {
         "slug": "dagsutflykter-fran-torremolinos",
         "link": "https://torremolinos.se/dagsutflykter-fran-torremolinos/"
+      },
+      {
+        "slug": "torremolinos-flygplats-transfer",
+        "link": "https://torremolinos.se/torremolinos-flygplats-transfer/"
       }
     ]
   },
@@ -5462,6 +6286,10 @@
       {
         "slug": "omraden-torremolinos",
         "link": "https://torremolinos.se/omraden-torremolinos/"
+      },
+      {
+        "slug": "var-ska-man-bo-i-torremolinos",
+        "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
       }
     ]
   },
@@ -5493,6 +6321,10 @@
       {
         "slug": "dagsutflykter-fran-torremolinos",
         "link": "https://torremolinos.se/dagsutflykter-fran-torremolinos/"
+      },
+      {
+        "slug": "torremolinos-flygplats-transfer",
+        "link": "https://torremolinos.se/torremolinos-flygplats-transfer/"
       }
     ]
   },
@@ -5892,6 +6724,14 @@
       {
         "slug": "omraden-torremolinos",
         "link": "https://torremolinos.se/omraden-torremolinos/"
+      },
+      {
+        "slug": "var-ska-man-bo-i-torremolinos",
+        "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
+      },
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
       }
     ]
   },
@@ -6008,6 +6848,10 @@
       {
         "slug": "torremolinos-med-barn",
         "link": "https://torremolinos.se/torremolinos-med-barn/"
+      },
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
       }
     ]
   },
@@ -6026,6 +6870,10 @@
       {
         "slug": "omraden-torremolinos",
         "link": "https://torremolinos.se/omraden-torremolinos/"
+      },
+      {
+        "slug": "var-ska-man-bo-i-torremolinos",
+        "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
       }
     ]
   },
@@ -6044,10 +6892,6 @@
       {
         "slug": "basta-hotellen-i-torremolinos",
         "link": "https://torremolinos.se/basta-hotellen-i-torremolinos/"
-      },
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
       }
     ]
   },
@@ -6082,6 +6926,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "var-ska-man-bo-i-torremolinos",
+        "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
+      },
+      {
         "slug": "saker-att-gora-i-torremolinos",
         "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
       }
@@ -6098,12 +6946,7 @@
     "h": 1449,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -6116,7 +6959,12 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -6131,8 +6979,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
       }
     ]
   },
@@ -6147,7 +6995,16 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
+      },
+      {
+        "slug": "saker-att-gora-i-torremolinos",
+        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -6164,6 +7021,10 @@
       {
         "slug": "omraden-torremolinos",
         "link": "https://torremolinos.se/omraden-torremolinos/"
+      },
+      {
+        "slug": "basta-stranderna-i-torremolinos",
+        "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
       }
     ]
   },
@@ -6265,10 +7126,6 @@
       {
         "slug": "basta-hotellen-i-torremolinos",
         "link": "https://torremolinos.se/basta-hotellen-i-torremolinos/"
-      },
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
       }
     ]
   },
@@ -6283,12 +7140,7 @@
     "h": 1080,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -6301,12 +7153,7 @@
     "h": 1080,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -6319,12 +7166,7 @@
     "h": 941,
     "date": "2026-05-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -6337,16 +7179,7 @@
     "h": 941,
     "date": "2026-05-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "var-ska-man-bo-i-torremolinos",
-        "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
-      },
-      {
-        "slug": "saker-att-gora-i-torremolinos",
-        "link": "https://torremolinos.se/saker-att-gora-i-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -18122,6 +18955,136 @@
   },
   {
     "domain": "hawaii",
+    "id": 138,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-boka-hyrbil-pa-hawaii.jpg",
+    "filename": "redo-att-boka-hyrbil-pa-hawaii.jpg",
+    "alt": "Redo att boka hyrbil på Hawaii? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att boka hyrbil på Hawaii? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-hawaii",
+        "link": "https://hawaii.se/hyrbil-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 136,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-boka-flyget-till-hawaii.jpg",
+    "filename": "redo-att-boka-flyget-till-hawaii.jpg",
+    "alt": "Redo att boka flyget till Hawaii? i Hawaii med människor och realistisk resemiljö",
+    "caption": "Redo att boka flyget till Hawaii? i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "resa-till-hawaii",
+        "link": "https://hawaii.se/resa-till-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 134,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/hitta-ditt-dromboende-pa-hawaii.jpg",
+    "filename": "hitta-ditt-dromboende-pa-hawaii.jpg",
+    "alt": "Hitta ditt drömboende på Hawaii i Hawaii med människor och realistisk resemiljö",
+    "caption": "Hitta ditt drömboende på Hawaii i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-hawaii",
+        "link": "https://hawaii.se/boende-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 132,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/boka-dina-hawaii-upplevelser-hawaii.jpg",
+    "filename": "boka-dina-hawaii-upplevelser-hawaii.jpg",
+    "alt": "Boka dina Hawaii-upplevelser i Hawaii med människor och realistisk resemiljö",
+    "caption": "Boka dina Hawaii-upplevelser i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-hawaii",
+        "link": "https://hawaii.se/saker-att-gora-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 130,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/boende-pa-hawaii.jpg",
+    "filename": "boende-pa-hawaii.jpg",
+    "alt": "Boende på Hawaii i Hawaii med människor och realistisk resemiljö",
+    "caption": "Boende på Hawaii i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-hawaii",
+        "link": "https://hawaii.se/boende-hawaii/"
+      },
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 128,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/big-island-aventyraren-hawaii.jpg",
+    "filename": "big-island-aventyraren-hawaii.jpg",
+    "alt": "Big Island - Äventyraren i Hawaii med människor och realistisk resemiljö",
+    "caption": "Big Island - Äventyraren i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 126,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/aktiviteter-snorkling-hawaii.jpg",
+    "filename": "aktiviteter-snorkling-hawaii.jpg",
+    "alt": "Aktiviteter & snorkling i Hawaii med människor och realistisk resemiljö",
+    "caption": "Aktiviteter &#038; snorkling i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-18",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
     "id": 105,
     "url": "https://hawaii.se/wp-content/uploads/2026/06/redo-att-upptacka-oahu-hawaii.jpg",
     "filename": "redo-att-upptacka-oahu-hawaii.jpg",
@@ -18130,7 +19093,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "oahu",
@@ -18148,7 +19111,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "maui",
@@ -18166,7 +19129,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kauai",
@@ -18184,7 +19147,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "big-island",
@@ -18202,7 +19165,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",
@@ -18220,7 +19183,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",
@@ -18238,7 +19201,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",
@@ -18256,7 +19219,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",

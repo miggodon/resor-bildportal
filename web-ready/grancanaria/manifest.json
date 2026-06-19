@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
-      "file": "bilder\\web-ready\\grancanaria\\redo\\triana-shopping-och-jugend-grancanaria.jpg",
+      "file": "bilder/web-ready/grancanaria/redo/triana-shopping-och-jugend-grancanaria.jpg",
       "filename": "triana-shopping-och-jugend-grancanaria.jpg",
       "brief_id": "grancanaria:omrade-las-palmas:triana-shopping-och-jugend",
       "domain": "grancanaria",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Triana — shopping och jugend i Gran Canaria. Bilden visar Triana — shopping och jugend i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
-        "web_ready_file": "bilder\\web-ready\\grancanaria\\redo\\triana-shopping-och-jugend-grancanaria.jpg",
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/triana-shopping-och-jugend-grancanaria.jpg",
         "wordpress_target": {
           "page_url": "https://grancanaria.se/omrade-las-palmas/",
           "page_slug": "omrade-las-palmas",
@@ -42,7 +42,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\grancanaria\\redo"
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
