@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/agathi-beach-oktoberoasen-rhodos.png",
-      "file": "bilder/web-ready/rhodos/agathi-beach-oktoberoasen-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/agathi-beach-oktoberoasen-rhodos.jpg",
       "filename": "agathi-beach-oktoberoasen-rhodos.jpg",
       "brief_id": "rhodos:rhodos-september-oktober:agathi-beach-oktoberoasen",
       "domain": "rhodos",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Agathi Beach — oktoberoasen i Rhodos. Bilden visar Agathi Beach — oktoberoasen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/agathi-beach-oktoberoasen-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/agathi-beach-oktoberoasen-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/agathi-beach-oktoberoasen-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-september-oktober/",
           "page_slug": "rhodos-september-oktober",
@@ -39,13 +39,16 @@
           "caption": "Agathi Beach — oktoberoasen i Rhodos",
           "description": "En realistisk resebild från Agathi Beach — oktoberoasen i Rhodos. Bilden visar Agathi Beach — oktoberoasen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/agathi-beach-oktoberoasen-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/alexis-4-seasons-kvallens-hojdpunkt-rhodos.png",
-      "file": "bilder/web-ready/rhodos/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
       "filename": "alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
       "brief_id": "rhodos:rhodos-for-par:alexis-4-seasons-kvallens-hojdpunkt",
       "domain": "rhodos",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Alexis 4 Seasons — kvällens höjdpunkt i Rhodos. Bilden visar Alexis 4 Seasons — kvällens höjdpunkt i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/alexis-4-seasons-kvallens-hojdpunkt-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-for-par/",
           "page_slug": "rhodos-for-par",
@@ -78,13 +81,16 @@
           "caption": "Alexis 4 Seasons — kvällens höjdpunkt i Rhodos",
           "description": "En realistisk resebild från Alexis 4 Seasons — kvällens höjdpunkt i Rhodos. Bilden visar Alexis 4 Seasons — kvällens höjdpunkt i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cair-kooperativet-i-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/cair-kooperativet-i-rhodos-stad-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/cair-kooperativet-i-rhodos-stad-rhodos.jpg",
       "filename": "cair-kooperativet-i-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:rhodos-vin-embonas:cair-kooperativet-i-rhodos-stad",
       "domain": "rhodos",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från CAIR — kooperativet i Rhodos stad i Rhodos. Bilden visar CAIR — kooperativet i Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cair-kooperativet-i-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/cair-kooperativet-i-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/cair-kooperativet-i-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-vin-embonas/",
           "page_slug": "rhodos-vin-embonas",
@@ -117,13 +123,16 @@
           "caption": "CAIR — kooperativet i Rhodos stad i Rhodos",
           "description": "En realistisk resebild från CAIR — kooperativet i Rhodos stad i Rhodos. Bilden visar CAIR — kooperativet i Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/cair-kooperativet-i-rhodos-stad-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.png",
-      "file": "bilder/web-ready/rhodos/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
       "filename": "hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
       "brief_id": "rhodos:hyrbil-rhodos-vandring-vindsurf:sa-funkar-hyrbil-pa-rhodos",
       "domain": "rhodos",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Så funkar hyrbil på Rhodos i Rhodos. Bilden visar Så funkar hyrbil på Rhodos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/hyrbil-rhodos-vandring-vindsurf/",
           "page_slug": "hyrbil-rhodos-vandring-vindsurf",
@@ -156,13 +165,16 @@
           "caption": "Så funkar hyrbil på Rhodos i Rhodos",
           "description": "En realistisk resebild från Så funkar hyrbil på Rhodos i Rhodos. Bilden visar Så funkar hyrbil på Rhodos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/inn-of-france-den-vackraste-fasaden-rhodos.png",
-      "file": "bilder/web-ready/rhodos/inn-of-france-den-vackraste-fasaden-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/inn-of-france-den-vackraste-fasaden-rhodos.jpg",
       "filename": "inn-of-france-den-vackraste-fasaden-rhodos.jpg",
       "brief_id": "rhodos:rhodos-gamla-stan:inn-of-france-den-vackraste-fasaden",
       "domain": "rhodos",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Inn of France — den vackraste fasaden i Rhodos. Bilden visar Inn of France — den vackraste fasaden i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/inn-of-france-den-vackraste-fasaden-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/inn-of-france-den-vackraste-fasaden-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/inn-of-france-den-vackraste-fasaden-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-gamla-stan/",
           "page_slug": "rhodos-gamla-stan",
@@ -195,13 +207,16 @@
           "caption": "Inn of France — den vackraste fasaden i Rhodos",
           "description": "En realistisk resebild från Inn of France — den vackraste fasaden i Rhodos. Bilden visar Inn of France — den vackraste fasaden i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/inn-of-france-den-vackraste-fasaden-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kafenion-kulturen-pa-torgen-rhodos.png",
-      "file": "bilder/web-ready/rhodos/kafenion-kulturen-pa-torgen-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/kafenion-kulturen-pa-torgen-rhodos.jpg",
       "filename": "kafenion-kulturen-pa-torgen-rhodos.jpg",
       "brief_id": "rhodos:rhodos-uteliv:kafenion-kulturen-pa-torgen",
       "domain": "rhodos",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Kafenion-kulturen på torgen i Rhodos. Bilden visar Kafenion-kulturen på torgen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kafenion-kulturen-pa-torgen-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/kafenion-kulturen-pa-torgen-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/kafenion-kulturen-pa-torgen-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-uteliv/",
           "page_slug": "rhodos-uteliv",
@@ -234,13 +249,16 @@
           "caption": "Kafenion-kulturen på torgen i Rhodos",
           "description": "En realistisk resebild från Kafenion-kulturen på torgen i Rhodos. Bilden visar Kafenion-kulturen på torgen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/kafenion-kulturen-pa-torgen-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.png",
-      "file": "bilder/web-ready/rhodos/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
       "filename": "kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
       "brief_id": "rhodos:hyrbil-pa-rhodos:kan-jag-ta-hyrbilen-pa-farjan-till-symi",
       "domain": "rhodos",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Kan jag ta hyrbilen på färjan till Symi? i Rhodos. Bilden visar Kan jag ta hyrbilen på färjan till Symi? i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/hyrbil-pa-rhodos/",
           "page_slug": "hyrbil-pa-rhodos",
@@ -273,13 +291,16 @@
           "caption": "Kan jag ta hyrbilen på färjan till Symi? i Rhodos",
           "description": "En realistisk resebild från Kan jag ta hyrbilen på färjan till Symi? i Rhodos. Bilden visar Kan jag ta hyrbilen på färjan till Symi? i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/nattliv-motesplatser-pa-rhodos.png",
-      "file": "bilder/web-ready/rhodos/nattliv-motesplatser-pa-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/nattliv-motesplatser-pa-rhodos.jpg",
       "filename": "nattliv-motesplatser-pa-rhodos.jpg",
       "brief_id": "rhodos:rhodos-hbtq:nattliv-motesplatser-pa-rhodos",
       "domain": "rhodos",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Nattliv & mötesplatser på Rhodos i Rhodos. Bilden visar Nattliv & mötesplatser på Rhodos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/nattliv-motesplatser-pa-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/nattliv-motesplatser-pa-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/nattliv-motesplatser-pa-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-hbtq/",
           "page_slug": "rhodos-hbtq",
@@ -312,13 +333,16 @@
           "caption": "Nattliv & mötesplatser på Rhodos i Rhodos",
           "description": "En realistisk resebild från Nattliv & mötesplatser på Rhodos i Rhodos. Bilden visar Nattliv & mötesplatser på Rhodos i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/nattliv-motesplatser-pa-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/panagia-kyrkan-med-kullerstensdekorationer-rhodos.png",
-      "file": "bilder/web-ready/rhodos/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
       "filename": "panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
       "brief_id": "rhodos:lindos-rhodos:panagia-kyrkan-med-kullerstensdekorationer",
       "domain": "rhodos",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Panagia-kyrkan med kullerstensdekorationer i Rhodos. Bilden visar Panagia-kyrkan med kullerstensdekorationer i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/panagia-kyrkan-med-kullerstensdekorationer-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/lindos-rhodos/",
           "page_slug": "lindos-rhodos",
@@ -351,13 +375,16 @@
           "caption": "Panagia-kyrkan med kullerstensdekorationer i Rhodos",
           "description": "En realistisk resebild från Panagia-kyrkan med kullerstensdekorationer i Rhodos. Bilden visar Panagia-kyrkan med kullerstensdekorationer i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/pasklordagen-midnatt-anastasiprocessionen-rhodos.png",
-      "file": "bilder/web-ready/rhodos/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
       "filename": "pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
       "brief_id": "rhodos:rhodos-i-april-och-maj:pasklordagen-midnatt-anastasiprocessionen",
       "domain": "rhodos",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Påsklördagen midnatt — Anastasiprocessionen i Rhodos. Bilden visar Påsklördagen midnatt — Anastasiprocessionen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/pasklordagen-midnatt-anastasiprocessionen-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-i-april-och-maj/",
           "page_slug": "rhodos-i-april-och-maj",
@@ -390,13 +417,16 @@
           "caption": "Påsklördagen midnatt — Anastasiprocessionen i Rhodos",
           "description": "En realistisk resebild från Påsklördagen midnatt — Anastasiprocessionen i Rhodos. Bilden visar Påsklördagen midnatt — Anastasiprocessionen i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/symi-farjan-rhodos.png",
-      "file": "bilder/web-ready/rhodos/symi-farjan-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/symi-farjan-rhodos.jpg",
       "filename": "symi-farjan-rhodos.jpg",
       "brief_id": "rhodos:rhodos-utan-hyrbil:symi-farjan",
       "domain": "rhodos",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Symi-färjan i Rhodos. Bilden visar Symi-färjan i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/symi-farjan-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/symi-farjan-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/symi-farjan-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-utan-hyrbil/",
           "page_slug": "rhodos-utan-hyrbil",
@@ -429,13 +459,16 @@
           "caption": "Symi-färjan i Rhodos",
           "description": "En realistisk resebild från Symi-färjan i Rhodos. Bilden visar Symi-färjan i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/symi-farjan-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.png",
-      "file": "bilder/web-ready/rhodos/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
       "filename": "ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
       "brief_id": "rhodos:matguide-rhodos:ta-kioupia-hemlagad-mat-i-marmorkallare",
       "domain": "rhodos",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Ta Kioupia — hemlagad mat i marmorkällare i Rhodos. Bilden visar Ta Kioupia — hemlagad mat i marmorkällare i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/matguide-rhodos/",
           "page_slug": "matguide-rhodos",
@@ -468,13 +501,16 @@
           "caption": "Ta Kioupia — hemlagad mat i marmorkällare i Rhodos",
           "description": "En realistisk resebild från Ta Kioupia — hemlagad mat i marmorkällare i Rhodos. Bilden visar Ta Kioupia — hemlagad mat i marmorkällare i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/tryffelvindruvorna-hostens-lokala-special-rhodos.png",
-      "file": "bilder/web-ready/rhodos/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
       "filename": "tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
       "brief_id": "rhodos:rhodos-september-oktober:tryffelvindruvorna-hostens-lokala-special",
       "domain": "rhodos",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från Tryffelvindruvorna — höstens lokala special i Rhodos. Bilden visar Tryffelvindruvorna — höstens lokala special i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/tryffelvindruvorna-hostens-lokala-special-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/rhodos-september-oktober/",
           "page_slug": "rhodos-september-oktober",
@@ -507,9 +543,12 @@
           "caption": "Tryffelvindruvorna — höstens lokala special i Rhodos",
           "description": "En realistisk resebild från Tryffelvindruvorna — höstens lokala special i Rhodos. Bilden visar Tryffelvindruvorna — höstens lokala special i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "bilder/web-ready/rhodos/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

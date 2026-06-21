@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/atta-saker-du-maste-gora-pa-big-island-hawaii.png",
-      "file": "bilder/web-ready/hawaii/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
+      "file": "bilder/web-ready/hawaii/redo/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
       "filename": "atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
       "brief_id": "hawaii:big-island:atta-saker-du-maste-gora-pa-big-island",
       "domain": "hawaii",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Åtta saker du måste göra på Big Island i Hawaii. Bilden visar Åtta saker du måste göra på Big Island i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/atta-saker-du-maste-gora-pa-big-island-hawaii.png",
-        "web_ready_file": "bilder/web-ready/hawaii/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
+        "web_ready_file": "bilder/web-ready/hawaii/redo/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
         "wordpress_target": {
           "page_url": "https://hawaii.se/big-island/",
           "page_slug": "big-island",
@@ -39,13 +39,16 @@
           "caption": "Åtta saker du måste göra på Big Island i Hawaii",
           "description": "En realistisk resebild från Åtta saker du måste göra på Big Island i Hawaii. Bilden visar Åtta saker du måste göra på Big Island i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/hawaii/redo"
       },
-      "inspection": "bilder/web-ready/hawaii/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/de-fyra-basta-luau-showerna-pa-hawaii.png",
-      "file": "bilder/web-ready/hawaii/de-fyra-basta-luau-showerna-pa-hawaii.jpg",
+      "file": "bilder/web-ready/hawaii/redo/de-fyra-basta-luau-showerna-pa-hawaii.jpg",
       "filename": "de-fyra-basta-luau-showerna-pa-hawaii.jpg",
       "brief_id": "hawaii:luau-hawaii:de-fyra-basta-luau-showerna-pa-hawaii",
       "domain": "hawaii",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från De fyra bästa luau-showerna på Hawaii i Hawaii. Bilden visar De fyra bästa luau-showerna på Hawaii i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/de-fyra-basta-luau-showerna-pa-hawaii.png",
-        "web_ready_file": "bilder/web-ready/hawaii/de-fyra-basta-luau-showerna-pa-hawaii.jpg",
+        "web_ready_file": "bilder/web-ready/hawaii/redo/de-fyra-basta-luau-showerna-pa-hawaii.jpg",
         "wordpress_target": {
           "page_url": "https://hawaii.se/luau-hawaii/",
           "page_slug": "luau-hawaii",
@@ -78,13 +81,16 @@
           "caption": "De fyra bästa luau-showerna på Hawaii i Hawaii",
           "description": "En realistisk resebild från De fyra bästa luau-showerna på Hawaii i Hawaii. Bilden visar De fyra bästa luau-showerna på Hawaii i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/hawaii/redo"
       },
-      "inspection": "bilder/web-ready/hawaii/de-fyra-basta-luau-showerna-pa-hawaii.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.png",
-      "file": "bilder/web-ready/hawaii/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
+      "file": "bilder/web-ready/hawaii/redo/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
       "filename": "lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
       "brief_id": "hawaii:oahu:lokala-matstallen-bortom-waikikis-turistkedjor",
       "domain": "hawaii",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Lokala matställen — bortom Waikikis turistkedjor i Hawaii. Bilden visar Lokala matställen — bortom Waikikis turistkedjor i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.png",
-        "web_ready_file": "bilder/web-ready/hawaii/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
+        "web_ready_file": "bilder/web-ready/hawaii/redo/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
         "wordpress_target": {
           "page_url": "https://hawaii.se/oahu/",
           "page_slug": "oahu",
@@ -117,13 +123,16 @@
           "caption": "Lokala matställen — bortom Waikikis turistkedjor i Hawaii",
           "description": "En realistisk resebild från Lokala matställen — bortom Waikikis turistkedjor i Hawaii. Bilden visar Lokala matställen — bortom Waikikis turistkedjor i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/hawaii/redo"
       },
-      "inspection": "bilder/web-ready/hawaii/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sju-saker-du-maste-gora-pa-oahu-hawaii.png",
-      "file": "bilder/web-ready/hawaii/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
+      "file": "bilder/web-ready/hawaii/redo/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
       "filename": "sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
       "brief_id": "hawaii:oahu:sju-saker-du-maste-gora-pa-oahu",
       "domain": "hawaii",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Sju saker du måste göra på Oahu i Hawaii. Bilden visar Sju saker du måste göra på Oahu i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sju-saker-du-maste-gora-pa-oahu-hawaii.png",
-        "web_ready_file": "bilder/web-ready/hawaii/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
+        "web_ready_file": "bilder/web-ready/hawaii/redo/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
         "wordpress_target": {
           "page_url": "https://hawaii.se/oahu/",
           "page_slug": "oahu",
@@ -156,9 +165,12 @@
           "caption": "Sju saker du måste göra på Oahu i Hawaii",
           "description": "En realistisk resebild från Sju saker du måste göra på Oahu i Hawaii. Bilden visar Sju saker du måste göra på Oahu i Hawaii under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/hawaii/redo"
       },
-      "inspection": "bilder/web-ready/hawaii/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

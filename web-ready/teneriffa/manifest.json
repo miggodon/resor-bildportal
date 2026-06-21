@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/anaga-massivet-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/anaga-massivet-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/anaga-massivet-teneriffa.jpg",
       "filename": "anaga-massivet-teneriffa.jpg",
       "brief_id": "teneriffa:teneriffa-utan-hyrbil:anaga-massivet",
       "domain": "teneriffa",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Anaga-massivet i Teneriffa. Bilden visar Anaga-massivet i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/anaga-massivet-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/anaga-massivet-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/anaga-massivet-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/teneriffa-utan-hyrbil/",
           "page_slug": "teneriffa-utan-hyrbil",
@@ -39,13 +39,16 @@
           "caption": "Anaga-massivet i Teneriffa",
           "description": "En realistisk resebild från Anaga-massivet i Teneriffa. Bilden visar Anaga-massivet i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/anaga-massivet-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/april-pask-och-perfekt-temperatur-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/april-pask-och-perfekt-temperatur-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/april-pask-och-perfekt-temperatur-teneriffa.jpg",
       "filename": "april-pask-och-perfekt-temperatur-teneriffa.jpg",
       "brief_id": "teneriffa:basta-tiden-att-resa-till-teneriffa:april-pask-och-perfekt-temperatur",
       "domain": "teneriffa",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från April – påsk och perfekt temperatur i Teneriffa. Bilden visar April – påsk och perfekt temperatur i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/april-pask-och-perfekt-temperatur-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/april-pask-och-perfekt-temperatur-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/april-pask-och-perfekt-temperatur-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/",
           "page_slug": "basta-tiden-att-resa-till-teneriffa",
@@ -78,13 +81,16 @@
           "caption": "April – påsk och perfekt temperatur i Teneriffa",
           "description": "En realistisk resebild från April – påsk och perfekt temperatur i Teneriffa. Bilden visar April – påsk och perfekt temperatur i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/april-pask-och-perfekt-temperatur-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fanabe-och-torviscas-bred-standard-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/fanabe-och-torviscas-bred-standard-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/fanabe-och-torviscas-bred-standard-teneriffa.jpg",
       "filename": "fanabe-och-torviscas-bred-standard-teneriffa.jpg",
       "brief_id": "teneriffa:costa-adeje-teneriffa:fanabe-och-torviscas-bred-standard",
       "domain": "teneriffa",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Fañabé och Torviscas – bred standard i Teneriffa. Bilden visar Fañabé och Torviscas – bred standard i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/fanabe-och-torviscas-bred-standard-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/fanabe-och-torviscas-bred-standard-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/fanabe-och-torviscas-bred-standard-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/costa-adeje-teneriffa/",
           "page_slug": "costa-adeje-teneriffa",
@@ -117,13 +123,16 @@
           "caption": "Fañabé och Torviscas – bred standard i Teneriffa",
           "description": "En realistisk resebild från Fañabé och Torviscas – bred standard i Teneriffa. Bilden visar Fañabé och Torviscas – bred standard i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/fanabe-och-torviscas-bred-standard-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/getost-och-almogrote-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/getost-och-almogrote-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/getost-och-almogrote-teneriffa.jpg",
       "filename": "getost-och-almogrote-teneriffa.jpg",
       "brief_id": "teneriffa:matguide-teneriffa:getost-och-almogrote",
       "domain": "teneriffa",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Getost och almogrote i Teneriffa. Bilden visar Getost och almogrote i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/getost-och-almogrote-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/getost-och-almogrote-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/getost-och-almogrote-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/matguide-teneriffa/",
           "page_slug": "matguide-teneriffa",
@@ -156,13 +165,16 @@
           "caption": "Getost och almogrote i Teneriffa",
           "description": "En realistisk resebild från Getost och almogrote i Teneriffa. Bilden visar Getost och almogrote i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/getost-och-almogrote-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/januari-lagsasong-med-behaglig-vintersol-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
       "filename": "januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
       "brief_id": "teneriffa:basta-tiden-att-resa-till-teneriffa:januari-lagsasong-med-behaglig-vintersol",
       "domain": "teneriffa",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Januari – lågsäsong med behaglig vintersol i Teneriffa. Bilden visar Januari – lågsäsong med behaglig vintersol i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/januari-lagsasong-med-behaglig-vintersol-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/",
           "page_slug": "basta-tiden-att-resa-till-teneriffa",
@@ -195,13 +207,16 @@
           "caption": "Januari – lågsäsong med behaglig vintersol i Teneriffa",
           "description": "En realistisk resebild från Januari – lågsäsong med behaglig vintersol i Teneriffa. Bilden visar Januari – lågsäsong med behaglig vintersol i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/juni-sommaren-drar-igang-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/juni-sommaren-drar-igang-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/juni-sommaren-drar-igang-teneriffa.jpg",
       "filename": "juni-sommaren-drar-igang-teneriffa.jpg",
       "brief_id": "teneriffa:basta-tiden-att-resa-till-teneriffa:juni-sommaren-drar-igang",
       "domain": "teneriffa",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Juni – sommaren drar igång i Teneriffa. Bilden visar Juni – sommaren drar igång i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/juni-sommaren-drar-igang-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/juni-sommaren-drar-igang-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/juni-sommaren-drar-igang-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/",
           "page_slug": "basta-tiden-att-resa-till-teneriffa",
@@ -234,13 +249,16 @@
           "caption": "Juni – sommaren drar igång i Teneriffa",
           "description": "En realistisk resebild från Juni – sommaren drar igång i Teneriffa. Bilden visar Juni – sommaren drar igång i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/juni-sommaren-drar-igang-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/la-caleta-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/la-caleta-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/la-caleta-teneriffa.jpg",
       "filename": "la-caleta-teneriffa.jpg",
       "brief_id": "teneriffa:brollopsresa-teneriffa:la-caleta",
       "domain": "teneriffa",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från La Caleta i Teneriffa. Bilden visar La Caleta i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/la-caleta-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/la-caleta-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/la-caleta-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/brollopsresa-teneriffa/",
           "page_slug": "brollopsresa-teneriffa",
@@ -273,13 +291,16 @@
           "caption": "La Caleta i Teneriffa",
           "description": "En realistisk resebild från La Caleta i Teneriffa. Bilden visar La Caleta i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/la-caleta-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lago-martianez-den-unika-havspoolparken-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
       "filename": "lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
       "brief_id": "teneriffa:puerto-de-la-cruz-teneriffa:lago-martianez-den-unika-havspoolparken",
       "domain": "teneriffa",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Lago Martianez – den unika havspoolparken i Teneriffa. Bilden visar Lago Martianez – den unika havspoolparken i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lago-martianez-den-unika-havspoolparken-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/",
           "page_slug": "puerto-de-la-cruz-teneriffa",
@@ -312,13 +333,16 @@
           "caption": "Lago Martianez – den unika havspoolparken i Teneriffa",
           "description": "En realistisk resebild från Lago Martianez – den unika havspoolparken i Teneriffa. Bilden visar Lago Martianez – den unika havspoolparken i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/lago-martianez-den-unika-havspoolparken-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/matguide-teneriffa-puerto-de-la-cruz-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
       "filename": "matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
       "brief_id": "teneriffa:matguide-teneriffa:puerto-de-la-cruz",
       "domain": "teneriffa",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Puerto de la Cruz i Teneriffa. Bilden visar Puerto de la Cruz i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/matguide-teneriffa-puerto-de-la-cruz-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/matguide-teneriffa/",
           "page_slug": "matguide-teneriffa",
@@ -351,13 +375,16 @@
           "caption": "Puerto de la Cruz i Teneriffa",
           "description": "En realistisk resebild från Puerto de la Cruz i Teneriffa. Bilden visar Puerto de la Cruz i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/matguide-teneriffa-santa-cruz-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/matguide-teneriffa-santa-cruz-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/matguide-teneriffa-santa-cruz-teneriffa.jpg",
       "filename": "matguide-teneriffa-santa-cruz-teneriffa.jpg",
       "brief_id": "teneriffa:matguide-teneriffa:santa-cruz",
       "domain": "teneriffa",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Santa Cruz i Teneriffa. Bilden visar Santa Cruz i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/matguide-teneriffa-santa-cruz-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/matguide-teneriffa-santa-cruz-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/matguide-teneriffa-santa-cruz-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/matguide-teneriffa/",
           "page_slug": "matguide-teneriffa",
@@ -390,13 +417,16 @@
           "caption": "Santa Cruz i Teneriffa",
           "description": "En realistisk resebild från Santa Cruz i Teneriffa. Bilden visar Santa Cruz i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/matguide-teneriffa-santa-cruz-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/november-lagsasongens-borjan-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/november-lagsasongens-borjan-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/november-lagsasongens-borjan-teneriffa.jpg",
       "filename": "november-lagsasongens-borjan-teneriffa.jpg",
       "brief_id": "teneriffa:basta-tiden-att-resa-till-teneriffa:november-lagsasongens-borjan",
       "domain": "teneriffa",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från November – lågsäsongens början i Teneriffa. Bilden visar November – lågsäsongens början i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/november-lagsasongens-borjan-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/november-lagsasongens-borjan-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/november-lagsasongens-borjan-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/",
           "page_slug": "basta-tiden-att-resa-till-teneriffa",
@@ -429,13 +459,16 @@
           "caption": "November – lågsäsongens början i Teneriffa",
           "description": "En realistisk resebild från November – lågsäsongens början i Teneriffa. Bilden visar November – lågsäsongens början i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/november-lagsasongens-borjan-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/playa-del-duque-teneriffa.png",
-      "file": "bilder/web-ready/teneriffa/playa-del-duque-teneriffa.jpg",
+      "file": "bilder/web-ready/teneriffa/redo/playa-del-duque-teneriffa.jpg",
       "filename": "playa-del-duque-teneriffa.jpg",
       "brief_id": "teneriffa:brollopsresa-teneriffa:playa-del-duque",
       "domain": "teneriffa",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Playa del Duque i Teneriffa. Bilden visar Playa del Duque i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/playa-del-duque-teneriffa.png",
-        "web_ready_file": "bilder/web-ready/teneriffa/playa-del-duque-teneriffa.jpg",
+        "web_ready_file": "bilder/web-ready/teneriffa/redo/playa-del-duque-teneriffa.jpg",
         "wordpress_target": {
           "page_url": "https://teneriffa.se/brollopsresa-teneriffa/",
           "page_slug": "brollopsresa-teneriffa",
@@ -468,9 +501,12 @@
           "caption": "Playa del Duque i Teneriffa",
           "description": "En realistisk resebild från Playa del Duque i Teneriffa. Bilden visar Playa del Duque i Teneriffa under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/teneriffa/redo"
       },
-      "inspection": "bilder/web-ready/teneriffa/playa-del-duque-teneriffa.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

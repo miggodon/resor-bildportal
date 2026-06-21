@@ -2206,6 +2206,240 @@
   },
   {
     "domain": "rhodos",
+    "id": 810,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
+    "filename": "tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
+    "alt": "Tryffelvindruvorna — höstens lokala special i Rhodos med människor och realistisk resemiljö",
+    "caption": "Tryffelvindruvorna — höstens lokala special i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 808,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
+    "filename": "ta-kioupia-hemlagad-mat-i-marmorkallare-rhodos.jpg",
+    "alt": "Ta Kioupia — hemlagad mat i marmorkällare i Rhodos med människor och realistisk resemiljö",
+    "caption": "Ta Kioupia — hemlagad mat i marmorkällare i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 806,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/symi-farjan-rhodos.jpg",
+    "filename": "symi-farjan-rhodos.jpg",
+    "alt": "Symi-färjan i Rhodos med människor och realistisk resemiljö",
+    "caption": "Symi-färjan i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-utan-hyrbil",
+        "link": "https://rhodos.se/rhodos-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 804,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
+    "filename": "pasklordagen-midnatt-anastasiprocessionen-rhodos.jpg",
+    "alt": "Påsklördagen midnatt — Anastasiprocessionen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Påsklördagen midnatt — Anastasiprocessionen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-i-april-och-maj",
+        "link": "https://rhodos.se/rhodos-i-april-och-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 802,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
+    "filename": "panagia-kyrkan-med-kullerstensdekorationer-rhodos.jpg",
+    "alt": "Panagia-kyrkan med kullerstensdekorationer i Rhodos med människor och realistisk resemiljö",
+    "caption": "Panagia-kyrkan med kullerstensdekorationer i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "lindos-rhodos",
+        "link": "https://rhodos.se/lindos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 800,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/nattliv-motesplatser-pa-rhodos.jpg",
+    "filename": "nattliv-motesplatser-pa-rhodos.jpg",
+    "alt": "Nattliv & mötesplatser på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Nattliv &#038; mötesplatser på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-hbtq",
+        "link": "https://rhodos.se/rhodos-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 798,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
+    "filename": "kan-jag-ta-hyrbilen-pa-farjan-till-symi-rhodos.jpg",
+    "alt": "Kan jag ta hyrbilen på färjan till Symi? i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kan jag ta hyrbilen på färjan till Symi? i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-rhodos",
+        "link": "https://rhodos.se/hyrbil-pa-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 796,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kafenion-kulturen-pa-torgen-rhodos.jpg",
+    "filename": "kafenion-kulturen-pa-torgen-rhodos.jpg",
+    "alt": "Kafenion-kulturen på torgen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kafenion-kulturen på torgen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-uteliv",
+        "link": "https://rhodos.se/rhodos-uteliv/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 794,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/inn-of-france-den-vackraste-fasaden-rhodos.jpg",
+    "filename": "inn-of-france-den-vackraste-fasaden-rhodos.jpg",
+    "alt": "Inn of France — den vackraste fasaden i Rhodos med människor och realistisk resemiljö",
+    "caption": "Inn of France — den vackraste fasaden i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-gamla-stan",
+        "link": "https://rhodos.se/rhodos-gamla-stan/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 792,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
+    "filename": "hyrbil-rhodos-vandring-vindsurf-sa-funkar-hyrbil-pa-rhodos.jpg",
+    "alt": "Så funkar hyrbil på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Så funkar hyrbil på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-rhodos-vandring-vindsurf",
+        "link": "https://rhodos.se/hyrbil-rhodos-vandring-vindsurf/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 790,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/cair-kooperativet-i-rhodos-stad-rhodos.jpg",
+    "filename": "cair-kooperativet-i-rhodos-stad-rhodos.jpg",
+    "alt": "CAIR — kooperativet i Rhodos stad i Rhodos med människor och realistisk resemiljö",
+    "caption": "CAIR — kooperativet i Rhodos stad i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-vin-embonas",
+        "link": "https://rhodos.se/rhodos-vin-embonas/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 788,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
+    "filename": "alexis-4-seasons-kvallens-hojdpunkt-rhodos.jpg",
+    "alt": "Alexis 4 Seasons — kvällens höjdpunkt i Rhodos med människor och realistisk resemiljö",
+    "caption": "Alexis 4 Seasons — kvällens höjdpunkt i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 786,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/agathi-beach-oktoberoasen-rhodos.jpg",
+    "filename": "agathi-beach-oktoberoasen-rhodos.jpg",
+    "alt": "Agathi Beach — oktoberoasen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Agathi Beach — oktoberoasen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rhodos-september-oktober",
+        "link": "https://rhodos.se/rhodos-september-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
     "id": 538,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/vilken-ar-den-basta-biltypen-for-rhodos.jpg",
     "filename": "vilken-ar-den-basta-biltypen-for-rhodos.jpg",
@@ -7637,6 +7871,906 @@
   },
   {
     "domain": "grancanaria",
+    "id": 1265,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+    "filename": "vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+    "alt": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "norra-gran-canaria",
+        "link": "https://grancanaria.se/norra-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1263,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+    "filename": "vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+    "alt": "Vanliga frågor om Gran Canarias stränder i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1261,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/upphamtning-direkt-i-resorten-grancanaria.jpg",
+    "filename": "upphamtning-direkt-i-resorten-grancanaria.jpg",
+    "alt": "Upphämtning direkt i resorten i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Upphämtning direkt i resorten i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-gran-canaria",
+        "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1259,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/transfer-fran-flygplatsen-grancanaria.jpg",
+    "filename": "transfer-fran-flygplatsen-grancanaria.jpg",
+    "alt": "Transfer från flygplatsen i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Transfer från flygplatsen i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1257,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/september-arets-basta-kombination-grancanaria.jpg",
+    "filename": "september-arets-basta-kombination-grancanaria.jpg",
+    "alt": "September — Årets bästa kombination ⭐ i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "September — Årets bästa kombination ⭐ i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1255,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/semesterhus-och-villor-med-pool-grancanaria.jpg",
+    "filename": "semesterhus-och-villor-med-pool-grancanaria.jpg",
+    "alt": "Semesterhus och villor (med pool) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Semesterhus och villor (med pool) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-grancanaria",
+        "link": "https://grancanaria.se/var-ska-man-bo-grancanaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1253,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+    "filename": "roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+    "alt": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vandring-gran-canaria",
+        "link": "https://grancanaria.se/vandring-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1251,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg",
+    "filename": "puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg",
+    "alt": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "med-barn-familjeguide",
+        "link": "https://grancanaria.se/med-barn-familjeguide/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1249,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+    "filename": "puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+    "alt": "Puerto de Mogán: charmigast men lugnare i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1247,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+    "filename": "playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+    "alt": "Playa del Inglés — stranden som aldrig sover i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1245,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+    "filename": "playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+    "alt": "Playa del Inglés: mest liv och mest utbud i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1243,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+    "filename": "playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+    "alt": "Playa de Güi Güi — den vilda belöningen i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1241,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+    "filename": "patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+    "alt": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1239,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+    "filename": "palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+    "alt": "Palmitos Park — djur, fåglar och botanik i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1237,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+    "filename": "oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+    "alt": "Oktober — Sista chansen till varmt hav i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Oktober — Sista chansen till varmt hav i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1235,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/norra-centrala-las-canteras-grancanaria.jpg",
+    "filename": "norra-centrala-las-canteras-grancanaria.jpg",
+    "alt": "Norra/centrala Las Canteras i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Norra/centrala Las Canteras i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "las-canteras-strandguide",
+        "link": "https://grancanaria.se/las-canteras-strandguide/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1233,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+    "filename": "meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+    "alt": "Meloneras — shopping och strand i ett i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Meloneras — shopping och strand i ett i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1231,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/medel-9001-400-person-grancanaria.jpg",
+    "filename": "medel-9001-400-person-grancanaria.jpg",
+    "alt": "Medel (~900–1 400 €/person) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Medel (~900–1 400 €/person) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
+        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1229,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+    "filename": "maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+    "alt": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-hbtq",
+        "link": "https://grancanaria.se/gran-canaria-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1227,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+    "filename": "maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+    "alt": "Maspalomas: bästa trygga allroundvalet i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1225,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/las-palmas-storstad-pa-dagen-grancanaria.jpg",
+    "filename": "las-palmas-storstad-pa-dagen-grancanaria.jpg",
+    "alt": "Las Palmas — storstad på dagen i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Palmas — storstad på dagen i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-gran-canaria",
+        "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1223,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+    "filename": "las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+    "alt": "Las Palmas: bästa valet för stad och strand i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1221,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/kultur-och-stadsliv-grancanaria.jpg",
+    "filename": "kultur-och-stadsliv-grancanaria.jpg",
+    "alt": "Kultur och stadsliv i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Kultur och stadsliv i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-gran-canaria",
+        "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1219,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+    "filename": "juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+    "alt": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1217,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+    "filename": "januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+    "alt": "Januari — Vinterflykt och mandelblomning i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1215,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+    "filename": "guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+    "alt": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1213,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+    "filename": "glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+    "alt": "Glasbåt & båtturer längs sydkusten i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Glasbåt &#038; båtturer längs sydkusten i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1211,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/flygplats-och-transfer-grancanaria.jpg",
+    "filename": "flygplats-och-transfer-grancanaria.jpg",
+    "alt": "Flygplats och transfer i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Flygplats och transfer i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-praktisk-info",
+        "link": "https://grancanaria.se/gran-canaria-praktisk-info/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1209,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+    "filename": "februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+    "alt": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1207,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/dynerna-playa-del-ingles-grancanaria.jpg",
+    "filename": "dynerna-playa-del-ingles-grancanaria.jpg",
+    "alt": "Dynerna + Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Dynerna + Playa del Inglés i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "maspalomas-dynerna",
+        "link": "https://grancanaria.se/maspalomas-dynerna/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1205,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/dynerna-meloneras-grancanaria.jpg",
+    "filename": "dynerna-meloneras-grancanaria.jpg",
+    "alt": "Dynerna + Meloneras i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Dynerna + Meloneras i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "maspalomas-dynerna",
+        "link": "https://grancanaria.se/maspalomas-dynerna/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1203,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/dynerna-heldag-i-soder-grancanaria.jpg",
+    "filename": "dynerna-heldag-i-soder-grancanaria.jpg",
+    "alt": "Dynerna + heldag i söder i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Dynerna + heldag i söder i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "maspalomas-dynerna",
+        "link": "https://grancanaria.se/maspalomas-dynerna/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1201,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+    "filename": "du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+    "alt": "Du klarar dig utan hyrbil om: i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Du klarar dig utan hyrbil om: i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1199,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+    "filename": "djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+    "alt": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "bergsbyarna-gran-canaria",
+        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1197,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/december-julens-hogsasong-grancanaria.jpg",
+    "filename": "december-julens-hogsasong-grancanaria.jpg",
+    "alt": "December — Julens högsäsong i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "December — Julens högsäsong i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1195,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+    "filename": "club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+    "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Club Maspalomas Suites &#038; Spa — Maspalomas i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-hotellen-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1193,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/buss-guagua-grancanaria.jpg",
+    "filename": "buss-guagua-grancanaria.jpg",
+    "alt": "Buss (guagua) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Buss (guagua) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
+        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1191,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/budget-solo-7-natter-grancanaria.jpg",
+    "filename": "budget-solo-7-natter-grancanaria.jpg",
+    "alt": "Budget — Solo, 7 nätter i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Budget — Solo, 7 nätter i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
+        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1189,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/budget-niva-3-sammanfattning-grancanaria.jpg",
+    "filename": "budget-niva-3-sammanfattning-grancanaria.jpg",
+    "alt": "Budget nivå 3 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Budget nivå 3 – sammanfattning i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-budget-vad-kostar-en-vecka",
+        "link": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1187,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/budget-niva-2-sammanfattning-grancanaria.jpg",
+    "filename": "budget-niva-2-sammanfattning-grancanaria.jpg",
+    "alt": "Budget nivå 2 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Budget nivå 2 – sammanfattning i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-budget-vad-kostar-en-vecka",
+        "link": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1185,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/budget-niva-1-sammanfattning-grancanaria.jpg",
+    "filename": "budget-niva-1-sammanfattning-grancanaria.jpg",
+    "alt": "Budget nivå 1 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Budget nivå 1 – sammanfattning i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-budget-vad-kostar-en-vecka",
+        "link": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1183,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+    "filename": "bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+    "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-gran-canaria",
+        "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1181,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria-1.jpg",
+    "filename": "battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria-1.jpg",
+    "alt": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1179,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/bast-for-vandring-och-utflykter-grancanaria.jpg",
+    "filename": "bast-for-vandring-och-utflykter-grancanaria.jpg",
+    "alt": "Bäst för vandring och utflykter i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Bäst för vandring och utflykter i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1177,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+    "filename": "aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+    "alt": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1175,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/april-ons-basta-allround-manad-grancanaria.jpg",
+    "filename": "april-ons-basta-allround-manad-grancanaria.jpg",
+    "alt": "April — Öns bästa allround-månad ⭐ i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1173,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+    "filename": "anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+    "alt": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1171,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+    "filename": "amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+    "alt": "Amadores: bästa rena badstranden för barn i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Amadores: bästa rena badstranden för barn i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-med-barn",
+        "link": "https://grancanaria.se/gran-canaria-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1169,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/7-dagar-utan-hyrbil-grancanaria.jpg",
+    "filename": "7-dagar-utan-hyrbil-grancanaria.jpg",
+    "alt": "7 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "7 dagar utan hyrbil i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1167,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/5-dagar-utan-hyrbil-grancanaria.jpg",
+    "filename": "5-dagar-utan-hyrbil-grancanaria.jpg",
+    "alt": "5 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "5 dagar utan hyrbil i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
     "id": 840,
     "url": "https://grancanaria.se/wp-content/uploads/2026/06/triana-shopping-och-jugend-grancanaria.jpg",
     "filename": "triana-shopping-och-jugend-grancanaria.jpg",
@@ -10095,6 +11229,222 @@
       {
         "slug": "gran-canaria-for-par",
         "link": "https://grancanaria.se/gran-canaria-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1148,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-del-duque-teneriffa.jpg",
+    "filename": "playa-del-duque-teneriffa.jpg",
+    "alt": "Playa del Duque i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa del Duque i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "brollopsresa-teneriffa",
+        "link": "https://teneriffa.se/brollopsresa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1146,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/november-lagsasongens-borjan-teneriffa.jpg",
+    "filename": "november-lagsasongens-borjan-teneriffa.jpg",
+    "alt": "November – lågsäsongens början i Teneriffa med människor och realistisk resemiljö",
+    "caption": "November – lågsäsongens början i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-teneriffa",
+        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1144,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/matguide-teneriffa-santa-cruz-teneriffa.jpg",
+    "filename": "matguide-teneriffa-santa-cruz-teneriffa.jpg",
+    "alt": "Santa Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Santa Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1142,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
+    "filename": "matguide-teneriffa-puerto-de-la-cruz-teneriffa.jpg",
+    "alt": "Puerto de la Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Puerto de la Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1140,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
+    "filename": "lago-martianez-den-unika-havspoolparken-teneriffa.jpg",
+    "alt": "Lago Martianez – den unika havspoolparken i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Lago Martianez – den unika havspoolparken i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1138,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/la-caleta-teneriffa.jpg",
+    "filename": "la-caleta-teneriffa.jpg",
+    "alt": "La Caleta i Teneriffa med människor och realistisk resemiljö",
+    "caption": "La Caleta i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "brollopsresa-teneriffa",
+        "link": "https://teneriffa.se/brollopsresa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1136,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/juni-sommaren-drar-igang-teneriffa.jpg",
+    "filename": "juni-sommaren-drar-igang-teneriffa.jpg",
+    "alt": "Juni – sommaren drar igång i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Juni – sommaren drar igång i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-teneriffa",
+        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1134,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
+    "filename": "januari-lagsasong-med-behaglig-vintersol-teneriffa.jpg",
+    "alt": "Januari – lågsäsong med behaglig vintersol i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Januari – lågsäsong med behaglig vintersol i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-teneriffa",
+        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1132,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/getost-och-almogrote-teneriffa.jpg",
+    "filename": "getost-och-almogrote-teneriffa.jpg",
+    "alt": "Getost och almogrote i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Getost och almogrote i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1130,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/fanabe-och-torviscas-bred-standard-teneriffa.jpg",
+    "filename": "fanabe-och-torviscas-bred-standard-teneriffa.jpg",
+    "alt": "Fañabé och Torviscas – bred standard i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Fañabé och Torviscas – bred standard i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "costa-adeje-teneriffa",
+        "link": "https://teneriffa.se/costa-adeje-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1128,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/april-pask-och-perfekt-temperatur-teneriffa.jpg",
+    "filename": "april-pask-och-perfekt-temperatur-teneriffa.jpg",
+    "alt": "April – påsk och perfekt temperatur i Teneriffa med människor och realistisk resemiljö",
+    "caption": "April – påsk och perfekt temperatur i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-teneriffa",
+        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1126,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/anaga-massivet-teneriffa.jpg",
+    "filename": "anaga-massivet-teneriffa.jpg",
+    "alt": "Anaga-massivet i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Anaga-massivet i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
       }
     ]
   },
@@ -18321,6 +19671,235 @@
   },
   {
     "domain": "chamonix",
+    "id": 341,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/varianter-av-vallee-blanche-chamonix.jpg",
+    "filename": "varianter-av-vallee-blanche-chamonix.jpg",
+    "alt": "Varianter av Vallée Blanche i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Varianter av Vallée Blanche i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "offpist-chamonix",
+        "link": "https://chamonix.se/offpist-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 339,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
+    "filename": "skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
+    "alt": "Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 338,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix.jpg",
+    "filename": "skidakning-chamonix.jpg",
+    "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidåkning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "chamonix",
+    "id": 336,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+    "filename": "resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "resa-till-chamonix",
+        "link": "https://chamonix.se/resa-till-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 334,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/redo-att-boka-boende-i-chamonix.jpg",
+    "filename": "redo-att-boka-boende-i-chamonix.jpg",
+    "alt": "Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 332,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/populara-shuttle-bolag-chamonix.jpg",
+    "filename": "populara-shuttle-bolag-chamonix.jpg",
+    "alt": "Populära shuttle-bolag i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Populära shuttle-bolag i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "transfer-geneve-chamonix",
+        "link": "https://chamonix.se/transfer-geneve-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 330,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/lyxhotell-chamonix.jpg",
+    "filename": "lyxhotell-chamonix.jpg",
+    "alt": "Lyxhotell i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Lyxhotell i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 328,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/liftkort-chamonix-2026-priser-chamonix.jpg",
+    "filename": "liftkort-chamonix-2026-priser-chamonix.jpg",
+    "alt": "Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 326,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-houches-9501-900-m-chamonix.jpg",
+    "filename": "les-houches-9501-900-m-chamonix.jpg",
+    "alt": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 324,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
+    "filename": "les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
+    "alt": "Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 322,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
+    "filename": "kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
+    "alt": "Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 320,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/jamforelsetabell-alla-byar-i-chamonix.jpg",
+    "filename": "jamforelsetabell-alla-byar-i-chamonix.jpg",
+    "alt": "Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-omraden",
+        "link": "https://chamonix.se/chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 318,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/ingar-stadning-i-chalet-hyran-chamonix.jpg",
+    "filename": "ingar-stadning-i-chalet-hyran-chamonix.jpg",
+    "alt": "Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 316,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/geneve-saint-gervais-chamonix.jpg",
     "filename": "geneve-saint-gervais-chamonix.jpg",
@@ -19985,6 +21564,78 @@
     "date": "2026-06-16",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "hawaii",
+    "id": 155,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
+    "filename": "sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
+    "alt": "Sju saker du måste göra på Oahu i Hawaii med människor och realistisk resemiljö",
+    "caption": "Sju saker du måste göra på Oahu i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "oahu",
+        "link": "https://hawaii.se/oahu/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 153,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
+    "filename": "lokala-matstallen-bortom-waikikis-turistkedjor-hawaii.jpg",
+    "alt": "Lokala matställen — bortom Waikikis turistkedjor i Hawaii med människor och realistisk resemiljö",
+    "caption": "Lokala matställen — bortom Waikikis turistkedjor i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "oahu",
+        "link": "https://hawaii.se/oahu/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 151,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/de-fyra-basta-luau-showerna-pa-hawaii.jpg",
+    "filename": "de-fyra-basta-luau-showerna-pa-hawaii.jpg",
+    "alt": "De fyra bästa luau-showerna på Hawaii i Hawaii med människor och realistisk resemiljö",
+    "caption": "De fyra bästa luau-showerna på Hawaii i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "luau-hawaii",
+        "link": "https://hawaii.se/luau-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 149,
+    "url": "https://hawaii.se/wp-content/uploads/2026/06/atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
+    "filename": "atta-saker-du-maste-gora-pa-big-island-hawaii.jpg",
+    "alt": "Åtta saker du måste göra på Big Island i Hawaii med människor och realistisk resemiljö",
+    "caption": "Åtta saker du måste göra på Big Island i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-21",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "big-island",
+        "link": "https://hawaii.se/big-island/"
+      }
+    ]
   },
   {
     "domain": "hawaii",

@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/boende-nara-backen-chamonix.png",
-      "file": "bilder/web-ready/chamonix/boende-nara-backen-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/boende-nara-backen-chamonix.jpg",
       "filename": "boende-nara-backen-chamonix.jpg",
       "brief_id": "chamonix:skidakning-chamonix:boende-nara-backen",
       "domain": "chamonix",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Boende nära backen i Chamonix-Mont-Blanc. Bilden visar Boende nära backen i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/boende-nara-backen-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/boende-nara-backen-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/boende-nara-backen-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidakning-chamonix/",
           "page_slug": "skidakning-chamonix",
@@ -39,13 +39,16 @@
           "caption": "Boende nära backen i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Boende nära backen i Chamonix-Mont-Blanc. Bilden visar Boende nära backen i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/boende-nara-backen-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/brevent-flegere-1-0302-525-m-chamonix.png",
-      "file": "bilder/web-ready/chamonix/brevent-flegere-1-0302-525-m-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/brevent-flegere-1-0302-525-m-chamonix.jpg",
       "filename": "brevent-flegere-1-0302-525-m-chamonix.jpg",
       "brief_id": "chamonix:skidakning-chamonix:brevent-flegere-1-0302-525-m",
       "domain": "chamonix",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc. Bilden visar Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/brevent-flegere-1-0302-525-m-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/brevent-flegere-1-0302-525-m-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/brevent-flegere-1-0302-525-m-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidakning-chamonix/",
           "page_slug": "skidakning-chamonix",
@@ -78,13 +81,16 @@
           "caption": "Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc. Bilden visar Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/brevent-flegere-1-0302-525-m-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/chamonix-omraden-var-ska-man-bo-chamonix.png",
-      "file": "bilder/web-ready/chamonix/chamonix-omraden-var-ska-man-bo-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/chamonix-omraden-var-ska-man-bo-chamonix.jpg",
       "filename": "chamonix-omraden-var-ska-man-bo-chamonix.jpg",
       "brief_id": "chamonix:chamonix-omraden:chamonix-omraden-var-ska-man-bo",
       "domain": "chamonix",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc. Bilden visar Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/chamonix-omraden-var-ska-man-bo-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/chamonix-omraden-var-ska-man-bo-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-omraden-var-ska-man-bo-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chamonix-omraden/",
           "page_slug": "chamonix-omraden",
@@ -117,13 +123,16 @@
           "caption": "Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc. Bilden visar Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/chamonix-omraden-var-ska-man-bo-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.png",
-      "file": "bilder/web-ready/chamonix/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
       "filename": "chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
       "brief_id": "chamonix:sommar-chamonix:chamonix-pa-sommaren-15-aktiviteter-2026",
       "domain": "chamonix",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc. Bilden visar Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/sommar-chamonix/",
           "page_slug": "sommar-chamonix",
@@ -156,13 +165,16 @@
           "caption": "Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc. Bilden visar Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.png",
-      "file": "bilder/web-ready/chamonix/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
       "filename": "fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
       "brief_id": "chamonix:chalet-guide-chamonix:fem-anledningar-att-hyra-chalet-istallet-for-hotell",
       "domain": "chamonix",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc. Bilden visar Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chalet-guide-chamonix/",
           "page_slug": "chalet-guide-chamonix",
@@ -195,13 +207,16 @@
           "caption": "Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc. Bilden visar Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/fler-guider-for-din-chamonix-resa-chamonix.png",
-      "file": "bilder/web-ready/chamonix/fler-guider-for-din-chamonix-resa-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/fler-guider-for-din-chamonix-resa-chamonix.jpg",
       "filename": "fler-guider-for-din-chamonix-resa-chamonix.jpg",
       "brief_id": "chamonix:chamonix-omraden:fler-guider-for-din-chamonix-resa",
       "domain": "chamonix",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc. Bilden visar Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/fler-guider-for-din-chamonix-resa-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/fler-guider-for-din-chamonix-resa-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/fler-guider-for-din-chamonix-resa-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chamonix-omraden/",
           "page_slug": "chamonix-omraden",
@@ -234,13 +249,16 @@
           "caption": "Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc. Bilden visar Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/fler-guider-for-din-chamonix-resa-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/geneve-saint-gervais-chamonix.png",
-      "file": "bilder/web-ready/chamonix/geneve-saint-gervais-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/geneve-saint-gervais-chamonix.jpg",
       "filename": "geneve-saint-gervais-chamonix.jpg",
       "brief_id": "chamonix:transfer-geneve-chamonix:geneve-saint-gervais",
       "domain": "chamonix",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Genève → Saint-Gervais i Chamonix-Mont-Blanc. Bilden visar Genève → Saint-Gervais i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/geneve-saint-gervais-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/geneve-saint-gervais-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/geneve-saint-gervais-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/transfer-geneve-chamonix/",
           "page_slug": "transfer-geneve-chamonix",
@@ -273,13 +291,16 @@
           "caption": "Genève → Saint-Gervais i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Genève → Saint-Gervais i Chamonix-Mont-Blanc. Bilden visar Genève → Saint-Gervais i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/geneve-saint-gervais-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/ingar-stadning-i-chalet-hyran-chamonix.png",
-      "file": "bilder/web-ready/chamonix/ingar-stadning-i-chalet-hyran-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/ingar-stadning-i-chalet-hyran-chamonix.jpg",
       "filename": "ingar-stadning-i-chalet-hyran-chamonix.jpg",
       "brief_id": "chamonix:chalet-guide-chamonix:ingar-stadning-i-chalet-hyran",
       "domain": "chamonix",
@@ -299,7 +320,7 @@
       "seo": "En realistisk resebild från Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc. Bilden visar Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/ingar-stadning-i-chalet-hyran-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/ingar-stadning-i-chalet-hyran-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/ingar-stadning-i-chalet-hyran-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chalet-guide-chamonix/",
           "page_slug": "chalet-guide-chamonix",
@@ -312,13 +333,16 @@
           "caption": "Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc. Bilden visar Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/ingar-stadning-i-chalet-hyran-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/jamforelsetabell-alla-byar-i-chamonix.png",
-      "file": "bilder/web-ready/chamonix/jamforelsetabell-alla-byar-i-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/jamforelsetabell-alla-byar-i-chamonix.jpg",
       "filename": "jamforelsetabell-alla-byar-i-chamonix.jpg",
       "brief_id": "chamonix:chamonix-omraden:jamforelsetabell-alla-byar-i-chamonix",
       "domain": "chamonix",
@@ -338,7 +362,7 @@
       "seo": "En realistisk resebild från Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc. Bilden visar Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/jamforelsetabell-alla-byar-i-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/jamforelsetabell-alla-byar-i-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/jamforelsetabell-alla-byar-i-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chamonix-omraden/",
           "page_slug": "chamonix-omraden",
@@ -351,13 +375,16 @@
           "caption": "Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc. Bilden visar Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/jamforelsetabell-alla-byar-i-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kan-man-hyra-chalet-for-bara-en-helg-chamonix.png",
-      "file": "bilder/web-ready/chamonix/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
       "filename": "kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
       "brief_id": "chamonix:chalet-guide-chamonix:kan-man-hyra-chalet-for-bara-en-helg",
       "domain": "chamonix",
@@ -377,7 +404,7 @@
       "seo": "En realistisk resebild från Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc. Bilden visar Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kan-man-hyra-chalet-for-bara-en-helg-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chalet-guide-chamonix/",
           "page_slug": "chalet-guide-chamonix",
@@ -390,13 +417,16 @@
           "caption": "Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc. Bilden visar Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/les-grands-montets-argentiere-1-2353-275-m-chamonix.png",
-      "file": "bilder/web-ready/chamonix/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
       "filename": "les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
       "brief_id": "chamonix:skidakning-chamonix:les-grands-montets-argentiere-1-2353-275-m",
       "domain": "chamonix",
@@ -416,7 +446,7 @@
       "seo": "En realistisk resebild från Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc. Bilden visar Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/les-grands-montets-argentiere-1-2353-275-m-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidakning-chamonix/",
           "page_slug": "skidakning-chamonix",
@@ -429,13 +459,16 @@
           "caption": "Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc. Bilden visar Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/les-houches-9501-900-m-chamonix.png",
-      "file": "bilder/web-ready/chamonix/les-houches-9501-900-m-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/les-houches-9501-900-m-chamonix.jpg",
       "filename": "les-houches-9501-900-m-chamonix.jpg",
       "brief_id": "chamonix:skidakning-chamonix:les-houches-9501-900-m",
       "domain": "chamonix",
@@ -455,7 +488,7 @@
       "seo": "En realistisk resebild från Les Houches (950–1 900 m) i Chamonix-Mont-Blanc. Bilden visar Les Houches (950–1 900 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/les-houches-9501-900-m-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/les-houches-9501-900-m-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-houches-9501-900-m-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidakning-chamonix/",
           "page_slug": "skidakning-chamonix",
@@ -468,13 +501,16 @@
           "caption": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Les Houches (950–1 900 m) i Chamonix-Mont-Blanc. Bilden visar Les Houches (950–1 900 m) i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/les-houches-9501-900-m-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/liftkort-chamonix-2026-priser-chamonix.png",
-      "file": "bilder/web-ready/chamonix/liftkort-chamonix-2026-priser-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/liftkort-chamonix-2026-priser-chamonix.jpg",
       "filename": "liftkort-chamonix-2026-priser-chamonix.jpg",
       "brief_id": "chamonix:skidguide-chamonix-omraden:liftkort-chamonix-2026-priser",
       "domain": "chamonix",
@@ -494,7 +530,7 @@
       "seo": "En realistisk resebild från Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc. Bilden visar Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/liftkort-chamonix-2026-priser-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/liftkort-chamonix-2026-priser-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/liftkort-chamonix-2026-priser-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidguide-chamonix-omraden/",
           "page_slug": "skidguide-chamonix-omraden",
@@ -507,13 +543,16 @@
           "caption": "Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc. Bilden visar Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/liftkort-chamonix-2026-priser-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lyxhotell-chamonix.png",
-      "file": "bilder/web-ready/chamonix/lyxhotell-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/lyxhotell-chamonix.jpg",
       "filename": "lyxhotell-chamonix.jpg",
       "brief_id": "chamonix:boende-chamonix:lyxhotell",
       "domain": "chamonix",
@@ -533,7 +572,7 @@
       "seo": "En realistisk resebild från Lyxhotell i Chamonix-Mont-Blanc. Bilden visar Lyxhotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lyxhotell-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/lyxhotell-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/lyxhotell-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/boende-chamonix/",
           "page_slug": "boende-chamonix",
@@ -546,13 +585,16 @@
           "caption": "Lyxhotell i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Lyxhotell i Chamonix-Mont-Blanc. Bilden visar Lyxhotell i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/lyxhotell-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/populara-shuttle-bolag-chamonix.png",
-      "file": "bilder/web-ready/chamonix/populara-shuttle-bolag-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/populara-shuttle-bolag-chamonix.jpg",
       "filename": "populara-shuttle-bolag-chamonix.jpg",
       "brief_id": "chamonix:transfer-geneve-chamonix:populara-shuttle-bolag",
       "domain": "chamonix",
@@ -572,7 +614,7 @@
       "seo": "En realistisk resebild från Populära shuttle-bolag i Chamonix-Mont-Blanc. Bilden visar Populära shuttle-bolag i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/populara-shuttle-bolag-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/populara-shuttle-bolag-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/populara-shuttle-bolag-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/transfer-geneve-chamonix/",
           "page_slug": "transfer-geneve-chamonix",
@@ -585,13 +627,16 @@
           "caption": "Populära shuttle-bolag i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Populära shuttle-bolag i Chamonix-Mont-Blanc. Bilden visar Populära shuttle-bolag i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/populara-shuttle-bolag-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/redo-att-boka-boende-i-chamonix.png",
-      "file": "bilder/web-ready/chamonix/redo-att-boka-boende-i-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/redo-att-boka-boende-i-chamonix.jpg",
       "filename": "redo-att-boka-boende-i-chamonix.jpg",
       "brief_id": "chamonix:chamonix-omraden:redo-att-boka-boende-i-chamonix",
       "domain": "chamonix",
@@ -611,7 +656,7 @@
       "seo": "En realistisk resebild från Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc. Bilden visar Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/redo-att-boka-boende-i-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/redo-att-boka-boende-i-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/redo-att-boka-boende-i-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/chamonix-omraden/",
           "page_slug": "chamonix-omraden",
@@ -624,13 +669,16 @@
           "caption": "Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc. Bilden visar Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/redo-att-boka-boende-i-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/resa-till-chamonix-hyrbil-fran-geneve-chamonix.png",
-      "file": "bilder/web-ready/chamonix/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
       "filename": "resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
       "brief_id": "chamonix:resa-till-chamonix:hyrbil-fran-geneve",
       "domain": "chamonix",
@@ -650,7 +698,7 @@
       "seo": "En realistisk resebild från Hyrbil från Genève i Chamonix-Mont-Blanc. Bilden visar Hyrbil från Genève i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/resa-till-chamonix-hyrbil-fran-geneve-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/resa-till-chamonix/",
           "page_slug": "resa-till-chamonix",
@@ -663,13 +711,16 @@
           "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Hyrbil från Genève i Chamonix-Mont-Blanc. Bilden visar Hyrbil från Genève i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/skidakning-chamonix.png",
-      "file": "bilder/web-ready/chamonix/skidakning-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/skidakning-chamonix.jpg",
       "filename": "skidakning-chamonix.jpg",
       "brief_id": "chamonix:startsida:skidakning",
       "domain": "chamonix",
@@ -689,7 +740,7 @@
       "seo": "En realistisk resebild från Skidåkning i Chamonix-Mont-Blanc. Bilden visar Skidåkning i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/skidakning-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/skidakning-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skidakning-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/",
           "page_slug": "startsida",
@@ -702,13 +753,16 @@
           "caption": "Skidåkning i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Skidåkning i Chamonix-Mont-Blanc. Bilden visar Skidåkning i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/skidakning-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/skidomraden-i-chamonix-komplett-guide-2026-chamonix.png",
-      "file": "bilder/web-ready/chamonix/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
       "filename": "skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
       "brief_id": "chamonix:skidguide-chamonix-omraden:skidomraden-i-chamonix-komplett-guide-2026",
       "domain": "chamonix",
@@ -728,7 +782,7 @@
       "seo": "En realistisk resebild från Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc. Bilden visar Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/skidomraden-i-chamonix-komplett-guide-2026-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/skidguide-chamonix-omraden/",
           "page_slug": "skidguide-chamonix-omraden",
@@ -741,13 +795,16 @@
           "caption": "Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc. Bilden visar Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/varianter-av-vallee-blanche-chamonix.png",
-      "file": "bilder/web-ready/chamonix/varianter-av-vallee-blanche-chamonix.jpg",
+      "file": "bilder/web-ready/chamonix/redo/varianter-av-vallee-blanche-chamonix.jpg",
       "filename": "varianter-av-vallee-blanche-chamonix.jpg",
       "brief_id": "chamonix:offpist-chamonix:varianter-av-vallee-blanche",
       "domain": "chamonix",
@@ -767,7 +824,7 @@
       "seo": "En realistisk resebild från Varianter av Vallée Blanche i Chamonix-Mont-Blanc. Bilden visar Varianter av Vallée Blanche i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/varianter-av-vallee-blanche-chamonix.png",
-        "web_ready_file": "bilder/web-ready/chamonix/varianter-av-vallee-blanche-chamonix.jpg",
+        "web_ready_file": "bilder/web-ready/chamonix/redo/varianter-av-vallee-blanche-chamonix.jpg",
         "wordpress_target": {
           "page_url": "https://chamonix.se/offpist-chamonix/",
           "page_slug": "offpist-chamonix",
@@ -780,9 +837,12 @@
           "caption": "Varianter av Vallée Blanche i Chamonix-Mont-Blanc",
           "description": "En realistisk resebild från Varianter av Vallée Blanche i Chamonix-Mont-Blanc. Bilden visar Varianter av Vallée Blanche i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
       },
-      "inspection": "bilder/web-ready/chamonix/varianter-av-vallee-blanche-chamonix.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }
