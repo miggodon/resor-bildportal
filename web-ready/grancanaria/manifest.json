@@ -1,50 +1,1958 @@
 {
-  "generated_at": "2026-06-11T00:57:17.212446+00:00",
+  "generated_at": "2026-06-21T17:43:29.885910+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/grancanaria",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
-      "file": "bilder/web-ready/grancanaria/redo/triana-shopping-och-jugend-grancanaria.jpg",
-      "filename": "triana-shopping-och-jugend-grancanaria.jpg",
-      "brief_id": "grancanaria:omrade-las-palmas:triana-shopping-och-jugend",
+      "source": "bilder/inbox/5-dagar-utan-hyrbil-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg",
+      "filename": "5-dagar-utan-hyrbil-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-utan-hyrbil:5-dagar-utan-hyrbil",
       "domain": "grancanaria",
       "site": "grancanaria.se",
       "destination": "Gran Canaria",
-      "page": "https://grancanaria.se/omrade-las-palmas/",
-      "page_id": 83,
-      "page_title": "Las Palmas — komplett guide till Gran Canarias huvudstad",
-      "page_slug": "omrade-las-palmas",
-      "h3": "Triana — shopping och jugend",
-      "h3_slug": "triana-shopping-och-jugend",
-      "place": "Triana — shopping och jugend i Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
+      "page_id": 96,
+      "page_title": "Gran Canaria utan hyrbil: bästa områdena, bussar, taxi och smarta utflykter",
+      "page_slug": "gran-canaria-utan-hyrbil",
+      "h3": "5 dagar utan hyrbil",
+      "h3_slug": "5-dagar-utan-hyrbil",
+      "place": "5 dagar utan hyrbil i Gran Canaria",
       "gps": "27.9202, -15.5474",
-      "shot_type": "wide neighbourhood overview photograph",
-      "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
-      "caption": "Triana — shopping och jugend i Gran Canaria",
-      "seo": "En realistisk resebild från Triana — shopping och jugend i Gran Canaria. Bilden visar Triana — shopping och jugend i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "road trip travel photograph",
+      "alt": "5 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "5 dagar utan hyrbil i Gran Canaria",
+      "seo": "En realistisk resebild från 5 dagar utan hyrbil i Gran Canaria. Bilden visar 5 dagar utan hyrbil i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
-        "web_ready_file": "bilder/web-ready/grancanaria/redo/triana-shopping-och-jugend-grancanaria.jpg",
+        "preferred_source_download": "bilder/inbox/5-dagar-utan-hyrbil-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg",
         "wordpress_target": {
-          "page_url": "https://grancanaria.se/omrade-las-palmas/",
-          "page_slug": "omrade-las-palmas",
-          "section_h3": "Triana — shopping och jugend",
+          "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
+          "page_slug": "gran-canaria-utan-hyrbil",
+          "section_h3": "5 dagar utan hyrbil",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Triana — shopping och jugend i Gran Canaria",
-          "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
-          "caption": "Triana — shopping och jugend i Gran Canaria",
-          "description": "En realistisk resebild från Triana — shopping och jugend i Gran Canaria. Bilden visar Triana — shopping och jugend i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "5 dagar utan hyrbil i Gran Canaria",
+          "alt": "5 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "5 dagar utan hyrbil i Gran Canaria",
+          "description": "En realistisk resebild från 5 dagar utan hyrbil i Gran Canaria. Bilden visar 5 dagar utan hyrbil i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/grancanaria/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/grancanaria/5-dagar-utan-hyrbil-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/7-dagar-utan-hyrbil-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg",
+      "filename": "7-dagar-utan-hyrbil-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-utan-hyrbil:7-dagar-utan-hyrbil",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
+      "page_id": 96,
+      "page_title": "Gran Canaria utan hyrbil: bästa områdena, bussar, taxi och smarta utflykter",
+      "page_slug": "gran-canaria-utan-hyrbil",
+      "h3": "7 dagar utan hyrbil",
+      "h3_slug": "7-dagar-utan-hyrbil",
+      "place": "7 dagar utan hyrbil i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "7 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "7 dagar utan hyrbil i Gran Canaria",
+      "seo": "En realistisk resebild från 7 dagar utan hyrbil i Gran Canaria. Bilden visar 7 dagar utan hyrbil i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/7-dagar-utan-hyrbil-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-utan-hyrbil/",
+          "page_slug": "gran-canaria-utan-hyrbil",
+          "section_h3": "7 dagar utan hyrbil",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "7 dagar utan hyrbil i Gran Canaria",
+          "alt": "7 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "7 dagar utan hyrbil i Gran Canaria",
+          "description": "En realistisk resebild från 7 dagar utan hyrbil i Gran Canaria. Bilden visar 7 dagar utan hyrbil i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/7-dagar-utan-hyrbil-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/amadores-basta-rena-badstranden-for-barn-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+      "filename": "amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-med-barn:amadores-basta-rena-badstranden-for-barn",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-med-barn/",
+      "page_id": 95,
+      "page_title": "Gran Canaria med barn: bästa områdena, stränderna och hotellen för familjer",
+      "page_slug": "gran-canaria-med-barn",
+      "h3": "Amadores: bästa rena badstranden för barn",
+      "h3_slug": "amadores-basta-rena-badstranden-for-barn",
+      "place": "Amadores: bästa rena badstranden för barn i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Amadores: bästa rena badstranden för barn i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Amadores: bästa rena badstranden för barn i Gran Canaria",
+      "seo": "En realistisk resebild från Amadores: bästa rena badstranden för barn i Gran Canaria. Bilden visar Amadores: bästa rena badstranden för barn i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/amadores-basta-rena-badstranden-for-barn-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-med-barn/",
+          "page_slug": "gran-canaria-med-barn",
+          "section_h3": "Amadores: bästa rena badstranden för barn",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Amadores: bästa rena badstranden för barn i Gran Canaria",
+          "alt": "Amadores: bästa rena badstranden för barn i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Amadores: bästa rena badstranden för barn i Gran Canaria",
+          "description": "En realistisk resebild från Amadores: bästa rena badstranden för barn i Gran Canaria. Bilden visar Amadores: bästa rena badstranden för barn i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/amadores-basta-rena-badstranden-for-barn-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+      "filename": "anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:anfi-del-mar-lyxstranden-med-turkost-vatten",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Anfi del Mar — lyxstranden med turkost vatten",
+      "h3_slug": "anfi-del-mar-lyxstranden-med-turkost-vatten",
+      "place": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
+      "seo": "En realistisk resebild från Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria. Bilden visar Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Anfi del Mar — lyxstranden med turkost vatten",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
+          "alt": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
+          "description": "En realistisk resebild från Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria. Bilden visar Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/april-ons-basta-allround-manad-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/april-ons-basta-allround-manad-grancanaria.jpg",
+      "filename": "april-ons-basta-allround-manad-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:april-ons-basta-allround-manad",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "April — Öns bästa allround-månad ⭐",
+      "h3_slug": "april-ons-basta-allround-manad",
+      "place": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "April — Öns bästa allround-månad ⭐ i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
+      "seo": "En realistisk resebild från April — Öns bästa allround-månad ⭐ i Gran Canaria. Bilden visar April — Öns bästa allround-månad ⭐ i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/april-ons-basta-allround-manad-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/april-ons-basta-allround-manad-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "April — Öns bästa allround-månad ⭐",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
+          "alt": "April — Öns bästa allround-månad ⭐ i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
+          "description": "En realistisk resebild från April — Öns bästa allround-månad ⭐ i Gran Canaria. Bilden visar April — Öns bästa allround-månad ⭐ i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/april-ons-basta-allround-manad-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+      "filename": "aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:aqualand-maspalomas-mer-an-40-vattenattraktioner",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Aqualand Maspalomas — mer än 40 vattenattraktioner",
+      "h3_slug": "aqualand-maspalomas-mer-an-40-vattenattraktioner",
+      "place": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+      "seo": "En realistisk resebild från Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria. Bilden visar Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Aqualand Maspalomas — mer än 40 vattenattraktioner",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+          "alt": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
+          "description": "En realistisk resebild från Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria. Bilden visar Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/bast-for-vandring-och-utflykter-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/bast-for-vandring-och-utflykter-grancanaria.jpg",
+      "filename": "bast-for-vandring-och-utflykter-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:bast-for-vandring-och-utflykter",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Bäst för vandring och utflykter",
+      "h3_slug": "bast-for-vandring-och-utflykter",
+      "place": "Bäst för vandring och utflykter i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Bäst för vandring och utflykter i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Bäst för vandring och utflykter i Gran Canaria",
+      "seo": "En realistisk resebild från Bäst för vandring och utflykter i Gran Canaria. Bilden visar Bäst för vandring och utflykter i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/bast-for-vandring-och-utflykter-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/bast-for-vandring-och-utflykter-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Bäst för vandring och utflykter",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Bäst för vandring och utflykter i Gran Canaria",
+          "alt": "Bäst för vandring och utflykter i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Bäst för vandring och utflykter i Gran Canaria",
+          "description": "En realistisk resebild från Bäst för vandring och utflykter i Gran Canaria. Bilden visar Bäst för vandring och utflykter i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/bast-for-vandring-och-utflykter-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+      "filename": "battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+      "brief_id": "grancanaria:hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer:battur-till-puerto-de-mogan-kanarieoarnas-venedig",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+      "page_id": 547,
+      "page_title": "Hotell Puerto Rico Gran Canaria – Din Kompletta Guide för Nordiska Resenärer",
+      "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+      "h3": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig",
+      "h3_slug": "battur-till-puerto-de-mogan-kanarieoarnas-venedig",
+      "place": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
+      "seo": "En realistisk resebild från Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria. Bilden visar Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/",
+          "page_slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
+          "section_h3": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
+          "alt": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
+          "description": "En realistisk resebild från Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria. Bilden visar Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/bilhamtning-i-las-palmas-norra-on-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+      "filename": "bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:bilhamtning-i-las-palmas-norra-on",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+      "page_id": 24,
+      "page_title": "Hyrbil Gran Canaria",
+      "page_slug": "hyrbil-pa-gran-canaria",
+      "h3": "Bilhämtning i Las Palmas (norra ön)",
+      "h3_slug": "bilhamtning-i-las-palmas-norra-on",
+      "place": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
+      "seo": "En realistisk resebild från Bilhämtning i Las Palmas (norra ön) i Gran Canaria. Bilden visar Bilhämtning i Las Palmas (norra ön) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/bilhamtning-i-las-palmas-norra-on-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+          "page_slug": "hyrbil-pa-gran-canaria",
+          "section_h3": "Bilhämtning i Las Palmas (norra ön)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
+          "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
+          "description": "En realistisk resebild från Bilhämtning i Las Palmas (norra ön) i Gran Canaria. Bilden visar Bilhämtning i Las Palmas (norra ön) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/budget-niva-1-sammanfattning-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/budget-niva-1-sammanfattning-grancanaria.jpg",
+      "filename": "budget-niva-1-sammanfattning-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-budget-vad-kostar-en-vecka:budget-niva-1-sammanfattning",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+      "page_id": 823,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget i tre nivåer med tabell",
+      "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+      "h3": "Budget nivå 1 – sammanfattning",
+      "h3_slug": "budget-niva-1-sammanfattning",
+      "place": "Budget nivå 1 – sammanfattning i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Budget nivå 1 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Budget nivå 1 – sammanfattning i Gran Canaria",
+      "seo": "En realistisk resebild från Budget nivå 1 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 1 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/budget-niva-1-sammanfattning-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/budget-niva-1-sammanfattning-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+          "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+          "section_h3": "Budget nivå 1 – sammanfattning",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Budget nivå 1 – sammanfattning i Gran Canaria",
+          "alt": "Budget nivå 1 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Budget nivå 1 – sammanfattning i Gran Canaria",
+          "description": "En realistisk resebild från Budget nivå 1 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 1 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/budget-niva-1-sammanfattning-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/budget-niva-2-sammanfattning-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/budget-niva-2-sammanfattning-grancanaria.jpg",
+      "filename": "budget-niva-2-sammanfattning-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-budget-vad-kostar-en-vecka:budget-niva-2-sammanfattning",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+      "page_id": 823,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget i tre nivåer med tabell",
+      "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+      "h3": "Budget nivå 2 – sammanfattning",
+      "h3_slug": "budget-niva-2-sammanfattning",
+      "place": "Budget nivå 2 – sammanfattning i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Budget nivå 2 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Budget nivå 2 – sammanfattning i Gran Canaria",
+      "seo": "En realistisk resebild från Budget nivå 2 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 2 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/budget-niva-2-sammanfattning-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/budget-niva-2-sammanfattning-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+          "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+          "section_h3": "Budget nivå 2 – sammanfattning",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Budget nivå 2 – sammanfattning i Gran Canaria",
+          "alt": "Budget nivå 2 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Budget nivå 2 – sammanfattning i Gran Canaria",
+          "description": "En realistisk resebild från Budget nivå 2 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 2 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/budget-niva-2-sammanfattning-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/budget-niva-3-sammanfattning-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/budget-niva-3-sammanfattning-grancanaria.jpg",
+      "filename": "budget-niva-3-sammanfattning-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-budget-vad-kostar-en-vecka:budget-niva-3-sammanfattning",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+      "page_id": 823,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget i tre nivåer med tabell",
+      "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+      "h3": "Budget nivå 3 – sammanfattning",
+      "h3_slug": "budget-niva-3-sammanfattning",
+      "place": "Budget nivå 3 – sammanfattning i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Budget nivå 3 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Budget nivå 3 – sammanfattning i Gran Canaria",
+      "seo": "En realistisk resebild från Budget nivå 3 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 3 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/budget-niva-3-sammanfattning-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/budget-niva-3-sammanfattning-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-budget-vad-kostar-en-vecka/",
+          "page_slug": "gran-canaria-budget-vad-kostar-en-vecka",
+          "section_h3": "Budget nivå 3 – sammanfattning",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Budget nivå 3 – sammanfattning i Gran Canaria",
+          "alt": "Budget nivå 3 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Budget nivå 3 – sammanfattning i Gran Canaria",
+          "description": "En realistisk resebild från Budget nivå 3 – sammanfattning i Gran Canaria. Bilden visar Budget nivå 3 – sammanfattning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/budget-niva-3-sammanfattning-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/budget-solo-7-natter-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/budget-solo-7-natter-grancanaria.jpg",
+      "filename": "budget-solo-7-natter-grancanaria.jpg",
+      "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:budget-solo-7-natter",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+      "page_id": 81,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget, medel, lyx 2026",
+      "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+      "h3": "Budget — Solo, 7 nätter",
+      "h3_slug": "budget-solo-7-natter",
+      "place": "Budget — Solo, 7 nätter i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Budget — Solo, 7 nätter i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Budget — Solo, 7 nätter i Gran Canaria",
+      "seo": "En realistisk resebild från Budget — Solo, 7 nätter i Gran Canaria. Bilden visar Budget — Solo, 7 nätter i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/budget-solo-7-natter-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/budget-solo-7-natter-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+          "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+          "section_h3": "Budget — Solo, 7 nätter",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Budget — Solo, 7 nätter i Gran Canaria",
+          "alt": "Budget — Solo, 7 nätter i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Budget — Solo, 7 nätter i Gran Canaria",
+          "description": "En realistisk resebild från Budget — Solo, 7 nätter i Gran Canaria. Bilden visar Budget — Solo, 7 nätter i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/budget-solo-7-natter-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/buss-guagua-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/buss-guagua-grancanaria.jpg",
+      "filename": "buss-guagua-grancanaria.jpg",
+      "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:buss-guagua",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+      "page_id": 81,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget, medel, lyx 2026",
+      "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+      "h3": "Buss (guagua)",
+      "h3_slug": "buss-guagua",
+      "place": "Buss (guagua) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Buss (guagua) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Buss (guagua) i Gran Canaria",
+      "seo": "En realistisk resebild från Buss (guagua) i Gran Canaria. Bilden visar Buss (guagua) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/buss-guagua-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/buss-guagua-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+          "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+          "section_h3": "Buss (guagua)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Buss (guagua) i Gran Canaria",
+          "alt": "Buss (guagua) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Buss (guagua) i Gran Canaria",
+          "description": "En realistisk resebild från Buss (guagua) i Gran Canaria. Bilden visar Buss (guagua) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/buss-guagua-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/club-maspalomas-suites-spa-maspalomas-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+      "filename": "club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-hotellen-pa-gran-canaria:club-maspalomas-suites-spa-maspalomas",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
+      "page_id": 18,
+      "page_title": "Bästa hotellen på Gran Canaria — guide för skandinaver",
+      "page_slug": "basta-hotellen-pa-gran-canaria",
+      "h3": "Club Maspalomas Suites & Spa — Maspalomas",
+      "h3_slug": "club-maspalomas-suites-spa-maspalomas",
+      "place": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
+      "seo": "En realistisk resebild från Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria. Bilden visar Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/club-maspalomas-suites-spa-maspalomas-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
+          "page_slug": "basta-hotellen-pa-gran-canaria",
+          "section_h3": "Club Maspalomas Suites & Spa — Maspalomas",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
+          "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
+          "description": "En realistisk resebild från Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria. Bilden visar Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/december-julens-hogsasong-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/december-julens-hogsasong-grancanaria.jpg",
+      "filename": "december-julens-hogsasong-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:december-julens-hogsasong",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "December — Julens högsäsong",
+      "h3_slug": "december-julens-hogsasong",
+      "place": "December — Julens högsäsong i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "December — Julens högsäsong i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "December — Julens högsäsong i Gran Canaria",
+      "seo": "En realistisk resebild från December — Julens högsäsong i Gran Canaria. Bilden visar December — Julens högsäsong i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/december-julens-hogsasong-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/december-julens-hogsasong-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "December — Julens högsäsong",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "December — Julens högsäsong i Gran Canaria",
+          "alt": "December — Julens högsäsong i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "December — Julens högsäsong i Gran Canaria",
+          "description": "En realistisk resebild från December — Julens högsäsong i Gran Canaria. Bilden visar December — Julens högsäsong i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/december-julens-hogsasong-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/djupare-bergsdag-tejeda-och-artenara-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+      "filename": "djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+      "brief_id": "grancanaria:bergsbyarna-gran-canaria:djupare-bergsdag-tejeda-och-artenara",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/bergsbyarna-gran-canaria/",
+      "page_id": 110,
+      "page_title": "Bergsbyarna på Gran Canaria: Tejeda, Artenara, Fataga och San Bartolome",
+      "page_slug": "bergsbyarna-gran-canaria",
+      "h3": "Djupare bergsdag: Tejeda och Artenara",
+      "h3_slug": "djupare-bergsdag-tejeda-och-artenara",
+      "place": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
+      "seo": "En realistisk resebild från Djupare bergsdag: Tejeda och Artenara i Gran Canaria. Bilden visar Djupare bergsdag: Tejeda och Artenara i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/djupare-bergsdag-tejeda-och-artenara-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/bergsbyarna-gran-canaria/",
+          "page_slug": "bergsbyarna-gran-canaria",
+          "section_h3": "Djupare bergsdag: Tejeda och Artenara",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
+          "alt": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
+          "description": "En realistisk resebild från Djupare bergsdag: Tejeda och Artenara i Gran Canaria. Bilden visar Djupare bergsdag: Tejeda och Artenara i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/du-klarar-dig-utan-hyrbil-om-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+      "filename": "du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:du-klarar-dig-utan-hyrbil-om",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Du klarar dig utan hyrbil om:",
+      "h3_slug": "du-klarar-dig-utan-hyrbil-om",
+      "place": "Du klarar dig utan hyrbil om: i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Du klarar dig utan hyrbil om: i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Du klarar dig utan hyrbil om: i Gran Canaria",
+      "seo": "En realistisk resebild från Du klarar dig utan hyrbil om: i Gran Canaria. Bilden visar Du klarar dig utan hyrbil om: i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/du-klarar-dig-utan-hyrbil-om-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Du klarar dig utan hyrbil om:",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Du klarar dig utan hyrbil om: i Gran Canaria",
+          "alt": "Du klarar dig utan hyrbil om: i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Du klarar dig utan hyrbil om: i Gran Canaria",
+          "description": "En realistisk resebild från Du klarar dig utan hyrbil om: i Gran Canaria. Bilden visar Du klarar dig utan hyrbil om: i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/du-klarar-dig-utan-hyrbil-om-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/dynerna-heldag-i-soder-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg",
+      "filename": "dynerna-heldag-i-soder-grancanaria.jpg",
+      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-heldag-i-soder",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/maspalomas-dynerna/",
+      "page_id": 99,
+      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
+      "page_slug": "maspalomas-dynerna",
+      "h3": "Dynerna + heldag i söder",
+      "h3_slug": "dynerna-heldag-i-soder",
+      "place": "Dynerna + heldag i söder i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Dynerna + heldag i söder i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Dynerna + heldag i söder i Gran Canaria",
+      "seo": "En realistisk resebild från Dynerna + heldag i söder i Gran Canaria. Bilden visar Dynerna + heldag i söder i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dynerna-heldag-i-soder-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
+          "page_slug": "maspalomas-dynerna",
+          "section_h3": "Dynerna + heldag i söder",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Dynerna + heldag i söder i Gran Canaria",
+          "alt": "Dynerna + heldag i söder i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Dynerna + heldag i söder i Gran Canaria",
+          "description": "En realistisk resebild från Dynerna + heldag i söder i Gran Canaria. Bilden visar Dynerna + heldag i söder i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/dynerna-heldag-i-soder-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/dynerna-meloneras-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg",
+      "filename": "dynerna-meloneras-grancanaria.jpg",
+      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-meloneras",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/maspalomas-dynerna/",
+      "page_id": 99,
+      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
+      "page_slug": "maspalomas-dynerna",
+      "h3": "Dynerna + Meloneras",
+      "h3_slug": "dynerna-meloneras",
+      "place": "Dynerna + Meloneras i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Dynerna + Meloneras i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Dynerna + Meloneras i Gran Canaria",
+      "seo": "En realistisk resebild från Dynerna + Meloneras i Gran Canaria. Bilden visar Dynerna + Meloneras i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dynerna-meloneras-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
+          "page_slug": "maspalomas-dynerna",
+          "section_h3": "Dynerna + Meloneras",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Dynerna + Meloneras i Gran Canaria",
+          "alt": "Dynerna + Meloneras i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Dynerna + Meloneras i Gran Canaria",
+          "description": "En realistisk resebild från Dynerna + Meloneras i Gran Canaria. Bilden visar Dynerna + Meloneras i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/dynerna-meloneras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/dynerna-playa-del-ingles-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg",
+      "filename": "dynerna-playa-del-ingles-grancanaria.jpg",
+      "brief_id": "grancanaria:maspalomas-dynerna:dynerna-playa-del-ingles",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/maspalomas-dynerna/",
+      "page_id": 99,
+      "page_title": "Maspalomas-dynerna: komplett guide till stranden, reglerna, rutterna och bästa tiden",
+      "page_slug": "maspalomas-dynerna",
+      "h3": "Dynerna + Playa del Inglés",
+      "h3_slug": "dynerna-playa-del-ingles",
+      "place": "Dynerna + Playa del Inglés i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Dynerna + Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Dynerna + Playa del Inglés i Gran Canaria",
+      "seo": "En realistisk resebild från Dynerna + Playa del Inglés i Gran Canaria. Bilden visar Dynerna + Playa del Inglés i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/dynerna-playa-del-ingles-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/maspalomas-dynerna/",
+          "page_slug": "maspalomas-dynerna",
+          "section_h3": "Dynerna + Playa del Inglés",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Dynerna + Playa del Inglés i Gran Canaria",
+          "alt": "Dynerna + Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Dynerna + Playa del Inglés i Gran Canaria",
+          "description": "En realistisk resebild från Dynerna + Playa del Inglés i Gran Canaria. Bilden visar Dynerna + Playa del Inglés i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/dynerna-playa-del-ingles-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/februari-karneval-och-sportlov-boka-tidigt-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+      "filename": "februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:februari-karneval-och-sportlov-boka-tidigt",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "Februari — Karneval och sportlov ⚠️ Boka tidigt",
+      "h3_slug": "februari-karneval-och-sportlov-boka-tidigt",
+      "place": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
+      "seo": "En realistisk resebild från Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria. Bilden visar Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/februari-karneval-och-sportlov-boka-tidigt-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "Februari — Karneval och sportlov ⚠️ Boka tidigt",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
+          "alt": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
+          "description": "En realistisk resebild från Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria. Bilden visar Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/flygplats-och-transfer-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/flygplats-och-transfer-grancanaria.jpg",
+      "filename": "flygplats-och-transfer-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-praktisk-info:flygplats-och-transfer",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-praktisk-info/",
+      "page_id": 822,
+      "page_title": "Praktisk info om Gran Canaria – flyg, transfer, pengar, vård och vardag",
+      "page_slug": "gran-canaria-praktisk-info",
+      "h3": "Flygplats och transfer",
+      "h3_slug": "flygplats-och-transfer",
+      "place": "Flygplats och transfer i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Flygplats och transfer i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Flygplats och transfer i Gran Canaria",
+      "seo": "En realistisk resebild från Flygplats och transfer i Gran Canaria. Bilden visar Flygplats och transfer i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/flygplats-och-transfer-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/flygplats-och-transfer-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-praktisk-info/",
+          "page_slug": "gran-canaria-praktisk-info",
+          "section_h3": "Flygplats och transfer",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Flygplats och transfer i Gran Canaria",
+          "alt": "Flygplats och transfer i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Flygplats och transfer i Gran Canaria",
+          "description": "En realistisk resebild från Flygplats och transfer i Gran Canaria. Bilden visar Flygplats och transfer i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/flygplats-och-transfer-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/glasbat-batturer-langs-sydkusten-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+      "filename": "glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:glasbat-batturer-langs-sydkusten",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Glasbåt & båtturer längs sydkusten",
+      "h3_slug": "glasbat-batturer-langs-sydkusten",
+      "place": "Glasbåt & båtturer längs sydkusten i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Glasbåt & båtturer längs sydkusten i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Glasbåt & båtturer längs sydkusten i Gran Canaria",
+      "seo": "En realistisk resebild från Glasbåt & båtturer längs sydkusten i Gran Canaria. Bilden visar Glasbåt & båtturer längs sydkusten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/glasbat-batturer-langs-sydkusten-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Glasbåt & båtturer längs sydkusten",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Glasbåt & båtturer längs sydkusten i Gran Canaria",
+          "alt": "Glasbåt & båtturer längs sydkusten i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Glasbåt & båtturer längs sydkusten i Gran Canaria",
+          "description": "En realistisk resebild från Glasbåt & båtturer längs sydkusten i Gran Canaria. Bilden visar Glasbåt & båtturer längs sydkusten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/glasbat-batturer-langs-sydkusten-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+      "filename": "guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:guayadeque-ravinen-grottor-mat-och-kanarier",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Guayadeque ravinen — grottor, mat och kanarier",
+      "h3_slug": "guayadeque-ravinen-grottor-mat-och-kanarier",
+      "place": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+      "seo": "En realistisk resebild från Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria. Bilden visar Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Guayadeque ravinen — grottor, mat och kanarier",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+          "alt": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
+          "description": "En realistisk resebild från Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria. Bilden visar Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/januari-vinterflykt-och-mandelblomning-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+      "filename": "januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:januari-vinterflykt-och-mandelblomning",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "Januari — Vinterflykt och mandelblomning",
+      "h3_slug": "januari-vinterflykt-och-mandelblomning",
+      "place": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Januari — Vinterflykt och mandelblomning i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
+      "seo": "En realistisk resebild från Januari — Vinterflykt och mandelblomning i Gran Canaria. Bilden visar Januari — Vinterflykt och mandelblomning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/januari-vinterflykt-och-mandelblomning-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "Januari — Vinterflykt och mandelblomning",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
+          "alt": "Januari — Vinterflykt och mandelblomning i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
+          "description": "En realistisk resebild från Januari — Vinterflykt och mandelblomning i Gran Canaria. Bilden visar Januari — Vinterflykt och mandelblomning i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/januari-vinterflykt-och-mandelblomning-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+      "filename": "juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:juliaugusti-hogsommar-med-europeisk-publik",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "Juli–Augusti — Högsommar med europeisk publik",
+      "h3_slug": "juliaugusti-hogsommar-med-europeisk-publik",
+      "place": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
+      "seo": "En realistisk resebild från Juli–Augusti — Högsommar med europeisk publik i Gran Canaria. Bilden visar Juli–Augusti — Högsommar med europeisk publik i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "Juli–Augusti — Högsommar med europeisk publik",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
+          "alt": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
+          "description": "En realistisk resebild från Juli–Augusti — Högsommar med europeisk publik i Gran Canaria. Bilden visar Juli–Augusti — Högsommar med europeisk publik i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/kultur-och-stadsliv-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/kultur-och-stadsliv-grancanaria.jpg",
+      "filename": "kultur-och-stadsliv-grancanaria.jpg",
+      "brief_id": "grancanaria:var-ska-man-bo-pa-gran-canaria:kultur-och-stadsliv",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/",
+      "page_id": 16,
+      "page_title": "Var ska man bo på Gran Canaria? — Komplett områdesguide",
+      "page_slug": "var-ska-man-bo-pa-gran-canaria",
+      "h3": "🏛️ Kultur och stadsliv",
+      "h3_slug": "kultur-och-stadsliv",
+      "place": "Kultur och stadsliv i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Kultur och stadsliv i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Kultur och stadsliv i Gran Canaria",
+      "seo": "En realistisk resebild från Kultur och stadsliv i Gran Canaria. Bilden visar Kultur och stadsliv i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/kultur-och-stadsliv-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/kultur-och-stadsliv-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/",
+          "page_slug": "var-ska-man-bo-pa-gran-canaria",
+          "section_h3": "🏛️ Kultur och stadsliv",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Kultur och stadsliv i Gran Canaria",
+          "alt": "Kultur och stadsliv i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Kultur och stadsliv i Gran Canaria",
+          "description": "En realistisk resebild från Kultur och stadsliv i Gran Canaria. Bilden visar Kultur och stadsliv i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/kultur-och-stadsliv-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/las-palmas-basta-valet-for-stad-och-strand-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+      "filename": "las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:las-palmas-basta-valet-for-stad-och-strand",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Las Palmas: bästa valet för stad och strand",
+      "h3_slug": "las-palmas-basta-valet-for-stad-och-strand",
+      "place": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Las Palmas: bästa valet för stad och strand i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
+      "seo": "En realistisk resebild från Las Palmas: bästa valet för stad och strand i Gran Canaria. Bilden visar Las Palmas: bästa valet för stad och strand i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/las-palmas-basta-valet-for-stad-och-strand-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Las Palmas: bästa valet för stad och strand",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
+          "alt": "Las Palmas: bästa valet för stad och strand i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
+          "description": "En realistisk resebild från Las Palmas: bästa valet för stad och strand i Gran Canaria. Bilden visar Las Palmas: bästa valet för stad och strand i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/las-palmas-storstad-pa-dagen-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/las-palmas-storstad-pa-dagen-grancanaria.jpg",
+      "filename": "las-palmas-storstad-pa-dagen-grancanaria.jpg",
+      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:las-palmas-storstad-pa-dagen",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+      "page_id": 24,
+      "page_title": "Hyrbil Gran Canaria",
+      "page_slug": "hyrbil-pa-gran-canaria",
+      "h3": "🏙️ Las Palmas — storstad på dagen",
+      "h3_slug": "las-palmas-storstad-pa-dagen",
+      "place": "Las Palmas — storstad på dagen i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Las Palmas — storstad på dagen i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Las Palmas — storstad på dagen i Gran Canaria",
+      "seo": "En realistisk resebild från Las Palmas — storstad på dagen i Gran Canaria. Bilden visar Las Palmas — storstad på dagen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/las-palmas-storstad-pa-dagen-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/las-palmas-storstad-pa-dagen-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+          "page_slug": "hyrbil-pa-gran-canaria",
+          "section_h3": "🏙️ Las Palmas — storstad på dagen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Las Palmas — storstad på dagen i Gran Canaria",
+          "alt": "Las Palmas — storstad på dagen i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Las Palmas — storstad på dagen i Gran Canaria",
+          "description": "En realistisk resebild från Las Palmas — storstad på dagen i Gran Canaria. Bilden visar Las Palmas — storstad på dagen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/las-palmas-storstad-pa-dagen-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/maspalomas-basta-trygga-allroundvalet-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+      "filename": "maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:maspalomas-basta-trygga-allroundvalet",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Maspalomas: bästa trygga allroundvalet",
+      "h3_slug": "maspalomas-basta-trygga-allroundvalet",
+      "place": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Maspalomas: bästa trygga allroundvalet i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
+      "seo": "En realistisk resebild från Maspalomas: bästa trygga allroundvalet i Gran Canaria. Bilden visar Maspalomas: bästa trygga allroundvalet i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/maspalomas-basta-trygga-allroundvalet-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Maspalomas: bästa trygga allroundvalet",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
+          "alt": "Maspalomas: bästa trygga allroundvalet i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
+          "description": "En realistisk resebild från Maspalomas: bästa trygga allroundvalet i Gran Canaria. Bilden visar Maspalomas: bästa trygga allroundvalet i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/maspalomas-basta-trygga-allroundvalet-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+      "filename": "maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-hbtq:maspalomas-pride-maj-2026-25-e-jubileumsupplagan",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-hbtq/",
+      "page_id": 103,
+      "page_title": "Gran Canaria för HBTQ-resenärer: Yumbo, Pride, stränder, boende och trygga områden",
+      "page_slug": "gran-canaria-hbtq",
+      "h3": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan)",
+      "h3_slug": "maspalomas-pride-maj-2026-25-e-jubileumsupplagan",
+      "place": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria",
+      "seo": "En realistisk resebild från Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria. Bilden visar Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-hbtq/",
+          "page_slug": "gran-canaria-hbtq",
+          "section_h3": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria",
+          "alt": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria",
+          "description": "En realistisk resebild från Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria. Bilden visar Maspalomas Pride — maj 2026 (25:e jubileumsupplagan) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/medel-9001-400-person-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/medel-9001-400-person-grancanaria.jpg",
+      "filename": "medel-9001-400-person-grancanaria.jpg",
+      "brief_id": "grancanaria:vad-kostar-en-vecka-pa-gran-canaria:medel-9001-400-person",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+      "page_id": 81,
+      "page_title": "Vad kostar en vecka på Gran Canaria? Budget, medel, lyx 2026",
+      "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+      "h3": "Medel (~900–1 400 €/person)",
+      "h3_slug": "medel-9001-400-person",
+      "place": "Medel (~900–1 400 €/person) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Medel (~900–1 400 €/person) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Medel (~900–1 400 €/person) i Gran Canaria",
+      "seo": "En realistisk resebild från Medel (~900–1 400 €/person) i Gran Canaria. Bilden visar Medel (~900–1 400 €/person) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/medel-9001-400-person-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/medel-9001-400-person-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/",
+          "page_slug": "vad-kostar-en-vecka-pa-gran-canaria",
+          "section_h3": "Medel (~900–1 400 €/person)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Medel (~900–1 400 €/person) i Gran Canaria",
+          "alt": "Medel (~900–1 400 €/person) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Medel (~900–1 400 €/person) i Gran Canaria",
+          "description": "En realistisk resebild från Medel (~900–1 400 €/person) i Gran Canaria. Bilden visar Medel (~900–1 400 €/person) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/medel-9001-400-person-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/meloneras-shopping-och-strand-i-ett-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+      "filename": "meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:meloneras-shopping-och-strand-i-ett",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Meloneras — shopping och strand i ett",
+      "h3_slug": "meloneras-shopping-och-strand-i-ett",
+      "place": "Meloneras — shopping och strand i ett i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Meloneras — shopping och strand i ett i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Meloneras — shopping och strand i ett i Gran Canaria",
+      "seo": "En realistisk resebild från Meloneras — shopping och strand i ett i Gran Canaria. Bilden visar Meloneras — shopping och strand i ett i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/meloneras-shopping-och-strand-i-ett-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Meloneras — shopping och strand i ett",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Meloneras — shopping och strand i ett i Gran Canaria",
+          "alt": "Meloneras — shopping och strand i ett i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Meloneras — shopping och strand i ett i Gran Canaria",
+          "description": "En realistisk resebild från Meloneras — shopping och strand i ett i Gran Canaria. Bilden visar Meloneras — shopping och strand i ett i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/meloneras-shopping-och-strand-i-ett-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/norra-centrala-las-canteras-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/norra-centrala-las-canteras-grancanaria.jpg",
+      "filename": "norra-centrala-las-canteras-grancanaria.jpg",
+      "brief_id": "grancanaria:las-canteras-strandguide:norra-centrala-las-canteras",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/las-canteras-strandguide/",
+      "page_id": 113,
+      "page_title": "Las Canteras: komplett strandguide till badzoner, snorkling, surf och restauranger",
+      "page_slug": "las-canteras-strandguide",
+      "h3": "Norra/centrala Las Canteras",
+      "h3_slug": "norra-centrala-las-canteras",
+      "place": "Norra/centrala Las Canteras i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Norra/centrala Las Canteras i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Norra/centrala Las Canteras i Gran Canaria",
+      "seo": "En realistisk resebild från Norra/centrala Las Canteras i Gran Canaria. Bilden visar Norra/centrala Las Canteras i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/norra-centrala-las-canteras-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/norra-centrala-las-canteras-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/las-canteras-strandguide/",
+          "page_slug": "las-canteras-strandguide",
+          "section_h3": "Norra/centrala Las Canteras",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Norra/centrala Las Canteras i Gran Canaria",
+          "alt": "Norra/centrala Las Canteras i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Norra/centrala Las Canteras i Gran Canaria",
+          "description": "En realistisk resebild från Norra/centrala Las Canteras i Gran Canaria. Bilden visar Norra/centrala Las Canteras i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/norra-centrala-las-canteras-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/oktober-sista-chansen-till-varmt-hav-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+      "filename": "oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:oktober-sista-chansen-till-varmt-hav",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "Oktober — Sista chansen till varmt hav",
+      "h3_slug": "oktober-sista-chansen-till-varmt-hav",
+      "place": "Oktober — Sista chansen till varmt hav i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Oktober — Sista chansen till varmt hav i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Oktober — Sista chansen till varmt hav i Gran Canaria",
+      "seo": "En realistisk resebild från Oktober — Sista chansen till varmt hav i Gran Canaria. Bilden visar Oktober — Sista chansen till varmt hav i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/oktober-sista-chansen-till-varmt-hav-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "Oktober — Sista chansen till varmt hav",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Oktober — Sista chansen till varmt hav i Gran Canaria",
+          "alt": "Oktober — Sista chansen till varmt hav i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Oktober — Sista chansen till varmt hav i Gran Canaria",
+          "description": "En realistisk resebild från Oktober — Sista chansen till varmt hav i Gran Canaria. Bilden visar Oktober — Sista chansen till varmt hav i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/oktober-sista-chansen-till-varmt-hav-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/palmitos-park-djur-faglar-och-botanik-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+      "filename": "palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+      "brief_id": "grancanaria:saker-att-gora-pa-gran-canaria:palmitos-park-djur-faglar-och-botanik",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+      "page_id": 22,
+      "page_title": "Saker att göra på Gran Canaria",
+      "page_slug": "saker-att-gora-pa-gran-canaria",
+      "h3": "Palmitos Park — djur, fåglar och botanik",
+      "h3_slug": "palmitos-park-djur-faglar-och-botanik",
+      "place": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Palmitos Park — djur, fåglar och botanik i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+      "seo": "En realistisk resebild från Palmitos Park — djur, fåglar och botanik i Gran Canaria. Bilden visar Palmitos Park — djur, fåglar och botanik i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/palmitos-park-djur-faglar-och-botanik-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/",
+          "page_slug": "saker-att-gora-pa-gran-canaria",
+          "section_h3": "Palmitos Park — djur, fåglar och botanik",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+          "alt": "Palmitos Park — djur, fåglar och botanik i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
+          "description": "En realistisk resebild från Palmitos Park — djur, fåglar och botanik i Gran Canaria. Bilden visar Palmitos Park — djur, fåglar och botanik i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+      "filename": "patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:patalavaca-fiskebyn-med-bast-snorkling",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Patalavaca — fiskebyn med bäst snorkling",
+      "h3_slug": "patalavaca-fiskebyn-med-bast-snorkling",
+      "place": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
+      "seo": "En realistisk resebild från Patalavaca — fiskebyn med bäst snorkling i Gran Canaria. Bilden visar Patalavaca — fiskebyn med bäst snorkling i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Patalavaca — fiskebyn med bäst snorkling",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
+          "alt": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
+          "description": "En realistisk resebild från Patalavaca — fiskebyn med bäst snorkling i Gran Canaria. Bilden visar Patalavaca — fiskebyn med bäst snorkling i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/playa-de-gui-gui-den-vilda-beloningen-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+      "filename": "playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:playa-de-gui-gui-den-vilda-beloningen",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Playa de Güi Güi — den vilda belöningen",
+      "h3_slug": "playa-de-gui-gui-den-vilda-beloningen",
+      "place": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Playa de Güi Güi — den vilda belöningen i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
+      "seo": "En realistisk resebild från Playa de Güi Güi — den vilda belöningen i Gran Canaria. Bilden visar Playa de Güi Güi — den vilda belöningen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/playa-de-gui-gui-den-vilda-beloningen-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Playa de Güi Güi — den vilda belöningen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
+          "alt": "Playa de Güi Güi — den vilda belöningen i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
+          "description": "En realistisk resebild från Playa de Güi Güi — den vilda belöningen i Gran Canaria. Bilden visar Playa de Güi Güi — den vilda belöningen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+      "filename": "playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:playa-del-ingles-mest-liv-och-mest-utbud",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Playa del Inglés: mest liv och mest utbud",
+      "h3_slug": "playa-del-ingles-mest-liv-och-mest-utbud",
+      "place": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Playa del Inglés: mest liv och mest utbud i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
+      "seo": "En realistisk resebild från Playa del Inglés: mest liv och mest utbud i Gran Canaria. Bilden visar Playa del Inglés: mest liv och mest utbud i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Playa del Inglés: mest liv och mest utbud",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
+          "alt": "Playa del Inglés: mest liv och mest utbud i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
+          "description": "En realistisk resebild från Playa del Inglés: mest liv och mest utbud i Gran Canaria. Bilden visar Playa del Inglés: mest liv och mest utbud i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+      "filename": "playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:playa-del-ingles-stranden-som-aldrig-sover",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Playa del Inglés — stranden som aldrig sover",
+      "h3_slug": "playa-del-ingles-stranden-som-aldrig-sover",
+      "place": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Playa del Inglés — stranden som aldrig sover i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
+      "seo": "En realistisk resebild från Playa del Inglés — stranden som aldrig sover i Gran Canaria. Bilden visar Playa del Inglés — stranden som aldrig sover i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Playa del Inglés — stranden som aldrig sover",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
+          "alt": "Playa del Inglés — stranden som aldrig sover i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
+          "description": "En realistisk resebild från Playa del Inglés — stranden som aldrig sover i Gran Canaria. Bilden visar Playa del Inglés — stranden som aldrig sover i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/puerto-de-mogan-charmigast-men-lugnare-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+      "filename": "puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+      "brief_id": "grancanaria:gran-canaria-for-forsta-gangen:puerto-de-mogan-charmigast-men-lugnare",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+      "page_id": 94,
+      "page_title": "Gran Canaria för första gången: var ska man bo, när ska man åka och vad ska man undvika?",
+      "page_slug": "gran-canaria-for-forsta-gangen",
+      "h3": "Puerto de Mogán: charmigast men lugnare",
+      "h3_slug": "puerto-de-mogan-charmigast-men-lugnare",
+      "place": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Puerto de Mogán: charmigast men lugnare i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
+      "seo": "En realistisk resebild från Puerto de Mogán: charmigast men lugnare i Gran Canaria. Bilden visar Puerto de Mogán: charmigast men lugnare i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/puerto-de-mogan-charmigast-men-lugnare-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/gran-canaria-for-forsta-gangen/",
+          "page_slug": "gran-canaria-for-forsta-gangen",
+          "section_h3": "Puerto de Mogán: charmigast men lugnare",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
+          "alt": "Puerto de Mogán: charmigast men lugnare i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
+          "description": "En realistisk resebild från Puerto de Mogán: charmigast men lugnare i Gran Canaria. Bilden visar Puerto de Mogán: charmigast men lugnare i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg",
+      "filename": "puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg",
+      "brief_id": "grancanaria:med-barn-familjeguide:puerto-rico-for-aktiva-familjer-med-lite-aldre-barn",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/med-barn-familjeguide/",
+      "page_id": 821,
+      "page_title": "Gran Canaria med barn: bästa områden och aktiviteter",
+      "page_slug": "med-barn-familjeguide",
+      "h3": "Puerto Rico – för aktiva familjer med lite äldre barn",
+      "h3_slug": "puerto-rico-for-aktiva-familjer-med-lite-aldre-barn",
+      "place": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria",
+      "seo": "En realistisk resebild från Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria. Bilden visar Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/med-barn-familjeguide/",
+          "page_slug": "med-barn-familjeguide",
+          "section_h3": "Puerto Rico – för aktiva familjer med lite äldre barn",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria",
+          "alt": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria",
+          "description": "En realistisk resebild från Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria. Bilden visar Puerto Rico – för aktiva familjer med lite äldre barn i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/puerto-rico-for-aktiva-familjer-med-lite-aldre-barn-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/roque-bentayga-den-heliga-klippan-latt-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+      "filename": "roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+      "brief_id": "grancanaria:vandring-gran-canaria:roque-bentayga-den-heliga-klippan-latt",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/vandring-gran-canaria/",
+      "page_id": 88,
+      "page_title": "Vandring på Gran Canaria — Roque Nublo, GR 131 och gömda leder",
+      "page_slug": "vandring-gran-canaria",
+      "h3": "6. Roque Bentayga — den heliga klippan (Lätt)",
+      "h3_slug": "roque-bentayga-den-heliga-klippan-latt",
+      "place": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
+      "seo": "En realistisk resebild från Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria. Bilden visar Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/roque-bentayga-den-heliga-klippan-latt-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/vandring-gran-canaria/",
+          "page_slug": "vandring-gran-canaria",
+          "section_h3": "6. Roque Bentayga — den heliga klippan (Lätt)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
+          "alt": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
+          "description": "En realistisk resebild från Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria. Bilden visar Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/semesterhus-och-villor-med-pool-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/semesterhus-och-villor-med-pool-grancanaria.jpg",
+      "filename": "semesterhus-och-villor-med-pool-grancanaria.jpg",
+      "brief_id": "grancanaria:var-ska-man-bo-grancanaria:semesterhus-och-villor-med-pool",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/var-ska-man-bo-grancanaria/",
+      "page_id": 812,
+      "page_title": "Var ska man bo på Gran Canaria? Bästa områden för hyra semesterhus och villa 2026",
+      "page_slug": "var-ska-man-bo-grancanaria",
+      "h3": "Semesterhus och villor (med pool)",
+      "h3_slug": "semesterhus-och-villor-med-pool",
+      "place": "Semesterhus och villor (med pool) i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Semesterhus och villor (med pool) i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Semesterhus och villor (med pool) i Gran Canaria",
+      "seo": "En realistisk resebild från Semesterhus och villor (med pool) i Gran Canaria. Bilden visar Semesterhus och villor (med pool) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/semesterhus-och-villor-med-pool-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/semesterhus-och-villor-med-pool-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/var-ska-man-bo-grancanaria/",
+          "page_slug": "var-ska-man-bo-grancanaria",
+          "section_h3": "Semesterhus och villor (med pool)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Semesterhus och villor (med pool) i Gran Canaria",
+          "alt": "Semesterhus och villor (med pool) i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Semesterhus och villor (med pool) i Gran Canaria",
+          "description": "En realistisk resebild från Semesterhus och villor (med pool) i Gran Canaria. Bilden visar Semesterhus och villor (med pool) i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/semesterhus-och-villor-med-pool-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/september-arets-basta-kombination-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/september-arets-basta-kombination-grancanaria.jpg",
+      "filename": "september-arets-basta-kombination-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-tiden-att-resa-till-gran-canaria:september-arets-basta-kombination",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+      "page_id": 82,
+      "page_title": "Bästa tiden att resa till Gran Canaria",
+      "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+      "h3": "September — Årets bästa kombination ⭐",
+      "h3_slug": "september-arets-basta-kombination",
+      "place": "September — Årets bästa kombination ⭐ i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "September — Årets bästa kombination ⭐ i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "September — Årets bästa kombination ⭐ i Gran Canaria",
+      "seo": "En realistisk resebild från September — Årets bästa kombination ⭐ i Gran Canaria. Bilden visar September — Årets bästa kombination ⭐ i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/september-arets-basta-kombination-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/september-arets-basta-kombination-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/",
+          "page_slug": "basta-tiden-att-resa-till-gran-canaria",
+          "section_h3": "September — Årets bästa kombination ⭐",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "September — Årets bästa kombination ⭐ i Gran Canaria",
+          "alt": "September — Årets bästa kombination ⭐ i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "September — Årets bästa kombination ⭐ i Gran Canaria",
+          "description": "En realistisk resebild från September — Årets bästa kombination ⭐ i Gran Canaria. Bilden visar September — Årets bästa kombination ⭐ i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/september-arets-basta-kombination-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/transfer-fran-flygplatsen-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-grancanaria.jpg",
+      "filename": "transfer-fran-flygplatsen-grancanaria.jpg",
+      "brief_id": "grancanaria:guider:transfer-fran-flygplatsen",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/guider/",
+      "page_id": 194,
+      "page_title": "Guider till Gran Canaria – alla resetips och råd samlade",
+      "page_slug": "guider",
+      "h3": "Transfer från flygplatsen",
+      "h3_slug": "transfer-fran-flygplatsen",
+      "place": "Transfer från flygplatsen i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Transfer från flygplatsen i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Transfer från flygplatsen i Gran Canaria",
+      "seo": "En realistisk resebild från Transfer från flygplatsen i Gran Canaria. Bilden visar Transfer från flygplatsen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/transfer-fran-flygplatsen-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/guider/",
+          "page_slug": "guider",
+          "section_h3": "Transfer från flygplatsen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Transfer från flygplatsen i Gran Canaria",
+          "alt": "Transfer från flygplatsen i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Transfer från flygplatsen i Gran Canaria",
+          "description": "En realistisk resebild från Transfer från flygplatsen i Gran Canaria. Bilden visar Transfer från flygplatsen i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/transfer-fran-flygplatsen-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/upphamtning-direkt-i-resorten-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/upphamtning-direkt-i-resorten-grancanaria.jpg",
+      "filename": "upphamtning-direkt-i-resorten-grancanaria.jpg",
+      "brief_id": "grancanaria:hyrbil-pa-gran-canaria:upphamtning-direkt-i-resorten",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+      "page_id": 24,
+      "page_title": "Hyrbil Gran Canaria",
+      "page_slug": "hyrbil-pa-gran-canaria",
+      "h3": "Upphämtning direkt i resorten",
+      "h3_slug": "upphamtning-direkt-i-resorten",
+      "place": "Upphämtning direkt i resorten i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "road trip travel photograph",
+      "alt": "Upphämtning direkt i resorten i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Upphämtning direkt i resorten i Gran Canaria",
+      "seo": "En realistisk resebild från Upphämtning direkt i resorten i Gran Canaria. Bilden visar Upphämtning direkt i resorten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/upphamtning-direkt-i-resorten-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/upphamtning-direkt-i-resorten-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/hyrbil-pa-gran-canaria/",
+          "page_slug": "hyrbil-pa-gran-canaria",
+          "section_h3": "Upphämtning direkt i resorten",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Upphämtning direkt i resorten i Gran Canaria",
+          "alt": "Upphämtning direkt i resorten i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Upphämtning direkt i resorten i Gran Canaria",
+          "description": "En realistisk resebild från Upphämtning direkt i resorten i Gran Canaria. Bilden visar Upphämtning direkt i resorten i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/upphamtning-direkt-i-resorten-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/vanliga-fragor-om-gran-canarias-strander-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+      "filename": "vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+      "brief_id": "grancanaria:basta-stranderna-pa-gran-canaria:vanliga-fragor-om-gran-canarias-strander",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+      "page_id": 20,
+      "page_title": "Bästa stränderna på Gran Canaria",
+      "page_slug": "basta-stranderna-pa-gran-canaria",
+      "h3": "Vanliga frågor om Gran Canarias stränder",
+      "h3_slug": "vanliga-fragor-om-gran-canarias-strander",
+      "place": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "coastal travel photograph",
+      "alt": "Vanliga frågor om Gran Canarias stränder i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
+      "seo": "En realistisk resebild från Vanliga frågor om Gran Canarias stränder i Gran Canaria. Bilden visar Vanliga frågor om Gran Canarias stränder i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/vanliga-fragor-om-gran-canarias-strander-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/",
+          "page_slug": "basta-stranderna-pa-gran-canaria",
+          "section_h3": "Vanliga frågor om Gran Canarias stränder",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
+          "alt": "Vanliga frågor om Gran Canarias stränder i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
+          "description": "En realistisk resebild från Vanliga frågor om Gran Canarias stränder i Gran Canaria. Bilden visar Vanliga frågor om Gran Canarias stränder i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png",
+      "file": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+      "filename": "vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+      "brief_id": "grancanaria:norra-gran-canaria:vilken-stad-ar-bast-i-norra-gran-canaria",
+      "domain": "grancanaria",
+      "site": "grancanaria.se",
+      "destination": "Gran Canaria",
+      "page": "https://grancanaria.se/norra-gran-canaria/",
+      "page_id": 98,
+      "page_title": "Norra Gran Canaria: Agaete, Arucas, Terör, Galdar och den gröna sidan av ön",
+      "page_slug": "norra-gran-canaria",
+      "h3": "Vilken stad är bäst i norra Gran Canaria?",
+      "h3_slug": "vilken-stad-ar-bast-i-norra-gran-canaria",
+      "place": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
+      "gps": "27.9202, -15.5474",
+      "shot_type": "editorial travel photograph",
+      "alt": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria med människor och realistisk resemiljö",
+      "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
+      "seo": "En realistisk resebild från Vilken stad är bäst i norra Gran Canaria? i Gran Canaria. Bilden visar Vilken stad är bäst i norra Gran Canaria? i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png",
+        "web_ready_file": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+        "wordpress_target": {
+          "page_url": "https://grancanaria.se/norra-gran-canaria/",
+          "page_slug": "norra-gran-canaria",
+          "section_h3": "Vilken stad är bäst i norra Gran Canaria?",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
+          "alt": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria med människor och realistisk resemiljö",
+          "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
+          "description": "En realistisk resebild från Vilken stad är bäst i norra Gran Canaria? i Gran Canaria. Bilden visar Vilken stad är bäst i norra Gran Canaria? i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/grancanaria/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
