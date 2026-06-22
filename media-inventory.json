@@ -1,6 +1,974 @@
 [
   {
     "domain": "malaga",
+    "id": 1037,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/vader-i-mars-i-malaga.jpg",
+    "filename": "vader-i-mars-i-malaga.jpg",
+    "alt": "Väder i mars i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i mars i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-mars",
+        "link": "https://malaga.se/malaga-i-mars/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1035,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/vader-i-juni-i-malaga.jpg",
+    "filename": "vader-i-juni-i-malaga.jpg",
+    "alt": "Väder i juni i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i juni i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-juni",
+        "link": "https://malaga.se/malaga-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1033,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/transport-langs-costa-del-sol-med-taget-malaga.jpg",
+    "filename": "transport-langs-costa-del-sol-med-taget-malaga.jpg",
+    "alt": "Transport längs Costa del Sol med tåget i Málaga med människor och realistisk resemiljö",
+    "caption": "Transport längs Costa del Sol med tåget i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-flygplats",
+        "link": "https://malaga.se/malaga-flygplats/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1030,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/tapas-kultur-malaga.jpg",
+    "filename": "tapas-kultur-malaga.jpg",
+    "alt": "Tapas-kultur i Málaga med människor och realistisk resemiljö",
+    "caption": "Tapas-kultur i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-vs-granada",
+        "link": "https://malaga.se/malaga-vs-granada/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1026,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/tapas-crawl-och-nattliv-malaga.jpg",
+    "filename": "tapas-crawl-och-nattliv-malaga.jpg",
+    "alt": "Tapas-crawl och nattliv i Málaga med människor och realistisk resemiljö",
+    "caption": "Tapas-crawl och nattliv i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-vanner",
+        "link": "https://malaga.se/malaga-med-vanner/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1024,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/taget-c-1-malaga-basta-transferhemlis-malaga.jpg",
+    "filename": "taget-c-1-malaga-basta-transferhemlis-malaga.jpg",
+    "alt": "Tåget C-1 — Málaga bästa transferhemlis i Málaga med människor och realistisk resemiljö",
+    "caption": "Tåget C-1 — Málaga bästa transferhemlis i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-flygplats",
+        "link": "https://malaga.se/malaga-flygplats/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1022,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/snabbguide-de-dolda-vikarna-i-ordning-centrum-osterut-malaga.jpg",
+    "filename": "snabbguide-de-dolda-vikarna-i-ordning-centrum-osterut-malaga.jpg",
+    "alt": "Snabbguide — de dolda vikarna i ordning (centrum → österut) i Málaga med människor och realistisk resemiljö",
+    "caption": "Snabbguide — de dolda vikarna i ordning (centrum → österut) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1020,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/seniorvanliga-aktiviteter-i-malaga.jpg",
+    "filename": "seniorvanliga-aktiviteter-i-malaga.jpg",
+    "alt": "Seniorvänliga aktiviteter i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Seniorvänliga aktiviteter i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-for-seniorer",
+        "link": "https://malaga.se/malaga-for-seniorer/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1018,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/ronda-spaniens-mest-dramatiska-stad-malaga.jpg",
+    "filename": "ronda-spaniens-mest-dramatiska-stad-malaga.jpg",
+    "alt": "🏰 Ronda — Spaniens mest dramatiska stad i Málaga med människor och realistisk resemiljö",
+    "caption": "🏰 Ronda — Spaniens mest dramatiska stad i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1016,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/pedregalejo-och-el-palo-det-autentiska-malaga.jpg",
+    "filename": "pedregalejo-och-el-palo-det-autentiska-malaga.jpg",
+    "alt": "Pedregalejo och El Palo — det autentiska Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Pedregalejo och El Palo — det autentiska Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "stadsdelar-malaga",
+        "link": "https://malaga.se/stadsdelar-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1014,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/oversikt-5-dagar-i-malaga.jpg",
+    "filename": "oversikt-5-dagar-i-malaga.jpg",
+    "alt": "Översikt — 5 dagar i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Översikt — 5 dagar i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1012,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/november-resenarens-malaga.jpg",
+    "filename": "november-resenarens-malaga.jpg",
+    "alt": "November — resenärens Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "November — resenärens Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-pa-hosten",
+        "link": "https://malaga.se/malaga-pa-hosten/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1010,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/nerja-grottor-balcon-de-europa-malaga.jpg",
+    "filename": "nerja-grottor-balcon-de-europa-malaga.jpg",
+    "alt": "🌊 Nerja — grottor & Balcón de Europa i Málaga med människor och realistisk resemiljö",
+    "caption": "🌊 Nerja — grottor &#038; Balcón de Europa i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1008,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/mijas-pueblo-vitkalkad-bergsby-nara-malaga.jpg",
+    "filename": "mijas-pueblo-vitkalkad-bergsby-nara-malaga.jpg",
+    "alt": "⛪ Mijas Pueblo — vitkalkad bergsby nära i Málaga med människor och realistisk resemiljö",
+    "caption": "⛪ Mijas Pueblo — vitkalkad bergsby nära i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1006,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/mat-och-tapas-for-forstagangsbesokaren-malaga.jpg",
+    "filename": "mat-och-tapas-for-forstagangsbesokaren-malaga.jpg",
+    "alt": "Mat och tapas för förstagångsbesökaren i Málaga med människor och realistisk resemiljö",
+    "caption": "Mat och tapas för förstagångsbesökaren i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 1004,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/marbella-puerto-banus-lyx-och-gamla-stan-malaga.jpg",
+    "filename": "marbella-puerto-banus-lyx-och-gamla-stan-malaga.jpg",
+    "alt": "🏖️ Marbella & Puerto Banús — lyx och gamla stan i Málaga med människor och realistisk resemiljö",
+    "caption": "🏖️ Marbella &#038; Puerto Banús — lyx och gamla stan i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1002,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/malagas-viktigaste-festivaler-events-malaga.jpg",
+    "filename": "malagas-viktigaste-festivaler-events-malaga.jpg",
+    "alt": "Málagas viktigaste festivaler & events i Málaga med människor och realistisk resemiljö",
+    "caption": "Málagas viktigaste festivaler &#038; events i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-malaga",
+        "link": "https://malaga.se/basta-tiden-att-resa-till-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1000,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/malaga-med-tonaringar-escape-rooms-malaga-1.jpg",
+    "filename": "malaga-med-tonaringar-escape-rooms-malaga-1.jpg",
+    "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
+    "caption": "🏰 Escape rooms i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 998,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/lagunillas-upcoming-kvarteret-malaga.jpg",
+    "filename": "lagunillas-upcoming-kvarteret-malaga.jpg",
+    "alt": "Lagunillas — upcoming-kvarteret i Málaga med människor och realistisk resemiljö",
+    "caption": "Lagunillas — upcoming-kvarteret i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "stadsdelar-malaga",
+        "link": "https://malaga.se/stadsdelar-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 996,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/hbtq-vanliga-kvarter-i-malaga.jpg",
+    "filename": "hbtq-vanliga-kvarter-i-malaga.jpg",
+    "alt": "HBTQ-vänliga kvarter i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "HBTQ-vänliga kvarter i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-hbtq",
+        "link": "https://malaga.se/malaga-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 994,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/hbtq-vanliga-hotell-i-malaga.jpg",
+    "filename": "hbtq-vanliga-hotell-i-malaga.jpg",
+    "alt": "HBTQ-vänliga hotell i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "HBTQ-vänliga hotell i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-hbtq",
+        "link": "https://malaga.se/malaga-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 992,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/granada-alhambra-unesco-s-kronjuvel-malaga.jpg",
+    "filename": "granada-alhambra-unesco-s-kronjuvel-malaga.jpg",
+    "alt": "🕌 Granada & Alhambra — UNESCO:s kronjuvel i Málaga med människor och realistisk resemiljö",
+    "caption": "🕌 Granada &#038; Alhambra — UNESCO:s kronjuvel i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 990,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/gibraltar-apor-grottor-brittisk-koloni-malaga.jpg",
+    "filename": "gibraltar-apor-grottor-brittisk-koloni-malaga.jpg",
+    "alt": "🇬🇮 Gibraltar — apor, grottor & brittisk koloni i Málaga med människor och realistisk resemiljö",
+    "caption": "🇬🇮 Gibraltar — apor, grottor &#038; brittisk koloni i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-malaga",
+        "link": "https://malaga.se/dagsutflykter-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 988,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/forslag-pa-dagsprogram-granada-pa-en-dag-fran-malaga.jpg",
+    "filename": "forslag-pa-dagsprogram-granada-pa-en-dag-fran-malaga.jpg",
+    "alt": "Förslag på dagsprogram — Granada på en dag från Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Förslag på dagsprogram — Granada på en dag från Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "granada-dagsutflykt-fran-malaga",
+        "link": "https://malaga.se/granada-dagsutflykt-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 986,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/de-basta-golfbanorna-nara-malaga.jpg",
+    "filename": "de-basta-golfbanorna-nara-malaga.jpg",
+    "alt": "De bästa golfbanorna nära Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "De bästa golfbanorna nära Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "golf-malaga",
+        "link": "https://malaga.se/golf-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 984,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-7-shopping-och-avfard-malaga.jpg",
+    "filename": "dag-7-shopping-och-avfard-malaga.jpg",
+    "alt": "Dag 7: Shopping och avfärd i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 7: Shopping och avfärd i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 982,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-6-ronda-eller-nerja-malaga.jpg",
+    "filename": "dag-6-ronda-eller-nerja-malaga.jpg",
+    "alt": "Dag 6: Ronda eller Nerja i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 6: Ronda eller Nerja i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 980,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-5-marknad-takbar-och-avskedsmiddag-malaga.jpg",
+    "filename": "dag-5-marknad-takbar-och-avskedsmiddag-malaga.jpg",
+    "alt": "Dag 5 — Marknad, takbar och avskedsmiddag i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 5 — Marknad, takbar och avskedsmiddag i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 978,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-5-malaga-uteliv-malaga.jpg",
+    "filename": "dag-5-malaga-uteliv-malaga.jpg",
+    "alt": "Dag 5 – Málaga uteliv i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 5 – Málaga uteliv i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-vanner",
+        "link": "https://malaga.se/malaga-med-vanner/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 976,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-5-granada-och-alhambra-malaga.jpg",
+    "filename": "dag-5-granada-och-alhambra-malaga.jpg",
+    "alt": "Dag 5: Granada och Alhambra i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 5: Granada och Alhambra i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 974,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-4-stranddag-och-malagas-basta-mat-malaga.jpg",
+    "filename": "dag-4-stranddag-och-malagas-basta-mat-malaga.jpg",
+    "alt": "Dag 4 — Stranddag och Málagas bästa mat i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 4 — Stranddag och Málagas bästa mat i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 972,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-3-strand-och-pedregalejo-malaga.jpg",
+    "filename": "dag-3-strand-och-pedregalejo-malaga.jpg",
+    "alt": "Dag 3: Strand och Pedregalejo i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 3: Strand och Pedregalejo i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 970,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-3-caminito-del-rey-dagens-aventyr-malaga.jpg",
+    "filename": "dag-3-caminito-del-rey-dagens-aventyr-malaga.jpg",
+    "alt": "Dag 3 — Caminito del Rey (dagens äventyr!) i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 3 — Caminito del Rey (dagens äventyr!) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 968,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-2-strand-mat-och-pedregalejo-malaga.jpg",
+    "filename": "dag-2-strand-mat-och-pedregalejo-malaga.jpg",
+    "alt": "Dag 2 — Strand, mat och Pedregalejo i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 2 — Strand, mat och Pedregalejo i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 966,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-2-picasso-utsikt-och-kvallsliv-malaga.jpg",
+    "filename": "dag-2-picasso-utsikt-och-kvallsliv-malaga.jpg",
+    "alt": "Dag 2 — Picasso, utsikt och kvällsliv i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 2 — Picasso, utsikt och kvällsliv i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 964,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-2-gamla-stan-och-kulturen-malaga.jpg",
+    "filename": "dag-2-gamla-stan-och-kulturen-malaga.jpg",
+    "alt": "Dag 2 – Gamla stan och kulturen i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 2 – Gamla stan och kulturen i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-med-vanner",
+        "link": "https://malaga.se/malaga-med-vanner/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 962,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-12-malaga-stad-malaga.jpg",
+    "filename": "dag-12-malaga-stad-malaga.jpg",
+    "alt": "Dag 1–2: Málaga stad i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 1–2: Málaga stad i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 960,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-1-malagas-historiska-hjarta-malaga.jpg",
+    "filename": "dag-1-malagas-historiska-hjarta-malaga.jpg",
+    "alt": "Dag 1 — Málagas historiska hjärta i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 1 — Málagas historiska hjärta i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "5-dagar-i-malaga",
+        "link": "https://malaga.se/5-dagar-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 958,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/dag-1-gamla-stan-och-alcazaba-malaga.jpg",
+    "filename": "dag-1-gamla-stan-och-alcazaba-malaga.jpg",
+    "alt": "Dag 1 — Gamla stan och Alcazaba i Málaga med människor och realistisk resemiljö",
+    "caption": "Dag 1 — Gamla stan och Alcazaba i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "malaga",
+    "id": 956,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/carnaval-de-malaga.jpg",
+    "filename": "carnaval-de-malaga.jpg",
+    "alt": "Carnaval de Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Carnaval de Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-februari",
+        "link": "https://malaga.se/malaga-i-februari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 951,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/aktiviteter-i-september-malaga.jpg",
+    "filename": "aktiviteter-i-september-malaga.jpg",
+    "alt": "Aktiviteter i september i Málaga med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i september i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-september",
+        "link": "https://malaga.se/malaga-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 945,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/aktiviteter-i-mars-malaga.jpg",
+    "filename": "aktiviteter-i-mars-malaga.jpg",
+    "alt": "Aktiviteter i mars i Málaga med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i mars i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-mars",
+        "link": "https://malaga.se/malaga-i-mars/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 939,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/aktiviteter-i-juni-malaga.jpg",
+    "filename": "aktiviteter-i-juni-malaga.jpg",
+    "alt": "Aktiviteter i juni i Málaga med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i juni i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-juni",
+        "link": "https://malaga.se/malaga-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 933,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/aktiviteter-i-januari-malaga.jpg",
+    "filename": "aktiviteter-i-januari-malaga.jpg",
+    "alt": "Aktiviteter i januari i Málaga med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i januari i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-januari",
+        "link": "https://malaga.se/malaga-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 929,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/8-parador-de-malaga-golf-boutique-vid-greenerna-malaga.jpg",
+    "filename": "8-parador-de-malaga-golf-boutique-vid-greenerna-malaga.jpg",
+    "alt": "Parador de Málaga Golf — boutique vid greenerna i Málaga med människor och realistisk resemiljö",
+    "caption": "Parador de Málaga Golf — boutique vid greenerna i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 927,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/7-molina-lario-elegant-vid-katedralen-malaga.jpg",
+    "filename": "7-molina-lario-elegant-vid-katedralen-malaga.jpg",
+    "alt": "Molina Lario — elegant vid katedralen i Málaga med människor och realistisk resemiljö",
+    "caption": "Molina Lario — elegant vid katedralen i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 925,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/7-la-arana-den-hemliga-viken-malaga.jpg",
+    "filename": "7-la-arana-den-hemliga-viken-malaga.jpg",
+    "alt": "La Araña — den hemliga viken i Málaga med människor och realistisk resemiljö",
+    "caption": "La Araña — den hemliga viken i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 923,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/6-penon-del-cuervo-naturviken-med-klippor-malaga.jpg",
+    "filename": "6-penon-del-cuervo-naturviken-med-klippor-malaga.jpg",
+    "alt": "Peñón del Cuervo — naturviken med klippor i Málaga med människor och realistisk resemiljö",
+    "caption": "Peñón del Cuervo — naturviken med klippor i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 921,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/6-parador-de-malaga-gibralfaro-utsikten-som-slar-allt-malaga.jpg",
+    "filename": "6-parador-de-malaga-gibralfaro-utsikten-som-slar-allt-malaga.jpg",
+    "alt": "Parador de Málaga Gibralfaro — utsikten som slår allt i Málaga med människor och realistisk resemiljö",
+    "caption": "Parador de Málaga Gibralfaro — utsikten som slår allt i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 919,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/5-playa-del-dedo-familjeviken-malaga.jpg",
+    "filename": "5-playa-del-dedo-familjeviken-malaga.jpg",
+    "alt": "Playa del Dedo — familjeviken i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa del Dedo — familjeviken i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 917,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/4-vincci-seleccion-posada-del-patio-romerska-ruiner-i-lobbyn-malaga.jpg",
+    "filename": "4-vincci-seleccion-posada-del-patio-romerska-ruiner-i-lobbyn-malaga.jpg",
+    "alt": "Vincci Selección Posada del Patio — romerska ruiner i lobbyn i Málaga med människor och realistisk resemiljö",
+    "caption": "Vincci Selección Posada del Patio — romerska ruiner i lobbyn i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 915,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/4-el-palo-den-autentiska-fiskebyn-malaga.jpg",
+    "filename": "4-el-palo-den-autentiska-fiskebyn-malaga.jpg",
+    "alt": "El Palo — den autentiska fiskebyn i Málaga med människor och realistisk resemiljö",
+    "caption": "El Palo — den autentiska fiskebyn i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 913,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/3-soho-boutique-castillo-santa-catalina-sov-i-ett-slott-malaga.jpg",
+    "filename": "3-soho-boutique-castillo-santa-catalina-sov-i-ett-slott-malaga.jpg",
+    "alt": "Soho Boutique Castillo Santa Catalina — sov i ett slott i Málaga med människor och realistisk resemiljö",
+    "caption": "Soho Boutique Castillo Santa Catalina — sov i ett slott i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 911,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/2-room-mate-larios-art-deco-pa-paradgatan-malaga.jpg",
+    "filename": "2-room-mate-larios-art-deco-pa-paradgatan-malaga.jpg",
+    "alt": "Room Mate Larios — art déco på paradgatan i Málaga med människor och realistisk resemiljö",
+    "caption": "Room Mate Larios — art déco på paradgatan i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 909,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/1-playa-la-caleta-lugnast-nara-stan-malaga.jpg",
+    "filename": "1-playa-la-caleta-lugnast-nara-stan-malaga.jpg",
+    "alt": "Playa la Caleta — lugnast nära stan i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa la Caleta — lugnast nära stan i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 907,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/1-palacio-solecio-1700-talspalats-mitt-i-gamla-stan-malaga.jpg",
+    "filename": "1-palacio-solecio-1700-talspalats-mitt-i-gamla-stan-malaga.jpg",
+    "alt": "Palacio Solecio — 1700-talspalats mitt i gamla stan i Málaga med människor och realistisk resemiljö",
+    "caption": "Palacio Solecio — 1700-talspalats mitt i gamla stan i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boutiquehotell-malaga",
+        "link": "https://malaga.se/boutiquehotell-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 604,
     "url": "https://malaga.se/wp-content/uploads/2026/06/taxi-fran-agp-malaga.jpg",
     "filename": "taxi-fran-agp-malaga.jpg",
@@ -9,7 +977,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -27,7 +995,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -45,7 +1013,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "shopping-malaga-guide",
@@ -63,7 +1031,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "shopping-malaga-guide",
@@ -81,7 +1049,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -99,7 +1067,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -117,7 +1085,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -135,7 +1103,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -153,7 +1121,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -171,7 +1139,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -189,7 +1157,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -207,7 +1175,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -225,7 +1193,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -243,7 +1211,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -261,7 +1229,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -279,7 +1247,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -363,7 +1331,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -2214,7 +3187,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -2232,7 +3205,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -2250,7 +3223,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-utan-hyrbil",
@@ -2268,7 +3241,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-april-och-maj",
@@ -2286,7 +3259,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -2304,7 +3277,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -2322,7 +3295,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-rhodos",
@@ -2340,7 +3313,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-uteliv",
@@ -2358,7 +3331,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-gamla-stan",
@@ -2376,7 +3349,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vandring-vindsurf",
@@ -2394,7 +3367,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -2412,7 +3385,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -2430,7 +3403,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -2448,7 +3421,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-pa-rhodos",
@@ -2466,7 +3439,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -2484,7 +3457,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -2502,7 +3475,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -2520,7 +3493,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "packlista-rhodos",
@@ -2538,7 +3511,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -2556,7 +3529,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -2574,7 +3547,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -2592,7 +3565,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -2610,7 +3583,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -2628,7 +3601,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -2646,7 +3619,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -2664,7 +3637,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vanner",
@@ -2682,7 +3655,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -2700,7 +3673,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -2718,7 +3691,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-rhodos",
@@ -2736,7 +3709,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-gamla-stan",
@@ -2754,7 +3727,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -2772,7 +3745,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -2790,7 +3763,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -7879,7 +8852,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "norra-gran-canaria",
@@ -7897,7 +8870,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -7915,7 +8888,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -7933,7 +8906,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -7951,7 +8924,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -7969,7 +8942,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-grancanaria",
@@ -7987,7 +8960,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-gran-canaria",
@@ -8005,7 +8978,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "med-barn-familjeguide",
@@ -8023,7 +8996,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8041,7 +9014,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -8059,7 +9032,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8077,7 +9050,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -8095,7 +9068,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -8113,7 +9086,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -8131,7 +9104,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8149,7 +9122,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "las-canteras-strandguide",
@@ -8167,7 +9140,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -8185,7 +9158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -8203,7 +9176,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-hbtq",
@@ -8221,7 +9194,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8239,7 +9212,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -8257,7 +9230,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8275,7 +9248,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-gran-canaria",
@@ -8293,7 +9266,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8311,7 +9284,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8329,7 +9302,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -8347,7 +9320,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -8365,7 +9338,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-praktisk-info",
@@ -8383,7 +9356,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8401,7 +9374,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -8419,7 +9392,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -8437,7 +9410,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -8455,7 +9428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8473,7 +9446,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "bergsbyarna-gran-canaria",
@@ -8491,7 +9464,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8509,7 +9482,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-gran-canaria",
@@ -8527,7 +9500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -8545,7 +9518,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -8563,7 +9536,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -8581,7 +9554,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -8599,7 +9572,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -8617,7 +9590,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -8653,7 +9626,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -8671,7 +9644,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -8689,7 +9662,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -8707,7 +9680,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -8725,7 +9698,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-med-barn",
@@ -8743,7 +9716,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -8761,7 +9734,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -8779,7 +9752,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "omrade-las-palmas",
@@ -11242,7 +12215,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-teneriffa",
@@ -11260,7 +12233,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -11278,7 +12251,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -11296,7 +12269,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -11314,7 +12287,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -11332,7 +12305,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-teneriffa",
@@ -11350,7 +12323,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -11368,7 +12341,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -11386,7 +12359,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -11404,7 +12377,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "costa-adeje-teneriffa",
@@ -11422,7 +12395,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -11440,7 +12413,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-utan-hyrbil",
@@ -11458,7 +12431,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -11476,7 +12449,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-hbtq",
@@ -11494,7 +12467,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-flygplats-transfer-ta-sig-runt",
@@ -11512,7 +12485,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-ska-man-packa-till-teneriffa",
@@ -11530,7 +12503,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-teneriffa",
@@ -11548,7 +12521,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -11566,7 +12539,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -11584,7 +12557,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -11602,7 +12575,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-strandar-guide",
@@ -11620,7 +12593,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-strandar-guide",
@@ -11638,7 +12611,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -11656,7 +12629,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-vandring",
@@ -11674,7 +12647,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -11692,7 +12665,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "los-cristianos-teneriffa",
@@ -11710,7 +12683,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-teneriffa",
@@ -11728,7 +12701,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-pa-teneriffa",
@@ -11746,7 +12719,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -11764,7 +12737,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-teneriffa-barnfamilj",
@@ -11782,7 +12755,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-teneriffa-barnfamilj",
@@ -11800,7 +12773,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-hbtq",
@@ -11818,7 +12791,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -11836,7 +12809,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -11854,7 +12827,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-pa-teneriffa",
@@ -11872,7 +12845,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-digital-nomad-guide",
@@ -11890,7 +12863,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -11908,7 +12881,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-for-pensionarer-langliggare",
@@ -11926,7 +12899,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -11944,7 +12917,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -19679,7 +20652,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "offpist-chamonix",
@@ -19697,7 +20670,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -19715,7 +20688,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -19728,7 +20701,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-chamonix",
@@ -19746,7 +20719,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -19764,7 +20737,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -19782,7 +20755,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -19800,7 +20773,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -19818,7 +20791,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -19836,7 +20809,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -19854,7 +20827,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -19872,7 +20845,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -19890,7 +20863,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -19908,7 +20881,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -19926,7 +20899,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -19944,7 +20917,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -19962,7 +20935,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "sommar-chamonix",
@@ -19980,7 +20953,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -19998,7 +20971,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -20016,7 +20989,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -20034,7 +21007,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -21575,7 +22548,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "oahu",
@@ -21593,7 +22566,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "oahu",
@@ -21611,7 +22584,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luau-hawaii",
@@ -21629,7 +22602,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "big-island",
@@ -21647,7 +22620,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-hawaii",
@@ -21665,7 +22638,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "resa-till-hawaii",
@@ -21683,7 +22656,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-hawaii",
@@ -21701,7 +22674,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-hawaii",
@@ -21719,7 +22692,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-hawaii",
@@ -21741,7 +22714,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",
@@ -21759,7 +22732,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "start",
@@ -22441,6 +23414,402 @@
   },
   {
     "domain": "provence",
+    "id": 402,
+    "url": "https://provence.se/wp-content/uploads/2026/06/villaomradet-sodra-luberons-sweet-spot-provence.jpg",
+    "filename": "villaomradet-sodra-luberons-sweet-spot-provence.jpg",
+    "alt": "Villaområdet — södra Luberons sweet spot i Provence med människor och realistisk resemiljö",
+    "caption": "Villaområdet — södra Luberons sweet spot i Provence",
+    "w": 1535,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lourmarin-byguide",
+        "link": "https://provence.se/lourmarin-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 400,
+    "url": "https://provence.se/wp-content/uploads/2026/06/vieil-aix-grander-innergardar-och-calissons-provence.jpg",
+    "filename": "vieil-aix-grander-innergardar-och-calissons-provence.jpg",
+    "alt": "Vieil Aix — gränder, innergårdar och calissons i Provence med människor och realistisk resemiljö",
+    "caption": "Vieil Aix — gränder, innergårdar och calissons i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-sevardheter",
+        "link": "https://provence.se/aix-en-provence-sevardheter/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 398,
+    "url": "https://provence.se/wp-content/uploads/2026/06/upptack-camargue-provence.jpg",
+    "filename": "upptack-camargue-provence.jpg",
+    "alt": "Upptäck Camargue i Provence med människor och realistisk resemiljö",
+    "caption": "Upptäck Camargue i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 396,
+    "url": "https://provence.se/wp-content/uploads/2026/06/saint-remy-vad-gor-staden-speciell-provence.jpg",
+    "filename": "saint-remy-vad-gor-staden-speciell-provence.jpg",
+    "alt": "Saint-Rémy — vad gör staden speciell? i Provence med människor och realistisk resemiljö",
+    "caption": "Saint-Rémy — vad gör staden speciell? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saint-remy-byguide",
+        "link": "https://provence.se/saint-remy-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 394,
+    "url": "https://provence.se/wp-content/uploads/2026/06/roussillon-vad-gor-byn-speciell-provence.jpg",
+    "filename": "roussillon-vad-gor-byn-speciell-provence.jpg",
+    "alt": "Roussillon — vad gör byn speciell? i Provence med människor och realistisk resemiljö",
+    "caption": "Roussillon — vad gör byn speciell? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "roussillon-byguide",
+        "link": "https://provence.se/roussillon-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 392,
+    "url": "https://provence.se/wp-content/uploads/2026/06/ovriga-strander-lenval-forum-magnan-provence.jpg",
+    "filename": "ovriga-strander-lenval-forum-magnan-provence.jpg",
+    "alt": "Övriga stränder — Lenval, Forum, Magnan i Provence med människor och realistisk resemiljö",
+    "caption": "Övriga stränder — Lenval, Forum, Magnan i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-strander",
+        "link": "https://provence.se/nice-strander/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 390,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mat-i-camargue-provence.jpg",
+    "filename": "mat-i-camargue-provence.jpg",
+    "alt": "Mat i Camargue i Provence med människor och realistisk resemiljö",
+    "caption": "Mat i Camargue i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 388,
+    "url": "https://provence.se/wp-content/uploads/2026/06/marknader-tisdag-torsdag-lordag-provence.jpg",
+    "filename": "marknader-tisdag-torsdag-lordag-provence.jpg",
+    "alt": "Marknader — tisdag, torsdag, lördag i Provence med människor och realistisk resemiljö",
+    "caption": "Marknader — tisdag, torsdag, lördag i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence",
+        "link": "https://provence.se/aix-en-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 386,
+    "url": "https://provence.se/wp-content/uploads/2026/06/marknader-i-alpilles-provence.jpg",
+    "filename": "marknader-i-alpilles-provence.jpg",
+    "alt": "Marknader i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Marknader i Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 384,
+    "url": "https://provence.se/wp-content/uploads/2026/06/lourmarin-sodra-luberon-hjarta-provence.jpg",
+    "filename": "lourmarin-sodra-luberon-hjarta-provence.jpg",
+    "alt": "Lourmarin — södra Luberon hjärta i Provence med människor och realistisk resemiljö",
+    "caption": "Lourmarin — södra Luberon hjärta i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 382,
+    "url": "https://provence.se/wp-content/uploads/2026/06/la-croisette-strandpromenaden-provence.jpg",
+    "filename": "la-croisette-strandpromenaden-provence.jpg",
+    "alt": "La Croisette — strandpromenaden i Provence med människor och realistisk resemiljö",
+    "caption": "La Croisette — strandpromenaden i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannes-guide",
+        "link": "https://provence.se/cannes-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 380,
+    "url": "https://provence.se/wp-content/uploads/2026/06/kora-i-luberon-vagar-parkering-och-etikett-provence.jpg",
+    "filename": "kora-i-luberon-vagar-parkering-och-etikett-provence.jpg",
+    "alt": "Köra i Luberon — vägar, parkering och etikett i Provence med människor och realistisk resemiljö",
+    "caption": "Köra i Luberon — vägar, parkering och etikett i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 378,
+    "url": "https://provence.se/wp-content/uploads/2026/06/karta-i-ord-norra-vs-sodra-luberon-provence.jpg",
+    "filename": "karta-i-ord-norra-vs-sodra-luberon-provence.jpg",
+    "alt": "Karta i ord — norra vs södra Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Karta i ord — norra vs södra Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 376,
+    "url": "https://provence.se/wp-content/uploads/2026/06/glanum-romerska-ruiner-provence.jpg",
+    "filename": "glanum-romerska-ruiner-provence.jpg",
+    "alt": "Glanum — romerska ruiner i Provence med människor och realistisk resemiljö",
+    "caption": "Glanum — romerska ruiner i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saint-remy-byguide",
+        "link": "https://provence.se/saint-remy-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 374,
+    "url": "https://provence.se/wp-content/uploads/2026/06/fontanrutten-staden-med-tusen-fontaner-provence.jpg",
+    "filename": "fontanrutten-staden-med-tusen-fontaner-provence.jpg",
+    "alt": "Fontänrutten — staden med tusen fontäner i Provence med människor och realistisk resemiljö",
+    "caption": "Fontänrutten — staden med tusen fontäner i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-sevardheter",
+        "link": "https://provence.se/aix-en-provence-sevardheter/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 372,
+    "url": "https://provence.se/wp-content/uploads/2026/06/filmfestivalen-cannes-i-maj-provence.jpg",
+    "filename": "filmfestivalen-cannes-i-maj-provence.jpg",
+    "alt": "Filmfestivalen — Cannes i maj i Provence med människor och realistisk resemiljö",
+    "caption": "Filmfestivalen — Cannes i maj i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannes-guide",
+        "link": "https://provence.se/cannes-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 370,
+    "url": "https://provence.se/wp-content/uploads/2026/06/camargue-hastar-vita-riddare-provence.jpg",
+    "filename": "camargue-hastar-vita-riddare-provence.jpg",
+    "alt": "Camargue-hästar — vita riddare i Provence med människor och realistisk resemiljö",
+    "caption": "Camargue-hästar — vita riddare i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 368,
+    "url": "https://provence.se/wp-content/uploads/2026/06/byar-omraden-i-ventoux-drome-provence.jpg",
+    "filename": "byar-omraden-i-ventoux-drome-provence.jpg",
+    "alt": "Byar & områden i Ventoux & Drôme i Provence med människor och realistisk resemiljö",
+    "caption": "Byar &#038; områden i Ventoux &#038; Drôme i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ventoux-drome",
+        "link": "https://provence.se/hyra-hus-provence/ventoux-drome/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 366,
+    "url": "https://provence.se/wp-content/uploads/2026/06/byar-i-var-verdon-karaktar-och-vad-du-inte-far-missa-provence.jpg",
+    "filename": "byar-i-var-verdon-karaktar-och-vad-du-inte-far-missa-provence.jpg",
+    "alt": "Byar i Var & Verdon — karaktär och vad du inte får missa i Provence med människor och realistisk resemiljö",
+    "caption": "Byar i Var &#038; Verdon — karaktär och vad du inte får missa i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-verdon",
+        "link": "https://provence.se/hyra-hus-provence/var-verdon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 364,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-i-sodra-luberon-provence.jpg",
+    "filename": "bo-i-sodra-luberon-provence.jpg",
+    "alt": "Bo i södra Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Bo i södra Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lourmarin-byguide",
+        "link": "https://provence.se/lourmarin-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 362,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bistros-och-brasseries-mellanbudget-provence.jpg",
+    "filename": "bistros-och-brasseries-mellanbudget-provence.jpg",
+    "alt": "Bistros och brasseries — mellanbudget i Provence med människor och realistisk resemiljö",
+    "caption": "Bistros och brasseries — mellanbudget i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-restauranger",
+        "link": "https://provence.se/aix-en-provence-restauranger/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 360,
+    "url": "https://provence.se/wp-content/uploads/2026/06/aktiviteter-verdon-ravinen-i-fokus-provence.jpg",
+    "filename": "aktiviteter-verdon-ravinen-i-fokus-provence.jpg",
+    "alt": "Aktiviteter — Verdon-ravinen i fokus i Provence med människor och realistisk resemiljö",
+    "caption": "Aktiviteter — Verdon-ravinen i fokus i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-22",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-verdon",
+        "link": "https://provence.se/hyra-hus-provence/var-verdon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 298,
     "url": "https://provence.se/wp-content/uploads/2026/06/vem-passar-provence-for-provence.jpg",
     "filename": "vem-passar-provence-for-provence.jpg",
@@ -22449,7 +23818,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22467,7 +23836,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22485,7 +23854,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -22503,7 +23872,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -22521,7 +23890,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -22539,7 +23908,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -22557,7 +23926,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -22575,7 +23944,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22593,7 +23962,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-provence",
@@ -22611,7 +23980,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22629,7 +23998,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22647,7 +24016,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22665,7 +24034,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-provence",
@@ -22683,7 +24052,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -22701,7 +24070,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "byar-och-rutter-i-provence",
