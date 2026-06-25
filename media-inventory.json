@@ -3179,6 +3179,708 @@
   },
   {
     "domain": "rhodos",
+    "id": 896,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/waterpark-faliraki-allt-du-behover-veta-rhodos.jpg",
+    "filename": "waterpark-faliraki-allt-du-behover-veta-rhodos.jpg",
+    "alt": "Waterpark Faliraki — allt du behöver veta i Rhodos med människor och realistisk resemiljö",
+    "caption": "Waterpark Faliraki — allt du behöver veta i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 894,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/vattensporter-i-faliraki-och-ixia-rhodos.jpg",
+    "filename": "vattensporter-i-faliraki-och-ixia-rhodos.jpg",
+    "alt": "Vattensporter i Faliraki och Ixia i Rhodos med människor och realistisk resemiljö",
+    "caption": "Vattensporter i Faliraki och Ixia i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-med-tonaringar",
+        "link": "https://rhodos.se/rhodos-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 892,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/vandringen-i-dalen-rhodos.jpg",
+    "filename": "vandringen-i-dalen-rhodos.jpg",
+    "alt": "Vandringen i dalen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Vandringen i dalen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-rhodos",
+        "link": "https://rhodos.se/vandring-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 890,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/transport-till-ixia-rhodos.jpg",
+    "filename": "transport-till-ixia-rhodos.jpg",
+    "alt": "Transport till Ixia i Rhodos med människor och realistisk resemiljö",
+    "caption": "Transport till Ixia i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 888,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/tavernas-oppna-i-rhodos-stad-rhodos.jpg",
+    "filename": "tavernas-oppna-i-rhodos-stad-rhodos.jpg",
+    "alt": "Tavernas öppna i Rhodos Stad i Rhodos med människor och realistisk resemiljö",
+    "caption": "Tavernas öppna i Rhodos Stad i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-vinter-guide",
+        "link": "https://rhodos.se/rhodos-vinter-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 886,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/surfskolor-och-utrustningsuthyrning-i-ixia-rhodos.jpg",
+    "filename": "surfskolor-och-utrustningsuthyrning-i-ixia-rhodos.jpg",
+    "alt": "Surfskolor och utrustningsuthyrning i Ixia i Rhodos med människor och realistisk resemiljö",
+    "caption": "Surfskolor och utrustningsuthyrning i Ixia i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 884,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/st-pauls-bay-i-lindos-legendens-vik-rhodos.jpg",
+    "filename": "st-pauls-bay-i-lindos-legendens-vik-rhodos.jpg",
+    "alt": "St Paul’s Bay i Lindos — legendens vik i Rhodos med människor och realistisk resemiljö",
+    "caption": "St Paul’s Bay i Lindos — legendens vik i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 882,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/soumada-mandeldrycken-fran-rhodos.jpg",
+    "filename": "soumada-mandeldrycken-fran-rhodos.jpg",
+    "alt": "Soumada — mandeldrycken från Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Soumada — mandeldrycken från Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 880,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/rhodos-nya-stan-nomad-basen-rhodos.jpg",
+    "filename": "rhodos-nya-stan-nomad-basen-rhodos.jpg",
+    "alt": "Rhodos Nya Stan — nomad-basen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Rhodos Nya Stan — nomad-basen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-digital-nomad",
+        "link": "https://rhodos.se/rhodos-digital-nomad/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 878,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/rhodos-for-par-vinprovning-i-embonas-rhodos.jpg",
+    "filename": "rhodos-for-par-vinprovning-i-embonas-rhodos.jpg",
+    "alt": "Vinprovning i Embonas i Rhodos med människor och realistisk resemiljö",
+    "caption": "Vinprovning i Embonas i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 876,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/restaurants-och-mat-i-pefkos-rhodos.jpg",
+    "filename": "restaurants-och-mat-i-pefkos-rhodos.jpg",
+    "alt": "Restaurants och mat i Pefkos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Restaurants och mat i Pefkos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "pefkos-rhodos",
+        "link": "https://rhodos.se/pefkos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 874,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/restaurangstraket-langs-stranden-rhodos.jpg",
+    "filename": "restaurangstraket-langs-stranden-rhodos.jpg",
+    "alt": "Restaurangstråket längs stranden i Rhodos med människor och realistisk resemiljö",
+    "caption": "Restaurangstråket längs stranden i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 872,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/plimmiri-vraket-sydvast-2038-m-rhodos.jpg",
+    "filename": "plimmiri-vraket-sydvast-2038-m-rhodos.jpg",
+    "alt": "Plimmiri-vraket (Sydväst, 20–38 m) i Rhodos med människor och realistisk resemiljö",
+    "caption": "Plimmiri-vraket (Sydväst, 20–38 m) i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 870,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/pitaroudia-rhodos-kikartsfritters-rhodos.jpg",
+    "filename": "pitaroudia-rhodos-kikartsfritters-rhodos.jpg",
+    "alt": "Pitaroudia — Rhodos kikärtsfritters i Rhodos med människor och realistisk resemiljö",
+    "caption": "Pitaroudia — Rhodos kikärtsfritters i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 868,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/open-water-diver-34-dagar-rhodos.jpg",
+    "filename": "open-water-diver-34-dagar-rhodos.jpg",
+    "alt": "Open Water Diver (3–4 dagar) i Rhodos med människor och realistisk resemiljö",
+    "caption": "Open Water Diver (3–4 dagar) i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 866,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/nattlivet-i-faliraki-rhodos.jpg",
+    "filename": "nattlivet-i-faliraki-rhodos.jpg",
+    "alt": "Nattlivet i Faliraki i Rhodos med människor och realistisk resemiljö",
+    "caption": "Nattlivet i Faliraki i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-i-juli",
+        "link": "https://rhodos.se/rhodos-i-juli/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 864,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/monolithos-klippan-solnedgang-av-en-annan-klass-rhodos.jpg",
+    "filename": "monolithos-klippan-solnedgang-av-en-annan-klass-rhodos.jpg",
+    "alt": "Monolithos-klippan — solnedgång av en annan klass i Rhodos med människor och realistisk resemiljö",
+    "caption": "Monolithos-klippan — solnedgång av en annan klass i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 862,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/melekouni-rhodos-honung-sesamkaka-rhodos.jpg",
+    "filename": "melekouni-rhodos-honung-sesamkaka-rhodos.jpg",
+    "alt": "Melekouni — Rhodos honung-sesamkaka i Rhodos med människor och realistisk resemiljö",
+    "caption": "Melekouni — Rhodos honung-sesamkaka i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 860,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/lindos-4-km-norrut-rhodos.jpg",
+    "filename": "lindos-4-km-norrut-rhodos.jpg",
+    "alt": "Lindos — 4 km norrut i Rhodos med människor och realistisk resemiljö",
+    "caption": "Lindos — 4 km norrut i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "pefkos-rhodos",
+        "link": "https://rhodos.se/pefkos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 858,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/lardos-6-km-soderut-rhodos.jpg",
+    "filename": "lardos-6-km-soderut-rhodos.jpg",
+    "alt": "Lardos — 6 km söderut i Rhodos med människor och realistisk resemiljö",
+    "caption": "Lardos — 6 km söderut i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "pefkos-rhodos",
+        "link": "https://rhodos.se/pefkos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 856,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kultur-som-faktiskt-fungerar-for-unga-rhodos.jpg",
+    "filename": "kultur-som-faktiskt-fungerar-for-unga-rhodos.jpg",
+    "alt": "Kultur som faktiskt fungerar för unga i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kultur som faktiskt fungerar för unga i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-med-tonaringar",
+        "link": "https://rhodos.se/rhodos-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 854,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kitesurfing-vid-prasonisi-rhodos.jpg",
+    "filename": "kitesurfing-vid-prasonisi-rhodos.jpg",
+    "alt": "Kitesurfing vid Prasonisi i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kitesurfing vid Prasonisi i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 852,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kallithea-springs-undervattensarkitektur-rhodos.jpg",
+    "filename": "kallithea-springs-undervattensarkitektur-rhodos.jpg",
+    "alt": "Kallithea Springs — undervattensarkitektur i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kallithea Springs — undervattensarkitektur i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 850,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/kallithea-springs-beach-bad-kultur-rhodos.jpg",
+    "filename": "kallithea-springs-beach-bad-kultur-rhodos.jpg",
+    "alt": "Kallithea Springs Beach — bad + kultur i Rhodos med människor och realistisk resemiljö",
+    "caption": "Kallithea Springs Beach — bad + kultur i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-med-barn",
+        "link": "https://rhodos.se/rhodos-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 848,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/hotell-per-kategori-i-faliraki-rhodos.jpg",
+    "filename": "hotell-per-kategori-i-faliraki-rhodos.jpg",
+    "alt": "Hotell per kategori i Faliraki i Rhodos med människor och realistisk resemiljö",
+    "caption": "Hotell per kategori i Faliraki i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "faliraki-guide",
+        "link": "https://rhodos.se/faliraki-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 846,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/honeymoon-hotell-pa-rhodos.jpg",
+    "filename": "honeymoon-hotell-pa-rhodos.jpg",
+    "alt": "Honeymoon-hotell på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Honeymoon-hotell på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "brollopsresa-rhodos",
+        "link": "https://rhodos.se/brollopsresa-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 844,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/glystra-beach-3-km-soderut-rhodos.jpg",
+    "filename": "glystra-beach-3-km-soderut-rhodos.jpg",
+    "alt": "Glystra Beach — 3 km söderut i Rhodos med människor och realistisk resemiljö",
+    "caption": "Glystra Beach — 3 km söderut i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "pefkos-rhodos",
+        "link": "https://rhodos.se/pefkos-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 842,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/gennadi-5-km-soderut-rhodos.jpg",
+    "filename": "gennadi-5-km-soderut-rhodos.jpg",
+    "alt": "Gennadi — 5 km söderut i Rhodos med människor och realistisk resemiljö",
+    "caption": "Gennadi — 5 km söderut i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kiotari-rhodos",
+        "link": "https://rhodos.se/kiotari-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 840,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/gamla-stan-den-unika-upplevelsen-rhodos.jpg",
+    "filename": "gamla-stan-den-unika-upplevelsen-rhodos.jpg",
+    "alt": "Gamla Stan — den unika upplevelsen i Rhodos med människor och realistisk resemiljö",
+    "caption": "Gamla Stan — den unika upplevelsen i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-digital-nomad",
+        "link": "https://rhodos.se/rhodos-digital-nomad/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 838,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/farsk-fisk-och-skaldjur-rhodos.jpg",
+    "filename": "farsk-fisk-och-skaldjur-rhodos.jpg",
+    "alt": "Färsk fisk och skaldjur i Rhodos med människor och realistisk resemiljö",
+    "caption": "Färsk fisk och skaldjur i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-rhodos",
+        "link": "https://rhodos.se/matguide-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 836,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-coral-beach-818-m-rhodos.jpg",
+    "filename": "faliraki-coral-beach-818-m-rhodos.jpg",
+    "alt": "Faliraki Coral Beach (8–18 m) i Rhodos med människor och realistisk resemiljö",
+    "caption": "Faliraki Coral Beach (8–18 m) i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 834,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/faliraki-beach-bred-och-platt-rhodos.jpg",
+    "filename": "faliraki-beach-bred-och-platt-rhodos.jpg",
+    "alt": "Faliraki Beach — bred och platt i Rhodos med människor och realistisk resemiljö",
+    "caption": "Faliraki Beach — bred och platt i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-senior-aldre",
+        "link": "https://rhodos.se/rhodos-senior-aldre/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 832,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-7-strandmorgon-och-avfard-rhodos.jpg",
+    "filename": "dag-7-strandmorgon-och-avfard-rhodos.jpg",
+    "alt": "Dag 7 — Strandmorgon och avfärd i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 7 — Strandmorgon och avfärd i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 830,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-5-vastra-kusten-och-monolithos-rhodos.jpg",
+    "filename": "dag-5-vastra-kusten-och-monolithos-rhodos.jpg",
+    "alt": "Dag 5 — Västra kusten och Monolithos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 5 — Västra kusten och Monolithos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 828,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/dag-4-lindos-och-st-pauls-bay-rhodos.jpg",
+    "filename": "dag-4-lindos-och-st-pauls-bay-rhodos.jpg",
+    "alt": "Dag 4 — Lindos och St Paul’s Bay i Rhodos med människor och realistisk resemiljö",
+    "caption": "Dag 4 — Lindos och St Paul’s Bay i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "7-dagars-itinerar-rhodos",
+        "link": "https://rhodos.se/7-dagars-itinerar-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 826,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/charterflyg-slutar-i-mitten-av-oktober-rhodos.jpg",
+    "filename": "charterflyg-slutar-i-mitten-av-oktober-rhodos.jpg",
+    "alt": "Charterflyg slutar i mitten av oktober i Rhodos med människor och realistisk resemiljö",
+    "caption": "Charterflyg slutar i mitten av oktober i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-i-oktober",
+        "link": "https://rhodos.se/rhodos-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 824,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/assumptionsfestivalen-15-augusti-rhodos.jpg",
+    "filename": "assumptionsfestivalen-15-augusti-rhodos.jpg",
+    "alt": "Assumptionsfestivalen 15 augusti i Rhodos med människor och realistisk resemiljö",
+    "caption": "Assumptionsfestivalen 15 augusti i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-i-augusti",
+        "link": "https://rhodos.se/rhodos-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 822,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/agathi-beach-ostort-och-orort-rhodos.jpg",
+    "filename": "agathi-beach-ostort-och-orort-rhodos.jpg",
+    "alt": "Agathi Beach — ostört och orört i Rhodos med människor och realistisk resemiljö",
+    "caption": "Agathi Beach — ostört och orört i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-for-par",
+        "link": "https://rhodos.se/rhodos-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 820,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/agathi-beach-hagrings-lugn-sikt-rhodos.jpg",
+    "filename": "agathi-beach-hagrings-lugn-sikt-rhodos.jpg",
+    "alt": "Agathi Beach — hägrings-lugn sikt i Rhodos med människor och realistisk resemiljö",
+    "caption": "Agathi Beach — hägrings-lugn sikt i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-23",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rhodos-dykning-snorkling",
+        "link": "https://rhodos.se/rhodos-dykning-snorkling/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
     "id": 810,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
     "filename": "tryffelvindruvorna-hostens-lokala-special-rhodos.jpg",
@@ -3187,7 +3889,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -3205,7 +3907,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3223,7 +3925,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-utan-hyrbil",
@@ -3241,7 +3943,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-i-april-och-maj",
@@ -3259,7 +3961,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -3277,7 +3979,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -3295,7 +3997,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-pa-rhodos",
@@ -3313,7 +4015,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-uteliv",
@@ -3331,7 +4033,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-gamla-stan",
@@ -3349,7 +4051,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vandring-vindsurf",
@@ -3367,7 +4069,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -3385,7 +4087,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3403,7 +4105,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -5892,6 +6594,10 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
+      {
+        "slug": "ixia-vind-surfing",
+        "link": "https://rhodos.se/ixia-vind-surfing/"
+      },
       {
         "slug": "saker-att-gora-pa-rhodos",
         "link": "https://rhodos.se/saker-att-gora-pa-rhodos/"

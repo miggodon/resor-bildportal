@@ -1,10 +1,10 @@
 {
-  "last_export_utc": "2026-06-22T10:53:32.336217+00:00",
+  "last_export_utc": "2026-06-25T07:04:34.330161+00:00",
   "command": "python bilder/export_portfolio_hub.py",
   "workflow_url": "https://github.com/miggodon/resor/actions/workflows/portfolio-hub.yml",
   "public_portal_url": "https://miggodon.github.io/resor-bildportal/",
   "github_repo": "miggodon/resor",
   "github_bildportal_repo": "miggodon/resor-bildportal",
-  "pages": 599,
+  "pages": 619,
   "domains": 15
 }
