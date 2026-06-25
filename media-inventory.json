@@ -1,6 +1,24 @@
 [
   {
     "domain": "malaga",
+    "id": 1044,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/skateparken-vid-stranden-malaga-2.jpg",
+    "filename": "skateparken-vid-stranden-malaga-2.jpg",
+    "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
+    "caption": "🛹 Skateparken vid stranden i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1037,
     "url": "https://malaga.se/wp-content/uploads/2026/06/vader-i-mars-i-malaga.jpg",
     "filename": "vader-i-mars-i-malaga.jpg",
@@ -2303,12 +2321,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "malaga-med-tonaringar",
-        "link": "https://malaga.se/malaga-med-tonaringar/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -3174,6 +3187,24 @@
       {
         "slug": "malaga-med-tonaringar",
         "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "rhodos",
+    "id": 898,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/vinprovning-i-embonas-vid-solnedgangen-rhodos-2.jpg",
+    "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos-2.jpg",
+    "alt": "Vinprovning i Embonas vid solnedgången i Rhodos med människor och realistisk resemiljö",
+    "caption": "Vinprovning i Embonas vid solnedgången i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "brollopsresa-rhodos",
+        "link": "https://rhodos.se/brollopsresa-rhodos/"
       }
     ]
   },
@@ -5587,12 +5618,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "brollopsresa-rhodos",
-        "link": "https://rhodos.se/brollopsresa-rhodos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "rhodos",
@@ -21350,6 +21376,24 @@
   },
   {
     "domain": "chamonix",
+    "id": 392,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/las-var-kompletta-chalet-guide-chamonix.jpg",
+    "filename": "las-var-kompletta-chalet-guide-chamonix.jpg",
+    "alt": "📖 Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "📖 Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 389,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix-1.jpg",
     "filename": "skidakning-chamonix-1.jpg",
@@ -22079,6 +22123,10 @@
     "managed": false,
     "used_on": [
       {
+        "slug": "boende-chamonix",
+        "link": "https://chamonix.se/boende-chamonix/"
+      },
+      {
         "slug": "startsida",
         "link": "https://chamonix.se/"
       }
@@ -22189,10 +22237,6 @@
       {
         "slug": "chamonix-omraden",
         "link": "https://chamonix.se/chamonix-omraden/"
-      },
-      {
-        "slug": "boende-chamonix",
-        "link": "https://chamonix.se/boende-chamonix/"
       }
     ]
   },
