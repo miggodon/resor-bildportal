@@ -21350,6 +21350,19 @@
   },
   {
     "domain": "chamonix",
+    "id": 389,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix-1.jpg",
+    "filename": "skidakning-chamonix-1.jpg",
+    "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidåkning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "chamonix",
     "id": 341,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/varianter-av-vallee-blanche-chamonix.jpg",
     "filename": "varianter-av-vallee-blanche-chamonix.jpg",
@@ -22486,6 +22499,104 @@
   },
   {
     "domain": "venedig",
+    "id": 432,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-dorsoduro-venedig-1.jpg",
+    "filename": "startsida-dorsoduro-venedig-1.jpg",
+    "alt": "Dorsoduro i Venedig med människor och realistisk resemiljö",
+    "caption": "Dorsoduro i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 430,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-cannaregio-venedig-1.jpg",
+    "filename": "startsida-cannaregio-venedig-1.jpg",
+    "alt": "Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 424,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/san-marco-venedig-1.jpg",
+    "filename": "san-marco-venedig-1.jpg",
+    "alt": "San Marco i Venedig med människor och realistisk resemiljö",
+    "caption": "San Marco i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 403,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/castello-venedig-1.jpg",
+    "filename": "castello-venedig-1.jpg",
+    "alt": "Castello i Venedig med människor och realistisk resemiljö",
+    "caption": "Castello i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 392,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/6-sestieri-venedig-1.jpg",
+    "filename": "6-sestieri-venedig-1.jpg",
+    "alt": "6 sestieri i Venedig med människor och realistisk resemiljö",
+    "caption": "6 sestieri i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 390,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/118-oar-venedig-1.jpg",
+    "filename": "118-oar-venedig-1.jpg",
+    "alt": "118 öar i Venedig med människor och realistisk resemiljö",
+    "caption": "118 öar i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
     "id": 228,
     "url": "https://venedig.se/wp-content/uploads/2026/06/studio-nara-accademia-venedig.jpg",
     "filename": "studio-nara-accademia-venedig.jpg",
@@ -22544,12 +22655,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "startsida",
-        "link": "https://venedig.se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "venedig",
@@ -22634,12 +22740,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyra-lagenhet-rum-venedig",
-        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "venedig",
@@ -22710,10 +22811,6 @@
       {
         "slug": "boende-venedig",
         "link": "https://venedig.se/boende-venedig/"
-      },
-      {
-        "slug": "hyra-lagenhet-rum-venedig",
-        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
       }
     ]
   },
@@ -22728,7 +22825,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      }
+    ]
   },
   {
     "domain": "venedig",
@@ -22849,7 +22951,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "romantisk-resa-venedig",
+        "link": "https://venedig.se/romantisk-resa-venedig/"
+      }
+    ]
   },
   {
     "domain": "venedig",
@@ -22862,16 +22969,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "boende-venedig",
-        "link": "https://venedig.se/boende-venedig/"
-      },
-      {
-        "slug": "hyra-lagenhet-rum-venedig",
-        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "venedig",
@@ -22974,7 +23072,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "2-dagar-i-venedig",
+        "link": "https://venedig.se/2-dagar-i-venedig/"
+      }
+    ]
   },
   {
     "domain": "venedig",
@@ -23006,14 +23109,6 @@
     "date": "2026-06-16",
     "managed": true,
     "used_on": [
-      {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
-      },
-      {
-        "slug": "boende-venedig",
-        "link": "https://venedig.se/boende-venedig/"
-      },
       {
         "slug": "startsida",
         "link": "https://venedig.se/"
