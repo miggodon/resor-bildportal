@@ -21469,6 +21469,702 @@
   },
   {
     "domain": "chamonix",
+    "id": 486,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/vintersasong-decemberapril-chamonix.jpg",
+    "filename": "vintersasong-decemberapril-chamonix.jpg",
+    "alt": "Vintersäsong (december–april) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Vintersäsong (december–april) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-chamonix",
+        "link": "https://chamonix.se/basta-tiden-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 484,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/vandring-tour-du-mont-blanc-dagsturer-chamonix.jpg",
+    "filename": "vandring-tour-du-mont-blanc-dagsturer-chamonix.jpg",
+    "alt": "Vandring — Tour du Mont Blanc & dagsturer i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Vandring — Tour du Mont Blanc &#038; dagsturer i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 482,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/vallee-blanche-legendarisk-offpist-20-km-chamonix.jpg",
+    "filename": "vallee-blanche-legendarisk-offpist-20-km-chamonix.jpg",
+    "alt": "Vallée Blanche — legendarisk offpist (20 km) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Vallée Blanche — legendarisk offpist (20 km) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 480,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/typiska-etapper-medurs-10-dagar-chamonix.jpg",
+    "filename": "typiska-etapper-medurs-10-dagar-chamonix.jpg",
+    "alt": "Typiska etapper (medurs, 10 dagar) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Typiska etapper (medurs, 10 dagar) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 478,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/step-into-the-void-glaslada-over-1-000-m-stup-chamonix.jpg",
+    "filename": "step-into-the-void-glaslada-over-1-000-m-stup-chamonix.jpg",
+    "alt": "Step into the Void” — glaslada över 1 000 m stup i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Step into the Void” — glaslada över 1 000 m stup i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aiguille-du-midi",
+        "link": "https://chamonix.se/aiguille-du-midi/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 476,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/sommarsasong-juniseptember-chamonix.jpg",
+    "filename": "sommarsasong-juniseptember-chamonix.jpg",
+    "alt": "Sommarsäsong (juni–september) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Sommarsäsong (juni–september) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-chamonix",
+        "link": "https://chamonix.se/basta-tiden-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 474,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/snokedjor-chamonix.jpg",
+    "filename": "snokedjor-chamonix.jpg",
+    "alt": "Snökedjor i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Snökedjor i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 472,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/smidig-transfer-chamonix.jpg",
+    "filename": "smidig-transfer-chamonix.jpg",
+    "alt": "Smidig transfer i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Smidig transfer i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 470,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skal-i-lac-blanc-chamonix.jpg",
+    "filename": "skal-i-lac-blanc-chamonix.jpg",
+    "alt": "Skal i Lac Blanc i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skal i Lac Blanc i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 468,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/paragliding-flyg-over-chamonix.jpg",
+    "filename": "paragliding-flyg-over-chamonix.jpg",
+    "alt": "Paragliding — flyg över Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Paragliding — flyg över Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 466,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/oversikt-chamonix-6-skidomraden-chamonix.jpg",
+    "filename": "oversikt-chamonix-6-skidomraden-chamonix.jpg",
+    "alt": "Översikt — Chamonix 6 skidområden i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Översikt — Chamonix 6 skidområden i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 464,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/mountainbike-downhill-chamonix.jpg",
+    "filename": "mountainbike-downhill-chamonix.jpg",
+    "alt": "Mountainbike & Downhill i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Mountainbike &#038; Downhill i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 462,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-planards-chamonix.jpg",
+    "filename": "les-planards-chamonix.jpg",
+    "alt": "Les Planards — ⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Planards — ⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-med-barn",
+        "link": "https://chamonix.se/chamonix-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 460,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-houches-familjevanligast-chamonix.jpg",
+    "filename": "les-houches-familjevanligast-chamonix.jpg",
+    "alt": "Les Houches — familjevanligast i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Houches — familjevanligast i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 458,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/les-houches-chamonix.jpg",
+    "filename": "les-houches-chamonix.jpg",
+    "alt": "Les Houches — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Les Houches — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-med-barn",
+        "link": "https://chamonix.se/chamonix-med-barn/"
+      },
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 456,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/le-tour-charamillon-chamonix.jpg",
+    "filename": "le-tour-charamillon-chamonix.jpg",
+    "alt": "Le Tour / Charamillon — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Le Tour / Charamillon — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-med-barn",
+        "link": "https://chamonix.se/chamonix-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 454,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/lagsasong-apriljuni-sepnov-chamonix.jpg",
+    "filename": "lagsasong-apriljuni-sepnov-chamonix.jpg",
+    "alt": "Lågsäsong (april–juni, sep–nov) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Lågsäsong (april–juni, sep–nov) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "transfer-geneve-chamonix",
+        "link": "https://chamonix.se/transfer-geneve-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 452,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/lac-blanc-2-352-m-chamonix.jpg",
+    "filename": "lac-blanc-2-352-m-chamonix.jpg",
+    "alt": "Lac Blanc (2 352 m) — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Lac Blanc (2 352 m) — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 450,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/la-maison-carrier-chamonix.jpg",
+    "filename": "la-maison-carrier-chamonix.jpg",
+    "alt": "La Maison Carrier i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "La Maison Carrier i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "restauranger-chamonix",
+        "link": "https://chamonix.se/restauranger-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 448,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/kop-liftkort-mont-blanc-unlimited-chamonix.jpg",
+    "filename": "kop-liftkort-mont-blanc-unlimited-chamonix.jpg",
+    "alt": "Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Köp liftkort — Mont Blanc Unlimited i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 446,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/kan-jag-hyra-bil-pa-franska-sidan-av-flygplatsen-chamonix.jpg",
+    "filename": "kan-jag-hyra-bil-pa-franska-sidan-av-flygplatsen-chamonix.jpg",
+    "alt": "Kan jag hyra bil på franska sidan av flygplatsen? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Kan jag hyra bil på franska sidan av flygplatsen? i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 444,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/jamfor-hyrbilspriser-fri-avbokning-chamonix.jpg",
+    "filename": "jamfor-hyrbilspriser-fri-avbokning-chamonix.jpg",
+    "alt": "Jämför hyrbilspriser — fri avbokning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Jämför hyrbilspriser — fri avbokning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "transfer-geneve-chamonix",
+        "link": "https://chamonix.se/transfer-geneve-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 443,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/hyrbil-fran-geneve-chamonix.jpg",
+    "filename": "hyrbil-fran-geneve-chamonix.jpg",
+    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "resa-till-chamonix",
+        "link": "https://chamonix.se/resa-till-chamonix/"
+      },
+      {
+        "slug": "skidakning-chamonix",
+        "link": "https://chamonix.se/skidakning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 441,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/hogsasong-decmars-juliaug-chamonix.jpg",
+    "filename": "hogsasong-decmars-juliaug-chamonix.jpg",
+    "alt": "Högsäsong (dec–mars, juli–aug) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Högsäsong (dec–mars, juli–aug) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "transfer-geneve-chamonix",
+        "link": "https://chamonix.se/transfer-geneve-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 439,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/grands-montets-chamonix-kronjuvel-3-300-m-chamonix.jpg",
+    "filename": "grands-montets-chamonix-kronjuvel-3-300-m-chamonix.jpg",
+    "alt": "Grands Montets — Chamonix kronjuvel (3 300 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Grands Montets — Chamonix kronjuvel (3 300 m) i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 437,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/grand-balcon-sud-chamonix.jpg",
+    "filename": "grand-balcon-sud-chamonix.jpg",
+    "alt": "Grand Balcon Sud — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Grand Balcon Sud — ⭐⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 435,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/golf-i-chamonix.jpg",
+    "filename": "golf-i-chamonix.jpg",
+    "alt": "Golf i Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Golf i Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 433,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/flegere-chamonix.jpg",
+    "filename": "flegere-chamonix.jpg",
+    "alt": "Flegere — ⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Flegere — ⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "chamonix-med-barn",
+        "link": "https://chamonix.se/chamonix-med-barn/"
+      },
+      {
+        "slug": "chalet-guide-chamonix",
+        "link": "https://chamonix.se/chalet-guide-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 431,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/elcykel-i-dalen-utforska-utan-att-bli-slut-chamonix.jpg",
+    "filename": "elcykel-i-dalen-utforska-utan-att-bli-slut-chamonix.jpg",
+    "alt": "Elcykel i dalen — utforska utan att bli slut i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Elcykel i dalen — utforska utan att bli slut i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 429,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/dagsutflykter-fran-geneve-chamonix.jpg",
+    "filename": "dagsutflykter-fran-geneve-chamonix.jpg",
+    "alt": "Dagsutflykter från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Dagsutflykter från Genève i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 427,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/cascade-de-berard-chamonix.jpg",
+    "filename": "cascade-de-berard-chamonix.jpg",
+    "alt": "Cascade de Berard — ⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Cascade de Berard — ⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 425,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/canyoning-chamonix.jpg",
+    "filename": "canyoning-chamonix.jpg",
+    "alt": "Canyoning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Canyoning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 423,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/brevent-flegere-mont-blanc-utsikten-chamonix.jpg",
+    "filename": "brevent-flegere-mont-blanc-utsikten-chamonix.jpg",
+    "alt": "Brevent / Flegere — Mont Blanc-utsikten i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Brevent / Flegere — Mont Blanc-utsikten i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "skidguide-chamonix-omraden",
+        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 421,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/boka-skidskola-guide-chamonix.jpg",
+    "filename": "boka-skidskola-guide-chamonix.jpg",
+    "alt": "Boka skidskola & guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Boka skidskola &#038; guide i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-chamonix",
+        "link": "https://chamonix.se/saker-att-gora-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 419,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-tiden-att-aka-till-chamonix.jpg",
+    "filename": "basta-tiden-att-aka-till-chamonix.jpg",
+    "alt": "Bästa tiden att åka till Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att åka till Chamonix i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-chamonix",
+        "link": "https://chamonix.se/basta-tiden-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 417,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguillette-des-houches-chamonix.jpg",
+    "filename": "aiguillette-des-houches-chamonix.jpg",
+    "alt": "Aiguillette des Houches — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aiguillette des Houches — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-chamonix",
+        "link": "https://chamonix.se/vandring-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 415,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguille-du-midi-3-842-meter-over-havet-chamonix.jpg",
+    "filename": "aiguille-du-midi-3-842-meter-over-havet-chamonix.jpg",
+    "alt": "Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aiguille du Midi — 3 842 meter över havet i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-chamonix",
+        "link": "https://chamonix.se/saker-att-gora-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 413,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguille-du-midi-3-842-m-over-havet-chamonix.jpg",
+    "filename": "aiguille-du-midi-3-842-m-over-havet-chamonix.jpg",
+    "alt": "Aiguille du Midi — 3 842 m över havet i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Aiguille du Midi — 3 842 m över havet i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sommar-chamonix",
+        "link": "https://chamonix.se/sommar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 400,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/annecy-chamonix-1.jpg",
     "filename": "annecy-chamonix-1.jpg",
@@ -21539,7 +22235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "offpist-chamonix",
@@ -21557,7 +22253,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -21575,7 +22271,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -21588,7 +22284,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "resa-till-chamonix",
@@ -21606,7 +22302,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -21624,7 +22320,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -21642,7 +22338,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -21660,7 +22356,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -21678,7 +22374,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -21696,7 +22392,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -21714,7 +22410,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -21732,7 +22428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -21750,7 +22446,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -21768,7 +22464,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -21786,7 +22482,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -21804,7 +22500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -21822,7 +22518,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "sommar-chamonix",
@@ -21840,7 +22536,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -21858,7 +22554,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -21876,7 +22572,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -22667,6 +23363,276 @@
   },
   {
     "domain": "venedig",
+    "id": 476,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/vad-kostar-en-resa-venedig.jpg",
+    "filename": "vad-kostar-en-resa-venedig.jpg",
+    "alt": "Vad kostar en resa? i Venedig med människor och realistisk resemiljö",
+    "caption": "Vad kostar en resa? i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 474,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/0-bilar-venedig.jpg",
+    "filename": "0-bilar-venedig.jpg",
+    "alt": "0 bilar i Venedig med människor och realistisk resemiljö",
+    "caption": "0 bilar i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 472,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/vara-basta-roadtrip-rutter-fran-venedig.jpg",
+    "filename": "vara-basta-roadtrip-rutter-fran-venedig.jpg",
+    "alt": "Våra bästa roadtrip-rutter från Venedig i Venedig med människor och realistisk resemiljö",
+    "caption": "Våra bästa roadtrip-rutter från Venedig i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-venedig",
+        "link": "https://venedig.se/hyrbil-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 470,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/privat-vattentaxi-venedig.jpg",
+    "filename": "privat-vattentaxi-venedig.jpg",
+    "alt": "Privat vattentaxi i Venedig med människor och realistisk resemiljö",
+    "caption": "Privat vattentaxi i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "resa-till-venedig",
+        "link": "https://venedig.se/resa-till-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 468,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/hyra-lagenhet-eller-rum-venedig.jpg",
+    "filename": "hyra-lagenhet-eller-rum-venedig.jpg",
+    "alt": "Hyra lägenhet eller rum i Venedig med människor och realistisk resemiljö",
+    "caption": "Hyra lägenhet eller rum i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 466,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/flygplats-transfer-venedig.jpg",
+    "filename": "flygplats-transfer-venedig.jpg",
+    "alt": "Flygplats & transfer i Venedig med människor och realistisk resemiljö",
+    "caption": "Flygplats &#038; transfer i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 464,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dorsoduro-lugnare-kulturstarkt-och-bra-for-par-venedig.jpg",
+    "filename": "dorsoduro-lugnare-kulturstarkt-och-bra-for-par-venedig.jpg",
+    "alt": "Dorsoduro: lugnare, kulturstarkt och bra för par i Venedig med människor och realistisk resemiljö",
+    "caption": "Dorsoduro: lugnare, kulturstarkt och bra för par i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 462,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dela-gondol-med-andra-fran-33-person-venedig.jpg",
+    "filename": "dela-gondol-med-andra-fran-33-person-venedig.jpg",
+    "alt": "Dela gondol med andra — från 33€/person i Venedig med människor och realistisk resemiljö",
+    "caption": "Dela gondol med andra — från 33€/person i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gondol-venedig",
+        "link": "https://venedig.se/gondol-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 460,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/castello-mer-vardag-och-starkt-vid-biennalen-venedig.jpg",
+    "filename": "castello-mer-vardag-och-starkt-vid-biennalen-venedig.jpg",
+    "alt": "Castello: mer vardag och starkt vid Biennalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Castello: mer vardag och starkt vid Biennalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 458,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/biennale-2026-och-boende-venedig.jpg",
+    "filename": "biennale-2026-och-boende-venedig.jpg",
+    "alt": "Biennale 2026 och boende i Venedig med människor och realistisk resemiljö",
+    "caption": "Biennale 2026 och boende i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "venedig-biennale-boende-castello",
+        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 456,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/basta-tiden-for-olika-resor-venedig.jpg",
+    "filename": "basta-tiden-for-olika-resor-venedig.jpg",
+    "alt": "Bästa tiden för olika resor i Venedig med människor och realistisk resemiljö",
+    "caption": "Bästa tiden för olika resor i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-venedig",
+        "link": "https://venedig.se/basta-tiden-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 454,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/basta-tiden-att-aka-venedig.jpg",
+    "filename": "basta-tiden-att-aka-venedig.jpg",
+    "alt": "Bästa tiden att åka i Venedig med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att åka i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 452,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/alilaguna-fran-flygplatsen-venedig.jpg",
+    "filename": "alilaguna-fran-flygplatsen-venedig.jpg",
+    "alt": "Alilaguna från flygplatsen i Venedig med människor och realistisk resemiljö",
+    "caption": "Alilaguna från flygplatsen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "resa-till-venedig",
+        "link": "https://venedig.se/resa-till-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 450,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/aktiviteter-upplevelser-venedig.jpg",
+    "filename": "aktiviteter-upplevelser-venedig.jpg",
+    "alt": "Aktiviteter & upplevelser i Venedig med människor och realistisk resemiljö",
+    "caption": "Aktiviteter &#038; upplevelser i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 448,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/1987-unesco-venedig.jpg",
+    "filename": "1987-unesco-venedig.jpg",
+    "alt": "1987 UNESCO i Venedig med människor och realistisk resemiljö",
+    "caption": "1987 UNESCO i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
     "id": 432,
     "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-dorsoduro-venedig-1.jpg",
     "filename": "startsida-dorsoduro-venedig-1.jpg",
@@ -22773,7 +23739,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -22791,7 +23757,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -22809,7 +23775,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -22822,7 +23788,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -22835,7 +23801,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "romantisk-resa-venedig",
@@ -22853,7 +23819,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -22871,7 +23837,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -22889,7 +23855,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -22907,7 +23873,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -22925,7 +23891,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -22943,7 +23909,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -22961,7 +23927,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -22979,7 +23945,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23001,7 +23967,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23019,7 +23985,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -23037,7 +24003,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannaregio-venedig-boende",
@@ -23055,7 +24021,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -23073,7 +24039,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-biennale-boende-castello",
@@ -23091,7 +24057,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -23109,7 +24075,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -23127,7 +24093,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "romantisk-resa-venedig",
@@ -23145,7 +24111,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23167,7 +24133,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23185,7 +24151,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -23203,7 +24169,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "2-dagar-i-venedig",
@@ -23221,7 +24187,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -23239,7 +24205,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -23257,7 +24223,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "2-dagar-i-venedig",
@@ -23275,7 +24241,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -23293,7 +24259,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-biennale-boende-castello",
@@ -23319,7 +24285,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -23337,7 +24303,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -23355,7 +24321,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -23373,7 +24339,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "resa-till-venedig",
@@ -23391,7 +24357,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23409,7 +24375,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23427,7 +24393,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23445,7 +24411,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -23463,7 +24429,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "biennalen-venedig",
@@ -23481,7 +24447,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-venedig",
@@ -23499,7 +24465,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -23517,7 +24483,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -24409,6 +25375,622 @@
   },
   {
     "domain": "provence",
+    "id": 531,
+    "url": "https://provence.se/wp-content/uploads/2026/06/villa-med-pool-utanfor-aix-provence.jpg",
+    "filename": "villa-med-pool-utanfor-aix-provence.jpg",
+    "alt": "Villa med pool utanför Aix i Provence med människor och realistisk resemiljö",
+    "caption": "Villa med pool utanför Aix i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-boende",
+        "link": "https://provence.se/aix-en-provence-boende/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 529,
+    "url": "https://provence.se/wp-content/uploads/2026/06/vanliga-fragor-om-att-bo-i-var-verdon-provence.jpg",
+    "filename": "vanliga-fragor-om-att-bo-i-var-verdon-provence.jpg",
+    "alt": "Vanliga frågor om att bo i Var & Verdon i Provence med människor och realistisk resemiljö",
+    "caption": "Vanliga frågor om att bo i Var &#038; Verdon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-verdon",
+        "link": "https://provence.se/hyra-hus-provence/var-verdon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 527,
+    "url": "https://provence.se/wp-content/uploads/2026/06/sentier-des-ocres-ockravandringen-provence.jpg",
+    "filename": "sentier-des-ocres-ockravandringen-provence.jpg",
+    "alt": "Sentier des Ocres — ockravandringen i Provence med människor och realistisk resemiljö",
+    "caption": "Sentier des Ocres — ockravandringen i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "roussillon-byguide",
+        "link": "https://provence.se/roussillon-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 525,
+    "url": "https://provence.se/wp-content/uploads/2026/06/rutt-b-coteaux-daix-rundan-hel-dag-provence.jpg",
+    "filename": "rutt-b-coteaux-daix-rundan-hel-dag-provence.jpg",
+    "alt": "Rutt B — ”Coteaux d’Aix-rundan” (hel dag) i Provence med människor och realistisk resemiljö",
+    "caption": "Rutt B — ”Coteaux d’Aix-rundan” (hel dag) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-vin",
+        "link": "https://provence.se/aix-en-provence-vin/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 523,
+    "url": "https://provence.se/wp-content/uploads/2026/06/rutt-a-konst-rose-halv-dag-provence.jpg",
+    "filename": "rutt-a-konst-rose-halv-dag-provence.jpg",
+    "alt": "Rutt A — ”Konst & rosé” (halv dag) i Provence med människor och realistisk resemiljö",
+    "caption": "Rutt A — ”Konst &#038; rosé” (halv dag) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-vin",
+        "link": "https://provence.se/aix-en-provence-vin/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 521,
+    "url": "https://provence.se/wp-content/uploads/2026/06/praktisk-rutt-2-dagar-i-camargue-provence.jpg",
+    "filename": "praktisk-rutt-2-dagar-i-camargue-provence.jpg",
+    "alt": "Praktisk rutt — 2 dagar i Camargue i Provence med människor och realistisk resemiljö",
+    "caption": "Praktisk rutt — 2 dagar i Camargue i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 519,
+    "url": "https://provence.se/wp-content/uploads/2026/06/planera-din-cannes-resa-provence.jpg",
+    "filename": "planera-din-cannes-resa-provence.jpg",
+    "alt": "Planera din Cannes-resa i Provence med människor och realistisk resemiljö",
+    "caption": "Planera din Cannes-resa i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannes-guide",
+        "link": "https://provence.se/cannes-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 517,
+    "url": "https://provence.se/wp-content/uploads/2026/06/parkering-den-viktigaste-praktiska-fragan-provence.jpg",
+    "filename": "parkering-den-viktigaste-praktiska-fragan-provence.jpg",
+    "alt": "Parkering — den viktigaste praktiska frågan i Provence med människor och realistisk resemiljö",
+    "caption": "Parkering — den viktigaste praktiska frågan i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 515,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mat-var-du-ater-i-luberon-provence.jpg",
+    "filename": "mat-var-du-ater-i-luberon-provence.jpg",
+    "alt": "Mat — var du äter i Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Mat — var du äter i Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 513,
+    "url": "https://provence.se/wp-content/uploads/2026/06/mat-var-du-ater-i-alpilles-provence.jpg",
+    "filename": "mat-var-du-ater-i-alpilles-provence.jpg",
+    "alt": "Mat — var du äter i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Mat — var du äter i Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 511,
+    "url": "https://provence.se/wp-content/uploads/2026/06/marknader-vilken-dag-i-vilken-by-provence.jpg",
+    "filename": "marknader-vilken-dag-i-vilken-by-provence.jpg",
+    "alt": "Marknader — vilken dag i vilken by i Provence med människor och realistisk resemiljö",
+    "caption": "Marknader — vilken dag i vilken by i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 509,
+    "url": "https://provence.se/wp-content/uploads/2026/06/les-baux-de-provence-klippan-och-ljusshowen-provence.jpg",
+    "filename": "les-baux-de-provence-klippan-och-ljusshowen-provence.jpg",
+    "alt": "Les Baux-de-Provence — klippan och ljusshowen i Provence med människor och realistisk resemiljö",
+    "caption": "Les Baux-de-Provence — klippan och ljusshowen i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 507,
+    "url": "https://provence.se/wp-content/uploads/2026/06/kora-i-alpilles-och-dagsturer-provence.jpg",
+    "filename": "kora-i-alpilles-och-dagsturer-provence.jpg",
+    "alt": "Köra i Alpilles och dagsturer i Provence med människor och realistisk resemiljö",
+    "caption": "Köra i Alpilles och dagsturer i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 505,
+    "url": "https://provence.se/wp-content/uploads/2026/06/gordes-byguide-narliggande-utflykter-provence.jpg",
+    "filename": "gordes-byguide-narliggande-utflykter-provence.jpg",
+    "alt": "Närliggande utflykter i Provence med människor och realistisk resemiljö",
+    "caption": "Närliggande utflykter i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 503,
+    "url": "https://provence.se/wp-content/uploads/2026/06/gordes-byguide-marknad-och-praktiska-tider-provence.jpg",
+    "filename": "gordes-byguide-marknad-och-praktiska-tider-provence.jpg",
+    "alt": "Marknad och praktiska tider i Provence med människor och realistisk resemiljö",
+    "caption": "Marknad och praktiska tider i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 501,
+    "url": "https://provence.se/wp-content/uploads/2026/06/gordes-byguide-basta-fotoplatser-provence.jpg",
+    "filename": "gordes-byguide-basta-fotoplatser-provence.jpg",
+    "alt": "Bästa fotoplatser i Provence med människor och realistisk resemiljö",
+    "caption": "Bästa fotoplatser i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gordes-byguide",
+        "link": "https://provence.se/gordes-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 499,
+    "url": "https://provence.se/wp-content/uploads/2026/06/fran-marseille-provence.jpg",
+    "filename": "fran-marseille-provence.jpg",
+    "alt": "Från Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "Från Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "calanques-guide",
+        "link": "https://provence.se/calanques-guide/"
+      },
+      {
+        "slug": "marseille-guide",
+        "link": "https://provence.se/marseille-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 497,
+    "url": "https://provence.se/wp-content/uploads/2026/06/fran-cassis-provence.jpg",
+    "filename": "fran-cassis-provence.jpg",
+    "alt": "Från Cassis i Provence med människor och realistisk resemiljö",
+    "caption": "Från Cassis i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "calanques-guide",
+        "link": "https://provence.se/calanques-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 495,
+    "url": "https://provence.se/wp-content/uploads/2026/06/forslag-5-dagar-i-luberon-provence.jpg",
+    "filename": "forslag-5-dagar-i-luberon-provence.jpg",
+    "alt": "Förslag: 5 dagar i Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Förslag: 5 dagar i Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 493,
+    "url": "https://provence.se/wp-content/uploads/2026/06/forslag-5-dagar-i-alpilles-provence.jpg",
+    "filename": "forslag-5-dagar-i-alpilles-provence.jpg",
+    "alt": "Förslag: 5 dagar i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Förslag: 5 dagar i Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 491,
+    "url": "https://provence.se/wp-content/uploads/2026/06/fler-museer-och-palats-vart-ett-stopp-provence.jpg",
+    "filename": "fler-museer-och-palats-vart-ett-stopp-provence.jpg",
+    "alt": "Fler museer och palats värt ett stopp i Provence med människor och realistisk resemiljö",
+    "caption": "Fler museer och palats värt ett stopp i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-sevardheter",
+        "link": "https://provence.se/aix-en-provence-sevardheter/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 489,
+    "url": "https://provence.se/wp-content/uploads/2026/06/faq-luberon-provence.jpg",
+    "filename": "faq-luberon-provence.jpg",
+    "alt": "FAQ — Luberon Provence i Provence med människor och realistisk resemiljö",
+    "caption": "FAQ — Luberon Provence i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 487,
+    "url": "https://provence.se/wp-content/uploads/2026/06/faq-hyra-hus-nara-aix-avignon-provence.jpg",
+    "filename": "faq-hyra-hus-nara-aix-avignon-provence.jpg",
+    "alt": "FAQ — hyra hus nära Aix & Avignon i Provence med människor och realistisk resemiljö",
+    "caption": "FAQ — hyra hus nära Aix &#038; Avignon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 485,
+    "url": "https://provence.se/wp-content/uploads/2026/06/faq-hyra-hus-i-alpilles-provence.jpg",
+    "filename": "faq-hyra-hus-i-alpilles-provence.jpg",
+    "alt": "FAQ — hyra hus i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "FAQ — hyra hus i Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 483,
+    "url": "https://provence.se/wp-content/uploads/2026/06/dagsutflykter-fran-cannes-provence.jpg",
+    "filename": "dagsutflykter-fran-cannes-provence.jpg",
+    "alt": "Dagsutflykter från Cannes i Provence med människor och realistisk resemiljö",
+    "caption": "Dagsutflykter från Cannes i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannes-guide",
+        "link": "https://provence.se/cannes-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 481,
+    "url": "https://provence.se/wp-content/uploads/2026/06/dagsturer-fran-aix-eller-avignon-provence.jpg",
+    "filename": "dagsturer-fran-aix-eller-avignon-provence.jpg",
+    "alt": "Dagsturer från Aix eller Avignon i Provence med människor och realistisk resemiljö",
+    "caption": "Dagsturer från Aix eller Avignon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 479,
+    "url": "https://provence.se/wp-content/uploads/2026/06/budgetboende-billigare-an-luberon-provence.jpg",
+    "filename": "budgetboende-billigare-an-luberon-provence.jpg",
+    "alt": "Budgetboende — billigare än Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Budgetboende — billigare än Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 477,
+    "url": "https://provence.se/wp-content/uploads/2026/06/boende-i-aix-och-luberon-provence.jpg",
+    "filename": "boende-i-aix-och-luberon-provence.jpg",
+    "alt": "Boende i Aix och Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Boende i Aix och Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence",
+        "link": "https://provence.se/aix-en-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 475,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-nara-roussillon-provence.jpg",
+    "filename": "bo-nara-roussillon-provence.jpg",
+    "alt": "Bo nära Roussillon i Provence med människor och realistisk resemiljö",
+    "caption": "Bo nära Roussillon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "roussillon-byguide",
+        "link": "https://provence.se/roussillon-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 473,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-i-alpilles-provence.jpg",
+    "filename": "bo-i-alpilles-provence.jpg",
+    "alt": "Bo i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Bo i Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saint-remy-byguide",
+        "link": "https://provence.se/saint-remy-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 471,
+    "url": "https://provence.se/wp-content/uploads/2026/06/basta-sasongen-for-luberon-provence.jpg",
+    "filename": "basta-sasongen-for-luberon-provence.jpg",
+    "alt": "Bästa säsongen för Luberon i Provence med människor och realistisk resemiljö",
+    "caption": "Bästa säsongen för Luberon i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 469,
+    "url": "https://provence.se/wp-content/uploads/2026/06/basta-sasongen-for-alpilles-provence.jpg",
+    "filename": "basta-sasongen-for-alpilles-provence.jpg",
+    "alt": "Bästa säsongen för Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Bästa säsongen för Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 467,
+    "url": "https://provence.se/wp-content/uploads/2026/06/alpilles-i-ord-byar-och-karaktar-provence.jpg",
+    "filename": "alpilles-i-ord-byar-och-karaktar-provence.jpg",
+    "alt": "Alpilles i ord — byar och karaktär i Provence med människor och realistisk resemiljö",
+    "caption": "Alpilles i ord — byar och karaktär i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alpilles",
+        "link": "https://provence.se/hyra-hus-provence/alpilles/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 465,
+    "url": "https://provence.se/wp-content/uploads/2026/06/aix-vs-avignon-vilken-bas-provence.jpg",
+    "filename": "aix-vs-avignon-vilken-bas-provence.jpg",
+    "alt": "Aix vs Avignon — vilken bas? i Provence med människor och realistisk resemiljö",
+    "caption": "Aix vs Avignon — vilken bas? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 419,
     "url": "https://provence.se/wp-content/uploads/2026/06/bo-nara-gordes-provence-1.jpg",
     "filename": "bo-nara-gordes-provence-1.jpg",
@@ -24456,7 +26038,7 @@
     "w": 1535,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -24474,7 +26056,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -24492,7 +26074,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -24510,7 +26092,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -24528,7 +26110,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -24546,7 +26128,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -24564,7 +26146,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -24582,7 +26164,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -24600,7 +26182,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -24618,7 +26200,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -24636,7 +26218,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -24654,7 +26236,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -24672,7 +26254,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -24690,7 +26272,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -24708,7 +26290,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -24726,7 +26308,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -24744,7 +26326,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -24762,7 +26344,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ventoux-drome",
@@ -24780,7 +26362,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -24798,7 +26380,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -24816,7 +26398,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -24834,7 +26416,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-verdon",
