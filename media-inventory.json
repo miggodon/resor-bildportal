@@ -23363,6 +23363,24 @@
   },
   {
     "domain": "venedig",
+    "id": 478,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-var-ska-man-bo-venedig.jpg",
+    "filename": "startsida-var-ska-man-bo-venedig.jpg",
+    "alt": "Var ska man bo? i Venedig med människor och realistisk resemiljö",
+    "caption": "Var ska man bo? i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://venedig.se/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
     "id": 476,
     "url": "https://venedig.se/wp-content/uploads/2026/06/vad-kostar-en-resa-venedig.jpg",
     "filename": "vad-kostar-en-resa-venedig.jpg",
@@ -23371,7 +23389,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -23389,7 +23407,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
