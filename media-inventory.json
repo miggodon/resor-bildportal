@@ -1,6 +1,24 @@
 [
   {
     "domain": "malaga",
+    "id": 1061,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/laser-tag-och-bowling-malaga-2.jpg",
+    "filename": "laser-tag-och-bowling-malaga-2.jpg",
+    "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
+    "caption": "🎳 Laser tag och bowling i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1044,
     "url": "https://malaga.se/wp-content/uploads/2026/06/skateparken-vid-stranden-malaga-2.jpg",
     "filename": "skateparken-vid-stranden-malaga-2.jpg",
@@ -535,7 +553,12 @@
     "h": 1024,
     "date": "2026-06-22",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-i-malaga",
+        "link": "https://malaga.se/7-dagar-i-malaga/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -995,7 +1018,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -1013,7 +1036,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1031,7 +1054,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "shopping-malaga-guide",
@@ -1049,7 +1072,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "shopping-malaga-guide",
@@ -1067,7 +1090,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -1085,7 +1108,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1103,7 +1126,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1121,7 +1144,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1139,7 +1162,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1157,7 +1180,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1175,7 +1198,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1193,7 +1216,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1211,7 +1234,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1229,7 +1252,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1247,7 +1270,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1265,7 +1288,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -1405,7 +1428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1431,7 +1454,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1444,7 +1467,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1457,7 +1480,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1470,7 +1493,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1483,7 +1506,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-med-tonaringar",
@@ -3192,6 +3215,32 @@
   },
   {
     "domain": "rhodos",
+    "id": 944,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/populara-omraden-pa-rhodos-1.jpg",
+    "filename": "populara-omraden-pa-rhodos-1.jpg",
+    "alt": "Populära områden på Rhodos i Rhodos med människor och realistisk resemiljö",
+    "caption": "Populära områden på Rhodos i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
+    "id": 902,
+    "url": "https://rhodos.se/wp-content/uploads/2026/06/alla-guider-rhodos-1.jpg",
+    "filename": "alla-guider-rhodos-1.jpg",
+    "alt": "Alla guider i Rhodos med människor och realistisk resemiljö",
+    "caption": "Alla guider i Rhodos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "rhodos",
     "id": 898,
     "url": "https://rhodos.se/wp-content/uploads/2026/06/vinprovning-i-embonas-vid-solnedgangen-rhodos-2.jpg",
     "filename": "vinprovning-i-embonas-vid-solnedgangen-rhodos-2.jpg",
@@ -3920,7 +3969,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -3938,7 +3987,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3956,7 +4005,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-utan-hyrbil",
@@ -3974,7 +4023,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-april-och-maj",
@@ -3992,7 +4041,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -4010,7 +4059,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -4028,7 +4077,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-rhodos",
@@ -4046,7 +4095,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-uteliv",
@@ -4064,7 +4113,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-gamla-stan",
@@ -4082,7 +4131,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vandring-vindsurf",
@@ -4100,7 +4149,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -4118,7 +4167,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -4136,7 +4185,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-september-oktober",
@@ -4154,7 +4203,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-rhodos",
@@ -4172,7 +4221,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4190,7 +4239,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -4208,7 +4257,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4226,7 +4275,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "packlista-rhodos",
@@ -4244,7 +4293,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4262,7 +4311,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4280,7 +4329,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -4298,7 +4347,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -4316,7 +4365,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -4334,7 +4383,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -4352,7 +4401,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -4370,7 +4419,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-vanner",
@@ -4388,7 +4437,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -4406,7 +4455,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4424,7 +4473,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-rhodos",
@@ -4442,7 +4491,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-gamla-stan",
@@ -4460,7 +4509,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4478,7 +4527,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4496,7 +4545,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -4509,7 +4558,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -4527,7 +4576,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-april-och-maj",
@@ -4545,7 +4594,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-digital-nomad",
@@ -4563,7 +4612,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-uteliv",
@@ -4581,7 +4630,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-med-barn",
@@ -4599,7 +4648,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-senior-aldre",
@@ -4617,7 +4666,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4635,7 +4684,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4653,7 +4702,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4671,7 +4720,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-vin-embonas",
@@ -4689,7 +4738,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lindos-rhodos",
@@ -4707,7 +4756,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -4725,7 +4774,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-senior-aldre",
@@ -4743,7 +4792,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-uteliv",
@@ -4761,7 +4810,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-pensionarer",
@@ -4779,7 +4828,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-par-roadtrip",
@@ -4797,7 +4846,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "packlista-rhodos",
@@ -4815,7 +4864,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -4833,7 +4882,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-rhodos-barnfamilj",
@@ -4851,7 +4900,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-hbtq",
@@ -4869,7 +4918,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-senior-aldre",
@@ -4887,7 +4936,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4905,7 +4954,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4923,7 +4972,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-par-roadtrip",
@@ -4941,7 +4990,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4959,7 +5008,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -4977,7 +5026,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "packlista-rhodos",
@@ -7577,6 +7626,24 @@
   },
   {
     "domain": "torremolinos",
+    "id": 785,
+    "url": "https://torremolinos.se/wp-content/uploads/2026/06/casa-de-los-navajas-torremolinos-1.jpg",
+    "filename": "casa-de-los-navajas-torremolinos-1.jpg",
+    "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
+    "caption": "Casa de los Navajas i Torremolinos",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
+  },
+  {
+    "domain": "torremolinos",
     "id": 559,
     "url": "https://torremolinos.se/wp-content/uploads/2026/06/torremolinos-centrum-alternativ-torremolinos-2.jpg",
     "filename": "torremolinos-centrum-alternativ-torremolinos-2.jpg",
@@ -9241,7 +9308,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -9483,7 +9550,7 @@
     "w": 1919,
     "h": 1080,
     "date": "2026-05-29",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -12939,6 +13006,32 @@
   },
   {
     "domain": "teneriffa",
+    "id": 1213,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vilken-ar-teneriffas-basta-strand-for-barn-teneriffa-1.jpg",
+    "filename": "vilken-ar-teneriffas-basta-strand-for-barn-teneriffa-1.jpg",
+    "alt": "Vilken är Teneriffas bästa strand för barn? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vilken är Teneriffas bästa strand för barn? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1209,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vadret-i-puerto-de-la-cruz-vad-du-maste-veta-teneriffa-1.jpg",
+    "filename": "vadret-i-puerto-de-la-cruz-vad-du-maste-veta-teneriffa-1.jpg",
+    "alt": "Vädret i Puerto de la Cruz – vad du måste veta i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vädret i Puerto de la Cruz – vad du måste veta i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "teneriffa",
     "id": 1148,
     "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-del-duque-teneriffa.jpg",
     "filename": "playa-del-duque-teneriffa.jpg",
@@ -13163,7 +13256,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -13181,7 +13274,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-hbtq",
@@ -13199,7 +13292,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-flygplats-transfer-ta-sig-runt",
@@ -13217,7 +13310,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-ska-man-packa-till-teneriffa",
@@ -13235,7 +13328,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-teneriffa",
@@ -13253,7 +13346,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13271,7 +13364,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -13289,7 +13382,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -13307,7 +13400,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-strandar-guide",
@@ -13325,7 +13418,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-strandar-guide",
@@ -13343,7 +13436,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -13361,7 +13454,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-vandring",
@@ -13379,7 +13472,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -13397,7 +13490,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "los-cristianos-teneriffa",
@@ -13415,7 +13508,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-teneriffa",
@@ -13433,7 +13526,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-pa-teneriffa",
@@ -13451,7 +13544,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -13469,7 +13562,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-teneriffa-barnfamilj",
@@ -13487,7 +13580,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-teneriffa-barnfamilj",
@@ -13505,7 +13598,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-hbtq",
@@ -13523,7 +13616,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -13541,7 +13634,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-teneriffa",
@@ -13559,7 +13652,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-pa-teneriffa",
@@ -13577,7 +13670,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-digital-nomad-guide",
@@ -13595,7 +13688,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -13613,7 +13706,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-for-pensionarer-langliggare",
@@ -13631,7 +13724,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -13649,7 +13742,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -13667,7 +13760,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-teneriffa",
@@ -13685,7 +13778,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-teneriffa",
@@ -13703,7 +13796,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-teneriffa",
@@ -13721,7 +13814,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-teneriffa",
@@ -13739,7 +13832,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13757,7 +13850,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-teneriffa",
@@ -13775,7 +13868,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-par-roadtrip",
@@ -13793,7 +13886,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-vandring",
@@ -13811,7 +13904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-i-november",
@@ -13829,7 +13922,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-med-barn-familjeguide",
@@ -13847,7 +13940,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-ska-man-packa-till-teneriffa",
@@ -13865,7 +13958,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13883,7 +13976,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13901,7 +13994,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -13919,7 +14012,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13937,7 +14030,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13955,7 +14048,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13973,7 +14066,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-strandar-guide",
@@ -13991,7 +14084,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-teneriffa",
@@ -14009,7 +14102,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-teneriffa-vanner",
@@ -14027,7 +14120,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -14045,7 +14138,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-teneriffa",
@@ -21376,6 +21469,37 @@
   },
   {
     "domain": "chamonix",
+    "id": 400,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/annecy-chamonix-1.jpg",
+    "filename": "annecy-chamonix-1.jpg",
+    "alt": "Annecy i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Annecy i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-chamonix",
+        "link": "https://chamonix.se/hyrbil-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 399,
+    "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix-2.jpg",
+    "filename": "skidakning-chamonix-2.jpg",
+    "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
+    "caption": "Skidåkning i Chamonix-Mont-Blanc",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "chamonix",
     "id": 392,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/las-var-kompletta-chalet-guide-chamonix.jpg",
     "filename": "las-var-kompletta-chalet-guide-chamonix.jpg",
@@ -21855,7 +21979,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -22484,7 +22608,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -22784,7 +22908,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
   },
   {
     "domain": "venedig",
@@ -22855,6 +22984,10 @@
       {
         "slug": "boende-venedig",
         "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
       }
     ]
   },
@@ -23013,7 +23146,16 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
   },
   {
     "domain": "venedig",
@@ -23153,6 +23295,14 @@
     "date": "2026-06-16",
     "managed": true,
     "used_on": [
+      {
+        "slug": "venedig-biennale-boende-castello",
+        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+      },
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
       {
         "slug": "startsida",
         "link": "https://venedig.se/"
@@ -23465,7 +23615,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-hawaii",
@@ -23483,7 +23633,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-hawaii",
@@ -23501,7 +23651,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-hawaii",
@@ -23519,7 +23669,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-hawaii",
@@ -23537,7 +23687,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-hawaii",
@@ -23559,7 +23709,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -23577,7 +23727,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-18",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -24259,6 +24409,45 @@
   },
   {
     "domain": "provence",
+    "id": 419,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-nara-gordes-provence-1.jpg",
+    "filename": "bo-nara-gordes-provence-1.jpg",
+    "alt": "Bo nära Gordes i Provence med människor och realistisk resemiljö",
+    "caption": "Bo nära Gordes i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "provence",
+    "id": 416,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bo-dar-rutterna-borjar-provence-1.jpg",
+    "filename": "bo-dar-rutterna-borjar-provence-1.jpg",
+    "alt": "Bo där rutterna börjar i Provence med människor och realistisk resemiljö",
+    "caption": "Bo där rutterna börjar i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "provence",
+    "id": 415,
+    "url": "https://provence.se/wp-content/uploads/2026/06/basta-tiden-att-besoka-marseille-provence-1.jpg",
+    "filename": "basta-tiden-att-besoka-marseille-provence-1.jpg",
+    "alt": "Bästa tiden att besöka Marseille i Provence med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att besöka Marseille i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-25",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "provence",
     "id": 402,
     "url": "https://provence.se/wp-content/uploads/2026/06/villaomradet-sodra-luberons-sweet-spot-provence.jpg",
     "filename": "villaomradet-sodra-luberons-sweet-spot-provence.jpg",
@@ -24663,7 +24852,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24681,7 +24870,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24699,7 +24888,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -24717,7 +24906,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -24735,7 +24924,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -24753,7 +24942,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -24771,7 +24960,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -24789,7 +24978,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24807,7 +24996,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-provence",
@@ -24825,7 +25014,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24843,7 +25032,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24861,7 +25050,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24879,7 +25068,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-provence",
@@ -24897,7 +25086,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24915,7 +25104,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "byar-och-rutter-i-provence",
@@ -24933,7 +25122,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -24951,7 +25140,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -24969,7 +25158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24987,7 +25176,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -25005,7 +25194,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-villa-provence-pool",
@@ -25023,7 +25212,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-roadtrip-provence",
@@ -25041,7 +25230,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-roadtrip-provence",
@@ -25059,7 +25248,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-provence",
@@ -25077,7 +25266,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -25095,7 +25284,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -25113,7 +25302,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-provence",
@@ -25131,7 +25320,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-provence",
@@ -25149,7 +25338,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -25167,7 +25356,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-provence",
@@ -25185,7 +25374,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -25203,7 +25392,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-provence",
@@ -25221,7 +25410,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -25239,7 +25428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -25257,7 +25446,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -25275,7 +25464,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lavendel-i-provence",
@@ -25293,7 +25482,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -25311,7 +25500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
