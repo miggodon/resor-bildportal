@@ -9930,6 +9930,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "gran-canaria-pensionarer-langliggare",
+        "link": "https://grancanaria.se/gran-canaria-pensionarer-langliggare/"
+      },
+      {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
         "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
       }
@@ -10026,6 +10030,30 @@
       {
         "slug": "guider",
         "link": "https://grancanaria.se/guider/"
+      },
+      {
+        "slug": "paketresa-eller-boka-sjalv-gran-canaria",
+        "link": "https://grancanaria.se/paketresa-eller-boka-sjalv-gran-canaria/"
+      },
+      {
+        "slug": "gran-canaria-for-par",
+        "link": "https://grancanaria.se/gran-canaria-for-par/"
+      },
+      {
+        "slug": "matguide-gran-canaria",
+        "link": "https://grancanaria.se/matguide-gran-canaria/"
+      },
+      {
+        "slug": "omrade-puerto-mogan",
+        "link": "https://grancanaria.se/omrade-puerto-mogan/"
+      },
+      {
+        "slug": "5-dagar-pa-gran-canaria",
+        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
+      },
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
       }
     ]
   },
@@ -10062,6 +10090,30 @@
       {
         "slug": "guider",
         "link": "https://grancanaria.se/guider/"
+      },
+      {
+        "slug": "gran-canaria-med-barn",
+        "link": "https://grancanaria.se/gran-canaria-med-barn/"
+      },
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      },
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      },
+      {
+        "slug": "omrade-maspalomas",
+        "link": "https://grancanaria.se/omrade-maspalomas/"
+      },
+      {
+        "slug": "7-dagar-pa-gran-canaria",
+        "link": "https://grancanaria.se/7-dagar-pa-gran-canaria/"
+      },
+      {
+        "slug": "5-dagar-pa-gran-canaria",
+        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
       }
     ]
   },
@@ -10281,6 +10333,10 @@
       {
         "slug": "var-ska-man-bo-grancanaria",
         "link": "https://grancanaria.se/var-ska-man-bo-grancanaria/"
+      },
+      {
+        "slug": "hyra-lagenhet-gran-canaria",
+        "link": "https://grancanaria.se/hyra-lagenhet-gran-canaria/"
       }
     ]
   },
@@ -11138,6 +11194,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "nattliv-gran-canaria",
+        "link": "https://grancanaria.se/nattliv-gran-canaria/"
+      },
+      {
         "slug": "omrade-maspalomas",
         "link": "https://grancanaria.se/omrade-maspalomas/"
       }
@@ -11455,12 +11515,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "omrade-maspalomas",
-        "link": "https://grancanaria.se/omrade-maspalomas/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11473,12 +11528,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "omrade-maspalomas",
-        "link": "https://grancanaria.se/omrade-maspalomas/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11779,12 +11829,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "norra-gran-canaria",
-        "link": "https://grancanaria.se/norra-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11797,12 +11842,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "bergsbyarna-gran-canaria",
-        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11815,12 +11855,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "norra-gran-canaria",
-        "link": "https://grancanaria.se/norra-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11833,12 +11868,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "bergsbyarna-gran-canaria",
-        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11851,12 +11881,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "norra-gran-canaria",
-        "link": "https://grancanaria.se/norra-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11869,12 +11894,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "bergsbyarna-gran-canaria",
-        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11887,12 +11907,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "norra-gran-canaria",
-        "link": "https://grancanaria.se/norra-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -12544,6 +12559,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "all-inclusive-gran-canaria",
+        "link": "https://grancanaria.se/all-inclusive-gran-canaria/"
+      },
+      {
         "slug": "basta-stranderna-pa-gran-canaria",
         "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
       },
@@ -12802,10 +12821,6 @@
       {
         "slug": "omrade-puerto-mogan",
         "link": "https://grancanaria.se/omrade-puerto-mogan/"
-      },
-      {
-        "slug": "gran-canaria",
-        "link": "https://grancanaria.se/"
       }
     ]
   },
@@ -12875,8 +12890,24 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "bergsbyarna-gran-canaria",
+        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
+      },
+      {
+        "slug": "norra-gran-canaria",
+        "link": "https://grancanaria.se/norra-gran-canaria/"
+      },
+      {
         "slug": "saker-att-gora-pa-gran-canaria",
         "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      },
+      {
+        "slug": "7-dagar-pa-gran-canaria",
+        "link": "https://grancanaria.se/7-dagar-pa-gran-canaria/"
+      },
+      {
+        "slug": "5-dagar-pa-gran-canaria",
+        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
       }
     ]
   },
@@ -12927,28 +12958,7 @@
     "h": 900,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "paketresa-eller-boka-sjalv-gran-canaria",
-        "link": "https://grancanaria.se/paketresa-eller-boka-sjalv-gran-canaria/"
-      },
-      {
-        "slug": "gran-canaria-for-par",
-        "link": "https://grancanaria.se/gran-canaria-for-par/"
-      },
-      {
-        "slug": "matguide-gran-canaria",
-        "link": "https://grancanaria.se/matguide-gran-canaria/"
-      },
-      {
-        "slug": "omrade-puerto-mogan",
-        "link": "https://grancanaria.se/omrade-puerto-mogan/"
-      },
-      {
-        "slug": "5-dagar-pa-gran-canaria",
-        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -13001,28 +13011,7 @@
     "h": 1066,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "bergsbyarna-gran-canaria",
-        "link": "https://grancanaria.se/bergsbyarna-gran-canaria/"
-      },
-      {
-        "slug": "norra-gran-canaria",
-        "link": "https://grancanaria.se/norra-gran-canaria/"
-      },
-      {
-        "slug": "saker-att-gora-pa-gran-canaria",
-        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
-      },
-      {
-        "slug": "7-dagar-pa-gran-canaria",
-        "link": "https://grancanaria.se/7-dagar-pa-gran-canaria/"
-      },
-      {
-        "slug": "5-dagar-pa-gran-canaria",
-        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -13067,30 +13056,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "gran-canaria-med-barn",
-        "link": "https://grancanaria.se/gran-canaria-med-barn/"
-      },
-      {
-        "slug": "gran-canaria-for-forsta-gangen",
-        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
-      },
-      {
-        "slug": "saker-att-gora-pa-gran-canaria",
-        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
-      },
-      {
-        "slug": "omrade-maspalomas",
-        "link": "https://grancanaria.se/omrade-maspalomas/"
-      },
-      {
-        "slug": "7-dagar-pa-gran-canaria",
-        "link": "https://grancanaria.se/7-dagar-pa-gran-canaria/"
-      },
-      {
-        "slug": "5-dagar-pa-gran-canaria",
-        "link": "https://grancanaria.se/5-dagar-pa-gran-canaria/"
-      },
-      {
         "slug": "basta-stranderna-pa-gran-canaria",
         "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
       }
@@ -13107,24 +13072,7 @@
     "h": 2560,
     "date": "2026-05-23",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyra-lagenhet-gran-canaria",
-        "link": "https://grancanaria.se/hyra-lagenhet-gran-canaria/"
-      },
-      {
-        "slug": "gran-canaria-hbtq",
-        "link": "https://grancanaria.se/gran-canaria-hbtq/"
-      },
-      {
-        "slug": "gran-canaria-pensionarer-langliggare",
-        "link": "https://grancanaria.se/gran-canaria-pensionarer-langliggare/"
-      },
-      {
-        "slug": "nattliv-gran-canaria",
-        "link": "https://grancanaria.se/nattliv-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -13198,16 +13146,7 @@
     "h": 2400,
     "date": "2026-05-23",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "all-inclusive-gran-canaria",
-        "link": "https://grancanaria.se/all-inclusive-gran-canaria/"
-      },
-      {
-        "slug": "basta-hotellen-pa-gran-canaria",
-        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -18313,6 +18252,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "lanzarote-med-barn",
+        "link": "https://lanzarote.se/lanzarote-med-barn/"
+      },
+      {
         "slug": "basta-stranderna-pa-lanzarote",
         "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
       }
@@ -18829,24 +18772,6 @@
   },
   {
     "domain": "lanzarote",
-    "id": 515,
-    "url": "https://lanzarote.se/wp-content/uploads/2026/05/lanzarote-rancho-texas-djurpark-vattenpark-familj-1.jpg",
-    "filename": "lanzarote-rancho-texas-djurpark-vattenpark-familj-1.jpg",
-    "alt": "Rancho Texas Park – djurpark och vattenpark för hela familjen på Lanzarote",
-    "caption": "Rancho Texas Park, Lanzarote, Kanarieöarna",
-    "w": 2560,
-    "h": 1707,
-    "date": "2026-05-30",
-    "managed": true,
-    "used_on": [
-      {
-        "slug": "lanzarote-med-barn",
-        "link": "https://lanzarote.se/lanzarote-med-barn/"
-      }
-    ]
-  },
-  {
-    "domain": "lanzarote",
     "id": 514,
     "url": "https://lanzarote.se/wp-content/uploads/2026/05/lanzarote-princesa-yaiza-hotel-lyxresort.jpg",
     "filename": "lanzarote-princesa-yaiza-hotel-lyxresort.jpg",
@@ -18875,19 +18800,6 @@
         "link": "https://lanzarote.se/papagayo-stranderna-lanzarote/"
       }
     ]
-  },
-  {
-    "domain": "lanzarote",
-    "id": 512,
-    "url": "https://lanzarote.se/wp-content/uploads/2026/05/lanzarote-rancho-texas-djurpark-vattenpark-familj.jpg",
-    "filename": "lanzarote-rancho-texas-djurpark-vattenpark-familj.jpg",
-    "alt": "Rancho Texas Park – djurpark och vattenpark för hela familjen på Lanzarote",
-    "caption": "Rancho Texas Park, Lanzarote, Kanarieöarna",
-    "w": 2560,
-    "h": 1707,
-    "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -20523,19 +20435,6 @@
   },
   {
     "domain": "lanzarote",
-    "id": 267,
-    "url": "https://lanzarote.se/wp-content/uploads/2026/05/147_lanzarote_familj-scaled_exif.jpg",
-    "filename": "147_lanzarote_familj-scaled_exif.jpg",
-    "alt": "Rancho Texas Park – djurpark och vattenpark för hela familjen på Lanzarote",
-    "caption": "Rancho Texas Park, Lanzarote, Kanarieöarna",
-    "w": 2560,
-    "h": 1707,
-    "date": "2026-05-30",
-    "managed": false,
-    "used_on": []
-  },
-  {
-    "domain": "lanzarote",
     "id": 266,
     "url": "https://lanzarote.se/wp-content/uploads/2026/05/164_lanzarote_papa_exif.jpg",
     "filename": "164_lanzarote_papa_exif.jpg",
@@ -20900,19 +20799,6 @@
         "link": "https://lanzarote.se/"
       }
     ]
-  },
-  {
-    "domain": "lanzarote",
-    "id": 148,
-    "url": "https://lanzarote.se/wp-content/uploads/2026/05/lanzarote_familj-1-scaled.jpg",
-    "filename": "lanzarote_familj-1-scaled.jpg",
-    "alt": "Rancho Texas Park – djurpark och vattenpark för hela familjen på Lanzarote",
-    "caption": "Rancho Texas Park, Lanzarote, Kanarieöarna",
-    "w": 2560,
-    "h": 1707,
-    "date": "2026-05-24",
-    "managed": false,
-    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -21735,6 +21621,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "fuerteventura-vandring",
+        "link": "https://fuerteventura.se/fuerteventura-vandring/"
+      },
+      {
         "slug": "hyrbil-pa-fuerteventura",
         "link": "https://fuerteventura.se/hyrbil-pa-fuerteventura/"
       },
@@ -22209,6 +22099,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "fuerteventura-seniorer-guide",
+        "link": "https://fuerteventura.se/fuerteventura-seniorer-guide/"
+      },
+      {
         "slug": "praktisk-info-fuerteventura",
         "link": "https://fuerteventura.se/praktisk-info-fuerteventura/"
       },
@@ -22657,12 +22551,7 @@
     "h": 1707,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "fuerteventura-seniorer-guide",
-        "link": "https://fuerteventura.se/fuerteventura-seniorer-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "fuerteventura",
@@ -22675,12 +22564,7 @@
     "h": 1920,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "fuerteventura-vandring",
-        "link": "https://fuerteventura.se/fuerteventura-vandring/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -27376,6 +27260,10 @@
       {
         "slug": "aix-en-provence-boende",
         "link": "https://provence.se/aix-en-provence-boende/"
+      },
+      {
+        "slug": "var-ska-man-bo-i-provence",
+        "link": "https://provence.se/var-ska-man-bo-i-provence/"
       }
     ]
   },
@@ -29817,16 +29705,7 @@
     "h": 533,
     "date": "2026-06-11",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "aix-en-provence-boende",
-        "link": "https://provence.se/aix-en-provence-boende/"
-      },
-      {
-        "slug": "var-ska-man-bo-i-provence",
-        "link": "https://provence.se/var-ska-man-bo-i-provence/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "provence",

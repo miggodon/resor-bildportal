@@ -9061,7 +9061,7 @@
     "slug": "all-inclusive-gran-canaria",
     "title": "All inclusive på Gran Canaria: är det värt det? Områden, hotelltyper och vem som ska boka",
     "link": "https://grancanaria.se/all-inclusive-gran-canaria/",
-    "modified": "2026-06-21",
+    "modified": "2026-06-28",
     "words": 1606,
     "h2": 12,
     "h3": 29,
@@ -9213,11 +9213,15 @@
     },
     "money_total": 3,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "✅ Topp",
+    "img_issue": [
+      "dubblett"
+    ],
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
-    "flags": [],
+    "flags": [
+      "🖼 dubblettbild (1)"
+    ],
     "tier": "Best-in-class",
     "contaminated": false
   },
@@ -9706,11 +9710,15 @@
     },
     "money_total": 2,
     "gyg_issue": [],
-    "img_issue": [],
-    "qa": "✅ Topp",
+    "img_issue": [
+      "felmatchad"
+    ],
+    "qa": "❌ Fix krävs",
     "needs_image": false,
     "score": 87,
-    "flags": [],
+    "flags": [
+      "📍 felmatchad bild (1)"
+    ],
     "tier": "Berikad",
     "contaminated": false
   },
@@ -10095,11 +10103,11 @@
     "title": "GranCanaria.se — din reseguide till Gran Canaria",
     "link": "https://grancanaria.se/",
     "modified": "2026-06-28",
-    "words": 1777,
-    "h2": 12,
-    "h3": 19,
+    "words": 1735,
+    "h2": 11,
+    "h3": 16,
     "images": 5,
-    "internal": 38,
+    "internal": 35,
     "external": 7,
     "affiliate": 11,
     "type": "Generell",
@@ -10222,7 +10230,7 @@
     "title": "Bästa hotellen på Gran Canaria — guide för skandinaver",
     "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/",
     "modified": "2026-06-28",
-    "words": 5406,
+    "words": 5400,
     "h2": 12,
     "h3": 25,
     "images": 26,
@@ -10256,7 +10264,7 @@
     "needs_image": false,
     "score": 100,
     "flags": [
-      "🖼 dubblettbild (5)",
+      "🖼 dubblettbild (6)",
       "🖼 bild i botten"
     ],
     "tier": "Best-in-class",
@@ -14410,7 +14418,7 @@
     "title": "Lanzarote med barn: bästa områdena, stränderna, hotellen och utflykterna",
     "link": "https://lanzarote.se/lanzarote-med-barn/",
     "modified": "2026-06-28",
-    "words": 1635,
+    "words": 1647,
     "h2": 12,
     "h3": 31,
     "images": 2,
@@ -16386,7 +16394,7 @@
     "title": "Fuerteventura för seniorer – lugn guide med ärliga råd",
     "link": "https://fuerteventura.se/fuerteventura-seniorer-guide/",
     "modified": "2026-06-28",
-    "words": 3084,
+    "words": 3094,
     "h2": 10,
     "h3": 16,
     "images": 3,
@@ -16514,7 +16522,7 @@
     "title": "Vandring på Fuerteventura – leder, områden och ärliga råd",
     "link": "https://fuerteventura.se/fuerteventura-vandring/",
     "modified": "2026-06-28",
-    "words": 1826,
+    "words": 1832,
     "h2": 18,
     "h3": 1,
     "images": 2,
@@ -23739,11 +23747,14 @@
     },
     "money_total": 11,
     "gyg_issue": [],
-    "img_issue": [],
+    "img_issue": [
+      "dubblett"
+    ],
     "qa": "❌ Fix krävs",
     "needs_image": false,
     "score": 95,
     "flags": [
+      "🖼 dubblettbild (1)",
       "⛔ förbjudet: Airbnb, Booking.com"
     ],
     "tier": "Best-in-class",
