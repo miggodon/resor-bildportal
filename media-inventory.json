@@ -1,6 +1,240 @@
 [
   {
     "domain": "malaga",
+    "id": 1253,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/vinter-november-till-mars-malaga.jpg",
+    "filename": "vinter-november-till-mars-malaga.jpg",
+    "alt": "Vinter — november till mars i Málaga med människor och realistisk resemiljö",
+    "caption": "Vinter — november till mars i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "packlista-malaga",
+        "link": "https://malaga.se/packlista-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1251,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/vanliga-fragor-om-granada-fran-malaga.jpg",
+    "filename": "vanliga-fragor-om-granada-fran-malaga.jpg",
+    "alt": "Vanliga frågor om Granada från Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Vanliga frågor om Granada från Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "granada-dagsutflykt-fran-malaga",
+        "link": "https://malaga.se/granada-dagsutflykt-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1249,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/upplevelser-aktiviteter-malaga.jpg",
+    "filename": "upplevelser-aktiviteter-malaga.jpg",
+    "alt": "Upplevelser & aktiviteter i Málaga med människor och realistisk resemiljö",
+    "caption": "Upplevelser &#038; aktiviteter i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://malaga.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1247,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/sommar-juni-till-september-malaga.jpg",
+    "filename": "sommar-juni-till-september-malaga.jpg",
+    "alt": "Sommar — juni till september i Málaga med människor och realistisk resemiljö",
+    "caption": "Sommar — juni till september i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "packlista-malaga",
+        "link": "https://malaga.se/packlista-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1245,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/solo-resplan-for-3-dagar-i-malaga.jpg",
+    "filename": "solo-resplan-for-3-dagar-i-malaga.jpg",
+    "alt": "Solo-resplan för 3 dagar i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Solo-resplan för 3 dagar i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-solo",
+        "link": "https://malaga.se/malaga-solo/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1243,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/september-det-basta-badhavet-malaga.jpg",
+    "filename": "september-det-basta-badhavet-malaga.jpg",
+    "alt": "September — det bästa badhavet i Málaga med människor och realistisk resemiljö",
+    "caption": "September — det bästa badhavet i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-pa-hosten",
+        "link": "https://malaga.se/malaga-pa-hosten/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1241,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/priser-och-folkmassor-i-januari-malaga.jpg",
+    "filename": "priser-och-folkmassor-i-januari-malaga.jpg",
+    "alt": "Priser och folkmassor i januari i Málaga med människor och realistisk resemiljö",
+    "caption": "Priser och folkmassor i januari i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-januari",
+        "link": "https://malaga.se/malaga-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1239,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/praktiskt-sa-tar-du-dig-till-malagas-dolda-strander-malaga.jpg",
+    "filename": "praktiskt-sa-tar-du-dig-till-malagas-dolda-strander-malaga.jpg",
+    "alt": "Praktiskt — så tar du dig till Málagas dolda stränder i Málaga med människor och realistisk resemiljö",
+    "caption": "Praktiskt — så tar du dig till Málagas dolda stränder i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malagas-dolda-badvikar",
+        "link": "https://malaga.se/malagas-dolda-badvikar/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1237,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/omraden-boende-malaga.jpg",
+    "filename": "omraden-boende-malaga.jpg",
+    "alt": "Områden & boende i Málaga med människor och realistisk resemiljö",
+    "caption": "Områden &#038; boende i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://malaga.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1235,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/mat-noje-malaga.jpg",
+    "filename": "mat-noje-malaga.jpg",
+    "alt": "Mat & nöje i Málaga med människor och realistisk resemiljö",
+    "caption": "Mat &#038; nöje i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://malaga.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1233,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/golfhotell-och-paket-pa-costa-del-sol-malaga.jpg",
+    "filename": "golfhotell-och-paket-pa-costa-del-sol-malaga.jpg",
+    "alt": "Golfhotell och paket på Costa del Sol i Málaga med människor och realistisk resemiljö",
+    "caption": "Golfhotell och paket på Costa del Sol i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "golf-malaga",
+        "link": "https://malaga.se/golf-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1231,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/caminito-del-valle-el-chorro-malaga.jpg",
+    "filename": "caminito-del-valle-el-chorro-malaga.jpg",
+    "alt": "Caminito del Valle (El Chorro) i Málaga med människor och realistisk resemiljö",
+    "caption": "Caminito del Valle (El Chorro) i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vandring-malaga-caminito-del-rey",
+        "link": "https://malaga.se/vandring-malaga-caminito-del-rey/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1229,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/7-playa-del-chanquete-den-lilla-doldisen-malaga.jpg",
+    "filename": "7-playa-del-chanquete-den-lilla-doldisen-malaga.jpg",
+    "alt": "Playa del Chanquete — den lilla doldisen i Málaga med människor och realistisk resemiljö",
+    "caption": "Playa del Chanquete — den lilla doldisen i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-i-malaga",
+        "link": "https://malaga.se/basta-stranderna-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1061,
     "url": "https://malaga.se/wp-content/uploads/2026/06/laser-tag-och-bowling-malaga-2.jpg",
     "filename": "laser-tag-och-bowling-malaga-2.jpg",
@@ -45,7 +279,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-mars",
@@ -63,7 +297,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-juni",
@@ -81,7 +315,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -99,7 +333,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-vs-granada",
@@ -117,7 +351,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -135,7 +369,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -153,7 +387,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -171,7 +405,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-for-seniorer",
@@ -189,7 +423,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -207,7 +441,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "stadsdelar-malaga",
@@ -225,7 +459,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -243,7 +477,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-pa-hosten",
@@ -261,7 +495,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -279,7 +513,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -297,7 +531,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -310,7 +544,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -328,7 +562,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-malaga",
@@ -364,7 +598,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "stadsdelar-malaga",
@@ -382,7 +616,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-hbtq",
@@ -400,7 +634,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-hbtq",
@@ -418,7 +652,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -436,7 +670,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -454,7 +688,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -472,7 +706,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "golf-malaga",
@@ -490,7 +724,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -503,7 +737,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -516,7 +750,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -534,7 +768,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -552,7 +786,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-i-malaga",
@@ -570,7 +804,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -588,7 +822,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -601,7 +835,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -619,7 +853,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -632,7 +866,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -650,7 +884,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -668,7 +902,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -681,7 +915,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -699,7 +933,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -712,7 +946,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-februari",
@@ -730,7 +964,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-september",
@@ -748,7 +982,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-mars",
@@ -766,7 +1000,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-juni",
@@ -784,7 +1018,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-januari",
@@ -802,7 +1036,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -820,7 +1054,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -838,7 +1072,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -856,7 +1090,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -874,7 +1108,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -892,7 +1126,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -910,7 +1144,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -928,7 +1162,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -946,7 +1180,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -964,7 +1198,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -982,7 +1216,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1000,7 +1234,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1372,12 +1606,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "malaga-med-tonaringar",
-        "link": "https://malaga.se/malaga-med-tonaringar/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -1507,12 +1736,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "malaga-med-tonaringar",
-        "link": "https://malaga.se/malaga-med-tonaringar/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -2356,7 +2580,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -5631,12 +5855,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "hyrbil-rhodos-vanner",
-        "link": "https://rhodos.se/hyrbil-rhodos-vanner/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "rhodos",
@@ -5698,12 +5917,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "basta-tiden-att-resa-till-rhodos",
-        "link": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "rhodos",
@@ -5819,12 +6033,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "hyrbil-rhodos-barnfamilj",
-        "link": "https://rhodos.se/hyrbil-rhodos-barnfamilj/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "rhodos",
@@ -9643,6 +9852,301 @@
   },
   {
     "domain": "grancanaria",
+    "id": 1399,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/san-agustin-lugnare-morkare-skonare-grancanaria.jpg",
+    "filename": "san-agustin-lugnare-morkare-skonare-grancanaria.jpg",
+    "alt": "San Agustín — lugnare, mörkare, skönare i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "San Agustín — lugnare, mörkare, skönare i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-gran-canaria",
+        "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1397,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/puerto-rico-solsakert-och-barnvanligt-grancanaria.jpg",
+    "filename": "puerto-rico-solsakert-och-barnvanligt-grancanaria.jpg",
+    "alt": "Puerto Rico: solsäkert och barnvanligt i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Puerto Rico: solsäkert och barnvanligt i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1395,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/november-winterpride-och-langliggare-grancanaria.jpg",
+    "filename": "november-winterpride-och-langliggare-grancanaria.jpg",
+    "alt": "November — WinterPride och långliggare i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "November — WinterPride och långliggare i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-gran-canaria",
+        "link": "https://grancanaria.se/basta-tiden-att-resa-till-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1393,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/norra-gran-canaria-grancanaria.jpg",
+    "filename": "norra-gran-canaria-grancanaria.jpg",
+    "alt": "Norra Gran Canaria i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Norra Gran Canaria i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      },
+      {
+        "slug": "norra-gran-canaria",
+        "link": "https://grancanaria.se/norra-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1391,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+    "filename": "las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+    "alt": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1389,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/las-canteras-strandguide-grancanaria.jpg",
+    "filename": "las-canteras-strandguide-grancanaria.jpg",
+    "alt": "Las Canteras strandguide i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Canteras strandguide i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1387,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/kultur-och-museum-grancanaria.jpg",
+    "filename": "kultur-och-museum-grancanaria.jpg",
+    "alt": "Kultur och museum i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Kultur och museum i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
+        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1385,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/guider-puerto-de-mogan-grancanaria.jpg",
+    "filename": "guider-puerto-de-mogan-grancanaria.jpg",
+    "alt": "Puerto de Mogán i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Puerto de Mogán i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1383,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+    "filename": "guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+    "alt": "Maspalomas & Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas &#038; Playa del Inglés i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1381,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/guider-maspalomas-dynerna-grancanaria.jpg",
+    "filename": "guider-maspalomas-dynerna-grancanaria.jpg",
+    "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas-dynerna i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://grancanaria.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1380,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/gran-canaria-for-forsta-gangen-puerto-de-mogan-grancanaria.jpg",
+    "filename": "gran-canaria-for-forsta-gangen-puerto-de-mogan-grancanaria.jpg",
+    "alt": "Puerto de Mogán i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Puerto de Mogán i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1379,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/gran-canaria-for-forsta-gangen-playa-del-ingles-grancanaria.jpg",
+    "filename": "gran-canaria-for-forsta-gangen-playa-del-ingles-grancanaria.jpg",
+    "alt": "Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Playa del Inglés i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1378,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/gran-canaria-for-forsta-gangen-maspalomas-grancanaria.jpg",
+    "filename": "gran-canaria-for-forsta-gangen-maspalomas-grancanaria.jpg",
+    "alt": "Maspalomas i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1376,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/gran-canaria-for-forsta-gangen-las-canteras-grancanaria.jpg",
+    "filename": "gran-canaria-for-forsta-gangen-las-canteras-grancanaria.jpg",
+    "alt": "Las Canteras i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Canteras i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1374,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/gran-canaria-for-forsta-gangen-amadores-grancanaria.jpg",
+    "filename": "gran-canaria-for-forsta-gangen-amadores-grancanaria.jpg",
+    "alt": "Amadores i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Amadores i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria-for-forsta-gangen",
+        "link": "https://grancanaria.se/gran-canaria-for-forsta-gangen/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1372,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/djurparker-och-vattenparker-grancanaria.jpg",
+    "filename": "djurparker-och-vattenparker-grancanaria.jpg",
+    "alt": "Djurparker och vattenparker i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Djurparker och vattenparker i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
+        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1370,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/06/andra-attraktioner-nara-aqualand-grancanaria.jpg",
+    "filename": "andra-attraktioner-nara-aqualand-grancanaria.jpg",
+    "alt": "Andra attraktioner nära Aqualand i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Andra attraktioner nära Aqualand i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aqualand-maspalomas",
+        "link": "https://grancanaria.se/aqualand-maspalomas/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
     "id": 1265,
     "url": "https://grancanaria.se/wp-content/uploads/2026/06/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
     "filename": "vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
@@ -9651,7 +10155,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "norra-gran-canaria",
@@ -9669,7 +10173,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -9687,7 +10191,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -9705,7 +10209,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -9723,7 +10227,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -9741,7 +10245,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-grancanaria",
@@ -9759,7 +10263,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-gran-canaria",
@@ -9777,7 +10281,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "med-barn-familjeguide",
@@ -9795,7 +10299,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -9813,7 +10317,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -9831,7 +10335,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -9849,7 +10353,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -9867,7 +10371,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -9885,7 +10389,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -9903,7 +10407,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -9921,7 +10425,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "las-canteras-strandguide",
@@ -9939,7 +10443,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -9957,7 +10461,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -9975,7 +10479,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-hbtq",
@@ -9993,7 +10497,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10011,7 +10515,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -10029,7 +10533,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10047,7 +10551,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-gran-canaria",
@@ -10065,7 +10569,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -10083,7 +10587,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -10101,7 +10605,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10119,7 +10623,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10137,7 +10641,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-praktisk-info",
@@ -10155,7 +10659,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -10173,7 +10677,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -10191,7 +10695,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -10209,7 +10713,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -10227,7 +10731,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10245,7 +10749,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bergsbyarna-gran-canaria",
@@ -10263,7 +10767,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -10281,7 +10785,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-gran-canaria",
@@ -10299,7 +10803,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10317,7 +10821,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10335,7 +10839,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -10353,7 +10857,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -10371,7 +10875,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -10389,7 +10893,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -10425,7 +10929,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10443,7 +10947,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10461,7 +10965,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -10479,7 +10983,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -10497,7 +11001,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-med-barn",
@@ -10515,7 +11019,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -10533,7 +11037,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -11603,7 +12107,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "omrade-puerto-mogan",
@@ -13006,6 +13510,662 @@
   },
   {
     "domain": "teneriffa",
+    "id": 1357,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/varfor-teneriffa-passar-solo-resenarer-teneriffa.jpg",
+    "filename": "varfor-teneriffa-passar-solo-resenarer-teneriffa.jpg",
+    "alt": "Varför Teneriffa passar solo-resenärer i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Varför Teneriffa passar solo-resenärer i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "solo-resa-teneriffa",
+        "link": "https://teneriffa.se/solo-resa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1355,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/varfor-anaga-ar-unikt-teneriffa.jpg",
+    "filename": "varfor-anaga-ar-unikt-teneriffa.jpg",
+    "alt": "Varför Anaga är unikt i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Varför Anaga är unikt i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "anaga-teneriffa",
+        "link": "https://teneriffa.se/anaga-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1353,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vandringen-till-teide-toppen-teneriffa.jpg",
+    "filename": "vandringen-till-teide-toppen-teneriffa.jpg",
+    "alt": "Vandringen till Teide-toppen i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Vandringen till Teide-toppen i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teide-nationalpark",
+        "link": "https://teneriffa.se/teide-nationalpark/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1351,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/vader-i-juni-pa-teneriffa.jpg",
+    "filename": "vader-i-juni-pa-teneriffa.jpg",
+    "alt": "Väder i juni på Teneriffa i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Väder i juni på Teneriffa i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-juni",
+        "link": "https://teneriffa.se/teneriffa-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1350,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-i-september-aktiviteter-i-september-teneriffa.jpg",
+    "filename": "teneriffa-i-september-aktiviteter-i-september-teneriffa.jpg",
+    "alt": "Aktiviteter i september i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i september i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-september",
+        "link": "https://teneriffa.se/teneriffa-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1348,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-i-september-aktiviteter-i-september-teneriffa-2.jpg",
+    "filename": "teneriffa-i-september-aktiviteter-i-september-teneriffa-2.jpg",
+    "alt": "Aktiviteter i september i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i september i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-september",
+        "link": "https://teneriffa.se/teneriffa-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1347,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-i-juni-aktiviteter-i-juni-teneriffa.jpg",
+    "filename": "teneriffa-i-juni-aktiviteter-i-juni-teneriffa.jpg",
+    "alt": "Aktiviteter i juni i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i juni i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-juni",
+        "link": "https://teneriffa.se/teneriffa-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1345,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-i-juni-aktiviteter-i-juni-teneriffa-2.jpg",
+    "filename": "teneriffa-i-juni-aktiviteter-i-juni-teneriffa-2.jpg",
+    "alt": "Aktiviteter i juni i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i juni i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-i-juni",
+        "link": "https://teneriffa.se/teneriffa-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1343,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/teneriffa-digital-nomad-guide-puerto-de-la-cruz-teneriffa.jpg",
+    "filename": "teneriffa-digital-nomad-guide-puerto-de-la-cruz-teneriffa.jpg",
+    "alt": "Puerto de la Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Puerto de la Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-digital-nomad-guide",
+        "link": "https://teneriffa.se/teneriffa-digital-nomad-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1341,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/strander-i-och-runt-playa-de-las-americas-teneriffa.jpg",
+    "filename": "strander-i-och-runt-playa-de-las-americas-teneriffa.jpg",
+    "alt": "Stränder i och runt Playa de las Américas i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Stränder i och runt Playa de las Américas i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "playa-de-las-americas-teneriffa",
+        "link": "https://teneriffa.se/playa-de-las-americas-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1339,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/strander-fuerteventura-vinner-teneriffa.jpg",
+    "filename": "strander-fuerteventura-vinner-teneriffa.jpg",
+    "alt": "Stränder: Fuerteventura vinner i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Stränder: Fuerteventura vinner i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-vs-fuerteventura",
+        "link": "https://teneriffa.se/teneriffa-vs-fuerteventura/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1337,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/stranden-i-los-gigantes-teneriffa.jpg",
+    "filename": "stranden-i-los-gigantes-teneriffa.jpg",
+    "alt": "Stranden i Los Gigantes i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Stranden i Los Gigantes i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "los-gigantes-teneriffa",
+        "link": "https://teneriffa.se/los-gigantes-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1335,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/sparvagnen-santa-cruzla-laguna-teneriffa.jpg",
+    "filename": "sparvagnen-santa-cruzla-laguna-teneriffa.jpg",
+    "alt": "Spårvagnen Santa Cruz–La Laguna i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Spårvagnen Santa Cruz–La Laguna i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1333,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/siam-park-varldsklass-men-kom-tidigt-teneriffa.jpg",
+    "filename": "siam-park-varldsklass-men-kom-tidigt-teneriffa.jpg",
+    "alt": "Siam Park: världsklass men kom tidigt i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Siam Park: världsklass men kom tidigt i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-med-barn-familjeguide",
+        "link": "https://teneriffa.se/teneriffa-med-barn-familjeguide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1331,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/santa-cruz-teneriffas-huvudstad-teneriffa.jpg",
+    "filename": "santa-cruz-teneriffas-huvudstad-teneriffa.jpg",
+    "alt": "Santa Cruz — Teneriffas huvudstad i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Santa Cruz — Teneriffas huvudstad i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "santa-cruz-de-tenerife",
+        "link": "https://teneriffa.se/santa-cruz-de-tenerife/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1329,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/santa-cruz-teneriffa.jpg",
+    "filename": "santa-cruz-teneriffa.jpg",
+    "alt": "Santa Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Santa Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "anaga-teneriffa",
+        "link": "https://teneriffa.se/anaga-teneriffa/"
+      },
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      },
+      {
+        "slug": "teneriffa-digital-nomad-guide",
+        "link": "https://teneriffa.se/teneriffa-digital-nomad-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1327,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/santa-cruz-och-la-laguna-teneriffa.jpg",
+    "filename": "santa-cruz-och-la-laguna-teneriffa.jpg",
+    "alt": "Santa Cruz och La Laguna i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Santa Cruz och La Laguna i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1325,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-las-vistas-teneriffa.jpg",
+    "filename": "playa-las-vistas-teneriffa.jpg",
+    "alt": "Playa Las Vistas i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa Las Vistas i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "los-cristianos-teneriffa",
+        "link": "https://teneriffa.se/los-cristianos-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1323,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-del-duque-lugnt-och-exklusivt-teneriffa.jpg",
+    "filename": "playa-del-duque-lugnt-och-exklusivt-teneriffa.jpg",
+    "alt": "Playa del Duque – lugnt och exklusivt i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa del Duque – lugnt och exklusivt i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "costa-adeje-teneriffa",
+        "link": "https://teneriffa.se/costa-adeje-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1321,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-de-las-teresitas-sahara-sand-med-anagabergens-dramatik-i-ryggen-teneriffa.jpg",
+    "filename": "playa-de-las-teresitas-sahara-sand-med-anagabergens-dramatik-i-ryggen-teneriffa.jpg",
+    "alt": "Playa de las Teresitas — Sahara-sand med Anagabergens dramatik i ryggen i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa de las Teresitas — Sahara-sand med Anagabergens dramatik i ryggen i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1319,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-de-las-americas-idag-teneriffa.jpg",
+    "filename": "playa-de-las-americas-idag-teneriffa.jpg",
+    "alt": "Playa de las Américas idag i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa de las Américas idag i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "playa-de-las-americas-teneriffa",
+        "link": "https://teneriffa.se/playa-de-las-americas-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1317,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/playa-de-la-enramada-stentornens-romantiska-atmosfar-teneriffa.jpg",
+    "filename": "playa-de-la-enramada-stentornens-romantiska-atmosfar-teneriffa.jpg",
+    "alt": "Playa de la Enramada — stentornens romantiska atmosfär i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Playa de la Enramada — stentornens romantiska atmosfär i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-strandar-guide",
+        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1315,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/papas-arrugadas-med-mojo-teneriffa.jpg",
+    "filename": "papas-arrugadas-med-mojo-teneriffa.jpg",
+    "alt": "Papas arrugadas med mojo i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Papas arrugadas med mojo i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1313,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/narheten-till-playa-de-las-americas-teneriffa.jpg",
+    "filename": "narheten-till-playa-de-las-americas-teneriffa.jpg",
+    "alt": "Närheten till Playa de las Américas i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Närheten till Playa de las Américas i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "costa-adeje-teneriffa",
+        "link": "https://teneriffa.se/costa-adeje-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1311,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/mat-noje-teneriffa.jpg",
+    "filename": "mat-noje-teneriffa.jpg",
+    "alt": "Mat & nöje i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Mat &#038; nöje i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://teneriffa.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1309,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/masca-byn-80-km-1-5-tim-teneriffa.jpg",
+    "filename": "masca-byn-80-km-1-5-tim-teneriffa.jpg",
+    "alt": "Masca-byn — 80 km / 1,5 tim i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Masca-byn — 80 km / 1,5 tim i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-teneriffa",
+        "link": "https://teneriffa.se/dagsutflykter-fran-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1307,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/los-gigantes-klippvaggar-teneriffa.jpg",
+    "filename": "los-gigantes-klippvaggar-teneriffa.jpg",
+    "alt": "Los Gigantes klippväggar i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Los Gigantes klippväggar i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "los-gigantes-teneriffa",
+        "link": "https://teneriffa.se/los-gigantes-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1305,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/loro-parque-och-jungle-park-teneriffa.jpg",
+    "filename": "loro-parque-och-jungle-park-teneriffa.jpg",
+    "alt": "Loro Parque och Jungle Park i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Loro Parque och Jungle Park i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "teneriffa-med-barn-familjeguide",
+        "link": "https://teneriffa.se/teneriffa-med-barn-familjeguide/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1303,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/loro-parque-huvudattraktionen-teneriffa.jpg",
+    "filename": "loro-parque-huvudattraktionen-teneriffa.jpg",
+    "alt": "Loro Parque – huvudattraktionen i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Loro Parque – huvudattraktionen i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "puerto-de-la-cruz-teneriffa",
+        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1301,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/las-teresitas-stranden-vid-santa-cruz-teneriffa.jpg",
+    "filename": "las-teresitas-stranden-vid-santa-cruz-teneriffa.jpg",
+    "alt": "Las Teresitas — stranden vid Santa Cruz i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Las Teresitas — stranden vid Santa Cruz i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "anaga-teneriffa",
+        "link": "https://teneriffa.se/anaga-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1299,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/kan-jag-ta-hyrbilen-med-farjan-till-la-gomera-teneriffa.jpg",
+    "filename": "kan-jag-ta-hyrbilen-med-farjan-till-la-gomera-teneriffa.jpg",
+    "alt": "Kan jag ta hyrbilen med färjan till La Gomera? i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Kan jag ta hyrbilen med färjan till La Gomera? i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-teneriffa",
+        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1297,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/fler-guider-teneriffa.jpg",
+    "filename": "fler-guider-teneriffa.jpg",
+    "alt": "Fler guider i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Fler guider i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://teneriffa.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1295,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/costa-adeje-och-la-caleta-teneriffa.jpg",
+    "filename": "costa-adeje-och-la-caleta-teneriffa.jpg",
+    "alt": "Costa Adeje och La Caleta i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Costa Adeje och La Caleta i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1293,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/carnaval-de-santa-cruz-spaniens-mest-kande-karneval-teneriffa.jpg",
+    "filename": "carnaval-de-santa-cruz-spaniens-mest-kande-karneval-teneriffa.jpg",
+    "alt": "Carnaval de Santa Cruz — Spaniens mest kände karneval i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Carnaval de Santa Cruz — Spaniens mest kände karneval i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "santa-cruz-de-tenerife",
+        "link": "https://teneriffa.se/santa-cruz-de-tenerife/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1291,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/boende-och-mat-i-los-gigantes-teneriffa.jpg",
+    "filename": "boende-och-mat-i-los-gigantes-teneriffa.jpg",
+    "alt": "Boende och mat i Los Gigantes i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Boende och mat i Los Gigantes i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "los-gigantes-teneriffa",
+        "link": "https://teneriffa.se/los-gigantes-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 1289,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/06/auditorio-de-tenerife-teneriffa.jpg",
+    "filename": "auditorio-de-tenerife-teneriffa.jpg",
+    "alt": "Auditorio de Tenerife i Teneriffa med människor och realistisk resemiljö",
+    "caption": "Auditorio de Tenerife i Teneriffa",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "santa-cruz-de-tenerife",
+        "link": "https://teneriffa.se/santa-cruz-de-tenerife/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
     "id": 1213,
     "url": "https://teneriffa.se/wp-content/uploads/2026/06/vilken-ar-teneriffas-basta-strand-for-barn-teneriffa-1.jpg",
     "filename": "vilken-ar-teneriffas-basta-strand-for-barn-teneriffa-1.jpg",
@@ -13040,7 +14200,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-teneriffa",
@@ -13058,7 +14218,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -13076,7 +14236,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -13094,7 +14254,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -13112,7 +14272,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -13130,8 +14290,12 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
+      {
+        "slug": "matguide-teneriffa",
+        "link": "https://teneriffa.se/matguide-teneriffa/"
+      },
       {
         "slug": "brollopsresa-teneriffa",
         "link": "https://teneriffa.se/brollopsresa-teneriffa/"
@@ -13148,7 +14312,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -13166,7 +14330,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -13184,7 +14348,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -13202,7 +14366,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "costa-adeje-teneriffa",
@@ -13220,7 +14384,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -13238,7 +14402,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "teneriffa-utan-hyrbil",
@@ -14701,12 +15865,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -15930,12 +17089,7 @@
     "h": 1024,
     "date": "2026-05-28",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-teneriffa",
-        "link": "https://teneriffa.se/7-dagar-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -15948,12 +17102,7 @@
     "h": 1024,
     "date": "2026-05-28",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "hyrbil-pa-teneriffa",
-        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -16597,12 +17746,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "5-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/5-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -16615,12 +17759,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "5-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/5-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -19797,12 +20936,62 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "var-ska-man-bo-pa-lanzarote",
-        "link": "https://lanzarote.se/var-ska-man-bo-pa-lanzarote/"
-      },
-      {
         "slug": "start",
         "link": "https://lanzarote.se/"
+      }
+    ]
+  },
+  {
+    "domain": "fuerteventura",
+    "id": 945,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/los-charcos-lagunerna-ingen-pratar-om-fuerteventura.jpg",
+    "filename": "los-charcos-lagunerna-ingen-pratar-om-fuerteventura.jpg",
+    "alt": "Los Charcos — lagunerna ingen pratar om i Fuerteventura med människor och realistisk resemiljö",
+    "caption": "Los Charcos — lagunerna ingen pratar om i Fuerteventura",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-fuerteventura",
+        "link": "https://fuerteventura.se/basta-stranderna-pa-fuerteventura/"
+      }
+    ]
+  },
+  {
+    "domain": "fuerteventura",
+    "id": 943,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/la-concha-den-perfekta-familjestranden-fuerteventura.jpg",
+    "filename": "la-concha-den-perfekta-familjestranden-fuerteventura.jpg",
+    "alt": "La Concha — den perfekta familjestranden i Fuerteventura med människor och realistisk resemiljö",
+    "caption": "La Concha — den perfekta familjestranden i Fuerteventura",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-stranderna-pa-fuerteventura",
+        "link": "https://fuerteventura.se/basta-stranderna-pa-fuerteventura/"
+      }
+    ]
+  },
+  {
+    "domain": "fuerteventura",
+    "id": 941,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/06/la-alcogida-levande-museum-over-livet-fore-turismen-fuerteventura.jpg",
+    "filename": "la-alcogida-levande-museum-over-livet-fore-turismen-fuerteventura.jpg",
+    "alt": "La Alcogida — levande museum över livet före turismen i Fuerteventura med människor och realistisk resemiljö",
+    "caption": "La Alcogida — levande museum över livet före turismen i Fuerteventura",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-fuerteventura",
+        "link": "https://fuerteventura.se/saker-att-gora-pa-fuerteventura/"
       }
     ]
   },
@@ -19855,7 +21044,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagar-pa-fuerteventura",
@@ -19873,7 +21062,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "5-dagar-pa-fuerteventura",
@@ -21154,12 +22343,7 @@
     "h": 1023,
     "date": "2026-05-30",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "om-fuerteventura-se",
-        "link": "https://fuerteventura.se/om-fuerteventura-se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "fuerteventura",
@@ -23363,6 +24547,276 @@
   },
   {
     "domain": "venedig",
+    "id": 510,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/vilken-del-av-castello-venedig.jpg",
+    "filename": "vilken-del-av-castello-venedig.jpg",
+    "alt": "Vilken del av Castello? i Venedig med människor och realistisk resemiljö",
+    "caption": "Vilken del av Castello? i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-biennale-boende-castello",
+        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 508,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/santa-croce-strategiskt-och-prisvart-venedig.jpg",
+    "filename": "santa-croce-strategiskt-och-prisvart-venedig.jpg",
+    "alt": "Santa Croce — strategiskt och prisvärt i Venedig med människor och realistisk resemiljö",
+    "caption": "Santa Croce — strategiskt och prisvärt i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-venedig",
+        "link": "https://venedig.se/hotell-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 506,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/san-marco-turistfallor-och-guldkorn-venedig.jpg",
+    "filename": "san-marco-turistfallor-och-guldkorn-venedig.jpg",
+    "alt": "San Marco — turistfällor och guldkorn i Venedig med människor och realistisk resemiljö",
+    "caption": "San Marco — turistfällor och guldkorn i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "restauranger-venedig",
+        "link": "https://venedig.se/restauranger-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 504,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/program-och-hojdpunkter-under-karnevalen-venedig.jpg",
+    "filename": "program-och-hojdpunkter-under-karnevalen-venedig.jpg",
+    "alt": "Program och höjdpunkter under karnevalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Program och höjdpunkter under karnevalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "karnevalen-venedig",
+        "link": "https://venedig.se/karnevalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 502,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/praktiska-tips-for-karnevalsresan-venedig.jpg",
+    "filename": "praktiska-tips-for-karnevalsresan-venedig.jpg",
+    "alt": "Praktiska tips för karnevalsresan i Venedig med människor och realistisk resemiljö",
+    "caption": "Praktiska tips för karnevalsresan i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "karnevalen-venedig",
+        "link": "https://venedig.se/karnevalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 500,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/lagenhet-eller-hotell-i-dorsoduro-venedig.jpg",
+    "filename": "lagenhet-eller-hotell-i-dorsoduro-venedig.jpg",
+    "alt": "Lägenhet eller hotell i Dorsoduro i Venedig med människor och realistisk resemiljö",
+    "caption": "Lägenhet eller hotell i Dorsoduro i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dorsoduro-venedig-boende",
+        "link": "https://venedig.se/dorsoduro-venedig-boende/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 498,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/hyr-bil-for-dolomiterna-venedig.jpg",
+    "filename": "hyr-bil-for-dolomiterna-venedig.jpg",
+    "alt": "Hyr bil för Dolomiterna i Venedig med människor och realistisk resemiljö",
+    "caption": "Hyr bil för Dolomiterna i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "venedig-dolomiterna-roadtrip",
+        "link": "https://venedig.se/venedig-dolomiterna-roadtrip/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 496,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/giudecca-lugnare-men-mer-planerad-resa-venedig.jpg",
+    "filename": "giudecca-lugnare-men-mer-planerad-resa-venedig.jpg",
+    "alt": "Giudecca: lugnare men mer planerad resa i Venedig med människor och realistisk resemiljö",
+    "caption": "Giudecca: lugnare men mer planerad resa i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "giudecca-eller-dorsoduro",
+        "link": "https://venedig.se/giudecca-eller-dorsoduro/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 494,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/bra-lagen-i-santa-croce-venedig.jpg",
+    "filename": "bra-lagen-i-santa-croce-venedig.jpg",
+    "alt": "Bra lägen i Santa Croce i Venedig med människor och realistisk resemiljö",
+    "caption": "Bra lägen i Santa Croce i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "santa-croce-venedig-boende",
+        "link": "https://venedig.se/santa-croce-venedig-boende/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 492,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boka-aktiviteter-upplevelser-direkt-venedig.jpg",
+    "filename": "boka-aktiviteter-upplevelser-direkt-venedig.jpg",
+    "alt": "Boka aktiviteter & upplevelser direkt i Venedig med människor och realistisk resemiljö",
+    "caption": "Boka aktiviteter &#038; upplevelser direkt i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-venedig",
+        "link": "https://venedig.se/saker-att-gora-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 490,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-under-karnevalen-venedig.jpg",
+    "filename": "boende-under-karnevalen-venedig.jpg",
+    "alt": "Boende under karnevalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Boende under karnevalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "karnevalen-i-venedig-boende",
+        "link": "https://venedig.se/karnevalen-i-venedig-boende/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 488,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-under-host-och-vinter-venedig.jpg",
+    "filename": "boende-under-host-och-vinter-venedig.jpg",
+    "alt": "Boende under höst och vinter i Venedig med människor och realistisk resemiljö",
+    "caption": "Boende under höst och vinter i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "acqua-alta-venedig",
+        "link": "https://venedig.se/acqua-alta-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 486,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/boende-nara-giardini-och-arsenale-venedig.jpg",
+    "filename": "boende-nara-giardini-och-arsenale-venedig.jpg",
+    "alt": "Boende nära Giardini och Arsenale i Venedig med människor och realistisk resemiljö",
+    "caption": "Boende nära Giardini och Arsenale i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "biennalen-venedig",
+        "link": "https://venedig.se/biennalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 484,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/basta-omraden-under-karnevalen-venedig.jpg",
+    "filename": "basta-omraden-under-karnevalen-venedig.jpg",
+    "alt": "Bästa områden under karnevalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Bästa områden under karnevalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "karnevalen-venedig",
+        "link": "https://venedig.se/karnevalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 482,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/basta-fotoplatserna-under-karnevalen-venedig.jpg",
+    "filename": "basta-fotoplatserna-under-karnevalen-venedig.jpg",
+    "alt": "Bästa fotoplatserna under karnevalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Bästa fotoplatserna under karnevalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "karnevalen-venedig",
+        "link": "https://venedig.se/karnevalen-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
     "id": 478,
     "url": "https://venedig.se/wp-content/uploads/2026/06/startsida-var-ska-man-bo-venedig.jpg",
     "filename": "startsida-var-ska-man-bo-venedig.jpg",
@@ -23389,7 +24843,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -24886,7 +26340,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -24977,7 +26431,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
   },
   {
     "domain": "florida",
@@ -27603,7 +29062,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -27621,7 +29080,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -27639,7 +29098,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -27657,7 +29116,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -27675,7 +29134,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -27693,7 +29152,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "torres-del-paine",
