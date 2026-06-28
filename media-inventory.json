@@ -3509,7 +3509,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -3527,7 +3527,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -3545,7 +3545,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-rhodos",
@@ -3563,7 +3563,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -3581,7 +3581,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-vinter-guide",
@@ -3599,7 +3599,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -3617,7 +3617,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3635,7 +3635,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3653,7 +3653,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-digital-nomad",
@@ -3671,7 +3671,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3689,7 +3689,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -3707,7 +3707,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -3725,7 +3725,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -3743,7 +3743,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3761,7 +3761,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -3779,7 +3779,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-i-juli",
@@ -3797,7 +3797,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3815,7 +3815,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3833,7 +3833,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -3851,7 +3851,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -3869,7 +3869,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -3887,7 +3887,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -3905,7 +3905,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -3923,7 +3923,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-med-barn",
@@ -3941,7 +3941,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -3959,7 +3959,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -3977,7 +3977,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -3995,7 +3995,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kiotari-rhodos",
@@ -4013,7 +4013,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-digital-nomad",
@@ -4031,7 +4031,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -4049,7 +4049,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -4067,7 +4067,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-senior-aldre",
@@ -4085,7 +4085,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4103,7 +4103,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4121,7 +4121,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4139,7 +4139,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-i-oktober",
@@ -4157,7 +4157,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-i-augusti",
@@ -4175,7 +4175,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -4193,7 +4193,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
