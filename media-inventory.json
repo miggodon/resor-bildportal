@@ -1,6 +1,24 @@
 [
   {
     "domain": "malaga",
+    "id": 1276,
+    "url": "https://malaga.se/wp-content/uploads/2026/06/utomhusaktiviteter-malaga-2.jpg",
+    "filename": "utomhusaktiviteter-malaga-2.jpg",
+    "alt": "Utomhusaktiviteter i Málaga med människor och realistisk resemiljö",
+    "caption": "Utomhusaktiviteter i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-for-seniorer",
+        "link": "https://malaga.se/malaga-for-seniorer/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1253,
     "url": "https://malaga.se/wp-content/uploads/2026/06/vinter-november-till-mars-malaga.jpg",
     "filename": "vinter-november-till-mars-malaga.jpg",
@@ -9,7 +27,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "packlista-malaga",
@@ -27,7 +45,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -45,7 +63,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -63,7 +81,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "packlista-malaga",
@@ -81,7 +99,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-solo",
@@ -99,7 +117,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-pa-hosten",
@@ -117,7 +135,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-i-januari",
@@ -135,7 +153,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -153,7 +171,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -171,7 +189,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -189,7 +207,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "golf-malaga",
@@ -207,7 +225,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -225,7 +243,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -24547,6 +24565,175 @@
   },
   {
     "domain": "venedig",
+    "id": 523,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/privat-vattentaxi-venedig-1.jpg",
+    "filename": "privat-vattentaxi-venedig-1.jpg",
+    "alt": "Privat vattentaxi i Venedig med människor och realistisk resemiljö",
+    "caption": "Privat vattentaxi i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 522,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/hyra-lagenhet-eller-rum-venedig-1.jpg",
+    "filename": "hyra-lagenhet-eller-rum-venedig-1.jpg",
+    "alt": "Hyra lägenhet eller rum i Venedig med människor och realistisk resemiljö",
+    "caption": "Hyra lägenhet eller rum i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 521,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/flygplats-transfer-venedig-1.jpg",
+    "filename": "flygplats-transfer-venedig-1.jpg",
+    "alt": "Flygplats & transfer i Venedig med människor och realistisk resemiljö",
+    "caption": "Flygplats &#038; transfer i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 520,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dorsoduro-lugnare-kulturstarkt-och-bra-for-par-venedig-1.jpg",
+    "filename": "dorsoduro-lugnare-kulturstarkt-och-bra-for-par-venedig-1.jpg",
+    "alt": "Dorsoduro: lugnare, kulturstarkt och bra för par i Venedig med människor och realistisk resemiljö",
+    "caption": "Dorsoduro: lugnare, kulturstarkt och bra för par i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 519,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/dela-gondol-med-andra-fran-33-person-venedig-1.jpg",
+    "filename": "dela-gondol-med-andra-fran-33-person-venedig-1.jpg",
+    "alt": "Dela gondol med andra — från 33€/person i Venedig med människor och realistisk resemiljö",
+    "caption": "Dela gondol med andra — från 33€/person i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 518,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/castello-mer-vardag-och-starkt-vid-biennalen-venedig-1.jpg",
+    "filename": "castello-mer-vardag-och-starkt-vid-biennalen-venedig-1.jpg",
+    "alt": "Castello: mer vardag och starkt vid Biennalen i Venedig med människor och realistisk resemiljö",
+    "caption": "Castello: mer vardag och starkt vid Biennalen i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 517,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/cannaregio-venedig.jpg",
+    "filename": "cannaregio-venedig.jpg",
+    "alt": "Cannaregio i Venedig med människor och realistisk resemiljö",
+    "caption": "Cannaregio i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cannaregio-venedig-boende",
+        "link": "https://venedig.se/cannaregio-venedig-boende/"
+      },
+      {
+        "slug": "boende-venedig",
+        "link": "https://venedig.se/boende-venedig/"
+      },
+      {
+        "slug": "hyra-lagenhet-rum-venedig",
+        "link": "https://venedig.se/hyra-lagenhet-rum-venedig/"
+      }
+    ]
+  },
+  {
+    "domain": "venedig",
+    "id": 516,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/biennale-2026-och-boende-venedig-1.jpg",
+    "filename": "biennale-2026-och-boende-venedig-1.jpg",
+    "alt": "Biennale 2026 och boende i Venedig med människor och realistisk resemiljö",
+    "caption": "Biennale 2026 och boende i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 515,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/basta-tiden-att-aka-venedig-1.jpg",
+    "filename": "basta-tiden-att-aka-venedig-1.jpg",
+    "alt": "Bästa tiden att åka i Venedig med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att åka i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 514,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/aktiviteter-upplevelser-venedig-1.jpg",
+    "filename": "aktiviteter-upplevelser-venedig-1.jpg",
+    "alt": "Aktiviteter & upplevelser i Venedig med människor och realistisk resemiljö",
+    "caption": "Aktiviteter &#038; upplevelser i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 513,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/1987-unesco-venedig-1.jpg",
+    "filename": "1987-unesco-venedig-1.jpg",
+    "alt": "1987 UNESCO i Venedig med människor och realistisk resemiljö",
+    "caption": "1987 UNESCO i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
+    "id": 512,
+    "url": "https://venedig.se/wp-content/uploads/2026/06/0-bilar-venedig-1.jpg",
+    "filename": "0-bilar-venedig-1.jpg",
+    "alt": "0 bilar i Venedig med människor och realistisk resemiljö",
+    "caption": "0 bilar i Venedig",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "venedig",
     "id": 510,
     "url": "https://venedig.se/wp-content/uploads/2026/06/vilken-del-av-castello-venedig.jpg",
     "filename": "vilken-del-av-castello-venedig.jpg",
@@ -24555,7 +24742,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-biennale-boende-castello",
@@ -24573,7 +24760,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -24591,7 +24778,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -24609,7 +24796,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -24627,7 +24814,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -24645,7 +24832,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dorsoduro-venedig-boende",
@@ -24663,7 +24850,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -24681,7 +24868,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "giudecca-eller-dorsoduro",
@@ -24699,7 +24886,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "santa-croce-venedig-boende",
@@ -24717,7 +24904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-venedig",
@@ -24735,7 +24922,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "karnevalen-i-venedig-boende",
@@ -24753,7 +24940,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "acqua-alta-venedig",
@@ -24771,7 +24958,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "biennalen-venedig",
@@ -24789,7 +24976,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -24807,7 +24994,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -24861,7 +25048,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24897,7 +25084,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-venedig",
@@ -24915,7 +25102,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24933,7 +25120,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24951,7 +25138,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -24969,7 +25156,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gondol-venedig",
@@ -24987,7 +25174,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -25005,7 +25192,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "venedig-biennale-boende-castello",
@@ -25041,7 +25228,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -25077,7 +25264,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -25095,7 +25282,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -26852,6 +27039,19 @@
   },
   {
     "domain": "provence",
+    "id": 601,
+    "url": "https://provence.se/wp-content/uploads/2026/06/bastide-med-pool-alpilles-provence.jpg",
+    "filename": "bastide-med-pool-alpilles-provence.jpg",
+    "alt": "Bastide med pool i Alpilles i Provence med människor och realistisk resemiljö",
+    "caption": "Bastide med pool, Alpilles i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-28",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "provence",
     "id": 531,
     "url": "https://provence.se/wp-content/uploads/2026/06/villa-med-pool-utanfor-aix-provence.jpg",
     "filename": "villa-med-pool-utanfor-aix-provence.jpg",
@@ -26860,7 +27060,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-boende",
@@ -26878,7 +27078,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -26896,7 +27096,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -26914,7 +27114,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-vin",
@@ -26932,7 +27132,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-vin",
@@ -26950,7 +27150,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -26968,7 +27168,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -26986,7 +27186,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -27004,7 +27204,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27022,7 +27222,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27040,7 +27240,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27058,7 +27258,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27076,7 +27276,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27094,7 +27294,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -27112,7 +27312,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -27130,7 +27330,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -27148,7 +27348,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "calanques-guide",
@@ -27170,7 +27370,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "calanques-guide",
@@ -27188,7 +27388,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27206,7 +27406,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27224,7 +27424,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27242,7 +27442,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27260,7 +27460,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -27278,7 +27478,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27296,7 +27496,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -27314,7 +27514,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -27332,7 +27532,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -27350,7 +27550,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -27368,7 +27568,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -27386,7 +27586,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -27404,7 +27604,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27422,7 +27622,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27440,7 +27640,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27458,7 +27658,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-avignon",
