@@ -45,6 +45,201 @@
         "ready_folder": "bilder/web-ready/malaga/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
+      "file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
+      "filename": "ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:ac-hotel-malaga-palacio-takterrass-med-basta-utsikten",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": null,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "AC Hotel Málaga Palacio — takterrass med bästa utsikten",
+      "h3_slug": "ac-hotel-malaga-palacio-takterrass-med-basta-utsikten",
+      "place": "AC Hotel Málaga Palacio vid katedralen och hamnen",
+      "gps": "36.7181, -4.4193",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga med människor och realistisk resemiljö",
+      "caption": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
+      "seo": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
+        "web_ready_file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "AC Hotel Málaga Palacio — takterrass med bästa utsikten",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
+          "alt": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga med människor och realistisk resemiljö",
+          "caption": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
+          "description": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+    },
+    {
+      "source": "bilder/inbox/alegria-flamenco-show-malaga.png",
+      "file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
+      "filename": "alegria-flamenco-show-malaga.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:alegria-flamenco-bast-for-forstagangsbesokare",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": null,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "Alegría Flamenco — bäst för förstagångsbesökare",
+      "h3_slug": "alegria-flamenco-bast-for-forstagangsbesokare",
+      "place": "Alegría Flamenco nära Málagas hamn och centrum",
+      "gps": "36.7166, -4.4172",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga med människor och realistisk resemiljö",
+      "caption": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
+      "seo": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/alegria-flamenco-show-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "Alegría Flamenco — bäst för förstagångsbesökare",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
+          "alt": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga med människor och realistisk resemiljö",
+          "caption": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
+          "description": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+    },
+    {
+      "source": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
+      "file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
+      "filename": "anden-klubb-maria-zambrano-tagstation-malaga.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:anden-klubben-i-tagstationen",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": null,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "Andén — klubben i tågstationen",
+      "h3_slug": "anden-klubben-i-tagstationen",
+      "place": "Andén vid Málaga María Zambrano tågstation",
+      "gps": "36.7115, -4.4310",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Andén — klubben i tågstationen i Málaga med människor och realistisk resemiljö",
+      "caption": "Andén — klubben i tågstationen i Málaga",
+      "seo": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "Andén — klubben i tågstationen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Andén — klubben i tågstationen i Málaga",
+          "alt": "Andén — klubben i tågstationen i Málaga med människor och realistisk resemiljö",
+          "caption": "Andén — klubben i tågstationen i Málaga",
+          "description": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+    },
+    {
+      "source": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
+      "file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
+      "filename": "casa-lola-tapasbar-calle-granada-malaga.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:casa-lola-tapasbarernas-drottning",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": null,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "Casa Lola — tapasbarernas drottning",
+      "h3_slug": "casa-lola-tapasbarernas-drottning",
+      "place": "Casa Lola på Calle Granada i gamla stan",
+      "gps": "36.7217, -4.4194",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Casa Lola — tapasbarernas drottning i Málaga med människor och realistisk resemiljö",
+      "caption": "Casa Lola — tapasbarernas drottning i Málaga",
+      "seo": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "Casa Lola — tapasbarernas drottning",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Casa Lola — tapasbarernas drottning i Málaga",
+          "alt": "Casa Lola — tapasbarernas drottning i Málaga med människor och realistisk resemiljö",
+          "caption": "Casa Lola — tapasbarernas drottning i Málaga",
+          "description": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+    },
+    {
+      "source": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
+      "file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+      "filename": "el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+      "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:el-pimpi-malagas-mest-ikoniska-bodega",
+      "domain": "malaga",
+      "site": "malaga.se",
+      "destination": "Málaga",
+      "page": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+      "page_id": null,
+      "page_title": "Málaga uteliv 2026 — barer, klubbar & flamenco-shower",
+      "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+      "h3": "El Pimpi — Málagas mest ikoniska bodega",
+      "h3_slug": "el-pimpi-malagas-mest-ikoniska-bodega",
+      "place": "El Pimpi vid romerska teatern och Alcazaba",
+      "gps": "36.7223, -4.4177",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "El Pimpi — Málagas mest ikoniska bodega i Málaga med människor och realistisk resemiljö",
+      "caption": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
+      "seo": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
+        "web_ready_file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+        "wordpress_target": {
+          "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
+          "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
+          "section_h3": "El Pimpi — Málagas mest ikoniska bodega",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
+          "alt": "El Pimpi — Málagas mest ikoniska bodega i Málaga med människor och realistisk resemiljö",
+          "caption": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
+          "description": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
     }
   ]
 }

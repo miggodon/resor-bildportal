@@ -10369,12 +10369,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "med-barn-familjeguide",
-        "link": "https://grancanaria.se/med-barn-familjeguide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11001,8 +10996,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
-        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+        "slug": "hotell-puerto-rico-gran-canaria",
+        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria/"
       }
     ]
   },
@@ -11268,12 +11263,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
-        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -11409,8 +11399,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
-        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+        "slug": "hotell-puerto-rico-gran-canaria",
+        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria/"
       }
     ]
   },
@@ -13425,8 +13415,8 @@
         "link": "https://grancanaria.se/grancanaria-par-roadtrip/"
       },
       {
-        "slug": "hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer",
-        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria-din-kompletta-guide-for-nordiska-resenarer/"
+        "slug": "hotell-puerto-rico-gran-canaria",
+        "link": "https://grancanaria.se/hotell-puerto-rico-gran-canaria/"
       }
     ]
   },
@@ -13543,12 +13533,7 @@
     "h": 1024,
     "date": "2026-06-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-i-juni",
-        "link": "https://teneriffa.se/teneriffa-i-juni/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
