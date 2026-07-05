@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/guider-planering-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/guider-planering-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/guider-planering-sydamerika.jpg",
       "filename": "guider-planering-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:guider-planering",
       "domain": "sydamerika",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Guider & planering i Sydamerika. Bilden visar Guider & planering i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/guider-planering-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/guider-planering-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/guider-planering-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -39,13 +39,16 @@
           "caption": "Guider & planering i Sydamerika",
           "description": "En realistisk resebild från Guider & planering i Sydamerika. Bilden visar Guider & planering i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/guider-planering-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotell-vs-lagenhet-vs-hostel-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
       "filename": "hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
       "brief_id": "sydamerika:boende-sydamerika:hotell-vs-lagenhet-vs-hostel",
       "domain": "sydamerika",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Hotell vs lägenhet vs hostel i Sydamerika. Bilden visar Hotell vs lägenhet vs hostel i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotell-vs-lagenhet-vs-hostel-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/boende-sydamerika/",
           "page_slug": "boende-sydamerika",
@@ -78,13 +81,16 @@
           "caption": "Hotell vs lägenhet vs hostel i Sydamerika",
           "description": "En realistisk resebild från Hotell vs lägenhet vs hostel i Sydamerika. Bilden visar Hotell vs lägenhet vs hostel i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/klassiska-rutter-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/klassiska-rutter-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/klassiska-rutter-sydamerika.jpg",
       "filename": "klassiska-rutter-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:klassiska-rutter",
       "domain": "sydamerika",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Klassiska rutter i Sydamerika. Bilden visar Klassiska rutter i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/klassiska-rutter-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/klassiska-rutter-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/klassiska-rutter-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -117,13 +123,16 @@
           "caption": "Klassiska rutter i Sydamerika",
           "description": "En realistisk resebild från Klassiska rutter i Sydamerika. Bilden visar Klassiska rutter i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/klassiska-rutter-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/planera-i-3-steg-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/planera-i-3-steg-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/planera-i-3-steg-sydamerika.jpg",
       "filename": "planera-i-3-steg-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:planera-i-3-steg",
       "domain": "sydamerika",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Planera i 3 steg i Sydamerika. Bilden visar Planera i 3 steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/planera-i-3-steg-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/planera-i-3-steg-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/planera-i-3-steg-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -156,13 +165,16 @@
           "caption": "Planera i 3 steg i Sydamerika",
           "description": "En realistisk resebild från Planera i 3 steg i Sydamerika. Bilden visar Planera i 3 steg i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/planera-i-3-steg-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/populara-stader-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/populara-stader-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/populara-stader-sydamerika.jpg",
       "filename": "populara-stader-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:populara-stader",
       "domain": "sydamerika",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Populära städer i Sydamerika. Bilden visar Populära städer i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/populara-stader-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/populara-stader-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/populara-stader-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -195,13 +207,16 @@
           "caption": "Populära städer i Sydamerika",
           "description": "En realistisk resebild från Populära städer i Sydamerika. Bilden visar Populära städer i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/populara-stader-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/valj-land-alla-12-destinationer-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/valj-land-alla-12-destinationer-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/valj-land-alla-12-destinationer-sydamerika.jpg",
       "filename": "valj-land-alla-12-destinationer-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:valj-land-alla-12-destinationer",
       "domain": "sydamerika",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Välj land — alla 12 destinationer i Sydamerika. Bilden visar Välj land — alla 12 destinationer i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/valj-land-alla-12-destinationer-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/valj-land-alla-12-destinationer-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/valj-land-alla-12-destinationer-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -234,9 +249,12 @@
           "caption": "Välj land — alla 12 destinationer i Sydamerika",
           "description": "En realistisk resebild från Välj land — alla 12 destinationer i Sydamerika. Bilden visar Välj land — alla 12 destinationer i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/valj-land-alla-12-destinationer-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

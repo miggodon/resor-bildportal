@@ -48,7 +48,7 @@
     },
     {
       "source": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
-      "file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
+      "file": "bilder/web-ready/malaga/redo/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
       "filename": "ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:ac-hotel-malaga-palacio-takterrass-med-basta-utsikten",
       "domain": "malaga",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/ac-hotel-malaga-palacio-takterrass-hamn-katedral.png",
-        "web_ready_file": "bilder/web-ready/malaga/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
+        "web_ready_file": "bilder/web-ready/malaga/redo/ac-hotel-malaga-palacio-takterrass-hamn-katedral.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -81,13 +81,16 @@
           "caption": "AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga",
           "description": "En realistisk resebild från AC Hotel Málaga Palacio vid katedralen och hamnen. Bilden visar AC Hotel Málaga Palacio — takterrass med bästa utsikten i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/alegria-flamenco-show-malaga.png",
-      "file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
+      "file": "bilder/web-ready/malaga/redo/alegria-flamenco-show-malaga.jpg",
       "filename": "alegria-flamenco-show-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:alegria-flamenco-bast-for-forstagangsbesokare",
       "domain": "malaga",
@@ -107,7 +110,7 @@
       "seo": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/alegria-flamenco-show-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/alegria-flamenco-show-malaga.jpg",
+        "web_ready_file": "bilder/web-ready/malaga/redo/alegria-flamenco-show-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -120,13 +123,16 @@
           "caption": "Alegría Flamenco — bäst för förstagångsbesökare i Málaga",
           "description": "En realistisk resebild från Alegría Flamenco nära Málagas hamn och centrum. Bilden visar Alegría Flamenco — bäst för förstagångsbesökare i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
-      "file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
+      "file": "bilder/web-ready/malaga/redo/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
       "filename": "anden-klubb-maria-zambrano-tagstation-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:anden-klubben-i-tagstationen",
       "domain": "malaga",
@@ -146,7 +152,7 @@
       "seo": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/anden-klubb-maria-zambrano-tagstation-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
+        "web_ready_file": "bilder/web-ready/malaga/redo/anden-klubb-maria-zambrano-tagstation-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -159,13 +165,16 @@
           "caption": "Andén — klubben i tågstationen i Málaga",
           "description": "En realistisk resebild från Andén vid Málaga María Zambrano tågstation. Bilden visar Andén — klubben i tågstationen i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
-      "file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
+      "file": "bilder/web-ready/malaga/redo/casa-lola-tapasbar-calle-granada-malaga.jpg",
       "filename": "casa-lola-tapasbar-calle-granada-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:casa-lola-tapasbarernas-drottning",
       "domain": "malaga",
@@ -185,7 +194,7 @@
       "seo": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/casa-lola-tapasbar-calle-granada-malaga.jpg",
+        "web_ready_file": "bilder/web-ready/malaga/redo/casa-lola-tapasbar-calle-granada-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -198,13 +207,16 @@
           "caption": "Casa Lola — tapasbarernas drottning i Málaga",
           "description": "En realistisk resebild från Casa Lola på Calle Granada i gamla stan. Bilden visar Casa Lola — tapasbarernas drottning i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
-      "file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+      "file": "bilder/web-ready/malaga/redo/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
       "filename": "el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
       "brief_id": "malaga:malaga-uteliv-barer-klubbar-flamenco:el-pimpi-malagas-mest-ikoniska-bodega",
       "domain": "malaga",
@@ -224,7 +236,7 @@
       "seo": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
-        "web_ready_file": "bilder/web-ready/malaga/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+        "web_ready_file": "bilder/web-ready/malaga/redo/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
         "wordpress_target": {
           "page_url": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/",
           "page_slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -237,9 +249,12 @@
           "caption": "El Pimpi — Málagas mest ikoniska bodega i Málaga",
           "description": "En realistisk resebild från El Pimpi vid romerska teatern och Alcazaba. Bilden visar El Pimpi — Málagas mest ikoniska bodega i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

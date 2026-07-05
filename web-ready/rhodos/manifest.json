@@ -132,7 +132,7 @@
     },
     {
       "source": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/atrium-platinum-resort-spa-ixia-rhodos.jpg",
       "filename": "atrium-platinum-resort-spa-ixia-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:atrium-platinum-resort-spa-ixia",
       "domain": "rhodos",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/atrium-platinum-resort-spa-ixia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/atrium-platinum-resort-spa-ixia-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/atrium-platinum-resort-spa-ixia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -165,13 +165,16 @@
           "caption": "Atrium Platinum Resort & Spa – Ixia i Rhodos",
           "description": "En realistisk resebild från Atrium Platinum Resort & Spa – Ixia i Rhodos. Bilden visar Atrium Platinum Resort & Spa – Ixia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
-      "file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/esperos-village-blue-spa-faliraki-rhodos.jpg",
       "filename": "esperos-village-blue-spa-faliraki-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:esperos-village-blue-spa-faliraki",
       "domain": "rhodos",
@@ -191,7 +194,7 @@
       "seo": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/esperos-village-blue-spa-faliraki-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/esperos-village-blue-spa-faliraki-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/esperos-village-blue-spa-faliraki-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -204,13 +207,16 @@
           "caption": "Esperos Village Blue & Spa – Faliraki i Rhodos",
           "description": "En realistisk resebild från Esperos Village Blue & Spa – Faliraki i Rhodos. Bilden visar Esperos Village Blue & Spa – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hotel-anastasia-faliraki-rhodos.png",
-      "file": "bilder/web-ready/rhodos/hotel-anastasia-faliraki-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/hotel-anastasia-faliraki-rhodos.jpg",
       "filename": "hotel-anastasia-faliraki-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:hotel-anastasia-faliraki",
       "domain": "rhodos",
@@ -230,7 +236,7 @@
       "seo": "En realistisk resebild från Hotel Anastasia – Faliraki i Rhodos. Bilden visar Hotel Anastasia – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hotel-anastasia-faliraki-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/hotel-anastasia-faliraki-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/hotel-anastasia-faliraki-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -243,13 +249,16 @@
           "caption": "Hotel Anastasia – Faliraki i Rhodos",
           "description": "En realistisk resebild från Hotel Anastasia – Faliraki i Rhodos. Bilden visar Hotel Anastasia – Faliraki i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/jimmys-garden-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/jimmys-garden-rhodos-stad-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/jimmys-garden-rhodos-stad-rhodos.jpg",
       "filename": "jimmys-garden-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:jimmys-garden-rhodos-stad",
       "domain": "rhodos",
@@ -269,7 +278,7 @@
       "seo": "En realistisk resebild från Jimmy’s Garden – Rhodos stad i Rhodos. Bilden visar Jimmy’s Garden – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/jimmys-garden-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/jimmys-garden-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/jimmys-garden-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -282,13 +291,16 @@
           "caption": "Jimmy’s Garden – Rhodos stad i Rhodos",
           "description": "En realistisk resebild från Jimmy’s Garden – Rhodos stad i Rhodos. Bilden visar Jimmy’s Garden – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kolymbia-star-hotel-kolymbia-rhodos.png",
-      "file": "bilder/web-ready/rhodos/kolymbia-star-hotel-kolymbia-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/kolymbia-star-hotel-kolymbia-rhodos.jpg",
       "filename": "kolymbia-star-hotel-kolymbia-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:kolymbia-star-hotel-kolymbia",
       "domain": "rhodos",
@@ -308,7 +320,7 @@
       "seo": "En realistisk resebild från Kolymbia Star Hotel – Kolymbia i Rhodos. Bilden visar Kolymbia Star Hotel – Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kolymbia-star-hotel-kolymbia-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/kolymbia-star-hotel-kolymbia-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/kolymbia-star-hotel-kolymbia-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -321,13 +333,16 @@
           "caption": "Kolymbia Star Hotel – Kolymbia i Rhodos",
           "description": "En realistisk resebild från Kolymbia Star Hotel – Kolymbia i Rhodos. Bilden visar Kolymbia Star Hotel – Kolymbia i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lindos-allure-boutique-i-lindos-gamla-by-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
       "filename": "lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:lindos-allure-boutique-i-lindos-gamla-by",
       "domain": "rhodos",
@@ -347,7 +362,7 @@
       "seo": "En realistisk resebild från Lindos Allure – Boutique i Lindos gamla by i Rhodos. Bilden visar Lindos Allure – Boutique i Lindos gamla by i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-allure-boutique-i-lindos-gamla-by-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-allure-boutique-i-lindos-gamla-by-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -360,13 +375,16 @@
           "caption": "Lindos Allure – Boutique i Lindos gamla by i Rhodos",
           "description": "En realistisk resebild från Lindos Allure – Boutique i Lindos gamla by i Rhodos. Bilden visar Lindos Allure – Boutique i Lindos gamla by i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png",
-      "file": "bilder/web-ready/rhodos/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
       "filename": "lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:lindos-blu-luxury-hotel-suites-vlicha-bay",
       "domain": "rhodos",
@@ -386,7 +404,7 @@
       "seo": "En realistisk resebild från Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos. Bilden visar Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/lindos-blu-luxury-hotel-suites-vlicha-bay-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -399,13 +417,16 @@
           "caption": "Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos",
           "description": "En realistisk resebild från Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos. Bilden visar Lindos Blu Luxury Hotel & Suites – Vlicha Bay i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/mitsis-petit-palais-rhodos-stad-rhodos.png",
-      "file": "bilder/web-ready/rhodos/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
+      "file": "bilder/web-ready/rhodos/redo/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
       "filename": "mitsis-petit-palais-rhodos-stad-rhodos.jpg",
       "brief_id": "rhodos:basta-hotellen-pa-rhodos:mitsis-petit-palais-rhodos-stad",
       "domain": "rhodos",
@@ -425,7 +446,7 @@
       "seo": "En realistisk resebild från Mitsis Petit Palais – Rhodos stad i Rhodos. Bilden visar Mitsis Petit Palais – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/mitsis-petit-palais-rhodos-stad-rhodos.png",
-        "web_ready_file": "bilder/web-ready/rhodos/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
+        "web_ready_file": "bilder/web-ready/rhodos/redo/mitsis-petit-palais-rhodos-stad-rhodos.jpg",
         "wordpress_target": {
           "page_url": "https://rhodos.se/basta-hotellen-pa-rhodos/",
           "page_slug": "basta-hotellen-pa-rhodos",
@@ -438,9 +459,12 @@
           "caption": "Mitsis Petit Palais – Rhodos stad i Rhodos",
           "description": "En realistisk resebild från Mitsis Petit Palais – Rhodos stad i Rhodos. Bilden visar Mitsis Petit Palais – Rhodos stad i Rhodos under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/rhodos/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

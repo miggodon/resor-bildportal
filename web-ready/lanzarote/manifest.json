@@ -300,7 +300,7 @@
     },
     {
       "source": "bilder/inbox/barnfamiljer-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/barnfamiljer-lanzarote.jpg",
       "filename": "barnfamiljer-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:barnfamiljer",
       "domain": "lanzarote",
@@ -320,7 +320,7 @@
       "seo": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/barnfamiljer-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/barnfamiljer-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/barnfamiljer-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -333,13 +333,16 @@
           "caption": "Barnfamiljer i Lanzarote",
           "description": "En realistisk resebild från Barnfamiljer i Lanzarote. Bilden visar Barnfamiljer i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/for-marknad-kultur-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/for-marknad-kultur-lanzarote.jpg",
       "filename": "for-marknad-kultur-lanzarote.jpg",
       "brief_id": "lanzarote:7-dagar-pa-lanzarote:for-marknad-kultur",
       "domain": "lanzarote",
@@ -359,7 +362,7 @@
       "seo": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/for-marknad-kultur-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/for-marknad-kultur-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/for-marknad-kultur-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/7-dagar-pa-lanzarote/",
           "page_slug": "7-dagar-pa-lanzarote",
@@ -372,13 +375,16 @@
           "caption": "För marknad/kultur i Lanzarote",
           "description": "En realistisk resebild från För marknad/kultur i Lanzarote. Bilden visar För marknad/kultur i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/om-du-bor-i-costa-teguise-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-costa-teguise-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-costa-teguise-lanzarote.jpg",
       "filename": "om-du-bor-i-costa-teguise-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-costa-teguise",
       "domain": "lanzarote",
@@ -398,7 +404,7 @@
       "seo": "En realistisk resebild från Om du bor i Costa Teguise i Lanzarote. Bilden visar Om du bor i Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-costa-teguise-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-costa-teguise-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-costa-teguise-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -411,13 +417,16 @@
           "caption": "Om du bor i Costa Teguise i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Costa Teguise i Lanzarote. Bilden visar Om du bor i Costa Teguise i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/om-du-bor-i-playa-blanca-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-playa-blanca-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-playa-blanca-lanzarote.jpg",
       "filename": "om-du-bor-i-playa-blanca-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-playa-blanca",
       "domain": "lanzarote",
@@ -437,7 +446,7 @@
       "seo": "En realistisk resebild från Om du bor i Playa Blanca i Lanzarote. Bilden visar Om du bor i Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-playa-blanca-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-playa-blanca-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-playa-blanca-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -450,13 +459,16 @@
           "caption": "Om du bor i Playa Blanca i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Playa Blanca i Lanzarote. Bilden visar Om du bor i Playa Blanca i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
       "filename": "om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:om-du-bor-i-puerto-del-carmen",
       "domain": "lanzarote",
@@ -476,7 +488,7 @@
       "seo": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/om-du-bor-i-puerto-del-carmen-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/om-du-bor-i-puerto-del-carmen-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -489,13 +501,16 @@
           "caption": "Om du bor i Puerto del Carmen i Lanzarote",
           "description": "En realistisk resebild från Om du bor i Puerto del Carmen i Lanzarote. Bilden visar Om du bor i Puerto del Carmen i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
-      "file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+      "file": "bilder/web-ready/lanzarote/redo/racker-5-dagar-pa-lanzarote.jpg",
       "filename": "racker-5-dagar-pa-lanzarote.jpg",
       "brief_id": "lanzarote:5-dagar-pa-lanzarote:racker-5-dagar-pa-lanzarote",
       "domain": "lanzarote",
@@ -515,7 +530,7 @@
       "seo": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/racker-5-dagar-pa-lanzarote.png",
-        "web_ready_file": "bilder/web-ready/lanzarote/racker-5-dagar-pa-lanzarote.jpg",
+        "web_ready_file": "bilder/web-ready/lanzarote/redo/racker-5-dagar-pa-lanzarote.jpg",
         "wordpress_target": {
           "page_url": "https://lanzarote.se/5-dagar-pa-lanzarote/",
           "page_slug": "5-dagar-pa-lanzarote",
@@ -528,9 +543,12 @@
           "caption": "Räcker 5 dagar på Lanzarote? i Lanzarote",
           "description": "En realistisk resebild från Räcker 5 dagar på Lanzarote? i Lanzarote. Bilden visar Räcker 5 dagar på Lanzarote? i Lanzarote under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/lanzarote/redo"
       },
-      "inspection": "staging JPG backfilled from dashboard; pending EXIF handoff"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

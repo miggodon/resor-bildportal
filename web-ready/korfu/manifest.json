@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/achilleion-kejsarinnans-palats-korfu.png",
-      "file": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/achilleion-kejsarinnans-palats-korfu.jpg",
       "filename": "achilleion-kejsarinnans-palats-korfu.jpg",
       "brief_id": "korfu:sevardheter-pa-korfu:achilleion-kejsarinnans-palats",
       "domain": "korfu",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Achilleion — kejsarinnans palats i Korfu. Bilden visar Achilleion — kejsarinnans palats i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/achilleion-kejsarinnans-palats-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/achilleion-kejsarinnans-palats-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/sevardheter-pa-korfu/",
           "page_slug": "sevardheter-pa-korfu",
@@ -39,13 +39,16 @@
           "caption": "Achilleion — kejsarinnans palats i Korfu",
           "description": "En realistisk resebild från Achilleion — kejsarinnans palats i Korfu. Bilden visar Achilleion — kejsarinnans palats i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
-      "file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/albanien-saranda-snabbfarja-30-min-korfu.jpg",
       "filename": "albanien-saranda-snabbfarja-30-min-korfu.jpg",
       "brief_id": "korfu:dagsutflykter-fran-korfu:albanien-saranda-snabbfarja-30-min",
       "domain": "korfu",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Albanien (Saranda) — Snabbfärja 30 min i Korfu. Bilden visar Albanien (Saranda) — Snabbfärja 30 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/albanien-saranda-snabbfarja-30-min-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
           "page_slug": "dagsutflykter-fran-korfu",
@@ -78,13 +81,16 @@
           "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
           "description": "En realistisk resebild från Albanien (Saranda) — Snabbfärja 30 min i Korfu. Bilden visar Albanien (Saranda) — Snabbfärja 30 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
-      "file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
       "filename": "cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
       "brief_id": "korfu:dagsutflykter-fran-korfu:cape-drastis-nordspetsen-37-km-50-min",
       "domain": "korfu",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. Bilden visar Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
           "page_slug": "dagsutflykter-fran-korfu",
@@ -117,13 +123,16 @@
           "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
           "description": "En realistisk resebild från Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. Bilden visar Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kavos-soder-korfu.png",
-      "file": "bilder/web-ready/korfu/kavos-soder-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/kavos-soder-korfu.jpg",
       "filename": "kavos-soder-korfu.jpg",
       "brief_id": "korfu:uteliv-pa-korfu:kavos-soder",
       "domain": "korfu",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Kavos (söder) i Korfu. Bilden visar Kavos (söder) i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kavos-soder-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/kavos-soder-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/kavos-soder-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/uteliv-pa-korfu/",
           "page_slug": "uteliv-pa-korfu",
@@ -156,13 +165,16 @@
           "caption": "Kavos (söder) i Korfu",
           "description": "En realistisk resebild från Kavos (söder) i Korfu. Bilden visar Kavos (söder) i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/kavos-soder-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png",
-      "file": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/korfu-stad-liston-gamla-hamnen-korfu.jpg",
       "filename": "korfu-stad-liston-gamla-hamnen-korfu.jpg",
       "brief_id": "korfu:uteliv-pa-korfu:korfu-stad-liston-gamla-hamnen",
       "domain": "korfu",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Korfu stad — Liston & Gamla hamnen i Korfu. Bilden visar Korfu stad — Liston & Gamla hamnen i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/korfu-stad-liston-gamla-hamnen-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/uteliv-pa-korfu/",
           "page_slug": "uteliv-pa-korfu",
@@ -195,13 +207,16 @@
           "caption": "Korfu stad — Liston & Gamla hamnen i Korfu",
           "description": "En realistisk resebild från Korfu stad — Liston & Gamla hamnen i Korfu. Bilden visar Korfu stad — Liston & Gamla hamnen i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/korfu-trail-220-km-tur-retur-korfu.png",
-      "file": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/korfu-trail-220-km-tur-retur-korfu.jpg",
       "filename": "korfu-trail-220-km-tur-retur-korfu.jpg",
       "brief_id": "korfu:vandring-pa-korfu:korfu-trail-220-km-tur-retur",
       "domain": "korfu",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från Korfu Trail — 220 km tur-retur i Korfu. Bilden visar Korfu Trail — 220 km tur-retur i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/korfu-trail-220-km-tur-retur-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/korfu-trail-220-km-tur-retur-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/vandring-pa-korfu/",
           "page_slug": "vandring-pa-korfu",
@@ -234,13 +249,16 @@
           "caption": "Korfu Trail — 220 km tur-retur i Korfu",
           "description": "En realistisk resebild från Korfu Trail — 220 km tur-retur i Korfu. Bilden visar Korfu Trail — 220 km tur-retur i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
-      "file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+      "file": "bilder/web-ready/korfu/redo/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
       "filename": "paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
       "brief_id": "korfu:dagsutflykter-fran-korfu:paxos-och-anti-paxos-dagsbat-11-5-tim",
       "domain": "korfu",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. Bilden visar Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+        "web_ready_file": "bilder/web-ready/korfu/redo/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
         "wordpress_target": {
           "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
           "page_slug": "dagsutflykter-fran-korfu",
@@ -273,9 +291,12 @@
           "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
           "description": "En realistisk resebild från Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. Bilden visar Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/korfu/redo"
       },
-      "inspection": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

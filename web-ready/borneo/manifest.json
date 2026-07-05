@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/rutt-a-sabah-med-orangutanger-och-flod-borneo.png",
-      "file": "bilder/web-ready/borneo/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
+      "file": "bilder/web-ready/borneo/redo/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
       "filename": "rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
       "brief_id": "borneo:10-dagar-pa-borneo:rutt-a-sabah-med-orangutanger-och-flod",
       "domain": "borneo",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Rutt A: Sabah med orangutanger och flod i Borneo. Bilden visar Rutt A: Sabah med orangutanger och flod i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/rutt-a-sabah-med-orangutanger-och-flod-borneo.png",
-        "web_ready_file": "bilder/web-ready/borneo/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
+        "web_ready_file": "bilder/web-ready/borneo/redo/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
         "wordpress_target": {
           "page_url": "https://borneo.se/10-dagar-pa-borneo/",
           "page_slug": "10-dagar-pa-borneo",
@@ -39,9 +39,12 @@
           "caption": "Rutt A: Sabah med orangutanger och flod i Borneo",
           "description": "En realistisk resebild från Rutt A: Sabah med orangutanger och flod i Borneo. Bilden visar Rutt A: Sabah med orangutanger och flod i Borneo under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/borneo/redo"
       },
-      "inspection": "bilder/web-ready/borneo/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

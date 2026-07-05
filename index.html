@@ -17,6 +17,18 @@
     nav { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
     nav a, .open-link { color:#075985; text-decoration:none; font-weight:650; }
     nav a { border:1px solid var(--line); background:#f8fafc; border-radius:6px; padding:6px 9px; }
+    nav a b { font-weight:800; }
+    nav a.chip-done { background:#ecfdf5; border-color:#6ee7b7; color:#047857; }
+    nav a.chip-mid { background:#fffbeb; border-color:#fcd34d; color:#b45309; }
+    nav a.chip-low { background:#fef2f2; border-color:#fca5a5; color:#b91c1c; }
+    th.sortable { cursor:pointer; user-select:none; white-space:nowrap; }
+    th.sortable::after { content:" ↕"; opacity:.4; font-size:11px; }
+    th.sortable.sorted-asc::after { content:" ↑"; opacity:1; }
+    th.sortable.sorted-desc::after { content:" ↓"; opacity:1; }
+    td.warn-cell { background:#fef2f2; color:#b91c1c; font-weight:700; }
+    .cellbar { height:6px; background:#e2e8f0; border-radius:999px; overflow:hidden; min-width:70px; margin-bottom:3px; }
+    .cellbar span { display:block; height:100%; background:#0d9488; border-radius:999px; }
+    td small { color:var(--muted); }
     .primary-nav { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
     .biglink { display:inline-block; background:var(--accent); color:#fff; padding:10px 15px; border-radius:8px; font-weight:700; text-decoration:none; }
     main { max-width:1180px; margin:0 auto; padding:18px; display:grid; grid-template-columns:repeat(auto-fit, minmax(330px, 1fr)); gap:14px; align-items:start; }
@@ -72,7 +84,7 @@
     .wq-dom { display:inline-block; background:#334155; color:#fff; border-radius:4px; padding:1px 5px; font-size:11px; margin-right:4px; }
     .wq-meta { color:var(--muted); font-size:12px; }
     .wq-empty { color:var(--muted); list-style:none; margin-left:-18px; }
-    @media (max-width:760px) { header { position:static; } main { grid-template-columns:1fr; padding:12px; } .stats, .copy-row { grid-template-columns:1fr; } .copy-row.prompt-copy { grid-template-columns:1fr; } .portfolio-table { display:block; overflow-x:auto; } }
+    @media (max-width:760px) { header { position:static; } main { grid-template-columns:1fr; padding:12px; } .stats { grid-template-columns:repeat(2,1fr); } .copy-row { grid-template-columns:1fr; } .copy-row.prompt-copy { grid-template-columns:1fr; } .portfolio-table { display:block; overflow-x:auto; } }
   </style>
 </head>
 <body>
@@ -81,16 +93,16 @@
       <h1>Resor image portal</h1>
       <p>En portal för alla domäner. Öppna en prompt, klistra in i ChatGPT, spara PNG med exakt filnamn och ladda upp den i bilder/inbox på GitHub.</p>
       <div class="summary">
-        <span class="pill">Generated 2026-07-05T13:06:20.089066+00:00</span>
+        <span class="pill">Generated 2026-07-05T13:28:10.905811+00:00</span>
         <span class="pill">16 domäner</span>
         <span class="pill">217 redo</span>
-        <span class="pill">15 staging JPG</span>
-        <span class="pill">9 PNG i inbox</span>
-        <span class="pill">3436 att skapa</span>
+        <span class="pill">24 staging JPG</span>
+        <span class="pill">4 PNG i inbox</span>
+        <span class="pill">3432 att skapa</span>
         <span class="pill">597 hög prio</span>
         <span class="pill">3677 briefs totalt</span>
         <span class="pill">647 sidor live</span>
-        <span class="pill">1520 WP-bilder</span>
+        <span class="pill">1738 WP-bilder</span>
         <span class="pill">280 väntar bild</span>
       </div>
       <div class="primary-nav">
@@ -99,29 +111,29 @@
         <a class="biglink" href="sidor.html" style="background:#1d4ed8">📊 Sid-status — alla sidor &amp; score</a>
         <a class="biglink" href="editor.html" style="background:#0f766e">📝 Bild-editor — redigera</a>
       </div>
-      <nav><a href="malaga/">Malaga</a>
-<a href="rhodos/">Rhodos</a>
-<a href="korfu/">Korfu</a>
-<a href="torremolinos/">Torremolinos</a>
-<a href="grancanaria/">Gran Canaria</a>
-<a href="teneriffa/">Teneriffa</a>
-<a href="lanzarote/">Lanzarote</a>
-<a href="fuerteventura/">Fuerteventura</a>
-<a href="chamonix/">Chamonix</a>
-<a href="venedig/">Venedig</a>
-<a href="hawaii/">Hawaii</a>
-<a href="florida/">Florida</a>
-<a href="borneo/">Borneo</a>
-<a href="provence/">Provence</a>
-<a href="sydamerika/">Sydamerika</a>
-<a href="madrid/">Madrid</a></nav>
+      <nav><a class="chip-low" href="#malaga">Malaga <b>13%</b></a>
+<a class="chip-low" href="#rhodos">Rhodos <b>28%</b></a>
+<a class="chip-low" href="#korfu">Korfu <b>0%</b></a>
+<a class="chip-low" href="#torremolinos">Torremolinos <b>1%</b></a>
+<a class="chip-low" href="#grancanaria">Gran Canaria <b>0%</b></a>
+<a class="chip-low" href="#teneriffa">Teneriffa <b>16%</b></a>
+<a class="chip-low" href="#lanzarote">Lanzarote <b>2%</b></a>
+<a class="chip-low" href="#fuerteventura">Fuerteventura <b>0%</b></a>
+<a class="chip-low" href="#chamonix">Chamonix <b>3%</b></a>
+<a class="chip-low" href="#venedig">Venedig <b>1%</b></a>
+<a class="chip-low" href="#hawaii">Hawaii <b>0%</b></a>
+<a class="chip-low" href="#florida">Florida <b>23%</b></a>
+<a class="chip-low" href="#borneo">Borneo <b>1%</b></a>
+<a class="chip-low" href="#provence">Provence <b>24%</b></a>
+<a class="chip-low" href="#sydamerika">Sydamerika <b>5%</b></a>
+<a class="chip-low" href="#madrid">Madrid <b>0%</b></a></nav>
     </div>
   </header>
   
     <section class="hub-toolbar" id="refresh-hub">
       <h2>Hub underhåll</h2>
       <p class="portfolio-note">
-        Senast exporterad: <b>2026-07-05T12:50:21.239839+00:00</b> · 647 sidor i snapshot.
+        Senast exporterad: <b>2026-07-05T13:06:20.106480+00:00</b> · 647 sidor i snapshot.
         Data är inte live — kör export efter WP-publicering.
       </p>
       <div class="hub-actions">
@@ -162,173 +174,173 @@
   
     <section class="portfolio-overview">
       <h2>Portföljöversikt</h2>
-      <p class="portfolio-note">Sidor, score, flaggor, bildbehov, mediabibliotek och brief-framsteg per domän.</p>
+      <p class="portfolio-note">Sidor, score, flaggor, bildbehov, mediabibliotek och brief-framsteg per domän. Klicka på en kolumnrubrik för att sortera; domännamnet hoppar till kortet nedan.</p>
       <table class="portfolio-table">
         <thead>
           <tr>
-            <th>Domän</th><th>Sidor</th><th>Snitt score</th><th>Flaggade</th>
-            <th>Väntar bild</th><th>WP-bilder</th><th>Briefs klara</th><th></th>
+            <th class="sortable">Domän</th><th class="sortable">Sidor</th><th class="sortable">Snitt score</th><th class="sortable">Flaggade</th>
+            <th class="sortable">Väntar bild</th><th class="sortable">WP-bilder</th><th class="sortable">Briefs klara</th><th></th>
           </tr>
         </thead>
         <tbody>
             <tr>
-              <td><a href="malaga/">Malaga</a></td>
-              <td>59</td>
-              <td>93</td>
-              <td>28</td>
-              <td>19</td>
-              <td>199</td>
-              <td>29/231 (13%)</td>
+              <td data-v="Malaga"><a href="#malaga">Malaga</a></td>
+              <td data-v="59">59</td>
+              <td data-v="93" class="">93</td>
+              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="19" class="">19</td>
+              <td data-v="199">199</td>
+              <td data-v="13"><div class="cellbar"><span style="width:13%"></span></div><small>29/231 (13%)</small></td>
               <td><a class="open-link" href="malaga/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="rhodos/">Rhodos</a></td>
-              <td>48</td>
-              <td>91</td>
-              <td>13</td>
-              <td>7</td>
-              <td>208</td>
-              <td>62/219 (28%)</td>
+              <td data-v="Rhodos"><a href="#rhodos">Rhodos</a></td>
+              <td data-v="48">48</td>
+              <td data-v="91" class="">91</td>
+              <td data-v="13" class="warn-cell">13</td>
+              <td data-v="7" class="">7</td>
+              <td data-v="208">208</td>
+              <td data-v="28"><div class="cellbar"><span style="width:28%"></span></div><small>62/219 (28%)</small></td>
               <td><a class="open-link" href="rhodos/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="korfu/">Korfu</a></td>
-              <td>30</td>
-              <td>93</td>
-              <td>14</td>
-              <td>8</td>
-              <td>49</td>
-              <td>0/117 (0%)</td>
+              <td data-v="Korfu"><a href="#korfu">Korfu</a></td>
+              <td data-v="30">30</td>
+              <td data-v="93" class="">93</td>
+              <td data-v="14" class="warn-cell">14</td>
+              <td data-v="8" class="">8</td>
+              <td data-v="56">56</td>
+              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/117 (0%)</small></td>
               <td><a class="open-link" href="korfu/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="torremolinos/">Torremolinos</a></td>
-              <td>45</td>
-              <td>89</td>
-              <td>18</td>
-              <td>17</td>
-              <td>116</td>
-              <td>2/225 (1%)</td>
+              <td data-v="Torremolinos"><a href="#torremolinos">Torremolinos</a></td>
+              <td data-v="45">45</td>
+              <td data-v="89" class="">89</td>
+              <td data-v="18" class="warn-cell">18</td>
+              <td data-v="17" class="">17</td>
+              <td data-v="116">116</td>
+              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>2/225 (1%)</small></td>
               <td><a class="open-link" href="torremolinos/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="grancanaria/">Gran Canaria</a></td>
-              <td>68</td>
-              <td>93</td>
-              <td>30</td>
-              <td>19</td>
-              <td>189</td>
-              <td>3/656 (0%)</td>
+              <td data-v="Gran Canaria"><a href="#grancanaria">Gran Canaria</a></td>
+              <td data-v="68">68</td>
+              <td data-v="93" class="">93</td>
+              <td data-v="30" class="warn-cell">30</td>
+              <td data-v="19" class="">19</td>
+              <td data-v="189">189</td>
+              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>3/656 (0%)</small></td>
               <td><a class="open-link" href="grancanaria/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="teneriffa/">Teneriffa</a></td>
-              <td>56</td>
-              <td>91</td>
-              <td>22</td>
-              <td>14</td>
-              <td>—</td>
-              <td>48/304 (16%)</td>
+              <td data-v="Teneriffa"><a href="#teneriffa">Teneriffa</a></td>
+              <td data-v="56">56</td>
+              <td data-v="91" class="">91</td>
+              <td data-v="22" class="warn-cell">22</td>
+              <td data-v="14" class="">14</td>
+              <td data-v="0">—</td>
+              <td data-v="16"><div class="cellbar"><span style="width:16%"></span></div><small>48/304 (16%)</small></td>
               <td><a class="open-link" href="teneriffa/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="lanzarote/">Lanzarote</a></td>
-              <td>54</td>
-              <td>94</td>
-              <td>28</td>
-              <td>26</td>
-              <td>226</td>
-              <td>10/572 (2%)</td>
+              <td data-v="Lanzarote"><a href="#lanzarote">Lanzarote</a></td>
+              <td data-v="54">54</td>
+              <td data-v="94" class="">94</td>
+              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="26" class="warn-cell">26</td>
+              <td data-v="226">226</td>
+              <td data-v="2"><div class="cellbar"><span style="width:2%"></span></div><small>10/572 (2%)</small></td>
               <td><a class="open-link" href="lanzarote/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="fuerteventura/">Fuerteventura</a></td>
-              <td>58</td>
-              <td>92</td>
-              <td>43</td>
-              <td>39</td>
-              <td>99</td>
-              <td>0/334 (0%)</td>
+              <td data-v="Fuerteventura"><a href="#fuerteventura">Fuerteventura</a></td>
+              <td data-v="58">58</td>
+              <td data-v="92" class="">92</td>
+              <td data-v="43" class="warn-cell">43</td>
+              <td data-v="39" class="warn-cell">39</td>
+              <td data-v="99">99</td>
+              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/334 (0%)</small></td>
               <td><a class="open-link" href="fuerteventura/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="chamonix/">Chamonix</a></td>
-              <td>42</td>
-              <td>86</td>
-              <td>26</td>
-              <td>25</td>
-              <td>106</td>
-              <td>3/90 (3%)</td>
+              <td data-v="Chamonix"><a href="#chamonix">Chamonix</a></td>
+              <td data-v="42">42</td>
+              <td data-v="86" class="">86</td>
+              <td data-v="26" class="warn-cell">26</td>
+              <td data-v="25" class="warn-cell">25</td>
+              <td data-v="106">106</td>
+              <td data-v="3"><div class="cellbar"><span style="width:3%"></span></div><small>3/90 (3%)</small></td>
               <td><a class="open-link" href="chamonix/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="venedig/">Venedig</a></td>
-              <td>35</td>
-              <td>88</td>
-              <td>15</td>
-              <td>13</td>
-              <td>92</td>
-              <td>1/137 (1%)</td>
+              <td data-v="Venedig"><a href="#venedig">Venedig</a></td>
+              <td data-v="35">35</td>
+              <td data-v="88" class="">88</td>
+              <td data-v="15" class="warn-cell">15</td>
+              <td data-v="13" class="">13</td>
+              <td data-v="92">92</td>
+              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>1/137 (1%)</small></td>
               <td><a class="open-link" href="venedig/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="hawaii/">Hawaii</a></td>
-              <td>20</td>
-              <td>86</td>
-              <td>12</td>
-              <td>10</td>
-              <td>20</td>
-              <td>0/69 (0%)</td>
+              <td data-v="Hawaii"><a href="#hawaii">Hawaii</a></td>
+              <td data-v="20">20</td>
+              <td data-v="86" class="">86</td>
+              <td data-v="12" class="warn-cell">12</td>
+              <td data-v="10" class="">10</td>
+              <td data-v="20">20</td>
+              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/69 (0%)</small></td>
               <td><a class="open-link" href="hawaii/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="florida/">Florida</a></td>
-              <td>28</td>
-              <td>91</td>
-              <td>25</td>
-              <td>23</td>
-              <td>21</td>
-              <td>38/168 (23%)</td>
+              <td data-v="Florida"><a href="#florida">Florida</a></td>
+              <td data-v="28">28</td>
+              <td data-v="91" class="">91</td>
+              <td data-v="25" class="warn-cell">25</td>
+              <td data-v="23" class="warn-cell">23</td>
+              <td data-v="21">21</td>
+              <td data-v="23"><div class="cellbar"><span style="width:23%"></span></div><small>38/168 (23%)</small></td>
               <td><a class="open-link" href="florida/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="borneo/">Borneo</a></td>
-              <td>17</td>
-              <td>77</td>
-              <td>13</td>
-              <td>13</td>
-              <td>9</td>
-              <td>1/131 (1%)</td>
+              <td data-v="Borneo"><a href="#borneo">Borneo</a></td>
+              <td data-v="17">17</td>
+              <td data-v="77" class="">77</td>
+              <td data-v="13" class="warn-cell">13</td>
+              <td data-v="13" class="">13</td>
+              <td data-v="9">9</td>
+              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>1/131 (1%)</small></td>
               <td><a class="open-link" href="borneo/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="provence/">Provence</a></td>
-              <td>35</td>
-              <td>96</td>
-              <td>14</td>
-              <td>3</td>
-              <td>155</td>
-              <td>34/142 (24%)</td>
+              <td data-v="Provence"><a href="#provence">Provence</a></td>
+              <td data-v="35">35</td>
+              <td data-v="96" class="">96</td>
+              <td data-v="14" class="warn-cell">14</td>
+              <td data-v="3" class="">3</td>
+              <td data-v="156">156</td>
+              <td data-v="24"><div class="cellbar"><span style="width:24%"></span></div><small>34/142 (24%)</small></td>
               <td><a class="open-link" href="provence/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="sydamerika/">Sydamerika</a></td>
-              <td>36</td>
-              <td>85</td>
-              <td>28</td>
-              <td>28</td>
-              <td>27</td>
-              <td>10/194 (5%)</td>
+              <td data-v="Sydamerika"><a href="#sydamerika">Sydamerika</a></td>
+              <td data-v="36">36</td>
+              <td data-v="85" class="">85</td>
+              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="27">27</td>
+              <td data-v="5"><div class="cellbar"><span style="width:5%"></span></div><small>10/194 (5%)</small></td>
               <td><a class="open-link" href="sydamerika/">Briefs</a></td>
             </tr>
             <tr>
-              <td><a href="madrid/">Madrid</a></td>
-              <td>16</td>
-              <td>73</td>
-              <td>16</td>
-              <td>16</td>
-              <td>4</td>
-              <td>0/88 (0%)</td>
+              <td data-v="Madrid"><a href="#madrid">Madrid</a></td>
+              <td data-v="16">16</td>
+              <td data-v="73" class="">73</td>
+              <td data-v="16" class="warn-cell">16</td>
+              <td data-v="16" class="">16</td>
+              <td data-v="4">4</td>
+              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>1/88 (1%)</small></td>
               <td><a class="open-link" href="madrid/">Briefs</a></td>
             </tr></tbody>
       </table>
@@ -1293,8 +1305,8 @@ Important constraints:
       <div class="stats">
         <span><strong>36</strong> redo</span>
         <span><strong>2</strong> staging JPG</span>
-        <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>130</strong> att skapa</span>
+        <span><strong>3</strong> PNG i inbox</span>
+        <span><strong>127</strong> att skapa</span>
       </div>
       <div class="priority-line">
         <span>51 hög prio</span>
@@ -1629,16 +1641,16 @@ Important constraints:
       <div class="card-head">
         <div>
           <h2>Madrid</h2>
-          <p>0 av 88 JPG finns, 0 redo</p>
+          <p>1 av 88 JPG finns, 0 redo</p>
         </div>
         <a class="open-link" href="madrid/">Öppna full lista</a>
       </div>
-      <div class="meter" aria-label="0 av 88 klara"><span style="width:0%"></span></div>
+      <div class="meter" aria-label="1 av 88 klara"><span style="width:1%"></span></div>
       <div class="stats">
         <span><strong>0</strong> redo</span>
-        <span><strong>0</strong> staging JPG</span>
+        <span><strong>1</strong> staging JPG</span>
         <span><strong>0</strong> PNG i inbox</span>
-        <span><strong>88</strong> att skapa</span>
+        <span><strong>87</strong> att skapa</span>
       </div>
       <div class="priority-line">
         <span>7 hög prio</span>
@@ -1653,11 +1665,11 @@ Important constraints:
         <h3>Testa promptar</h3>
         
             <details class="prompt">
-              <summary>⚪ Santiago Bernabéu — Real Madrid</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 210</span> <span class="image-type">Mat &amp; nattliv</span><br>Fotbollsresa till Madrid — Bernabéu, Metropolitano &amp; biljetter<br><code>bilder/inbox/santiago-bernabeu-real-madrid.png</code></div>
+              <summary>Välj Barcelona om du…</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 189</span> <span class="image-type">Mat &amp; nattliv</span><br>Madrid eller Barcelona? Ärlig jämförelse 2026<br><code>bilder/inbox/valj-barcelona-om-du-madrid.png</code></div>
               <div class="copy-row">
                 <label for="filename-madrid-1">Filnamn</label>
-                <input id="filename-madrid-1" readonly value="santiago-bernabeu-real-madrid.png" onclick="this.select()">
+                <input id="filename-madrid-1" readonly value="valj-barcelona-om-du-madrid.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-madrid-1">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -1666,12 +1678,12 @@ Important constraints:
               </div>
               <textarea id="prompt-madrid-1" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Madrid travel guide.
 
-Target filename after download: santiago-bernabeu-real-madrid.png
+Target filename after download: valj-barcelona-om-du-madrid.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A wide, slightly elevated realistic travel photograph showing the neighbourhood context at Santiago Bernabéu — Real Madrid i Madrid in Madrid, Spain, during the most relevant travel season for the scene. The scene clearly represents santiago bernabéu — real madrid with realistisk storstadsmiljö, boulevarder, tapasbarer, klassisk arkitektur från Habsburg- och Bourbon-epokerna, lokalt gatuliv och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Madrid.
+A realistic street-level documentary travel photograph at Välj Barcelona om du… i Madrid in Madrid, Spain, during busy summer peak season. The scene clearly represents välj barcelona om du… with realistisk storstadsmiljö, boulevarder, tapasbarer, klassisk arkitektur från Habsburg- och Bourbon-epokerna, lokalt gatuliv och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Madrid.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -1681,11 +1693,11 @@ Important constraints:
             </details>
             
             <details class="prompt">
-              <summary>Välj Barcelona om du…</summary>
-              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 189</span> <span class="image-type">Mat &amp; nattliv</span><br>Madrid eller Barcelona? Ärlig jämförelse 2026<br><code>bilder/inbox/valj-barcelona-om-du-madrid.png</code></div>
+              <summary>🏰 Alcázar — sagoslottet på klippan</summary>
+              <div class="prompt-meta"><span class="importance importance-hög">Hög prio · 186</span> <span class="image-type">Mat &amp; nattliv</span><br>Segovia från Madrid — akvedukten, Alcázar &amp; cochinillo<br><code>bilder/inbox/alcazar-sagoslottet-pa-klippan-madrid.png</code></div>
               <div class="copy-row">
                 <label for="filename-madrid-2">Filnamn</label>
-                <input id="filename-madrid-2" readonly value="valj-barcelona-om-du-madrid.png" onclick="this.select()">
+                <input id="filename-madrid-2" readonly value="alcazar-sagoslottet-pa-klippan-madrid.png" onclick="this.select()">
                 <button type="button" data-copy-target="filename-madrid-2">Kopiera filnamn</button>
               </div>
               <div class="copy-row prompt-copy">
@@ -1694,12 +1706,12 @@ Important constraints:
               </div>
               <textarea id="prompt-madrid-2" readonly onclick="this.select()" onfocus="this.select()">Create one realistic travel image for a Swedish Madrid travel guide.
 
-Target filename after download: valj-barcelona-om-du-madrid.png
+Target filename after download: alcazar-sagoslottet-pa-klippan-madrid.png
 Recommended size/aspect: 1536x1024 landscape.
 Expected downloaded file format: PNG.
 
 Image brief:
-A realistic street-level documentary travel photograph at Välj Barcelona om du… i Madrid in Madrid, Spain, during busy summer peak season. The scene clearly represents välj barcelona om du… with realistisk storstadsmiljö, boulevarder, tapasbarer, klassisk arkitektur från Habsburg- och Bourbon-epokerna, lokalt gatuliv och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Madrid.
+A realistic editorial travel photograph at Alcázar — sagoslottet på klippan i Madrid in Madrid, Spain, during the most relevant travel season for the scene. The scene clearly represents alcázar — sagoslottet på klippan with realistisk storstadsmiljö, boulevarder, tapasbarer, klassisk arkitektur från Habsburg- och Bourbon-epokerna, lokalt gatuliv och vardagliga resedetaljer. Include natural human activity, realistic parked rental cars or traffic where appropriate, and boats only if the location is near the harbour or coast. Bright Mediterranean daylight, authentic architecture, true-to-life colors, detailed shadows, realistic scale, documentary travel photography style. No readable text, no fake signs, no logos, no watermark. Make it feel like a believable editorial travel photograph, not a glossy ad. Keep architecture, geography, light, people, traffic, and scale realistic for Madrid.
 
 Important constraints:
 - No readable text, no fake signs, no logos, no watermark.
@@ -1736,6 +1748,26 @@ Important constraints:
       const button = event.target.closest("[data-copy-target]");
       if (!button) return;
       copyTextFrom(button.dataset.copyTarget, button);
+    });
+
+    // ─── Sorterbar portföljtabell ──────────────────────────────────────────
+    document.querySelectorAll(".portfolio-table th.sortable").forEach((th, idx) => {
+      th.addEventListener("click", () => {
+        const table = th.closest("table");
+        const tbody = table.querySelector("tbody");
+        const asc = !th.classList.contains("sorted-desc") ? false : true;
+        table.querySelectorAll("th").forEach(h => h.classList.remove("sorted-asc","sorted-desc"));
+        th.classList.add(asc ? "sorted-asc" : "sorted-desc");
+        const rows = [...tbody.querySelectorAll("tr")];
+        rows.sort((a, b) => {
+          const av = a.cells[idx]?.dataset.v ?? "";
+          const bv = b.cells[idx]?.dataset.v ?? "";
+          const an = parseFloat(av), bn = parseFloat(bv);
+          const cmp = (!isNaN(an) && !isNaN(bn)) ? an - bn : String(av).localeCompare(String(bv), "sv");
+          return asc ? cmp : -cmp;
+        });
+        rows.forEach(r => tbody.appendChild(r));
+      });
     });
 
     const reloadBtn = document.getElementById("hub-reload");

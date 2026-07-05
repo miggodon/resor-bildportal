@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/redo-att-hyra-hus-vid-verdon-provence.png",
-      "file": "bilder/web-ready/provence/redo-att-hyra-hus-vid-verdon-provence.jpg",
+      "file": "bilder/web-ready/provence/redo/redo-att-hyra-hus-vid-verdon-provence.jpg",
       "filename": "redo-att-hyra-hus-vid-verdon-provence.jpg",
       "brief_id": "provence:var-verdon:redo-att-hyra-hus-vid-verdon",
       "domain": "provence",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Redo att hyra hus vid Verdon? i Provence. Bilden visar Redo att hyra hus vid Verdon? i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/redo-att-hyra-hus-vid-verdon-provence.png",
-        "web_ready_file": "bilder/web-ready/provence/redo-att-hyra-hus-vid-verdon-provence.jpg",
+        "web_ready_file": "bilder/web-ready/provence/redo/redo-att-hyra-hus-vid-verdon-provence.jpg",
         "wordpress_target": {
           "page_url": "https://provence.se/hyra-hus-provence/var-verdon/",
           "page_slug": "var-verdon",
@@ -39,9 +39,12 @@
           "caption": "Redo att hyra hus vid Verdon? i Provence",
           "description": "En realistisk resebild från Redo att hyra hus vid Verdon? i Provence. Bilden visar Redo att hyra hus vid Verdon? i Provence under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/provence/redo"
       },
-      "inspection": "bilder/web-ready/provence/redo-att-hyra-hus-vid-verdon-provence.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

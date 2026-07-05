@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-07-05T13:19:57.195671+00:00",
+  "source_dir": "bilder/inbox",
+  "out_dir": "bilder/web-ready/madrid",
+  "quality": 86,
+  "items": [
+    {
+      "source": "bilder/inbox/santiago-bernabeu-real-madrid.png",
+      "file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
+      "filename": "santiago-bernabeu-real-madrid.jpg",
+      "brief_id": "madrid:fotbollsresa-madrid:santiago-bernabeu-real-madrid",
+      "domain": "madrid",
+      "site": "madrid.se",
+      "destination": "Madrid",
+      "page": "https://madrid.se/fotbollsresa-madrid/",
+      "page_id": 69,
+      "page_title": "Fotbollsresa till Madrid — Bernabéu, Metropolitano & biljetter",
+      "page_slug": "fotbollsresa-madrid",
+      "h3": "⚪ Santiago Bernabéu — Real Madrid",
+      "h3_slug": "santiago-bernabeu-real-madrid",
+      "place": "Santiago Bernabéu — Real Madrid i Madrid",
+      "gps": "40.4168, -3.7038",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
+      "caption": "Santiago Bernabéu — Real Madrid i Madrid",
+      "seo": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/santiago-bernabeu-real-madrid.png",
+        "web_ready_file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
+        "wordpress_target": {
+          "page_url": "https://madrid.se/fotbollsresa-madrid/",
+          "page_slug": "fotbollsresa-madrid",
+          "section_h3": "⚪ Santiago Bernabéu — Real Madrid",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Santiago Bernabéu — Real Madrid i Madrid",
+          "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
+          "caption": "Santiago Bernabéu — Real Madrid i Madrid",
+          "description": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/madrid/redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    }
+  ]
+}
