@@ -3037,7 +3037,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -7208,7 +7208,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7226,7 +7226,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "sevardheter-pa-korfu",
@@ -7607,7 +7607,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "korfu-par-roadtrip",
@@ -7629,7 +7629,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-korfu",
@@ -17992,7 +17992,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -27074,7 +27074,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-nara-sepilok",
@@ -27092,7 +27092,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -27110,7 +27110,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -27128,7 +27128,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -27146,7 +27146,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "startsida",
@@ -27164,7 +27164,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -27182,7 +27182,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -27200,7 +27200,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "boende-kinabatangan-borneo",
@@ -27244,7 +27244,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -27788,7 +27788,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence",

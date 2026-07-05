@@ -1,14 +1,131 @@
 {
-  "generated_at": "2026-07-05T13:19:57.195671+00:00",
+  "generated_at": "2026-07-05T17:02:47.311658+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/madrid",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/santiago-bernabeu-real-madrid.png",
-      "file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
-      "filename": "santiago-bernabeu-real-madrid.jpg",
-      "brief_id": "madrid:fotbollsresa-madrid:santiago-bernabeu-real-madrid",
+      "source": "bilder/inbox/alcazar-sagoslottet-pa-klippan-madrid.png",
+      "file": "bilder/web-ready/madrid/alcazar-sagoslottet-pa-klippan-madrid.jpg",
+      "filename": "alcazar-sagoslottet-pa-klippan-madrid.jpg",
+      "brief_id": "madrid:dagsutflykt-segovia-fran-madrid:alcazar-sagoslottet-pa-klippan",
+      "domain": "madrid",
+      "site": "madrid.se",
+      "destination": "Madrid",
+      "page": "https://madrid.se/dagsutflykt-segovia-fran-madrid/",
+      "page_id": 64,
+      "page_title": "Segovia från Madrid — akvedukten, Alcázar & cochinillo",
+      "page_slug": "dagsutflykt-segovia-fran-madrid",
+      "h3": "🏰 Alcázar — sagoslottet på klippan",
+      "h3_slug": "alcazar-sagoslottet-pa-klippan",
+      "place": "Alcázar — sagoslottet på klippan i Madrid",
+      "gps": "40.4168, -3.7038",
+      "shot_type": "editorial travel photograph",
+      "alt": "Alcázar — sagoslottet på klippan i Madrid med människor och realistisk resemiljö",
+      "caption": "Alcázar — sagoslottet på klippan i Madrid",
+      "seo": "En realistisk resebild från Alcázar — sagoslottet på klippan i Madrid. Bilden visar Alcázar — sagoslottet på klippan i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/alcazar-sagoslottet-pa-klippan-madrid.png",
+        "web_ready_file": "bilder/web-ready/madrid/alcazar-sagoslottet-pa-klippan-madrid.jpg",
+        "wordpress_target": {
+          "page_url": "https://madrid.se/dagsutflykt-segovia-fran-madrid/",
+          "page_slug": "dagsutflykt-segovia-fran-madrid",
+          "section_h3": "🏰 Alcázar — sagoslottet på klippan",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Alcázar — sagoslottet på klippan i Madrid",
+          "alt": "Alcázar — sagoslottet på klippan i Madrid med människor och realistisk resemiljö",
+          "caption": "Alcázar — sagoslottet på klippan i Madrid",
+          "description": "En realistisk resebild från Alcázar — sagoslottet på klippan i Madrid. Bilden visar Alcázar — sagoslottet på klippan i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/madrid/alcazar-sagoslottet-pa-klippan-madrid.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.png",
+      "file": "bilder/web-ready/madrid/cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.jpg",
+      "filename": "cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.jpg",
+      "brief_id": "madrid:dagsutflykt-segovia-fran-madrid:cochinillo-lunchen-som-ar-sjalva-resmalet",
+      "domain": "madrid",
+      "site": "madrid.se",
+      "destination": "Madrid",
+      "page": "https://madrid.se/dagsutflykt-segovia-fran-madrid/",
+      "page_id": 64,
+      "page_title": "Segovia från Madrid — akvedukten, Alcázar & cochinillo",
+      "page_slug": "dagsutflykt-segovia-fran-madrid",
+      "h3": "🐖 Cochinillo — lunchen som är själva resmålet",
+      "h3_slug": "cochinillo-lunchen-som-ar-sjalva-resmalet",
+      "place": "Cochinillo — lunchen som är själva resmålet i Madrid",
+      "gps": "40.4168, -3.7038",
+      "shot_type": "editorial travel photograph",
+      "alt": "Cochinillo — lunchen som är själva resmålet i Madrid med människor och realistisk resemiljö",
+      "caption": "Cochinillo — lunchen som är själva resmålet i Madrid",
+      "seo": "En realistisk resebild från Cochinillo — lunchen som är själva resmålet i Madrid. Bilden visar Cochinillo — lunchen som är själva resmålet i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.png",
+        "web_ready_file": "bilder/web-ready/madrid/cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.jpg",
+        "wordpress_target": {
+          "page_url": "https://madrid.se/dagsutflykt-segovia-fran-madrid/",
+          "page_slug": "dagsutflykt-segovia-fran-madrid",
+          "section_h3": "🐖 Cochinillo — lunchen som är själva resmålet",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Cochinillo — lunchen som är själva resmålet i Madrid",
+          "alt": "Cochinillo — lunchen som är själva resmålet i Madrid med människor och realistisk resemiljö",
+          "caption": "Cochinillo — lunchen som är själva resmålet i Madrid",
+          "description": "En realistisk resebild från Cochinillo — lunchen som är själva resmålet i Madrid. Bilden visar Cochinillo — lunchen som är själva resmålet i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/madrid/cochinillo-lunchen-som-ar-sjalva-resmalet-madrid.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/kungliga-slottet-palacio-real-madrid.png",
+      "file": "bilder/web-ready/madrid/kungliga-slottet-palacio-real-madrid.jpg",
+      "filename": "kungliga-slottet-palacio-real-madrid.jpg",
+      "brief_id": "madrid:saker-att-gora:kungliga-slottet-palacio-real",
+      "domain": "madrid",
+      "site": "madrid.se",
+      "destination": "Madrid",
+      "page": "https://madrid.se/saker-att-gora/",
+      "page_id": 9,
+      "page_title": "Saker att göra i Madrid — 15 upplevelser värda din tid",
+      "page_slug": "saker-att-gora",
+      "h3": "4. 👑 Kungliga slottet (Palacio Real)",
+      "h3_slug": "kungliga-slottet-palacio-real",
+      "place": "👑 Kungliga slottet (Palacio Real) i Madrid",
+      "gps": "40.4168, -3.7038",
+      "shot_type": "hotel exterior and rooftop travel photograph",
+      "alt": "👑 Kungliga slottet (Palacio Real) i Madrid med människor och realistisk resemiljö",
+      "caption": "👑 Kungliga slottet (Palacio Real) i Madrid",
+      "seo": "En realistisk resebild från 👑 Kungliga slottet (Palacio Real) i Madrid. Bilden visar 👑 Kungliga slottet (Palacio Real) i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/kungliga-slottet-palacio-real-madrid.png",
+        "web_ready_file": "bilder/web-ready/madrid/kungliga-slottet-palacio-real-madrid.jpg",
+        "wordpress_target": {
+          "page_url": "https://madrid.se/saker-att-gora/",
+          "page_slug": "saker-att-gora",
+          "section_h3": "4. 👑 Kungliga slottet (Palacio Real)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "👑 Kungliga slottet (Palacio Real) i Madrid",
+          "alt": "👑 Kungliga slottet (Palacio Real) i Madrid med människor och realistisk resemiljö",
+          "caption": "👑 Kungliga slottet (Palacio Real) i Madrid",
+          "description": "En realistisk resebild från 👑 Kungliga slottet (Palacio Real) i Madrid. Bilden visar 👑 Kungliga slottet (Palacio Real) i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/madrid/kungliga-slottet-palacio-real-madrid.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/metropolitano-atletico-madrid.png",
+      "file": "bilder/web-ready/madrid/metropolitano-atletico-madrid.jpg",
+      "filename": "metropolitano-atletico-madrid.jpg",
+      "brief_id": "madrid:fotbollsresa-madrid:metropolitano-atletico-madrid",
       "domain": "madrid",
       "site": "madrid.se",
       "destination": "Madrid",
@@ -16,35 +133,32 @@
       "page_id": 69,
       "page_title": "Fotbollsresa till Madrid — Bernabéu, Metropolitano & biljetter",
       "page_slug": "fotbollsresa-madrid",
-      "h3": "⚪ Santiago Bernabéu — Real Madrid",
-      "h3_slug": "santiago-bernabeu-real-madrid",
-      "place": "Santiago Bernabéu — Real Madrid i Madrid",
+      "h3": "🔴 Metropolitano — Atlético Madrid",
+      "h3_slug": "metropolitano-atletico-madrid",
+      "place": "Metropolitano — Atlético Madrid i Madrid",
       "gps": "40.4168, -3.7038",
       "shot_type": "wide neighbourhood overview photograph",
-      "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
-      "caption": "Santiago Bernabéu — Real Madrid i Madrid",
-      "seo": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "alt": "Metropolitano — Atlético Madrid i Madrid med människor och realistisk resemiljö",
+      "caption": "Metropolitano — Atlético Madrid i Madrid",
+      "seo": "En realistisk resebild från Metropolitano — Atlético Madrid i Madrid. Bilden visar Metropolitano — Atlético Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/santiago-bernabeu-real-madrid.png",
-        "web_ready_file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
+        "preferred_source_download": "bilder/inbox/metropolitano-atletico-madrid.png",
+        "web_ready_file": "bilder/web-ready/madrid/metropolitano-atletico-madrid.jpg",
         "wordpress_target": {
           "page_url": "https://madrid.se/fotbollsresa-madrid/",
           "page_slug": "fotbollsresa-madrid",
-          "section_h3": "⚪ Santiago Bernabéu — Real Madrid",
+          "section_h3": "🔴 Metropolitano — Atlético Madrid",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Santiago Bernabéu — Real Madrid i Madrid",
-          "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
-          "caption": "Santiago Bernabéu — Real Madrid i Madrid",
-          "description": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Metropolitano — Atlético Madrid i Madrid",
+          "alt": "Metropolitano — Atlético Madrid i Madrid med människor och realistisk resemiljö",
+          "caption": "Metropolitano — Atlético Madrid i Madrid",
+          "description": "En realistisk resebild från Metropolitano — Atlético Madrid i Madrid. Bilden visar Metropolitano — Atlético Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/madrid/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/madrid/metropolitano-atletico-madrid.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }
