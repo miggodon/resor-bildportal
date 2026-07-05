@@ -1,92 +1,281 @@
 {
-  "generated_at": "2026-06-04T08:04:00.969777+00:00",
+  "generated_at": "2026-07-05T12:51:35.322649+00:00",
   "source_dir": "bilder/inbox",
   "out_dir": "bilder/web-ready/korfu",
   "quality": 86,
   "items": [
     {
-      "source": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
-      "filename": "arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
-      "brief_id": "korfu:basta-hotellen-pa-korfu:arcadion-hotel-basta-lage-i-gamla-stan",
+      "source": "bilder/inbox/achilleion-kejsarinnans-palats-korfu.png",
+      "file": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg",
+      "filename": "achilleion-kejsarinnans-palats-korfu.jpg",
+      "brief_id": "korfu:sevardheter-pa-korfu:achilleion-kejsarinnans-palats",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
-      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
-      "page_id": 52,
-      "page_title": "Bästa hotellen på Korfu",
-      "page_slug": "basta-hotellen-pa-korfu",
-      "h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
-      "h3_slug": "arcadion-hotel-basta-lage-i-gamla-stan",
-      "place": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
+      "page": "https://korfu.se/sevardheter-pa-korfu/",
+      "page_id": 252,
+      "page_title": "Sevärdheter på Korfu 2026 — Achilleion, Angelokastro & Cape Drastis",
+      "page_slug": "sevardheter-pa-korfu",
+      "h3": "Achilleion — kejsarinnans palats",
+      "h3_slug": "achilleion-kejsarinnans-palats",
+      "place": "Achilleion — kejsarinnans palats i Korfu",
       "gps": "39.6243, 19.9217",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
-      "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-      "seo": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "editorial travel photograph",
+      "alt": "Achilleion — kejsarinnans palats i Korfu med människor och realistisk resemiljö",
+      "caption": "Achilleion — kejsarinnans palats i Korfu",
+      "seo": "En realistisk resebild från Achilleion — kejsarinnans palats i Korfu. Bilden visar Achilleion — kejsarinnans palats i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/arcadion-hotel-basta-lage-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/arcadion-hotel-basta-lage-i-gamla-stan-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/achilleion-kejsarinnans-palats-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg",
         "wordpress_target": {
-          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
-          "page_slug": "basta-hotellen-pa-korfu",
-          "section_h3": "7. Arcadion Hotel — Bästa läge i Gamla stan",
+          "page_url": "https://korfu.se/sevardheter-pa-korfu/",
+          "page_slug": "sevardheter-pa-korfu",
+          "section_h3": "Achilleion — kejsarinnans palats",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-          "alt": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu med människor och realistisk resemiljö",
-          "caption": "Arcadion Hotel — Bästa läge i Gamla stan i Korfu",
-          "description": "En realistisk resebild från Arcadion Hotel — Bästa läge i Gamla stan i Korfu. Bilden visar Arcadion Hotel — Bästa läge i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Achilleion — kejsarinnans palats i Korfu",
+          "alt": "Achilleion — kejsarinnans palats i Korfu med människor och realistisk resemiljö",
+          "caption": "Achilleion — kejsarinnans palats i Korfu",
+          "description": "En realistisk resebild från Achilleion — kejsarinnans palats i Korfu. Bilden visar Achilleion — kejsarinnans palats i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/korfu/achilleion-kejsarinnans-palats-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     },
     {
-      "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-      "file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
-      "filename": "bella-venezia-charm-i-gamla-stan-korfu.jpg",
-      "brief_id": "korfu:basta-hotellen-pa-korfu:bella-venezia-charm-i-gamla-stan",
+      "source": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
+      "file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
+      "filename": "albanien-saranda-snabbfarja-30-min-korfu.jpg",
+      "brief_id": "korfu:dagsutflykter-fran-korfu:albanien-saranda-snabbfarja-30-min",
       "domain": "korfu",
       "site": "korfu.se",
       "destination": "Korfu",
-      "page": "https://korfu.se/basta-hotellen-pa-korfu/",
-      "page_id": 52,
-      "page_title": "Bästa hotellen på Korfu",
-      "page_slug": "basta-hotellen-pa-korfu",
-      "h3": "5. Bella Venezia — Charm i Gamla stan",
-      "h3_slug": "bella-venezia-charm-i-gamla-stan",
-      "place": "Bella Venezia — Charm i Gamla stan i Korfu",
+      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
+      "page_id": 339,
+      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
+      "page_slug": "dagsutflykter-fran-korfu",
+      "h3": "2. Albanien (Saranda) — Snabbfärja 30 min",
+      "h3_slug": "albanien-saranda-snabbfarja-30-min",
+      "place": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
       "gps": "39.6243, 19.9217",
-      "shot_type": "hotel exterior and rooftop travel photograph",
-      "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
-      "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
-      "seo": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "shot_type": "editorial travel photograph",
+      "alt": "Albanien (Saranda) — Snabbfärja 30 min i Korfu med människor och realistisk resemiljö",
+      "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
+      "seo": "En realistisk resebild från Albanien (Saranda) — Snabbfärja 30 min i Korfu. Bilden visar Albanien (Saranda) — Snabbfärja 30 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
-        "preferred_source_download": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
-        "web_ready_file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "preferred_source_download": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg",
         "wordpress_target": {
-          "page_url": "https://korfu.se/basta-hotellen-pa-korfu/",
-          "page_slug": "basta-hotellen-pa-korfu",
-          "section_h3": "5. Bella Venezia — Charm i Gamla stan",
+          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
+          "page_slug": "dagsutflykter-fran-korfu",
+          "section_h3": "2. Albanien (Saranda) — Snabbfärja 30 min",
           "suggested_position": "after_h3_heading"
         },
         "wordpress_media": {
-          "title": "Bella Venezia — Charm i Gamla stan i Korfu",
-          "alt": "Bella Venezia — Charm i Gamla stan i Korfu med människor och realistisk resemiljö",
-          "caption": "Bella Venezia — Charm i Gamla stan i Korfu",
-          "description": "En realistisk resebild från Bella Venezia — Charm i Gamla stan i Korfu. Bilden visar Bella Venezia — Charm i Gamla stan i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+          "title": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
+          "alt": "Albanien (Saranda) — Snabbfärja 30 min i Korfu med människor och realistisk resemiljö",
+          "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
+          "description": "En realistisk resebild från Albanien (Saranda) — Snabbfärja 30 min i Korfu. Bilden visar Albanien (Saranda) — Snabbfärja 30 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "ready_in_redo",
-        "metadata_applied": true,
-        "metadata_source": "manifest.json",
-        "ready_folder": "bilder/web-ready/korfu/redo"
+        "publishing_status": "needs_manual_image"
       },
-      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+      "inspection": "bilder/web-ready/korfu/albanien-saranda-snabbfarja-30-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
+      "file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+      "filename": "cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+      "brief_id": "korfu:dagsutflykter-fran-korfu:cape-drastis-nordspetsen-37-km-50-min",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
+      "page_id": 339,
+      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
+      "page_slug": "dagsutflykter-fran-korfu",
+      "h3": "4. Cape Drastis (nordspetsen) — 37 km / 50 min",
+      "h3_slug": "cape-drastis-nordspetsen-37-km-50-min",
+      "place": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "alt": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu med människor och realistisk resemiljö",
+      "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
+      "seo": "En realistisk resebild från Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. Bilden visar Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
+          "page_slug": "dagsutflykter-fran-korfu",
+          "section_h3": "4. Cape Drastis (nordspetsen) — 37 km / 50 min",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
+          "alt": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu med människor och realistisk resemiljö",
+          "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
+          "description": "En realistisk resebild från Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu. Bilden visar Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/kavos-soder-korfu.png",
+      "file": "bilder/web-ready/korfu/kavos-soder-korfu.jpg",
+      "filename": "kavos-soder-korfu.jpg",
+      "brief_id": "korfu:uteliv-pa-korfu:kavos-soder",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/uteliv-pa-korfu/",
+      "page_id": 338,
+      "page_title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
+      "page_slug": "uteliv-pa-korfu",
+      "h3": "Kavos (söder)",
+      "h3_slug": "kavos-soder",
+      "place": "Kavos (söder) i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Kavos (söder) i Korfu med människor och realistisk resemiljö",
+      "caption": "Kavos (söder) i Korfu",
+      "seo": "En realistisk resebild från Kavos (söder) i Korfu. Bilden visar Kavos (söder) i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/kavos-soder-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/kavos-soder-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/uteliv-pa-korfu/",
+          "page_slug": "uteliv-pa-korfu",
+          "section_h3": "Kavos (söder)",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Kavos (söder) i Korfu",
+          "alt": "Kavos (söder) i Korfu med människor och realistisk resemiljö",
+          "caption": "Kavos (söder) i Korfu",
+          "description": "En realistisk resebild från Kavos (söder) i Korfu. Bilden visar Kavos (söder) i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/kavos-soder-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png",
+      "file": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg",
+      "filename": "korfu-stad-liston-gamla-hamnen-korfu.jpg",
+      "brief_id": "korfu:uteliv-pa-korfu:korfu-stad-liston-gamla-hamnen",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/uteliv-pa-korfu/",
+      "page_id": 338,
+      "page_title": "Uteliv på Korfu — från Korfu stads barer till Kavos nattklubbar",
+      "page_slug": "uteliv-pa-korfu",
+      "h3": "Korfu stad — Liston & Gamla hamnen",
+      "h3_slug": "korfu-stad-liston-gamla-hamnen",
+      "place": "Korfu stad — Liston & Gamla hamnen i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "street-level documentary evening photograph",
+      "alt": "Korfu stad — Liston & Gamla hamnen i Korfu med människor och realistisk resemiljö",
+      "caption": "Korfu stad — Liston & Gamla hamnen i Korfu",
+      "seo": "En realistisk resebild från Korfu stad — Liston & Gamla hamnen i Korfu. Bilden visar Korfu stad — Liston & Gamla hamnen i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/uteliv-pa-korfu/",
+          "page_slug": "uteliv-pa-korfu",
+          "section_h3": "Korfu stad — Liston & Gamla hamnen",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Korfu stad — Liston & Gamla hamnen i Korfu",
+          "alt": "Korfu stad — Liston & Gamla hamnen i Korfu med människor och realistisk resemiljö",
+          "caption": "Korfu stad — Liston & Gamla hamnen i Korfu",
+          "description": "En realistisk resebild från Korfu stad — Liston & Gamla hamnen i Korfu. Bilden visar Korfu stad — Liston & Gamla hamnen i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/korfu-stad-liston-gamla-hamnen-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/korfu-trail-220-km-tur-retur-korfu.png",
+      "file": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg",
+      "filename": "korfu-trail-220-km-tur-retur-korfu.jpg",
+      "brief_id": "korfu:vandring-pa-korfu:korfu-trail-220-km-tur-retur",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/vandring-pa-korfu/",
+      "page_id": 256,
+      "page_title": "Vandring på Korfu 2026 — bästa lederna och naturupplevelserna",
+      "page_slug": "vandring-pa-korfu",
+      "h3": "Korfu Trail — 220 km tur-retur",
+      "h3_slug": "korfu-trail-220-km-tur-retur",
+      "place": "Korfu Trail — 220 km tur-retur i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "alt": "Korfu Trail — 220 km tur-retur i Korfu med människor och realistisk resemiljö",
+      "caption": "Korfu Trail — 220 km tur-retur i Korfu",
+      "seo": "En realistisk resebild från Korfu Trail — 220 km tur-retur i Korfu. Bilden visar Korfu Trail — 220 km tur-retur i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/korfu-trail-220-km-tur-retur-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/vandring-pa-korfu/",
+          "page_slug": "vandring-pa-korfu",
+          "section_h3": "Korfu Trail — 220 km tur-retur",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Korfu Trail — 220 km tur-retur i Korfu",
+          "alt": "Korfu Trail — 220 km tur-retur i Korfu med människor och realistisk resemiljö",
+          "caption": "Korfu Trail — 220 km tur-retur i Korfu",
+          "description": "En realistisk resebild från Korfu Trail — 220 km tur-retur i Korfu. Bilden visar Korfu Trail — 220 km tur-retur i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/korfu-trail-220-km-tur-retur-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+    },
+    {
+      "source": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
+      "file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+      "filename": "paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+      "brief_id": "korfu:dagsutflykter-fran-korfu:paxos-och-anti-paxos-dagsbat-11-5-tim",
+      "domain": "korfu",
+      "site": "korfu.se",
+      "destination": "Korfu",
+      "page": "https://korfu.se/dagsutflykter-fran-korfu/",
+      "page_id": 339,
+      "page_title": "Dagsutflykter från Korfu — Paxos, Albanien och Cape Drastis",
+      "page_slug": "dagsutflykter-fran-korfu",
+      "h3": "1. Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim",
+      "h3_slug": "paxos-och-anti-paxos-dagsbat-11-5-tim",
+      "place": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
+      "gps": "39.6243, 19.9217",
+      "shot_type": "editorial travel photograph",
+      "alt": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu med människor och realistisk resemiljö",
+      "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
+      "seo": "En realistisk resebild från Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. Bilden visar Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "preferred_source_download": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
+        "web_ready_file": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+        "wordpress_target": {
+          "page_url": "https://korfu.se/dagsutflykter-fran-korfu/",
+          "page_slug": "dagsutflykter-fran-korfu",
+          "section_h3": "1. Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim",
+          "suggested_position": "after_h3_heading"
+        },
+        "wordpress_media": {
+          "title": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
+          "alt": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu med människor och realistisk resemiljö",
+          "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
+          "description": "En realistisk resebild från Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu. Bilden visar Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+        },
+        "publishing_status": "needs_manual_image"
+      },
+      "inspection": "bilder/web-ready/korfu/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
     }
   ]
 }

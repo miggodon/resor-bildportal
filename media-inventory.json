@@ -20845,6 +20845,32 @@
   },
   {
     "domain": "fuerteventura",
+    "id": 1118,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/07/fuerteventura-logo-f.png",
+    "filename": "fuerteventura-logo-f.png",
+    "alt": "",
+    "caption": "",
+    "w": 1334,
+    "h": 280,
+    "date": "2026-07-05",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "fuerteventura",
+    "id": 1117,
+    "url": "https://fuerteventura.se/wp-content/uploads/2026/07/fuerteventura-favicon-f.png",
+    "filename": "fuerteventura-favicon-f.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-07-05",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "fuerteventura",
     "id": 945,
     "url": "https://fuerteventura.se/wp-content/uploads/2026/06/los-charcos-lagunerna-ingen-pratar-om-fuerteventura.jpg",
     "filename": "los-charcos-lagunerna-ingen-pratar-om-fuerteventura.jpg",
@@ -24596,8 +24622,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+        "slug": "boende-biennalen-castello",
+        "link": "https://venedig.se/boende-biennalen-castello/"
       }
     ]
   },
@@ -24686,8 +24712,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+        "slug": "boende-biennalen-castello",
+        "link": "https://venedig.se/boende-biennalen-castello/"
       }
     ]
   },
@@ -24866,8 +24892,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "karnevalen-i-venedig-boende",
-        "link": "https://venedig.se/karnevalen-i-venedig-boende/"
+        "slug": "bo-under-karnevalen-venedig",
+        "link": "https://venedig.se/bo-under-karnevalen-venedig/"
       }
     ]
   },
@@ -25136,8 +25162,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+        "slug": "boende-biennalen-castello",
+        "link": "https://venedig.se/boende-biennalen-castello/"
       }
     ]
   },
@@ -25642,8 +25668,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+        "slug": "boende-biennalen-castello",
+        "link": "https://venedig.se/boende-biennalen-castello/"
       }
     ]
   },
@@ -25862,8 +25888,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "venedig-biennale-boende-castello",
-        "link": "https://venedig.se/venedig-biennale-boende-castello/"
+        "slug": "boende-biennalen-castello",
+        "link": "https://venedig.se/boende-biennalen-castello/"
       },
       {
         "slug": "boende-venedig",
@@ -30201,6 +30227,58 @@
     "w": 512,
     "h": 512,
     "date": "2026-06-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madrid",
+    "id": 101,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/madrid-se-logo-m.png",
+    "filename": "madrid-se-logo-m.png",
+    "alt": "",
+    "caption": "",
+    "w": 1023,
+    "h": 280,
+    "date": "2026-07-05",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madrid",
+    "id": 100,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/madrid-se-favicon-m.png",
+    "filename": "madrid-se-favicon-m.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-07-05",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madrid",
+    "id": 99,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/madrid-se-logo.png",
+    "filename": "madrid-se-logo.png",
+    "alt": "",
+    "caption": "",
+    "w": 1023,
+    "h": 280,
+    "date": "2026-07-05",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madrid",
+    "id": 98,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/madrid-se-favicon.png",
+    "filename": "madrid-se-favicon.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-07-05",
     "managed": false,
     "used_on": []
   }
