@@ -7118,7 +7118,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7136,7 +7136,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-pa-korfu",
@@ -7154,7 +7154,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7172,7 +7172,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7190,7 +7190,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -30511,6 +30511,546 @@
     "date": "2026-06-10",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "madrid",
+    "id": 160,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/trettondagen-spaniens-riktiga-julafton-madrid.jpg",
+    "filename": "trettondagen-spaniens-riktiga-julafton-madrid.jpg",
+    "alt": "Trettondagen — Spaniens riktiga julafton i Madrid med människor och realistisk resemiljö",
+    "caption": "Trettondagen — Spaniens riktiga julafton i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-i-december",
+        "link": "https://madrid.se/madrid-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 158,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/thyssen-bornemisza-madrid.jpg",
+    "filename": "thyssen-bornemisza-madrid.jpg",
+    "alt": "🖌️ Thyssen-Bornemisza i Madrid med människor och realistisk resemiljö",
+    "caption": "🖌️ Thyssen-Bornemisza i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 156,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/templo-de-debod-i-solnedgang-madrid.jpg",
+    "filename": "templo-de-debod-i-solnedgang-madrid.jpg",
+    "alt": "🏛️ Templo de Debod i solnedgång i Madrid med människor och realistisk resemiljö",
+    "caption": "🏛️ Templo de Debod i solnedgång i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 154,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/tapas-lokal-mat-i-madrid.jpg",
+    "filename": "tapas-lokal-mat-i-madrid.jpg",
+    "alt": "Tapas & lokal mat i Madrid i Madrid med människor och realistisk resemiljö",
+    "caption": "Tapas &#038; lokal mat i Madrid i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://madrid.se/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 152,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/sol-gran-via-mitt-i-allt-madrid.jpg",
+    "filename": "sol-gran-via-mitt-i-allt-madrid.jpg",
+    "alt": "Sol & Gran Vía — mitt i allt i Madrid med människor och realistisk resemiljö",
+    "caption": "Sol &#038; Gran Vía — mitt i allt i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende",
+        "link": "https://madrid.se/boende/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 150,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/salamanca-lyx-och-lugn-madrid.jpg",
+    "filename": "salamanca-lyx-och-lugn-madrid.jpg",
+    "alt": "Salamanca — lyx och lugn i Madrid med människor och realistisk resemiljö",
+    "caption": "Salamanca — lyx och lugn i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende",
+        "link": "https://madrid.se/boende/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 148,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/reina-sofia-madrid.jpg",
+    "filename": "reina-sofia-madrid.jpg",
+    "alt": "🎨 Reina Sofía i Madrid med människor och realistisk resemiljö",
+    "caption": "🎨 Reina Sofía i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 146,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/nyarsafton-vid-puerta-del-sol-madrid.jpg",
+    "filename": "nyarsafton-vid-puerta-del-sol-madrid.jpg",
+    "alt": "Nyårsafton vid Puerta del Sol i Madrid med människor och realistisk resemiljö",
+    "caption": "Nyårsafton vid Puerta del Sol i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-i-december",
+        "link": "https://madrid.se/madrid-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 144,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/mitt-pa-dagen-el-greco-och-judiska-kvarteret-madrid.jpg",
+    "filename": "mitt-pa-dagen-el-greco-och-judiska-kvarteret-madrid.jpg",
+    "alt": "Mitt på dagen: El Greco och judiska kvarteret i Madrid med människor och realistisk resemiljö",
+    "caption": "Mitt på dagen: El Greco och judiska kvarteret i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykt-toledo-fran-madrid",
+        "link": "https://madrid.se/dagsutflykt-toledo-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 142,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/mercado-de-san-miguel-tapaskvarteren-madrid.jpg",
+    "filename": "mercado-de-san-miguel-tapaskvarteren-madrid.jpg",
+    "alt": "🥘 Mercado de San Miguel & tapaskvarteren i Madrid med människor och realistisk resemiljö",
+    "caption": "🥘 Mercado de San Miguel &#038; tapaskvarteren i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 140,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/linbanan-till-casa-de-campo-madrid.jpg",
+    "filename": "linbanan-till-casa-de-campo-madrid.jpg",
+    "alt": "🚡 Linbanan till Casa de Campo i Madrid med människor och realistisk resemiljö",
+    "caption": "🚡 Linbanan till Casa de Campo i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 138,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/lavapies-budget-och-streetart-madrid.jpg",
+    "filename": "lavapies-budget-och-streetart-madrid.jpg",
+    "alt": "Lavapiés — budget och streetart i Madrid med människor och realistisk resemiljö",
+    "caption": "Lavapiés — budget och streetart i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende",
+        "link": "https://madrid.se/boende/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 136,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/julmarknaden-pa-plaza-mayor-madrid.jpg",
+    "filename": "julmarknaden-pa-plaza-mayor-madrid.jpg",
+    "alt": "Julmarknaden på Plaza Mayor i Madrid med människor och realistisk resemiljö",
+    "caption": "Julmarknaden på Plaza Mayor i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-i-december",
+        "link": "https://madrid.se/madrid-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 134,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/jamon-iberico-tortilla-gambas-al-ajillo-madrid.jpg",
+    "filename": "jamon-iberico-tortilla-gambas-al-ajillo-madrid.jpg",
+    "alt": "Jamón ibérico, tortilla & gambas al ajillo i Madrid med människor och realistisk resemiljö",
+    "caption": "Jamón ibérico, tortilla &#038; gambas al ajillo i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "tapas-och-lokal-mat-i-madrid",
+        "link": "https://madrid.se/tapas-och-lokal-mat-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 132,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/fran-flygplatsen-till-centrum-fyra-satt-madrid.jpg",
+    "filename": "fran-flygplatsen-till-centrum-fyra-satt-madrid.jpg",
+    "alt": "Från flygplatsen till centrum — fyra sätt i Madrid med människor och realistisk resemiljö",
+    "caption": "Från flygplatsen till centrum — fyra sätt i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "resa-hit",
+        "link": "https://madrid.se/resa-hit/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 130,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/formiddag-katedralen-och-plaza-de-zocodover-madrid.jpg",
+    "filename": "formiddag-katedralen-och-plaza-de-zocodover-madrid.jpg",
+    "alt": "Förmiddag: katedralen och Plaza de Zocodover i Madrid med människor och realistisk resemiljö",
+    "caption": "Förmiddag: katedralen och Plaza de Zocodover i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykt-toledo-fran-madrid",
+        "link": "https://madrid.se/dagsutflykt-toledo-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 128,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-toledo-madrid.jpg",
+    "filename": "dagsutflykt-toledo-madrid.jpg",
+    "alt": "Dagsutflykt: Toledo i Madrid med människor och realistisk resemiljö",
+    "caption": "Dagsutflykt: Toledo i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://madrid.se/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 126,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-toledo-eller-segovia-madrid.jpg",
+    "filename": "dagsutflykt-toledo-eller-segovia-madrid.jpg",
+    "alt": "🏰 Dagsutflykt: Toledo eller Segovia i Madrid med människor och realistisk resemiljö",
+    "caption": "🏰 Dagsutflykt: Toledo eller Segovia i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 124,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-segovia-madrid.jpg",
+    "filename": "dagsutflykt-segovia-madrid.jpg",
+    "alt": "Dagsutflykt: Segovia i Madrid med människor och realistisk resemiljö",
+    "caption": "Dagsutflykt: Segovia i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://madrid.se/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 122,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/dag-1-kungliga-madrid-tapasdop-madrid.jpg",
+    "filename": "dag-1-kungliga-madrid-tapasdop-madrid.jpg",
+    "alt": "Dag 1 — Kungliga Madrid & tapasdop i Madrid med människor och realistisk resemiljö",
+    "caption": "Dag 1 — Kungliga Madrid &#038; tapasdop i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "3-dagar-i-madrid",
+        "link": "https://madrid.se/3-dagar-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 120,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/churros-con-chocolate-madrid.jpg",
+    "filename": "churros-con-chocolate-madrid.jpg",
+    "alt": "Churros con chocolate i Madrid med människor och realistisk resemiljö",
+    "caption": "Churros con chocolate i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "tapas-och-lokal-mat-i-madrid",
+        "link": "https://madrid.se/tapas-och-lokal-mat-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 118,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/bo-nara-metron-sov-nara-matchen-madrid.jpg",
+    "filename": "bo-nara-metron-sov-nara-matchen-madrid.jpg",
+    "alt": "Bo nära metron — sov nära matchen i Madrid med människor och realistisk resemiljö",
+    "caption": "Bo nära metron — sov nära matchen i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fotbollsresa-madrid",
+        "link": "https://madrid.se/fotbollsresa-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 116,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/almudena-katedralen-plaza-mayor-madrid.jpg",
+    "filename": "almudena-katedralen-plaza-mayor-madrid.jpg",
+    "alt": "⛪ Almudena-katedralen & Plaza Mayor i Madrid med människor och realistisk resemiljö",
+    "caption": "⛪ Almudena-katedralen &#038; Plaza Mayor i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora",
+        "link": "https://madrid.se/saker-att-gora/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 114,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/alcazar-sagoslottet-pa-klippan-madrid.jpg",
+    "filename": "alcazar-sagoslottet-pa-klippan-madrid.jpg",
+    "alt": "Alcázar — sagoslottet på klippan i Madrid med människor och realistisk resemiljö",
+    "caption": "Alcázar — sagoslottet på klippan i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsutflykt-segovia-fran-madrid",
+        "link": "https://madrid.se/dagsutflykt-segovia-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 112,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/5-slottet-museerna-i-barndos-madrid.jpg",
+    "filename": "5-slottet-museerna-i-barndos-madrid.jpg",
+    "alt": "Slottet & museerna — i barndos i Madrid med människor och realistisk resemiljö",
+    "caption": "Slottet &#038; museerna — i barndos i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-med-barn",
+        "link": "https://madrid.se/madrid-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 110,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/4-bernabeu-for-fotbollsbarnen-madrid.jpg",
+    "filename": "4-bernabeu-for-fotbollsbarnen-madrid.jpg",
+    "alt": "Bernabéu — för fotbollsbarnen i Madrid med människor och realistisk resemiljö",
+    "caption": "Bernabéu — för fotbollsbarnen i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-med-barn",
+        "link": "https://madrid.se/madrid-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 108,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/3-naturvetenskapliga-museet-tagmuseet-madrid.jpg",
+    "filename": "3-naturvetenskapliga-museet-tagmuseet-madrid.jpg",
+    "alt": "Naturvetenskapliga museet & tågmuseet i Madrid med människor och realistisk resemiljö",
+    "caption": "Naturvetenskapliga museet &#038; tågmuseet i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-med-barn",
+        "link": "https://madrid.se/madrid-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 106,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/3-dagar-i-madrid-optimal-plan-madrid.jpg",
+    "filename": "3-dagar-i-madrid-optimal-plan-madrid.jpg",
+    "alt": "3 dagar i Madrid — optimal plan i Madrid med människor och realistisk resemiljö",
+    "caption": "3 dagar i Madrid — optimal plan i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://madrid.se/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 104,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/2-linbanan-casa-de-campo-madrid.jpg",
+    "filename": "2-linbanan-casa-de-campo-madrid.jpg",
+    "alt": "Linbanan + Casa de Campo i Madrid med människor och realistisk resemiljö",
+    "caption": "Linbanan + Casa de Campo i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-med-barn",
+        "link": "https://madrid.se/madrid-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 102,
+    "url": "https://madrid.se/wp-content/uploads/2026/07/1-retiro-parken-borja-har-varje-dag-madrid.jpg",
+    "filename": "1-retiro-parken-borja-har-varje-dag-madrid.jpg",
+    "alt": "Retiro-parken — börja här varje dag i Madrid med människor och realistisk resemiljö",
+    "caption": "Retiro-parken — börja här varje dag i Madrid",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "madrid-med-barn",
+        "link": "https://madrid.se/madrid-med-barn/"
+      }
+    ]
   },
   {
     "domain": "madrid",
