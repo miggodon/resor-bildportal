@@ -27296,7 +27296,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -27314,7 +27314,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27332,7 +27332,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -27350,7 +27350,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -27368,7 +27368,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -27386,7 +27386,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27404,7 +27404,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -27422,7 +27422,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27440,7 +27440,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-guide",
@@ -27458,7 +27458,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27476,7 +27476,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-hus-provence",
@@ -27494,7 +27494,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -27512,7 +27512,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -27530,7 +27530,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -27548,7 +27548,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-boende",
@@ -27570,7 +27570,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27588,7 +27588,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luberon",
@@ -27606,7 +27606,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -27624,7 +27624,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camargue",
@@ -27642,7 +27642,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27660,7 +27660,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nice-guide",
@@ -27678,7 +27678,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -27696,7 +27696,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -27714,7 +27714,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -27732,7 +27732,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alpilles",
@@ -27750,7 +27750,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -27768,7 +27768,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hyra-hus-provence",
@@ -27786,7 +27786,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -27804,7 +27804,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -27840,7 +27840,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -30033,6 +30033,132 @@
       {
         "slug": "hyra-villa-provence-pool",
         "link": "https://provence.se/hyra-villa-provence-pool/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 437,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
+    "filename": "w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
+    "alt": "W-trek vs O-circuit vs dagstur i Sydamerika med människor och realistisk resemiljö",
+    "caption": "W-trek vs O-circuit vs dagstur i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 435,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
+    "filename": "w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
+    "alt": "W-trek dag för dag (klassisk rutt) i Sydamerika med människor och realistisk resemiljö",
+    "caption": "W-trek dag för dag (klassisk rutt) i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "torres-del-paine",
+        "link": "https://sydamerika.se/torres-del-paine/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 433,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/toppupplevelser-sydamerika.jpg",
+    "filename": "toppupplevelser-sydamerika.jpg",
+    "alt": "Toppupplevelser i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Toppupplevelser i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://sydamerika.se/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 431,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
+    "filename": "kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
+    "alt": "Kryssning vs landbaserat vs ö-hoppning i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Kryssning vs landbaserat vs ö-hoppning i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "galapagos",
+        "link": "https://sydamerika.se/galapagos/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 429,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
+    "filename": "hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
+    "alt": "Höjdsjuka på Uyuni-turen i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Höjdsjuka på Uyuni-turen i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "salar-de-uyuni",
+        "link": "https://sydamerika.se/salar-de-uyuni/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 427,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/backpacker-praktiskt-sydamerika.jpg",
+    "filename": "backpacker-praktiskt-sydamerika.jpg",
+    "alt": "Backpacker-praktiskt i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Backpacker-praktiskt i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "backpacker-rutter-sydamerika",
+        "link": "https://sydamerika.se/backpacker-rutter-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 425,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/07/argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
+    "filename": "argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
+    "alt": "Argentina vs Brasilien — vilken sida? i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Argentina vs Brasilien — vilken sida? i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "iguazu",
+        "link": "https://sydamerika.se/iguazu/"
       }
     ]
   },
