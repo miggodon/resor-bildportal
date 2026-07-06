@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Resor image portal</title>
+  <title>Resor portföljportal</title>
   <style>
     :root { color-scheme: light; --ink:#17212b; --muted:#667085; --line:#d8dee6; --bg:#f6f8fa; --panel:#fff; --accent:#0f766e; --warn:#b45309; }
     * { box-sizing:border-box; }
@@ -14,6 +14,9 @@
     p { margin:0; color:var(--muted); line-height:1.45; }
     .summary { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
     .pill { border:1px solid var(--line); border-radius:6px; padding:6px 9px; background:#fff; font-size:13px; color:#344054; }
+    .pill small { color:var(--muted); font-weight:400; }
+    .pill-kpi { background:#eef6ff; border-color:#bfdbfe; color:#1e40af; font-weight:600; }
+    .pill-warn { background:#fef2f2; border-color:#fca5a5; color:#991b1b; font-weight:600; }
     nav { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
     nav a, .open-link { color:#075985; text-decoration:none; font-weight:650; }
     nav a { border:1px solid var(--line); background:#f8fafc; border-radius:6px; padding:6px 9px; }
@@ -90,20 +93,18 @@
 <body>
   <header>
     <div class="header-inner">
-      <h1>Resor image portal</h1>
-      <p>En portal för alla domäner. Öppna en prompt, klistra in i ChatGPT, spara PNG med exakt filnamn och ladda upp den i bilder/inbox på GitHub.</p>
+      <h1>Resor portföljportal</h1>
+      <p>Överblick och drift för hela resor-portföljen: indexering, monetisering, innehållskvalitet och bildflöde per domän. Bild-verktygen (prompt → PNG i bilder/inbox → auto-publicering) finns kvar längst ned.</p>
       <div class="summary">
-        <span class="pill">Generated 2026-07-06T09:16:28.961253+00:00</span>
+        <span class="pill">Genererad 2026-07-06T11:24:05.963413+00:00</span>
         <span class="pill">16 domäner</span>
-        <span class="pill">231 redo</span>
-        <span class="pill">17 staging JPG</span>
-        <span class="pill">0 PNG i inbox</span>
-        <span class="pill">3363 att skapa</span>
-        <span class="pill">673 hög prio</span>
-        <span class="pill">3611 briefs totalt</span>
         <span class="pill">647 sidor live</span>
-        <span class="pill">1741 WP-bilder</span>
+        <span class="pill pill-kpi">98% indexerat <small>(635/647)</small></span>
+        <span class="pill pill-kpi">93% monetiserat <small>(602/647)</small></span>
+        <span class="pill pill-warn">63 QA-fel</span>
         <span class="pill">277 väntar bild</span>
+        <span class="pill">1741 WP-bilder</span>
+        <span class="pill">3611 briefs · 673 hög prio</span>
       </div>
       <div class="primary-nav">
         <a class="biglink" href="bildindex.html">📸 Bildindex — publicerade (pipeline)</a>
@@ -133,7 +134,7 @@
     <section class="hub-toolbar" id="refresh-hub">
       <h2>Hub underhåll</h2>
       <p class="portfolio-note">
-        Senast exporterad: <b>2026-07-05T17:17:40.043220+00:00</b> · 647 sidor i snapshot.
+        Senast exporterad: <b>2026-07-06T09:16:28.978863+00:00</b> · 647 sidor i snapshot.
         Data är inte live — kör export efter WP-publicering.
       </p>
       <div class="hub-actions">
@@ -173,174 +174,207 @@
     </section>
   
     <section class="portfolio-overview">
-      <h2>Portföljöversikt</h2>
-      <p class="portfolio-note">Sidor, score, flaggor, bildbehov, mediabibliotek och brief-framsteg per domän. Klicka på en kolumnrubrik för att sortera; domännamnet hoppar till kortet nedan.</p>
+      <h2>Portföljöversikt — domän-kommandocenter</h2>
+      <p class="portfolio-note">Indexering, monetisering, innehåll, QA och bild-status per domän. Klicka på en kolumnrubrik för att sortera; domännamnet hoppar till kortet nedan. Gula celler = under tröskel.</p>
       <table class="portfolio-table">
         <thead>
           <tr>
-            <th class="sortable">Domän</th><th class="sortable">Sidor</th><th class="sortable">Snitt score</th><th class="sortable">Flaggade</th>
-            <th class="sortable">Väntar bild</th><th class="sortable">WP-bilder</th><th class="sortable">Briefs klara</th><th></th>
+            <th class="sortable">Domän</th><th class="sortable">Sidor</th><th class="sortable">Indexerat</th><th class="sortable">Monetiserat</th>
+            <th class="sortable">Snitt ord</th><th class="sortable">Snitt score</th><th class="sortable">QA-fel</th>
+            <th class="sortable">Väntar bild</th><th class="sortable">Briefs klara</th><th></th>
           </tr>
         </thead>
         <tbody>
             <tr>
               <td data-v="Malaga"><a href="#malaga">Malaga</a></td>
               <td data-v="59">59</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>59/59 (100%)</small></td>
+              <td data-v="98" class=""><div class="cellbar"><span style="width:98%"></span></div><small>58/59 (98%)</small></td>
+              <td data-v="1277" class="">1277</td>
               <td data-v="93" class="">93</td>
-              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="4" class="warn-cell">4</td>
               <td data-v="19" class="">19</td>
-              <td data-v="199">199</td>
-              <td data-v="13"><div class="cellbar"><span style="width:13%"></span></div><small>29/231 (13%)</small></td>
+              <td data-v="13" class=""><div class="cellbar"><span style="width:13%"></span></div><small>29/231 (13%)</small></td>
               <td><a class="open-link" href="malaga/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Rhodos"><a href="#rhodos">Rhodos</a></td>
               <td data-v="48">48</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>48/48 (100%)</small></td>
+              <td data-v="98" class=""><div class="cellbar"><span style="width:98%"></span></div><small>47/48 (98%)</small></td>
+              <td data-v="1181" class="">1181</td>
               <td data-v="91" class="">91</td>
-              <td data-v="13" class="warn-cell">13</td>
+              <td data-v="1" class="">1</td>
               <td data-v="7" class="">7</td>
-              <td data-v="208">208</td>
-              <td data-v="28"><div class="cellbar"><span style="width:28%"></span></div><small>62/219 (28%)</small></td>
+              <td data-v="28" class=""><div class="cellbar"><span style="width:28%"></span></div><small>62/219 (28%)</small></td>
               <td><a class="open-link" href="rhodos/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Korfu"><a href="#korfu">Korfu</a></td>
               <td data-v="30">30</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>30/30 (100%)</small></td>
+              <td data-v="97" class=""><div class="cellbar"><span style="width:97%"></span></div><small>29/30 (97%)</small></td>
+              <td data-v="1312" class="">1312</td>
               <td data-v="93" class="">93</td>
-              <td data-v="14" class="warn-cell">14</td>
+              <td data-v="4" class="warn-cell">4</td>
               <td data-v="8" class="">8</td>
-              <td data-v="56">56</td>
-              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/117 (0%)</small></td>
+              <td data-v="0" class=""><div class="cellbar"><span style="width:0%"></span></div><small>0/117 (0%)</small></td>
               <td><a class="open-link" href="korfu/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Torremolinos"><a href="#torremolinos">Torremolinos</a></td>
               <td data-v="45">45</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>45/45 (100%)</small></td>
+              <td data-v="98" class=""><div class="cellbar"><span style="width:98%"></span></div><small>44/45 (98%)</small></td>
+              <td data-v="1237" class="">1237</td>
               <td data-v="89" class="">89</td>
-              <td data-v="18" class="warn-cell">18</td>
+              <td data-v="3" class="warn-cell">3</td>
               <td data-v="17" class="">17</td>
-              <td data-v="116">116</td>
-              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>2/225 (1%)</small></td>
+              <td data-v="1" class=""><div class="cellbar"><span style="width:1%"></span></div><small>2/225 (1%)</small></td>
               <td><a class="open-link" href="torremolinos/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Gran Canaria"><a href="#grancanaria">Gran Canaria</a></td>
               <td data-v="68">68</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>68/68 (100%)</small></td>
+              <td data-v="99" class=""><div class="cellbar"><span style="width:99%"></span></div><small>67/68 (99%)</small></td>
+              <td data-v="1537" class="">1537</td>
               <td data-v="93" class="">93</td>
-              <td data-v="30" class="warn-cell">30</td>
+              <td data-v="10" class="warn-cell">10</td>
               <td data-v="19" class="">19</td>
-              <td data-v="189">189</td>
-              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>3/656 (0%)</small></td>
+              <td data-v="0" class=""><div class="cellbar"><span style="width:0%"></span></div><small>3/656 (0%)</small></td>
               <td><a class="open-link" href="grancanaria/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Teneriffa"><a href="#teneriffa">Teneriffa</a></td>
               <td data-v="56">56</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>56/56 (100%)</small></td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>56/56 (100%)</small></td>
+              <td data-v="1707" class="">1707</td>
               <td data-v="91" class="">91</td>
-              <td data-v="22" class="warn-cell">22</td>
+              <td data-v="4" class="warn-cell">4</td>
               <td data-v="14" class="">14</td>
-              <td data-v="210">210</td>
-              <td data-v="16"><div class="cellbar"><span style="width:16%"></span></div><small>48/304 (16%)</small></td>
+              <td data-v="16" class=""><div class="cellbar"><span style="width:16%"></span></div><small>48/304 (16%)</small></td>
               <td><a class="open-link" href="teneriffa/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Lanzarote"><a href="#lanzarote">Lanzarote</a></td>
               <td data-v="54">54</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>54/54 (100%)</small></td>
+              <td data-v="98" class=""><div class="cellbar"><span style="width:98%"></span></div><small>53/54 (98%)</small></td>
+              <td data-v="1736" class="">1736</td>
               <td data-v="94" class="">94</td>
-              <td data-v="28" class="warn-cell">28</td>
+              <td data-v="0" class="">—</td>
               <td data-v="26" class="warn-cell">26</td>
-              <td data-v="226">226</td>
-              <td data-v="2"><div class="cellbar"><span style="width:2%"></span></div><small>10/572 (2%)</small></td>
+              <td data-v="2" class=""><div class="cellbar"><span style="width:2%"></span></div><small>10/572 (2%)</small></td>
               <td><a class="open-link" href="lanzarote/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Fuerteventura"><a href="#fuerteventura">Fuerteventura</a></td>
               <td data-v="58">58</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>58/58 (100%)</small></td>
+              <td data-v="97" class=""><div class="cellbar"><span style="width:97%"></span></div><small>56/58 (97%)</small></td>
+              <td data-v="1684" class="">1684</td>
               <td data-v="92" class="">92</td>
-              <td data-v="43" class="warn-cell">43</td>
+              <td data-v="6" class="warn-cell">6</td>
               <td data-v="39" class="warn-cell">39</td>
-              <td data-v="99">99</td>
-              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/334 (0%)</small></td>
+              <td data-v="0" class=""><div class="cellbar"><span style="width:0%"></span></div><small>0/334 (0%)</small></td>
               <td><a class="open-link" href="fuerteventura/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Chamonix"><a href="#chamonix">Chamonix</a></td>
               <td data-v="42">42</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>42/42 (100%)</small></td>
+              <td data-v="93" class=""><div class="cellbar"><span style="width:93%"></span></div><small>39/42 (93%)</small></td>
+              <td data-v="991" class="">991</td>
               <td data-v="86" class="">86</td>
-              <td data-v="26" class="warn-cell">26</td>
+              <td data-v="0" class="">—</td>
               <td data-v="25" class="warn-cell">25</td>
-              <td data-v="106">106</td>
-              <td data-v="3"><div class="cellbar"><span style="width:3%"></span></div><small>3/90 (3%)</small></td>
+              <td data-v="3" class=""><div class="cellbar"><span style="width:3%"></span></div><small>3/90 (3%)</small></td>
               <td><a class="open-link" href="chamonix/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Venedig"><a href="#venedig">Venedig</a></td>
               <td data-v="35">35</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>35/35 (100%)</small></td>
+              <td data-v="94" class=""><div class="cellbar"><span style="width:94%"></span></div><small>33/35 (94%)</small></td>
+              <td data-v="1044" class="">1044</td>
               <td data-v="88" class="">88</td>
-              <td data-v="15" class="warn-cell">15</td>
+              <td data-v="2" class="">2</td>
               <td data-v="13" class="">13</td>
-              <td data-v="92">92</td>
-              <td data-v="1"><div class="cellbar"><span style="width:1%"></span></div><small>1/137 (1%)</small></td>
+              <td data-v="1" class=""><div class="cellbar"><span style="width:1%"></span></div><small>1/137 (1%)</small></td>
               <td><a class="open-link" href="venedig/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Hawaii"><a href="#hawaii">Hawaii</a></td>
               <td data-v="20">20</td>
+              <td data-v="45" class="warn-cell"><div class="cellbar"><span style="width:45%"></span></div><small>9/20 (45%)</small></td>
+              <td data-v="65" class=""><div class="cellbar"><span style="width:65%"></span></div><small>13/20 (65%)</small></td>
+              <td data-v="1306" class="">1306</td>
               <td data-v="86" class="">86</td>
-              <td data-v="12" class="warn-cell">12</td>
+              <td data-v="1" class="">1</td>
               <td data-v="10" class="">10</td>
-              <td data-v="20">20</td>
-              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/69 (0%)</small></td>
+              <td data-v="0" class=""><div class="cellbar"><span style="width:0%"></span></div><small>0/69 (0%)</small></td>
               <td><a class="open-link" href="hawaii/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Florida"><a href="#florida">Florida</a></td>
               <td data-v="28">28</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>28/28 (100%)</small></td>
+              <td data-v="79" class=""><div class="cellbar"><span style="width:79%"></span></div><small>22/28 (79%)</small></td>
+              <td data-v="1490" class="">1490</td>
               <td data-v="91" class="">91</td>
-              <td data-v="25" class="warn-cell">25</td>
+              <td data-v="3" class="warn-cell">3</td>
               <td data-v="23" class="warn-cell">23</td>
-              <td data-v="21">21</td>
-              <td data-v="24"><div class="cellbar"><span style="width:24%"></span></div><small>41/168 (24%)</small></td>
+              <td data-v="24" class=""><div class="cellbar"><span style="width:24%"></span></div><small>41/168 (24%)</small></td>
               <td><a class="open-link" href="florida/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Borneo"><a href="#borneo">Borneo</a></td>
               <td data-v="17">17</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>17/17 (100%)</small></td>
+              <td data-v="47" class="warn-cell"><div class="cellbar"><span style="width:47%"></span></div><small>8/17 (47%)</small></td>
+              <td data-v="681" class="warn-cell">681</td>
               <td data-v="78" class="">78</td>
-              <td data-v="17" class="warn-cell">17</td>
+              <td data-v="15" class="warn-cell">15</td>
               <td data-v="10" class="">10</td>
-              <td data-v="12">12</td>
-              <td data-v="0"><div class="cellbar"><span style="width:0%"></span></div><small>0/65 (0%)</small></td>
+              <td data-v="0" class=""><div class="cellbar"><span style="width:0%"></span></div><small>0/65 (0%)</small></td>
               <td><a class="open-link" href="borneo/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Provence"><a href="#provence">Provence</a></td>
               <td data-v="35">35</td>
+              <td data-v="97" class=""><div class="cellbar"><span style="width:97%"></span></div><small>34/35 (97%)</small></td>
+              <td data-v="97" class=""><div class="cellbar"><span style="width:97%"></span></div><small>34/35 (97%)</small></td>
+              <td data-v="1631" class="">1631</td>
               <td data-v="96" class="">96</td>
-              <td data-v="14" class="warn-cell">14</td>
+              <td data-v="2" class="">2</td>
               <td data-v="3" class="">3</td>
-              <td data-v="156">156</td>
-              <td data-v="24"><div class="cellbar"><span style="width:24%"></span></div><small>34/142 (24%)</small></td>
+              <td data-v="24" class=""><div class="cellbar"><span style="width:24%"></span></div><small>34/142 (24%)</small></td>
               <td><a class="open-link" href="provence/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Sydamerika"><a href="#sydamerika">Sydamerika</a></td>
               <td data-v="36">36</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>36/36 (100%)</small></td>
+              <td data-v="86" class=""><div class="cellbar"><span style="width:86%"></span></div><small>31/36 (86%)</small></td>
+              <td data-v="768" class="warn-cell">768</td>
               <td data-v="85" class="">85</td>
+              <td data-v="1" class="">1</td>
               <td data-v="28" class="warn-cell">28</td>
-              <td data-v="28" class="warn-cell">28</td>
-              <td data-v="27">27</td>
-              <td data-v="5"><div class="cellbar"><span style="width:5%"></span></div><small>10/194 (5%)</small></td>
+              <td data-v="5" class=""><div class="cellbar"><span style="width:5%"></span></div><small>10/194 (5%)</small></td>
               <td><a class="open-link" href="sydamerika/">Briefs</a></td>
             </tr>
             <tr>
               <td data-v="Madrid"><a href="#madrid">Madrid</a></td>
               <td data-v="16">16</td>
+              <td data-v="100" class=""><div class="cellbar"><span style="width:100%"></span></div><small>16/16 (100%)</small></td>
+              <td data-v="75" class=""><div class="cellbar"><span style="width:75%"></span></div><small>12/16 (75%)</small></td>
+              <td data-v="700" class="warn-cell">700</td>
               <td data-v="73" class="">73</td>
-              <td data-v="16" class="warn-cell">16</td>
+              <td data-v="7" class="warn-cell">7</td>
               <td data-v="16" class="">16</td>
-              <td data-v="4">4</td>
-              <td data-v="6"><div class="cellbar"><span style="width:6%"></span></div><small>5/88 (6%)</small></td>
+              <td data-v="6" class=""><div class="cellbar"><span style="width:6%"></span></div><small>5/88 (6%)</small></td>
               <td><a class="open-link" href="madrid/">Briefs</a></td>
             </tr></tbody>
       </table>
