@@ -11712,5 +11712,13 @@
    });
    count.textContent=`Visar ${v} av ${rows.length}`;
  }
- [fd,fty,fa,ft,fi,fs,ff,fm,fqa].forEach(x=>x.addEventListener('change',apply)); apply();
+ [fd,fty,fa,ft,fi,fs,ff,fm,fqa].forEach(x=>x.addEventListener('change',apply));
+ // Förvälj filter från URL (djuplänkar från portföljportalen), t.ex.
+ // sidor.html?domain=lanzarote&qa=❌ Fix krävs  eller  ?domain=x&money=none
+ (function(){
+   const q=new URLSearchParams(location.search);
+   const map={domain:fd,type:fty,aud:fa,tier:ft,idx:fi,score:fs,flag:ff,money:fm,qa:fqa};
+   for(const[k,el]of Object.entries(map)){const val=q.get(k); if(val!==null) el.value=val;}
+ })();
+ apply();
 </script></body></html>
