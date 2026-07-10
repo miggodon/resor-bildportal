@@ -5896,7 +5896,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-rhodos",
+        "link": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -5927,7 +5932,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "brollopsresa-rhodos",
+        "link": "https://rhodos.se/brollopsresa-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -5958,7 +5968,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-rhodos",
+        "link": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -6074,7 +6089,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-resa-till-rhodos",
+        "link": "https://rhodos.se/basta-tiden-att-resa-till-rhodos/"
+      }
+    ]
   },
   {
     "domain": "rhodos",
@@ -10167,7 +10187,12 @@
     "h": 1080,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "sevardheter-torremolinos",
+        "link": "https://torremolinos.se/sevardheter-torremolinos/"
+      }
+    ]
   },
   {
     "domain": "torremolinos",
@@ -18167,7 +18192,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "5-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/5-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18180,7 +18210,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "5-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/5-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18229,7 +18264,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18242,7 +18282,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18255,7 +18300,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18268,7 +18318,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18330,7 +18385,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18343,7 +18403,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18387,7 +18452,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -18580,7 +18650,12 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "7-dagar-pa-lanzarote",
+        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
+      }
+    ]
   },
   {
     "domain": "lanzarote",
@@ -27252,7 +27327,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
   },
   {
     "domain": "florida",
@@ -27391,7 +27471,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
   },
   {
     "domain": "florida",
@@ -31505,7 +31590,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "patagonien",
+        "link": "https://sydamerika.se/patagonien/"
+      }
+    ]
   },
   {
     "domain": "sydamerika",
