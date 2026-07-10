@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/argentina-vs-brasilien-vilken-sida-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
       "filename": "argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
       "brief_id": "sydamerika:iguazu:argentina-vs-brasilien-vilken-sida",
       "domain": "sydamerika",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Argentina vs Brasilien — vilken sida? i Sydamerika. Bilden visar Argentina vs Brasilien — vilken sida? i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/argentina-vs-brasilien-vilken-sida-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/argentina-vs-brasilien-vilken-sida-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/iguazu/",
           "page_slug": "iguazu",
@@ -39,13 +39,16 @@
           "caption": "Argentina vs Brasilien — vilken sida? i Sydamerika",
           "description": "En realistisk resebild från Argentina vs Brasilien — vilken sida? i Sydamerika. Bilden visar Argentina vs Brasilien — vilken sida? i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/argentina-vs-brasilien-vilken-sida-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/backpacker-praktiskt-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/backpacker-praktiskt-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/backpacker-praktiskt-sydamerika.jpg",
       "filename": "backpacker-praktiskt-sydamerika.jpg",
       "brief_id": "sydamerika:backpacker-rutter-sydamerika:backpacker-praktiskt",
       "domain": "sydamerika",
@@ -65,7 +68,7 @@
       "seo": "En realistisk resebild från Backpacker-praktiskt i Sydamerika. Bilden visar Backpacker-praktiskt i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/backpacker-praktiskt-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/backpacker-praktiskt-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/backpacker-praktiskt-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/backpacker-rutter-sydamerika/",
           "page_slug": "backpacker-rutter-sydamerika",
@@ -78,13 +81,16 @@
           "caption": "Backpacker-praktiskt i Sydamerika",
           "description": "En realistisk resebild från Backpacker-praktiskt i Sydamerika. Bilden visar Backpacker-praktiskt i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/backpacker-praktiskt-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/hojdsjuka-pa-uyuni-turen-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
       "filename": "hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
       "brief_id": "sydamerika:salar-de-uyuni:hojdsjuka-pa-uyuni-turen",
       "domain": "sydamerika",
@@ -104,7 +110,7 @@
       "seo": "En realistisk resebild från Höjdsjuka på Uyuni-turen i Sydamerika. Bilden visar Höjdsjuka på Uyuni-turen i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/hojdsjuka-pa-uyuni-turen-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/hojdsjuka-pa-uyuni-turen-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/salar-de-uyuni/",
           "page_slug": "salar-de-uyuni",
@@ -117,13 +123,16 @@
           "caption": "Höjdsjuka på Uyuni-turen i Sydamerika",
           "description": "En realistisk resebild från Höjdsjuka på Uyuni-turen i Sydamerika. Bilden visar Höjdsjuka på Uyuni-turen i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/hojdsjuka-pa-uyuni-turen-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
       "filename": "kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
       "brief_id": "sydamerika:galapagos:kryssning-vs-landbaserat-vs-o-hoppning",
       "domain": "sydamerika",
@@ -143,7 +152,7 @@
       "seo": "En realistisk resebild från Kryssning vs landbaserat vs ö-hoppning i Sydamerika. Bilden visar Kryssning vs landbaserat vs ö-hoppning i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/galapagos/",
           "page_slug": "galapagos",
@@ -156,13 +165,16 @@
           "caption": "Kryssning vs landbaserat vs ö-hoppning i Sydamerika",
           "description": "En realistisk resebild från Kryssning vs landbaserat vs ö-hoppning i Sydamerika. Bilden visar Kryssning vs landbaserat vs ö-hoppning i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/kryssning-vs-landbaserat-vs-o-hoppning-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/toppupplevelser-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/toppupplevelser-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/toppupplevelser-sydamerika.jpg",
       "filename": "toppupplevelser-sydamerika.jpg",
       "brief_id": "sydamerika:startsida:toppupplevelser",
       "domain": "sydamerika",
@@ -182,7 +194,7 @@
       "seo": "En realistisk resebild från Toppupplevelser i Sydamerika. Bilden visar Toppupplevelser i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/toppupplevelser-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/toppupplevelser-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/toppupplevelser-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/",
           "page_slug": "startsida",
@@ -195,13 +207,16 @@
           "caption": "Toppupplevelser i Sydamerika",
           "description": "En realistisk resebild från Toppupplevelser i Sydamerika. Bilden visar Toppupplevelser i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/toppupplevelser-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/w-trek-dag-for-dag-klassisk-rutt-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
       "filename": "w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:w-trek-dag-for-dag-klassisk-rutt",
       "domain": "sydamerika",
@@ -221,7 +236,7 @@
       "seo": "En realistisk resebild från W-trek dag för dag (klassisk rutt) i Sydamerika. Bilden visar W-trek dag för dag (klassisk rutt) i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/w-trek-dag-for-dag-klassisk-rutt-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -234,13 +249,16 @@
           "caption": "W-trek dag för dag (klassisk rutt) i Sydamerika",
           "description": "En realistisk resebild från W-trek dag för dag (klassisk rutt) i Sydamerika. Bilden visar W-trek dag för dag (klassisk rutt) i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/w-trek-dag-for-dag-klassisk-rutt-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/w-trek-vs-o-circuit-vs-dagstur-sydamerika.png",
-      "file": "bilder/web-ready/sydamerika/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
+      "file": "bilder/web-ready/sydamerika/redo/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
       "filename": "w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
       "brief_id": "sydamerika:torres-del-paine:w-trek-vs-o-circuit-vs-dagstur",
       "domain": "sydamerika",
@@ -260,7 +278,7 @@
       "seo": "En realistisk resebild från W-trek vs O-circuit vs dagstur i Sydamerika. Bilden visar W-trek vs O-circuit vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/w-trek-vs-o-circuit-vs-dagstur-sydamerika.png",
-        "web_ready_file": "bilder/web-ready/sydamerika/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
+        "web_ready_file": "bilder/web-ready/sydamerika/redo/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
         "wordpress_target": {
           "page_url": "https://sydamerika.se/torres-del-paine/",
           "page_slug": "torres-del-paine",
@@ -273,9 +291,12 @@
           "caption": "W-trek vs O-circuit vs dagstur i Sydamerika",
           "description": "En realistisk resebild från W-trek vs O-circuit vs dagstur i Sydamerika. Bilden visar W-trek vs O-circuit vs dagstur i Sydamerika under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
         },
-        "publishing_status": "needs_manual_image"
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/sydamerika/redo"
       },
-      "inspection": "bilder/web-ready/sydamerika/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1536x1024, components 3"
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
   ]
 }

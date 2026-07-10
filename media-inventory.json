@@ -1624,7 +1624,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -1754,7 +1759,12 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "malaga-med-tonaringar",
+        "link": "https://malaga.se/malaga-med-tonaringar/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -4227,8 +4237,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -4443,8 +4453,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -5502,8 +5512,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -5574,8 +5584,8 @@
     "managed": false,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -6079,8 +6089,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -6753,8 +6763,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "rhodos-september-oktober",
-        "link": "https://rhodos.se/rhodos-september-oktober/"
+        "slug": "rhodos-i-september",
+        "link": "https://rhodos.se/rhodos-i-september/"
       }
     ]
   },
@@ -7019,6 +7029,114 @@
   },
   {
     "domain": "korfu",
+    "id": 547,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/utflykter-fran-sidari-korfu.jpg",
+    "filename": "utflykter-fran-sidari-korfu.jpg",
+    "alt": "Utflykter från Sidari i Korfu med människor och realistisk resemiljö",
+    "caption": "Utflykter från Sidari i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sidari-korfu",
+        "link": "https://korfu.se/sidari-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 545,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/strander-korfu-vs-rhodos-korfu.jpg",
+    "filename": "strander-korfu-vs-rhodos-korfu.jpg",
+    "alt": "Stränder — Korfu vs Rhodos i Korfu med människor och realistisk resemiljö",
+    "caption": "Stränder — Korfu vs Rhodos i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "korfu-eller-rhodos",
+        "link": "https://korfu.se/korfu-eller-rhodos/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 543,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/shopping-i-gamla-stan-korfu.jpg",
+    "filename": "shopping-i-gamla-stan-korfu.jpg",
+    "alt": "Shopping i Gamla stan i Korfu med människor och realistisk resemiljö",
+    "caption": "Shopping i Gamla stan i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "korfu-stadsguide",
+        "link": "https://korfu.se/korfu-stadsguide/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 541,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/livet-i-sidari-korfu.jpg",
+    "filename": "livet-i-sidari-korfu.jpg",
+    "alt": "Livet i Sidari i Korfu med människor och realistisk resemiljö",
+    "caption": "Livet i Sidari i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sidari-korfu",
+        "link": "https://korfu.se/sidari-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 539,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/ata-och-dricka-i-korfu-stad-korfu.jpg",
+    "filename": "ata-och-dricka-i-korfu-stad-korfu.jpg",
+    "alt": "Äta och dricka i Korfu stad i Korfu med människor och realistisk resemiljö",
+    "caption": "Äta och dricka i Korfu stad i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "korfu-stadsguide",
+        "link": "https://korfu.se/korfu-stadsguide/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 537,
+    "url": "https://korfu.se/wp-content/uploads/2026/07/angelokastro-korfus-maktigaste-medeltidsborg-korfu.jpg",
+    "filename": "angelokastro-korfus-maktigaste-medeltidsborg-korfu.jpg",
+    "alt": "Angelokastro — Korfus mäktigaste medeltidsborg i Korfu med människor och realistisk resemiljö",
+    "caption": "Angelokastro — Korfus mäktigaste medeltidsborg i Korfu",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-pa-korfu",
+        "link": "https://korfu.se/sevardheter-pa-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
     "id": 529,
     "url": "https://korfu.se/wp-content/uploads/2026/07/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu-1.jpg",
     "filename": "paxos-och-anti-paxos-dagsbat-11-5-tim-korfu-1.jpg",
@@ -7093,7 +7211,12 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-korfu",
+        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
+      }
+    ]
   },
   {
     "domain": "korfu",
@@ -7106,7 +7229,12 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "sevardheter-pa-korfu",
+        "link": "https://korfu.se/sevardheter-pa-korfu/"
+      }
+    ]
   },
   {
     "domain": "korfu",
@@ -7118,7 +7246,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7136,7 +7264,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vandring-pa-korfu",
@@ -7154,7 +7282,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7172,7 +7300,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7190,7 +7318,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7208,7 +7336,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7226,7 +7354,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "sevardheter-pa-korfu",
@@ -10100,6 +10228,132 @@
   },
   {
     "domain": "grancanaria",
+    "id": 1784,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/saker-att-gora-pa-gran-canaria-komplett-lista-grancanaria.jpg",
+    "filename": "saker-att-gora-pa-gran-canaria-komplett-lista-grancanaria.jpg",
+    "alt": "Saker att göra på Gran Canaria — komplett lista i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Saker att göra på Gran Canaria — komplett lista i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1782,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/rutten-genom-calderan-roque-nublo-och-tejeda-grancanaria.jpg",
+    "filename": "rutten-genom-calderan-roque-nublo-och-tejeda-grancanaria.jpg",
+    "alt": "Rutten genom calderan — Roque Nublo och Tejeda i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Rutten genom calderan — Roque Nublo och Tejeda i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-gran-canaria",
+        "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1780,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg",
+    "filename": "norra-kusten-agaete-puerto-de-las-nieves-och-tamadaba-grancanaria.jpg",
+    "alt": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Norra kusten — Agaete, Puerto de las Nieves och Tamadaba i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-gran-canaria",
+        "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1778,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/las-palmas-de-gran-canaria-grancanaria.jpg",
+    "filename": "las-palmas-de-gran-canaria-grancanaria.jpg",
+    "alt": "Las Palmas de Gran Canaria i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Las Palmas de Gran Canaria i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1776,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg",
+    "filename": "gran-canaria-maspalomas-playa-del-ingles-grancanaria.jpg",
+    "alt": "Maspalomas & Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Maspalomas &#038; Playa del Inglés i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1774,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/en-vecka-pa-gran-canaria-optimal-dag-for-dag-guide-grancanaria.jpg",
+    "filename": "en-vecka-pa-gran-canaria-optimal-dag-for-dag-guide-grancanaria.jpg",
+    "alt": "En vecka på Gran Canaria — optimal dag-för-dag-guide i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "En vecka på Gran Canaria — optimal dag-för-dag-guide i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 1772,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/07/basta-stranderna-pa-gran-canaria-grancanaria.jpg",
+    "filename": "basta-stranderna-pa-gran-canaria-grancanaria.jpg",
+    "alt": "Bästa stränderna på Gran Canaria i Gran Canaria med människor och realistisk resemiljö",
+    "caption": "Bästa stränderna på Gran Canaria i Gran Canaria",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gran-canaria",
+        "link": "https://grancanaria.se/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
     "id": 1399,
     "url": "https://grancanaria.se/wp-content/uploads/2026/06/san-agustin-lugnare-morkare-skonare-grancanaria.jpg",
     "filename": "san-agustin-lugnare-morkare-skonare-grancanaria.jpg",
@@ -10108,7 +10362,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -10126,7 +10380,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10144,7 +10398,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-pensionarer-langliggare",
@@ -10166,7 +10420,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10188,7 +10442,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10206,7 +10460,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10224,7 +10478,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10242,7 +10496,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10284,7 +10538,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10302,7 +10556,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10344,7 +10598,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -10357,7 +10611,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -10370,7 +10624,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -10383,7 +10637,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10401,7 +10655,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10419,7 +10673,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10437,7 +10691,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "aqualand-maspalomas",
@@ -13178,12 +13432,7 @@
     "h": 1066,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-pa-gran-canaria",
-        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -26703,6 +26952,99 @@
   },
   {
     "domain": "florida",
+    "id": 522,
+    "url": "https://florida.se/wp-content/uploads/2026/07/roadtrip-langs-us-1-sa-planerar-du-florida-1.jpg",
+    "filename": "roadtrip-langs-us-1-sa-planerar-du-florida-1.jpg",
+    "alt": "Roadtrip längs US-1 — så planerar du i Florida med människor och realistisk resemiljö",
+    "caption": "Roadtrip längs US-1 — så planerar du i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "florida",
+    "id": 521,
+    "url": "https://florida.se/wp-content/uploads/2026/07/hotell-utanfor-international-drive-lake-buena-vista-florida-1.jpg",
+    "filename": "hotell-utanfor-international-drive-lake-buena-vista-florida-1.jpg",
+    "alt": "Hotell utanför — International Drive, Lake Buena Vista i Florida med människor och realistisk resemiljö",
+    "caption": "Hotell utanför — International Drive, Lake Buena Vista i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "florida",
+    "id": 520,
+    "url": "https://florida.se/wp-content/uploads/2026/07/college-towns-vs-turiststader-florida-1.jpg",
+    "filename": "college-towns-vs-turiststader-florida-1.jpg",
+    "alt": "College towns vs turiststäder i Florida med människor och realistisk resemiljö",
+    "caption": "College towns vs turiststäder i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "florida",
+    "id": 491,
+    "url": "https://florida.se/wp-content/uploads/2026/07/roadtrip-langs-us-1-sa-planerar-du-florida.jpg",
+    "filename": "roadtrip-langs-us-1-sa-planerar-du-florida.jpg",
+    "alt": "Roadtrip längs US-1 — så planerar du i Florida med människor och realistisk resemiljö",
+    "caption": "Roadtrip längs US-1 — så planerar du i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "florida-keys",
+        "link": "https://florida.se/florida-keys/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 489,
+    "url": "https://florida.se/wp-content/uploads/2026/07/hotell-utanfor-international-drive-lake-buena-vista-florida.jpg",
+    "filename": "hotell-utanfor-international-drive-lake-buena-vista-florida.jpg",
+    "alt": "Hotell utanför — International Drive, Lake Buena Vista i Florida med människor och realistisk resemiljö",
+    "caption": "Hotell utanför — International Drive, Lake Buena Vista i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "disney-world-orlando",
+        "link": "https://florida.se/disney-world-orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 487,
+    "url": "https://florida.se/wp-content/uploads/2026/07/college-towns-vs-turiststader-florida.jpg",
+    "filename": "college-towns-vs-turiststader-florida.jpg",
+    "alt": "College towns vs turiststäder i Florida med människor och realistisk resemiljö",
+    "caption": "College towns vs turiststäder i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "universitet-florida",
+        "link": "https://florida.se/universitet-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
     "id": 355,
     "url": "https://florida.se/wp-content/uploads/2026/06/klassiska-florida-rutter-florida.jpg",
     "filename": "klassiska-florida-rutter-florida.jpg",
@@ -27066,6 +27408,235 @@
   },
   {
     "domain": "borneo",
+    "id": 226,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/transfer-fran-flygplatsen-borneo.jpg",
+    "filename": "transfer-fran-flygplatsen-borneo.jpg",
+    "alt": "Transfer från flygplatsen i Borneo med människor och realistisk resemiljö",
+    "caption": "Transfer från flygplatsen i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "resa-till-borneo-transfer",
+        "link": "https://borneo.se/resa-till-borneo-transfer/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 224,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/startsida-boka-upplevelser-i-forvag-borneo.jpg",
+    "filename": "startsida-boka-upplevelser-i-forvag-borneo.jpg",
+    "alt": "Boka upplevelser i förväg i Borneo med människor och realistisk resemiljö",
+    "caption": "Boka upplevelser i förväg i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://borneo.se/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 222,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/stad-eller-djungel-borneo.jpg",
+    "filename": "stad-eller-djungel-borneo.jpg",
+    "alt": "Stad eller djungel? i Borneo med människor och realistisk resemiljö",
+    "caption": "Stad eller djungel? i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-borneo",
+        "link": "https://borneo.se/var-ska-man-bo-pa-borneo/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 220,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/semenggoh-orangutanger-nara-staden-borneo.jpg",
+    "filename": "semenggoh-orangutanger-nara-staden-borneo.jpg",
+    "alt": "Semenggoh – orangutanger nära staden i Borneo med människor och realistisk resemiljö",
+    "caption": "Semenggoh – orangutanger nära staden i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 218,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/sa-tar-du-dig-till-sepilok-borneo.jpg",
+    "filename": "sa-tar-du-dig-till-sepilok-borneo.jpg",
+    "alt": "Så tar du dig till Sepilok i Borneo med människor och realistisk resemiljö",
+    "caption": "Så tar du dig till Sepilok i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-nara-sepilok",
+        "link": "https://borneo.se/bo-nara-sepilok/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 216,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/sa-passar-kinabatangan-in-i-resan-borneo.jpg",
+    "filename": "sa-passar-kinabatangan-in-i-resan-borneo.jpg",
+    "alt": "Så passar Kinabatangan in i resan i Borneo med människor och realistisk resemiljö",
+    "caption": "Så passar Kinabatangan in i resan i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-kinabatangan-borneo",
+        "link": "https://borneo.se/boende-kinabatangan-borneo/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 214,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/gunung-mulu-grottorna-borneo.jpg",
+    "filename": "gunung-mulu-grottorna-borneo.jpg",
+    "alt": "Gunung Mulu – grottorna i Borneo med människor och realistisk resemiljö",
+    "caption": "Gunung Mulu – grottorna i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 212,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/en-typisk-dag-vid-floden-borneo.jpg",
+    "filename": "en-typisk-dag-vid-floden-borneo.jpg",
+    "alt": "En typisk dag vid floden i Borneo med människor och realistisk resemiljö",
+    "caption": "En typisk dag vid floden i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-kinabatangan-borneo",
+        "link": "https://borneo.se/boende-kinabatangan-borneo/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 210,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/borneos-hojdpunkter-borneo.jpg",
+    "filename": "borneos-hojdpunkter-borneo.jpg",
+    "alt": "Borneos höjdpunkter i Borneo med människor och realistisk resemiljö",
+    "caption": "Borneos höjdpunkter i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://borneo.se/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 208,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/bo-i-kuching-borneo.jpg",
+    "filename": "bo-i-kuching-borneo.jpg",
+    "alt": "Bo i Kuching i Borneo med människor och realistisk resemiljö",
+    "caption": "Bo i Kuching i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 206,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/bako-nationalpark-borneo.jpg",
+    "filename": "bako-nationalpark-borneo.jpg",
+    "alt": "Bako nationalpark i Borneo med människor och realistisk resemiljö",
+    "caption": "Bako nationalpark i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 204,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/ata-i-kuching-borneo.jpg",
+    "filename": "ata-i-kuching-borneo.jpg",
+    "alt": "Äta i Kuching i Borneo med människor och realistisk resemiljö",
+    "caption": "Äta i Kuching i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kuching-bako-semenggoh-guide",
+        "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "borneo",
+    "id": 196,
+    "url": "https://borneo.se/wp-content/uploads/2026/07/rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
+    "filename": "rutt-a-sabah-med-orangutanger-och-flod-borneo.jpg",
+    "alt": "Rutt A: Sabah med orangutanger och flod i Borneo med människor och realistisk resemiljö",
+    "caption": "Rutt A: Sabah med orangutanger och flod i Borneo",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-07",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "borneo",
     "id": 182,
     "url": "https://borneo.se/wp-content/uploads/2026/07/rutt-sabah-orangutanger-flod-borneo.jpg",
     "filename": "rutt-sabah-orangutanger-flod-borneo.jpg",
@@ -27257,6 +27828,492 @@
   },
   {
     "domain": "provence",
+    "id": 750,
+    "url": "https://provence.se/wp-content/uploads/2026/07/vaucluse-och-drome-provencale-provence.jpg",
+    "filename": "vaucluse-och-drome-provencale-provence.jpg",
+    "alt": "Vaucluse och Drome Provençale i Provence med människor och realistisk resemiljö",
+    "caption": "Vaucluse och Drome Provençale i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-hus-provence",
+        "link": "https://provence.se/hyra-hus-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 748,
+    "url": "https://provence.se/wp-content/uploads/2026/07/terrasser-var-sitter-man-bast-provence.jpg",
+    "filename": "terrasser-var-sitter-man-bast-provence.jpg",
+    "alt": "Terrasser — var sitter man bäst? i Provence med människor och realistisk resemiljö",
+    "caption": "Terrasser — var sitter man bäst? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-restauranger",
+        "link": "https://provence.se/aix-en-provence-restauranger/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 746,
+    "url": "https://provence.se/wp-content/uploads/2026/07/stader-byar-kultur-och-stadsliv-provence.jpg",
+    "filename": "stader-byar-kultur-och-stadsliv-provence.jpg",
+    "alt": "Städer & byar — kultur och stadsliv i Provence med människor och realistisk resemiljö",
+    "caption": "Städer &#038; byar — kultur och stadsliv i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://provence.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 744,
+    "url": "https://provence.se/wp-content/uploads/2026/07/senanque-och-lavendel-inte-en-by-men-ett-maste-provence.jpg",
+    "filename": "senanque-och-lavendel-inte-en-by-men-ett-maste-provence.jpg",
+    "alt": "Sénanque och lavendel — inte en by men ett måste i Provence med människor och realistisk resemiljö",
+    "caption": "Sénanque och lavendel — inte en by men ett måste i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 742,
+    "url": "https://provence.se/wp-content/uploads/2026/07/rutt-c-aix-luberon-hel-dag-provence.jpg",
+    "filename": "rutt-c-aix-luberon-hel-dag-provence.jpg",
+    "alt": "Rutt C — ”Aix + Luberon” (hel dag) i Provence med människor och realistisk resemiljö",
+    "caption": "Rutt C — ”Aix + Luberon” (hel dag) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-vin",
+        "link": "https://provence.se/aix-en-provence-vin/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 740,
+    "url": "https://provence.se/wp-content/uploads/2026/07/roussillon-ocker-och-farg-provence.jpg",
+    "filename": "roussillon-ocker-och-farg-provence.jpg",
+    "alt": "Roussillon — ocker och färg i Provence med människor och realistisk resemiljö",
+    "caption": "Roussillon — ocker och färg i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "luberon",
+        "link": "https://provence.se/hyra-hus-provence/luberon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 738,
+    "url": "https://provence.se/wp-content/uploads/2026/07/rivieran-kust-och-inland-provence.jpg",
+    "filename": "rivieran-kust-och-inland-provence.jpg",
+    "alt": "Rivieran — kust och inland i Provence med människor och realistisk resemiljö",
+    "caption": "Rivieran — kust och inland i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-hus-provence",
+        "link": "https://provence.se/hyra-hus-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 736,
+    "url": "https://provence.se/wp-content/uploads/2026/07/ris-camargues-roda-guld-provence.jpg",
+    "filename": "ris-camargues-roda-guld-provence.jpg",
+    "alt": "Ris — Camargues röda guld i Provence med människor och realistisk resemiljö",
+    "caption": "Ris — Camargues röda guld i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camargue",
+        "link": "https://provence.se/hyra-hus-provence/camargue/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 734,
+    "url": "https://provence.se/wp-content/uploads/2026/07/redo-for-den-lugnare-akta-provence.jpg",
+    "filename": "redo-for-den-lugnare-akta-provence.jpg",
+    "alt": "Redo för den lugnare, äkta Provence? i Provence med människor och realistisk resemiljö",
+    "caption": "Redo för den lugnare, äkta Provence? i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ventoux-drome",
+        "link": "https://provence.se/hyra-hus-provence/ventoux-drome/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 732,
+    "url": "https://provence.se/wp-content/uploads/2026/07/praktiska-tips-for-stranddagar-fran-inlandet-provence.jpg",
+    "filename": "praktiska-tips-for-stranddagar-fran-inlandet-provence.jpg",
+    "alt": "Praktiska tips för stranddagar från inlandet i Provence med människor och realistisk resemiljö",
+    "caption": "Praktiska tips för stranddagar från inlandet i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-i-provence",
+        "link": "https://provence.se/strander-i-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 730,
+    "url": "https://provence.se/wp-content/uploads/2026/07/onsdagsmarknaden-provences-finaste-provence.jpg",
+    "filename": "onsdagsmarknaden-provences-finaste-provence.jpg",
+    "alt": "Onsdagsmarknaden — Provences finaste i Provence med människor och realistisk resemiljö",
+    "caption": "Onsdagsmarknaden — Provences finaste i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saint-remy-byguide",
+        "link": "https://provence.se/saint-remy-byguide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 728,
+    "url": "https://provence.se/wp-content/uploads/2026/07/natur-landskap-lavendel-kust-och-vildmark-provence.jpg",
+    "filename": "natur-landskap-lavendel-kust-och-vildmark-provence.jpg",
+    "alt": "Natur & landskap — lavendel, kust och vildmark i Provence med människor och realistisk resemiljö",
+    "caption": "Natur &#038; landskap — lavendel, kust och vildmark i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://provence.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 726,
+    "url": "https://provence.se/wp-content/uploads/2026/07/mat-vin-marknader-restauranger-och-vingardar-provence.jpg",
+    "filename": "mat-vin-marknader-restauranger-och-vingardar-provence.jpg",
+    "alt": "Mat & vin — marknader, restauranger och vingårdar i Provence med människor och realistisk resemiljö",
+    "caption": "Mat &#038; vin — marknader, restauranger och vingårdar i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://provence.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 724,
+    "url": "https://provence.se/wp-content/uploads/2026/07/marknader-lokal-mat-provence.jpg",
+    "filename": "marknader-lokal-mat-provence.jpg",
+    "alt": "Marknader & lokal mat i Provence med människor och realistisk resemiljö",
+    "caption": "Marknader &#038; lokal mat i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "var-verdon",
+        "link": "https://provence.se/hyra-hus-provence/var-verdon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 722,
+    "url": "https://provence.se/wp-content/uploads/2026/07/marknad-restaurang-kombinera-provence.jpg",
+    "filename": "marknad-restaurang-kombinera-provence.jpg",
+    "alt": "Marknad + restaurang — kombinera i Provence med människor och realistisk resemiljö",
+    "caption": "Marknad + restaurang — kombinera i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-restauranger",
+        "link": "https://provence.se/aix-en-provence-restauranger/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 720,
+    "url": "https://provence.se/wp-content/uploads/2026/07/latt-alternativ-utan-lang-vandring-provence.jpg",
+    "filename": "latt-alternativ-utan-lang-vandring-provence.jpg",
+    "alt": "Lätt alternativ — utan lång vandring i Provence med människor och realistisk resemiljö",
+    "caption": "Lätt alternativ — utan lång vandring i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sainte-victoire-vandring",
+        "link": "https://provence.se/sainte-victoire-vandring/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 718,
+    "url": "https://provence.se/wp-content/uploads/2026/07/kombinera-marknad-med-matlagning-i-semesterboende-provence.jpg",
+    "filename": "kombinera-marknad-med-matlagning-i-semesterboende-provence.jpg",
+    "alt": "Kombinera marknad med matlagning i semesterboende i Provence med människor och realistisk resemiljö",
+    "caption": "Kombinera marknad med matlagning i semesterboende i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-marknader",
+        "link": "https://provence.se/aix-en-provence-marknader/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 716,
+    "url": "https://provence.se/wp-content/uploads/2026/07/forslag-5-dagar-med-bas-i-aix-provence.jpg",
+    "filename": "forslag-5-dagar-med-bas-i-aix-provence.jpg",
+    "alt": "Förslag: 5 dagar med bas i Aix i Provence med människor och realistisk resemiljö",
+    "caption": "Förslag: 5 dagar med bas i Aix i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-avignon",
+        "link": "https://provence.se/hyra-hus-provence/aix-avignon/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 714,
+    "url": "https://provence.se/wp-content/uploads/2026/07/eze-30-min-med-buss-eller-bil-provence.jpg",
+    "filename": "eze-30-min-med-buss-eller-bil-provence.jpg",
+    "alt": "Eze (30 min med buss eller bil) i Provence med människor och realistisk resemiljö",
+    "caption": "Eze (30 min med buss eller bil) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-guide",
+        "link": "https://provence.se/nice-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 712,
+    "url": "https://provence.se/wp-content/uploads/2026/07/dagsutflykter-fran-aix-provence.jpg",
+    "filename": "dagsutflykter-fran-aix-provence.jpg",
+    "alt": "Dagsutflykter från Aix i Provence med människor och realistisk resemiljö",
+    "caption": "Dagsutflykter från Aix i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence",
+        "link": "https://provence.se/aix-en-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 710,
+    "url": "https://provence.se/wp-content/uploads/2026/07/dag-1-stad-och-atelje-utan-bil-provence.jpg",
+    "filename": "dag-1-stad-och-atelje-utan-bil-provence.jpg",
+    "alt": "Dag 1 — Stad och ateljé (utan bil) i Provence med människor och realistisk resemiljö",
+    "caption": "Dag 1 — Stad och ateljé (utan bil) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "cezanne-i-aix",
+        "link": "https://provence.se/cezanne-i-aix/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 708,
+    "url": "https://provence.se/wp-content/uploads/2026/07/cannes-35-min-med-tag-provence.jpg",
+    "filename": "cannes-35-min-med-tag-provence.jpg",
+    "alt": "Cannes (35 min med tåg) i Provence med människor och realistisk resemiljö",
+    "caption": "Cannes (35 min med tåg) i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-guide",
+        "link": "https://provence.se/nice-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 706,
+    "url": "https://provence.se/wp-content/uploads/2026/07/camargue-natur-och-budget-provence.jpg",
+    "filename": "camargue-natur-och-budget-provence.jpg",
+    "alt": "Camargue — natur och budget i Provence med människor och realistisk resemiljö",
+    "caption": "Camargue — natur och budget i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-hus-provence",
+        "link": "https://provence.se/hyra-hus-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 704,
+    "url": "https://provence.se/wp-content/uploads/2026/07/at-och-bo-i-aix-provence.jpg",
+    "filename": "at-och-bo-i-aix-provence.jpg",
+    "alt": "Ät och bo i Aix i Provence med människor och realistisk resemiljö",
+    "caption": "Ät och bo i Aix i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "aix-en-provence-restauranger",
+        "link": "https://provence.se/aix-en-provence-restauranger/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 702,
+    "url": "https://provence.se/wp-content/uploads/2026/07/antibes-och-cap-ferrat-provence.jpg",
+    "filename": "antibes-och-cap-ferrat-provence.jpg",
+    "alt": "Antibes och Cap-Ferrat i Provence med människor och realistisk resemiljö",
+    "caption": "Antibes och Cap-Ferrat i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nice-guide",
+        "link": "https://provence.se/nice-guide/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 700,
+    "url": "https://provence.se/wp-content/uploads/2026/07/aktiviteter-intraden-provence.jpg",
+    "filename": "aktiviteter-intraden-provence.jpg",
+    "alt": "Aktiviteter & inträden i Provence med människor och realistisk resemiljö",
+    "caption": "Aktiviteter &#038; inträden i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-kostar-provence",
+        "link": "https://provence.se/vad-kostar-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
+    "id": 698,
+    "url": "https://provence.se/wp-content/uploads/2026/07/aix-omgivningarna-stad-pool-provence.jpg",
+    "filename": "aix-omgivningarna-stad-pool-provence.jpg",
+    "alt": "Aix-omgivningarna — stad + pool i Provence med människor och realistisk resemiljö",
+    "caption": "Aix-omgivningarna — stad + pool i Provence",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-08",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyra-hus-provence",
+        "link": "https://provence.se/hyra-hus-provence/"
+      }
+    ]
+  },
+  {
+    "domain": "provence",
     "id": 696,
     "url": "https://provence.se/wp-content/uploads/2026/07/redo-att-hyra-hus-vid-verdon-provence-1.jpg",
     "filename": "redo-att-hyra-hus-vid-verdon-provence-1.jpg",
@@ -27266,7 +28323,12 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "var-verdon",
+        "link": "https://provence.se/hyra-hus-provence/var-verdon/"
+      }
+    ]
   },
   {
     "domain": "provence",
@@ -27278,7 +28340,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "var-verdon",
