@@ -7266,7 +7266,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -10387,7 +10387,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -10405,7 +10405,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10423,7 +10423,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-pensionarer-langliggare",
@@ -10445,7 +10445,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10467,7 +10467,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10485,7 +10485,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10503,7 +10503,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10521,7 +10521,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10563,7 +10563,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10581,7 +10581,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
