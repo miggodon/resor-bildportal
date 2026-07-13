@@ -1,6 +1,222 @@
 [
   {
     "domain": "malaga",
+    "id": 1453,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/vader-i-september-i-malaga.jpg",
+    "filename": "vader-i-september-i-malaga.jpg",
+    "alt": "Väder i september i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i september i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-september",
+        "link": "https://malaga.se/malaga-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1451,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/vader-i-januari-i-malaga.jpg",
+    "filename": "vader-i-januari-i-malaga.jpg",
+    "alt": "Väder i januari i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i januari i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-januari",
+        "link": "https://malaga.se/malaga-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1449,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/vader-i-februari-i-malaga.jpg",
+    "filename": "vader-i-februari-i-malaga.jpg",
+    "alt": "Väder i februari i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i februari i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-februari",
+        "link": "https://malaga.se/malaga-i-februari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1447,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/vader-i-augusti-i-malaga.jpg",
+    "filename": "vader-i-augusti-i-malaga.jpg",
+    "alt": "Väder i augusti i Málaga i Málaga med människor och realistisk resemiljö",
+    "caption": "Väder i augusti i Málaga i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-augusti",
+        "link": "https://malaga.se/malaga-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1445,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/torremolinos-den-historiska-hbtq-destinationen-malaga.jpg",
+    "filename": "torremolinos-den-historiska-hbtq-destinationen-malaga.jpg",
+    "alt": "Torremolinos – den historiska HBTQ-destinationen i Málaga med människor och realistisk resemiljö",
+    "caption": "Torremolinos – den historiska HBTQ-destinationen i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-hbtq",
+        "link": "https://malaga.se/malaga-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1443,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/sjukvard-for-nordiska-seniorer-malaga.jpg",
+    "filename": "sjukvard-for-nordiska-seniorer-malaga.jpg",
+    "alt": "Sjukvård för nordiska seniorer i Málaga med människor och realistisk resemiljö",
+    "caption": "Sjukvård för nordiska seniorer i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-for-seniorer",
+        "link": "https://malaga.se/malaga-for-seniorer/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1441,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/packlista-hela-tabellen-pa-ett-stalle-malaga.jpg",
+    "filename": "packlista-hela-tabellen-pa-ett-stalle-malaga.jpg",
+    "alt": "Packlista — hela tabellen på ett ställe i Málaga med människor och realistisk resemiljö",
+    "caption": "Packlista — hela tabellen på ett ställe i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "packlista-malaga",
+        "link": "https://malaga.se/packlista-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1439,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/oktober-det-perfekta-vadret-malaga.jpg",
+    "filename": "oktober-det-perfekta-vadret-malaga.jpg",
+    "alt": "Oktober — det perfekta vädret i Málaga med människor och realistisk resemiljö",
+    "caption": "Oktober — det perfekta vädret i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-pa-hosten",
+        "link": "https://malaga.se/malaga-pa-hosten/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1437,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/juli-hojdpunkter-malaga.jpg",
+    "filename": "juli-hojdpunkter-malaga.jpg",
+    "alt": "Juli-höjdpunkter i Málaga med människor och realistisk resemiljö",
+    "caption": "Juli-höjdpunkter i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-juli",
+        "link": "https://malaga.se/malaga-i-juli/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1435,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/januari-hojdpunkter-malaga.jpg",
+    "filename": "januari-hojdpunkter-malaga.jpg",
+    "alt": "Januari-höjdpunkter i Málaga med människor och realistisk resemiljö",
+    "caption": "Januari-höjdpunkter i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-januari",
+        "link": "https://malaga.se/malaga-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1433,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/fler-guider-malaga.jpg",
+    "filename": "fler-guider-malaga.jpg",
+    "alt": "Fler guider i Málaga med människor och realistisk resemiljö",
+    "caption": "Fler guider i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://malaga.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1431,
+    "url": "https://malaga.se/wp-content/uploads/2026/07/aktiviteter-i-augusti-malaga.jpg",
+    "filename": "aktiviteter-i-augusti-malaga.jpg",
+    "alt": "Aktiviteter i augusti i Málaga med människor och realistisk resemiljö",
+    "caption": "Aktiviteter i augusti i Málaga",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "malaga-i-augusti",
+        "link": "https://malaga.se/malaga-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1276,
     "url": "https://malaga.se/wp-content/uploads/2026/06/utomhusaktiviteter-malaga-2.jpg",
     "filename": "utomhusaktiviteter-malaga-2.jpg",
@@ -9,7 +225,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-for-seniorer",
@@ -1624,12 +1840,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "malaga-med-tonaringar",
-        "link": "https://malaga.se/malaga-med-tonaringar/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -1759,12 +1970,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "malaga-med-tonaringar",
-        "link": "https://malaga.se/malaga-med-tonaringar/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -2975,7 +3181,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -2993,7 +3199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3011,7 +3217,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3029,7 +3235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3047,7 +3253,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -26668,6 +26874,114 @@
   },
   {
     "domain": "hawaii",
+    "id": 281,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/upplevelser-aktiviteter-hawaii.jpg",
+    "filename": "upplevelser-aktiviteter-hawaii.jpg",
+    "alt": "Upplevelser & Aktiviteter i Hawaii med människor och realistisk resemiljö",
+    "caption": "Upplevelser &#038; Aktiviteter i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 279,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/hyrbil-ett-maste-hawaii.jpg",
+    "filename": "hyrbil-ett-maste-hawaii.jpg",
+    "alt": "Hyrbil - ett måste i Hawaii med människor och realistisk resemiljö",
+    "caption": "Hyrbil - ett måste i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 277,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/hyrbil-boka-tidigt-hawaii.jpg",
+    "filename": "hyrbil-boka-tidigt-hawaii.jpg",
+    "alt": "Hyrbil - boka tidigt! i Hawaii med människor och realistisk resemiljö",
+    "caption": "Hyrbil - boka tidigt! i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 275,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/flyg-till-hawaii.jpg",
+    "filename": "flyg-till-hawaii.jpg",
+    "alt": "Flyg till Hawaii i Hawaii med människor och realistisk resemiljö",
+    "caption": "Flyg till Hawaii i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 273,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/budgetguide-hawaii.jpg",
+    "filename": "budgetguide-hawaii.jpg",
+    "alt": "Budgetguide i Hawaii med människor och realistisk resemiljö",
+    "caption": "Budgetguide i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 271,
+    "url": "https://hawaii.se/wp-content/uploads/2026/07/basta-tiden-att-aka-hawaii.jpg",
+    "filename": "basta-tiden-att-aka-hawaii.jpg",
+    "alt": "Bästa tiden att åka i Hawaii med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att åka i Hawaii",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-12",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
     "id": 155,
     "url": "https://hawaii.se/wp-content/uploads/2026/06/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
     "filename": "sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
@@ -26676,7 +26990,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "oahu",
@@ -26694,7 +27008,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "oahu",
@@ -26712,7 +27026,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "luau-hawaii",
@@ -26730,7 +27044,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "big-island",
@@ -26822,10 +27136,6 @@
     "date": "2026-06-18",
     "managed": true,
     "used_on": [
-      {
-        "slug": "boende-hawaii",
-        "link": "https://hawaii.se/boende-hawaii/"
-      },
       {
         "slug": "start",
         "link": "https://hawaii.se/"
