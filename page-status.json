@@ -25823,6 +25823,93 @@
   },
   {
     "domain": "borneo",
+    "id": 229,
+    "slug": "dykning-borneo-sipadan-semporna",
+    "title": "Dykning på Borneo – Sipadan, Mabul &#038; Semporna 2026",
+    "link": "https://borneo.se/dykning-borneo-sipadan-semporna/",
+    "modified": "2026-07-16",
+    "words": 260,
+    "h2": 3,
+    "h3": 0,
+    "images": 0,
+    "internal": 5,
+    "external": 1,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": false,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 73,
+    "flags": [
+      "tunt content",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
+  },
+  {
+    "domain": "borneo",
+    "id": 228,
+    "slug": "danum-valley-borneo",
+    "title": "Danum Valley – lodger, priser &#038; vilda orangutanger 2026",
+    "link": "https://borneo.se/danum-valley-borneo/",
+    "modified": "2026-07-16",
+    "words": 310,
+    "h2": 3,
+    "h3": 0,
+    "images": 0,
+    "internal": 5,
+    "external": 1,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": false,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 73,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
+  },
+  {
+    "domain": "borneo",
     "id": 199,
     "slug": "borneo-i-regntiden",
     "title": "Borneo i regntiden (november–februari) — grönt, billigt och lugnt",
@@ -26632,6 +26719,50 @@
       "⛔ h1 i body"
     ],
     "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "provence",
+    "id": 848,
+    "slug": "packlista-provence",
+    "title": "Packlista Provence — det här ska med i väskan",
+    "link": "https://provence.se/packlista-provence/",
+    "modified": "2026-07-16",
+    "words": 318,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 1,
+    "external": 14,
+    "affiliate": 0,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Reseprodukter"
+    ],
+    "indexed": false,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "🟠 Svag",
+    "needs_image": true,
+    "score": 45,
+    "flags": [
+      "omonetiserad",
+      "få internlänkar",
+      "📷 väntar bild"
+    ],
+    "tier": "Rå",
     "contaminated": false
   },
   {
