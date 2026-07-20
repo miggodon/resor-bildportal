@@ -3797,6 +3797,10 @@
       {
         "slug": "ixia-vind-surfing",
         "link": "https://rhodos.se/ixia-vind-surfing/"
+      },
+      {
+        "slug": "rhodos-flygplats-transfer",
+        "link": "https://rhodos.se/rhodos-flygplats-transfer/"
       }
     ]
   },
@@ -4299,6 +4303,10 @@
     "managed": false,
     "used_on": [
       {
+        "slug": "rhodos-i-juni",
+        "link": "https://rhodos.se/rhodos-i-juni/"
+      },
+      {
         "slug": "rhodos-senior-aldre",
         "link": "https://rhodos.se/rhodos-senior-aldre/"
       }
@@ -4370,6 +4378,10 @@
     "date": "2026-06-23",
     "managed": false,
     "used_on": [
+      {
+        "slug": "resa-till-rhodos",
+        "link": "https://rhodos.se/resa-till-rhodos/"
+      },
       {
         "slug": "rhodos-i-oktober",
         "link": "https://rhodos.se/rhodos-i-oktober/"
@@ -4695,6 +4707,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "rhodos-vs-korfu",
+        "link": "https://rhodos.se/rhodos-vs-korfu/"
+      },
+      {
         "slug": "startsida",
         "link": "https://rhodos.se/"
       }
@@ -4730,6 +4746,10 @@
     "date": "2026-06-19",
     "managed": true,
     "used_on": [
+      {
+        "slug": "rhodos-vs-kos",
+        "link": "https://rhodos.se/rhodos-vs-kos/"
+      },
       {
         "slug": "guider",
         "link": "https://rhodos.se/guider/"
@@ -5000,6 +5020,10 @@
     "date": "2026-06-19",
     "managed": true,
     "used_on": [
+      {
+        "slug": "rhodos-vs-kreta",
+        "link": "https://rhodos.se/rhodos-vs-kreta/"
+      },
       {
         "slug": "guider",
         "link": "https://rhodos.se/guider/"
@@ -5409,6 +5433,10 @@
     "date": "2026-06-17",
     "managed": true,
     "used_on": [
+      {
+        "slug": "budget-vad-kostar-en-vecka-rhodos",
+        "link": "https://rhodos.se/budget-vad-kostar-en-vecka-rhodos/"
+      },
       {
         "slug": "startsida",
         "link": "https://rhodos.se/"
