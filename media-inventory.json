@@ -32719,5 +32719,31 @@
     "date": "2026-07-05",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "barcelonas",
+    "id": 200,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/07/logo-barcelonas.png",
+    "filename": "logo-barcelonas.png",
+    "alt": "Barcelonas.se",
+    "caption": "",
+    "w": 120,
+    "h": 120,
+    "date": "2026-07-30",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "barcelonas",
+    "id": 82,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/07/barcelonas-favicon.png",
+    "filename": "barcelonas-favicon.png",
+    "alt": "Barcelonas.se logotyp",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-07-30",
+    "managed": false,
+    "used_on": []
   }
 ]
