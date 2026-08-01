@@ -7500,7 +7500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -10621,7 +10621,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -10639,7 +10639,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10657,7 +10657,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gran-canaria-pensionarer-langliggare",
@@ -10679,7 +10679,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10701,7 +10701,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10719,7 +10719,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10737,7 +10737,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10755,7 +10755,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10797,7 +10797,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -10815,7 +10815,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guider",
@@ -26910,7 +26910,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-12",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -26928,7 +26928,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-12",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -32719,6 +32719,734 @@
     "date": "2026-07-05",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "barcelonas",
+    "id": 364,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/vindsvaningen-espai-gaudi-barcelonas.jpg",
+    "filename": "vindsvaningen-espai-gaudi-barcelonas.jpg",
+    "alt": "Vindsvåningen – Espai Gaudí i Barcelona med människor och realistisk resemiljö",
+    "caption": "Vindsvåningen – Espai Gaudí i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "casa-mila-la-pedrera",
+        "link": "https://barcelonas.se/casa-mila-la-pedrera/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 362,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/ue-sant-andreu-barcelonas.jpg",
+    "filename": "ue-sant-andreu-barcelonas.jpg",
+    "alt": "UE Sant Andreu i Barcelona med människor och realistisk resemiljö",
+    "caption": "UE Sant Andreu i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lokalfotboll-barcelona",
+        "link": "https://barcelonas.se/lokalfotboll-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 360,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sondagsmarknaden-i-sant-antoni-barcelonas.jpg",
+    "filename": "sondagsmarknaden-i-sant-antoni-barcelonas.jpg",
+    "alt": "Söndagsmarknaden i Sant Antoni i Barcelona med människor och realistisk resemiljö",
+    "caption": "Söndagsmarknaden i Sant Antoni i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "loppmarknader-barcelona",
+        "link": "https://barcelonas.se/loppmarknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 358,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sommaren-juni-till-augusti-barcelonas.jpg",
+    "filename": "sommaren-juni-till-augusti-barcelonas.jpg",
+    "alt": "Sommaren: juni till augusti i Barcelona med människor och realistisk resemiljö",
+    "caption": "Sommaren: juni till augusti i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vader-barcelona",
+        "link": "https://barcelonas.se/vader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 356,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sevardheter-barcelona-el-born-barcelonas.jpg",
+    "filename": "sevardheter-barcelona-el-born-barcelonas.jpg",
+    "alt": "El Born i Barcelona med människor och realistisk resemiljö",
+    "caption": "El Born i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-barcelona",
+        "link": "https://barcelonas.se/sevardheter-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 354,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sevardheter-barcelona-barri-gotic-barcelonas.jpg",
+    "filename": "sevardheter-barcelona-barri-gotic-barcelonas.jpg",
+    "alt": "Barri Gòtic i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barri Gòtic i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-barcelona",
+        "link": "https://barcelonas.se/sevardheter-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 352,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sant-antoni-barcelonas.jpg",
+    "filename": "sant-antoni-barcelonas.jpg",
+    "alt": "Sant Antoni i Barcelona med människor och realistisk resemiljö",
+    "caption": "Sant Antoni i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "loppmarknader-barcelona",
+        "link": "https://barcelonas.se/loppmarknader-barcelona/"
+      },
+      {
+        "slug": "marknader-barcelona",
+        "link": "https://barcelonas.se/marknader-barcelona/"
+      },
+      {
+        "slug": "restauranger-barcelona",
+        "link": "https://barcelonas.se/restauranger-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 350,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sagrada-familia-barcelonas.jpg",
+    "filename": "sagrada-familia-barcelonas.jpg",
+    "alt": "Sagrada Família i Barcelona med människor och realistisk resemiljö",
+    "caption": "Sagrada Família i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 348,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/rcde-stadium-barcelonas.jpg",
+    "filename": "rcde-stadium-barcelonas.jpg",
+    "alt": "RCDE Stadium i Barcelona med människor och realistisk resemiljö",
+    "caption": "RCDE Stadium i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "rcd-espanyol",
+        "link": "https://barcelonas.se/rcd-espanyol/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 346,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/poblenou-och-razzmatazz-barcelonas.jpg",
+    "filename": "poblenou-och-razzmatazz-barcelonas.jpg",
+    "alt": "Poblenou och Razzmatazz i Barcelona med människor och realistisk resemiljö",
+    "caption": "Poblenou och Razzmatazz i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "nattliv-barcelona",
+        "link": "https://barcelonas.se/nattliv-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 344,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/passeig-de-gracia-barcelonas.jpg",
+    "filename": "passeig-de-gracia-barcelonas.jpg",
+    "alt": "Passeig de Gràcia i Barcelona med människor och realistisk resemiljö",
+    "caption": "Passeig de Gràcia i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "shopping-barcelona",
+        "link": "https://barcelonas.se/shopping-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 342,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/park-guell-barcelonas.jpg",
+    "filename": "park-guell-barcelonas.jpg",
+    "alt": "Park Güell i Barcelona med människor och realistisk resemiljö",
+    "caption": "Park Güell i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 340,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/palau-guell-barcelonas.jpg",
+    "filename": "palau-guell-barcelonas.jpg",
+    "alt": "Palau Güell i Barcelona med människor och realistisk resemiljö",
+    "caption": "Palau Güell i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 338,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/nova-mar-bella-och-llevant-barcelonas.jpg",
+    "filename": "nova-mar-bella-och-llevant-barcelonas.jpg",
+    "alt": "Nova Mar Bella och Llevant i Barcelona med människor och realistisk resemiljö",
+    "caption": "Nova Mar Bella och Llevant i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 336,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/nova-icaria-barcelonas.jpg",
+    "filename": "nova-icaria-barcelonas.jpg",
+    "alt": "Nova Icària i Barcelona med människor och realistisk resemiljö",
+    "caption": "Nova Icària i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 334,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/montserrat-barcelonas.jpg",
+    "filename": "montserrat-barcelonas.jpg",
+    "alt": "Montserrat i Barcelona med människor och realistisk resemiljö",
+    "caption": "Montserrat i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-barcelona",
+        "link": "https://barcelonas.se/dagsturer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 332,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/mnac-kataloniens-nationalmuseum-barcelonas.jpg",
+    "filename": "mnac-kataloniens-nationalmuseum-barcelonas.jpg",
+    "alt": "MNAC – Kataloniens nationalmuseum i Barcelona med människor och realistisk resemiljö",
+    "caption": "MNAC – Kataloniens nationalmuseum i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montjuic",
+        "link": "https://barcelonas.se/montjuic/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 330,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-santa-caterina-barcelonas.jpg",
+    "filename": "mercat-de-santa-caterina-barcelonas.jpg",
+    "alt": "Mercat de Santa Caterina i Barcelona med människor och realistisk resemiljö",
+    "caption": "Mercat de Santa Caterina i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marknader-barcelona",
+        "link": "https://barcelonas.se/marknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 328,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-sant-antoni-barcelonas.jpg",
+    "filename": "mercat-de-sant-antoni-barcelonas.jpg",
+    "alt": "Mercat de Sant Antoni i Barcelona med människor och realistisk resemiljö",
+    "caption": "Mercat de Sant Antoni i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marknader-barcelona",
+        "link": "https://barcelonas.se/marknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 326,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-la-llibertat-barcelonas.jpg",
+    "filename": "mercat-de-la-llibertat-barcelonas.jpg",
+    "alt": "Mercat de la Llibertat i Barcelona med människor och realistisk resemiljö",
+    "caption": "Mercat de la Llibertat i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marknader-barcelona",
+        "link": "https://barcelonas.se/marknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 324,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/mar-bella-barcelonas.jpg",
+    "filename": "mar-bella-barcelonas.jpg",
+    "alt": "Mar Bella i Barcelona med människor och realistisk resemiljö",
+    "caption": "Mar Bella i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 322,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/fundacio-joan-miro-barcelonas.jpg",
+    "filename": "fundacio-joan-miro-barcelonas.jpg",
+    "alt": "Fundació Joan Miró i Barcelona med människor och realistisk resemiljö",
+    "caption": "Fundació Joan Miró i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montjuic",
+        "link": "https://barcelonas.se/montjuic/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 320,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/figueres-och-dali-barcelonas.jpg",
+    "filename": "figueres-och-dali-barcelonas.jpg",
+    "alt": "Figueres och Dalí i Barcelona med människor och realistisk resemiljö",
+    "caption": "Figueres och Dalí i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-barcelona",
+        "link": "https://barcelonas.se/dagsturer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 318,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/estadi-olimpic-arenan-barca-lamnade-barcelonas.jpg",
+    "filename": "estadi-olimpic-arenan-barca-lamnade-barcelonas.jpg",
+    "alt": "Estadi Olímpic – arenan Barça lämnade i Barcelona med människor och realistisk resemiljö",
+    "caption": "Estadi Olímpic – arenan Barça lämnade i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "camp-nou-fc-barcelona",
+        "link": "https://barcelonas.se/camp-nou-fc-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 316,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/en-dag-pa-montjuic-barcelonas.jpg",
+    "filename": "en-dag-pa-montjuic-barcelonas.jpg",
+    "alt": "En dag på Montjuïc i Barcelona med människor och realistisk resemiljö",
+    "caption": "En dag på Montjuïc i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montjuic",
+        "link": "https://barcelonas.se/montjuic/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 314,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/els-encants-vells-barcelonas.jpg",
+    "filename": "els-encants-vells-barcelonas.jpg",
+    "alt": "Els Encants Vells i Barcelona med människor och realistisk resemiljö",
+    "caption": "Els Encants Vells i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "loppmarknader-barcelona",
+        "link": "https://barcelonas.se/loppmarknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 312,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/colonia-guell-barcelonas.jpg",
+    "filename": "colonia-guell-barcelonas.jpg",
+    "alt": "Colònia Güell i Barcelona med människor och realistisk resemiljö",
+    "caption": "Colònia Güell i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 310,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/ce-europa-gracia-barcelonas.jpg",
+    "filename": "ce-europa-gracia-barcelonas.jpg",
+    "alt": "CE Europa – Gràcia i Barcelona med människor och realistisk resemiljö",
+    "caption": "CE Europa – Gràcia i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "lokalfotboll-barcelona",
+        "link": "https://barcelonas.se/lokalfotboll-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 308,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-vicens-barcelonas.jpg",
+    "filename": "casa-vicens-barcelonas.jpg",
+    "alt": "Casa Vicens i Barcelona med människor och realistisk resemiljö",
+    "caption": "Casa Vicens i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 306,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-mila-la-pedrera-takterrassen-barcelonas.jpg",
+    "filename": "casa-mila-la-pedrera-takterrassen-barcelonas.jpg",
+    "alt": "Takterrassen i Barcelona med människor och realistisk resemiljö",
+    "caption": "Takterrassen i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "casa-mila-la-pedrera",
+        "link": "https://barcelonas.se/casa-mila-la-pedrera/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 304,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-mila-la-pedrera-barcelonas.jpg",
+    "filename": "casa-mila-la-pedrera-barcelonas.jpg",
+    "alt": "Casa Milà – La Pedrera i Barcelona med människor och realistisk resemiljö",
+    "caption": "Casa Milà – La Pedrera i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 302,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-batllo-barcelonas.jpg",
+    "filename": "casa-batllo-barcelonas.jpg",
+    "alt": "Casa Batlló i Barcelona med människor och realistisk resemiljö",
+    "caption": "Casa Batlló i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "gaudi-barcelona",
+        "link": "https://barcelonas.se/gaudi-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 300,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/carrer-dels-tallers-barcelonas.jpg",
+    "filename": "carrer-dels-tallers-barcelonas.jpg",
+    "alt": "Carrer dels Tallers i Barcelona med människor och realistisk resemiljö",
+    "caption": "Carrer dels Tallers i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vintage-barcelona",
+        "link": "https://barcelonas.se/vintage-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 298,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/carrer-de-la-riera-baixa-el-raval-barcelonas.jpg",
+    "filename": "carrer-de-la-riera-baixa-el-raval-barcelonas.jpg",
+    "alt": "Carrer de la Riera Baixa – El Raval i Barcelona med människor och realistisk resemiljö",
+    "caption": "Carrer de la Riera Baixa – El Raval i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vintage-barcelona",
+        "link": "https://barcelonas.se/vintage-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 296,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/bogatell-barcelonas.jpg",
+    "filename": "bogatell-barcelonas.jpg",
+    "alt": "Bogatell i Barcelona med människor och realistisk resemiljö",
+    "caption": "Bogatell i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 294,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/bo-i-barcelona-gracia-barcelonas.jpg",
+    "filename": "bo-i-barcelona-gracia-barcelonas.jpg",
+    "alt": "Gràcia i Barcelona med människor och realistisk resemiljö",
+    "caption": "Gràcia i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-barcelona",
+        "link": "https://barcelonas.se/bo-i-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 292,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/bo-i-barcelona-eixample-barcelonas.jpg",
+    "filename": "bo-i-barcelona-eixample-barcelonas.jpg",
+    "alt": "Eixample i Barcelona med människor och realistisk resemiljö",
+    "caption": "Eixample i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-barcelona",
+        "link": "https://barcelonas.se/bo-i-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 290,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/basilikan-och-la-moreneta-barcelonas.jpg",
+    "filename": "basilikan-och-la-moreneta-barcelonas.jpg",
+    "alt": "Basilikan och La Moreneta i Barcelona med människor och realistisk resemiljö",
+    "caption": "Basilikan och La Moreneta i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montserrat",
+        "link": "https://barcelonas.se/montserrat/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 288,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/barri-gotic-och-el-raval-barcelonas.jpg",
+    "filename": "barri-gotic-och-el-raval-barcelonas.jpg",
+    "alt": "Barri Gòtic och El Raval i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barri Gòtic och El Raval i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-barcelona",
+        "link": "https://barcelonas.se/bo-i-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 286,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/barceloneta-och-stranden-barcelonas.jpg",
+    "filename": "barceloneta-och-stranden-barcelonas.jpg",
+    "alt": "Barceloneta och stranden i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barceloneta och stranden i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-01",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-barcelona",
+        "link": "https://barcelonas.se/bo-i-barcelona/"
+      }
+    ]
   },
   {
     "domain": "barcelonas",
