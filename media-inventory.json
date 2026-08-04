@@ -31523,6 +31523,150 @@
   },
   {
     "domain": "sydamerika",
+    "id": 463,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/populara-stader-sydamerika.jpg",
+    "filename": "populara-stader-sydamerika.jpg",
+    "alt": "Populära städer i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Populära städer i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://sydamerika.se/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 461,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/planera-i-3-steg-sydamerika.jpg",
+    "filename": "planera-i-3-steg-sydamerika.jpg",
+    "alt": "Planera i 3 steg i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Planera i 3 steg i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://sydamerika.se/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 459,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/pantanal-vs-amazonas-valj-ratt-sydamerika.jpg",
+    "filename": "pantanal-vs-amazonas-valj-ratt-sydamerika.jpg",
+    "alt": "Pantanal vs Amazonas — välj rätt i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Pantanal vs Amazonas — välj rätt i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "pantanal",
+        "link": "https://sydamerika.se/pantanal/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 457,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/klassiska-rutter-sydamerika.jpg",
+    "filename": "klassiska-rutter-sydamerika.jpg",
+    "alt": "Klassiska rutter i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Klassiska rutter i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://sydamerika.se/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 455,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
+    "filename": "hotell-vs-lagenhet-vs-hostel-sydamerika.jpg",
+    "alt": "Hotell vs lägenhet vs hostel i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Hotell vs lägenhet vs hostel i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-sydamerika",
+        "link": "https://sydamerika.se/boende-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 453,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/guider-planering-sydamerika.jpg",
+    "filename": "guider-planering-sydamerika.jpg",
+    "alt": "Guider & planering i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Guider &#038; planering i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://sydamerika.se/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 451,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/galapagos-kryssning-vs-landbaserat-sydamerika.jpg",
+    "filename": "galapagos-kryssning-vs-landbaserat-sydamerika.jpg",
+    "alt": "Galápagos — kryssning vs landbaserat i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Galápagos — kryssning vs landbaserat i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "ecuador",
+        "link": "https://sydamerika.se/ecuador/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 449,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/08/basta-tiden-att-besoka-iguazu-sydamerika.jpg",
+    "filename": "basta-tiden-att-besoka-iguazu-sydamerika.jpg",
+    "alt": "Bästa tiden att besöka Iguazú i Sydamerika med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att besöka Iguazú i Sydamerika",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "iguazu",
+        "link": "https://sydamerika.se/iguazu/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
     "id": 437,
     "url": "https://sydamerika.se/wp-content/uploads/2026/07/w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
     "filename": "w-trek-vs-o-circuit-vs-dagstur-sydamerika.jpg",
