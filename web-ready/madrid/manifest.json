@@ -1263,6 +1263,27 @@
         "ready_folder": "bilder/web-ready/madrid/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/santiago-bernabeu-real-madrid.png",
+      "file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
+      "filename": "santiago-bernabeu-real-madrid.jpg",
+      "brief_id": "madrid:fotbollsresa-madrid:santiago-bernabeu-real-madrid",
+      "domain": "madrid",
+      "site": "madrid.se",
+      "destination": "Madrid",
+      "page": "https://madrid.se/fotbollsresa-madrid/",
+      "page_id": 69,
+      "page_title": "Fotbollsresa till Madrid — Bernabéu, Metropolitano &#038; biljetter",
+      "page_slug": "fotbollsresa-madrid",
+      "h3": "⚪ Santiago Bernabéu — Real Madrid",
+      "h3_slug": "santiago-bernabeu-real-madrid",
+      "place": "Santiago Bernabéu — Real Madrid i Madrid",
+      "gps": "40.4168, -3.7038",
+      "shot_type": "wide neighbourhood overview photograph",
+      "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
+      "caption": "Santiago Bernabéu — Real Madrid i Madrid",
+      "seo": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
     }
   ]
 }

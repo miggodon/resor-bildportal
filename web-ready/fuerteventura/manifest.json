@@ -129,6 +129,50 @@
         "ready_folder": "bilder/web-ready/fuerteventura/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
+    },
+    {
+      "source": "bilder/inbox/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
+      "file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "filename": "5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "brief_id": "fuerteventura:5-dagar-pa-fuerteventura:boka-din-resa",
+      "domain": "fuerteventura",
+      "site": "fuerteventura.se",
+      "destination": "Fuerteventura",
+      "page": "https://fuerteventura.se/5-dagar-pa-fuerteventura/",
+      "page_id": 69,
+      "page_title": "5 dagar på Fuerteventura",
+      "page_slug": "5-dagar-pa-fuerteventura",
+      "h3": "Boka din resa",
+      "h3_slug": "boka-din-resa",
+      "place": "La Alcogida — levande museum över livet före turismen i Fuerteventura",
+      "gps": "28.3587, -14.0537",
+      "shot_type": "editorial travel photograph",
+      "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
+      "caption": "Boka din resa i Fuerteventura",
+      "seo": {},
+      "aterskapad_fran_live": true
+    },
+    {
+      "source": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
+      "file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "filename": "7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+      "brief_id": "fuerteventura:7-dagar-pa-fuerteventura:boka-din-resa",
+      "domain": "fuerteventura",
+      "site": "fuerteventura.se",
+      "destination": "Fuerteventura",
+      "page": "https://fuerteventura.se/7-dagar-pa-fuerteventura/",
+      "page_id": 71,
+      "page_title": "7 dagar på Fuerteventura",
+      "page_slug": "7-dagar-pa-fuerteventura",
+      "h3": "Boka din resa",
+      "h3_slug": "boka-din-resa",
+      "place": "La Alcogida — levande museum över livet före turismen i Fuerteventura",
+      "gps": "28.3587, -14.0537",
+      "shot_type": "editorial travel photograph",
+      "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
+      "caption": "Boka din resa i Fuerteventura",
+      "seo": {},
+      "aterskapad_fran_live": true
     }
   ]
 }

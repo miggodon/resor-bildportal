@@ -225,7 +225,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-for-seniorer",
@@ -243,7 +243,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "packlista-malaga",
@@ -261,7 +261,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -279,7 +279,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -297,7 +297,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "packlista-malaga",
@@ -315,7 +315,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-solo",
@@ -333,7 +333,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-pa-hosten",
@@ -351,7 +351,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-januari",
@@ -369,7 +369,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -387,7 +387,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -405,7 +405,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -423,7 +423,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "golf-malaga",
@@ -441,7 +441,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -459,7 +459,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-i-malaga",
@@ -513,7 +513,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-mars",
@@ -531,7 +531,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-juni",
@@ -549,7 +549,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -567,7 +567,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-vs-granada",
@@ -585,7 +585,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -603,7 +603,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-flygplats",
@@ -621,7 +621,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -639,7 +639,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-for-seniorer",
@@ -657,7 +657,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -675,7 +675,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "stadsdelar-malaga",
@@ -693,7 +693,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -711,7 +711,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-pa-hosten",
@@ -729,7 +729,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -747,7 +747,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -778,7 +778,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -796,7 +796,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-malaga",
@@ -832,7 +832,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "stadsdelar-malaga",
@@ -850,7 +850,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-hbtq",
@@ -868,7 +868,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-hbtq",
@@ -886,7 +886,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -904,7 +904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-malaga",
@@ -922,7 +922,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "granada-dagsutflykt-fran-malaga",
@@ -940,7 +940,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "golf-malaga",
@@ -984,7 +984,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -1002,7 +1002,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -1020,7 +1020,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-i-malaga",
@@ -1038,7 +1038,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -1069,7 +1069,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -1100,7 +1100,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -1118,7 +1118,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-med-vanner",
@@ -1149,7 +1149,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-i-malaga",
@@ -1180,7 +1180,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-februari",
@@ -1198,7 +1198,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-september",
@@ -1216,7 +1216,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-mars",
@@ -1234,7 +1234,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-juni",
@@ -1252,7 +1252,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-i-januari",
@@ -1270,7 +1270,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1288,7 +1288,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1306,7 +1306,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1324,7 +1324,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1342,7 +1342,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1360,7 +1360,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1378,7 +1378,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1396,7 +1396,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1414,7 +1414,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1432,7 +1432,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1450,7 +1450,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malagas-dolda-badvikar",
@@ -1468,7 +1468,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boutiquehotell-malaga",
@@ -1904,7 +1904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -1982,7 +1982,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -2000,7 +2000,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-malaga-caminito-del-rey",
@@ -2814,7 +2814,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -3181,7 +3181,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3199,7 +3199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3235,7 +3235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
@@ -3266,7 +3266,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-malaga",
@@ -3284,7 +3284,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-i-malaga",
@@ -3738,7 +3738,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -3756,7 +3756,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -3774,7 +3774,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-rhodos",
@@ -3792,7 +3792,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -3814,7 +3814,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-vinter-guide",
@@ -3832,7 +3832,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -3850,7 +3850,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3868,7 +3868,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3886,7 +3886,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-digital-nomad",
@@ -3904,7 +3904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -3922,7 +3922,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -3940,7 +3940,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -3958,7 +3958,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -3976,7 +3976,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -3994,7 +3994,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -4012,7 +4012,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-juli",
@@ -4030,7 +4030,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -4048,7 +4048,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -4066,7 +4066,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -4084,7 +4084,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -4102,7 +4102,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-med-tonaringar",
@@ -4120,7 +4120,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ixia-vind-surfing",
@@ -4138,7 +4138,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -4156,7 +4156,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-med-barn",
@@ -4174,7 +4174,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "faliraki-guide",
@@ -4192,7 +4192,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -4210,7 +4210,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "pefkos-rhodos",
@@ -4228,7 +4228,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "kiotari-rhodos",
@@ -4246,7 +4246,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-digital-nomad",
@@ -4264,7 +4264,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-rhodos",
@@ -4282,7 +4282,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -4300,7 +4300,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-juni",
@@ -4322,7 +4322,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4340,7 +4340,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4358,7 +4358,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagars-itinerar-rhodos",
@@ -4376,7 +4376,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-rhodos",
@@ -4398,7 +4398,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-i-augusti",
@@ -4416,7 +4416,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-for-par",
@@ -4434,7 +4434,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-23",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "rhodos-dykning-snorkling",
@@ -6098,7 +6098,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -6111,7 +6111,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6129,7 +6129,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -6147,7 +6147,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-rhodos",
@@ -6165,7 +6165,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6183,7 +6183,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -6201,7 +6201,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -6219,7 +6219,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6250,7 +6250,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6268,7 +6268,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6286,7 +6286,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6304,7 +6304,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-rhodos",
@@ -6322,7 +6322,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-rhodos",
@@ -7500,7 +7500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7518,7 +7518,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-pa-korfu",
@@ -7536,7 +7536,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7554,7 +7554,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "uteliv-pa-korfu",
@@ -7572,7 +7572,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7590,7 +7590,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsutflykter-fran-korfu",
@@ -7608,7 +7608,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "sevardheter-pa-korfu",
@@ -7989,7 +7989,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "korfu-par-roadtrip",
@@ -10165,7 +10165,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-i-torremolinos",
@@ -10621,7 +10621,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -10639,7 +10639,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10657,7 +10657,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-pensionarer-langliggare",
@@ -10679,7 +10679,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10701,7 +10701,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -10719,7 +10719,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10737,7 +10737,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10755,7 +10755,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10797,7 +10797,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10815,7 +10815,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -10857,7 +10857,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -10870,7 +10870,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -10883,7 +10883,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -10896,7 +10896,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10914,7 +10914,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -10932,7 +10932,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -10950,7 +10950,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aqualand-maspalomas",
@@ -10968,7 +10968,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "norra-gran-canaria",
@@ -10986,7 +10986,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11004,7 +11004,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -11022,7 +11022,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guider",
@@ -11040,7 +11040,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11058,7 +11058,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-grancanaria",
@@ -11080,7 +11080,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-gran-canaria",
@@ -11111,7 +11111,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11129,7 +11129,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11147,7 +11147,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11165,7 +11165,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11183,7 +11183,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11201,7 +11201,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -11219,7 +11219,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11237,7 +11237,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "las-canteras-strandguide",
@@ -11255,7 +11255,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11273,7 +11273,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -11291,7 +11291,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-hbtq",
@@ -11309,7 +11309,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11327,7 +11327,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -11345,7 +11345,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11363,7 +11363,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-ska-man-bo-pa-gran-canaria",
@@ -11381,7 +11381,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11399,7 +11399,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11417,7 +11417,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -11435,7 +11435,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -11453,7 +11453,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-praktisk-info",
@@ -11471,7 +11471,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11489,7 +11489,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -11507,7 +11507,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -11525,7 +11525,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maspalomas-dynerna",
@@ -11543,7 +11543,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11561,7 +11561,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "bergsbyarna-gran-canaria",
@@ -11579,7 +11579,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11597,7 +11597,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-gran-canaria",
@@ -11615,7 +11615,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -11633,7 +11633,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vad-kostar-en-vecka-pa-gran-canaria",
@@ -11651,7 +11651,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -11669,7 +11669,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -11687,7 +11687,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-budget-vad-kostar-en-vecka",
@@ -11705,7 +11705,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-pa-gran-canaria",
@@ -11741,7 +11741,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-for-forsta-gangen",
@@ -11759,7 +11759,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-gran-canaria",
@@ -11777,7 +11777,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-gran-canaria",
@@ -11795,7 +11795,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-gran-canaria",
@@ -11813,7 +11813,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-med-barn",
@@ -11831,7 +11831,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -11849,7 +11849,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gran-canaria-utan-hyrbil",
@@ -11867,7 +11867,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "omrade-las-palmas",
@@ -12873,7 +12873,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "omrade-puerto-mogan",
@@ -14880,7 +14880,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "brollopsresa-teneriffa",
@@ -14898,7 +14898,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -14916,7 +14916,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -14934,7 +14934,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -14952,7 +14952,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "puerto-de-la-cruz-teneriffa",
@@ -14970,7 +14970,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -14992,7 +14992,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -15010,7 +15010,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -15028,7 +15028,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "matguide-teneriffa",
@@ -15046,7 +15046,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "costa-adeje-teneriffa",
@@ -15064,7 +15064,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-att-resa-till-teneriffa",
@@ -15082,7 +15082,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "teneriffa-utan-hyrbil",
@@ -18533,7 +18533,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -18551,7 +18551,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -18569,7 +18569,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-stranderna-pa-lanzarote",
@@ -18587,7 +18587,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18605,7 +18605,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -18618,7 +18618,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -18636,7 +18636,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -18654,7 +18654,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -18667,7 +18667,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18685,7 +18685,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -18703,7 +18703,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18721,7 +18721,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18739,7 +18739,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18757,7 +18757,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18775,7 +18775,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18793,7 +18793,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18811,7 +18811,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18829,7 +18829,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18847,7 +18847,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18865,7 +18865,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-hotellen-pa-lanzarote",
@@ -18883,7 +18883,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-lanzarote",
@@ -21747,7 +21747,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "7-dagar-pa-fuerteventura",
@@ -21765,7 +21765,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-04",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "5-dagar-pa-fuerteventura",
@@ -24089,7 +24089,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24120,7 +24120,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "offpist-chamonix",
@@ -24138,7 +24138,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -24156,7 +24156,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -24169,7 +24169,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-chamonix",
@@ -24187,7 +24187,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24205,7 +24205,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -24223,7 +24223,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24241,7 +24241,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidguide-chamonix-omraden",
@@ -24259,7 +24259,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -24277,7 +24277,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -24295,7 +24295,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -24313,7 +24313,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24331,7 +24331,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -24349,7 +24349,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transfer-geneve-chamonix",
@@ -24367,7 +24367,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24385,7 +24385,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -24403,7 +24403,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "sommar-chamonix",
@@ -24421,7 +24421,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24439,7 +24439,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -24457,7 +24457,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -24475,7 +24475,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24493,7 +24493,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24511,7 +24511,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24573,7 +24573,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24591,7 +24591,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24609,7 +24609,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24627,7 +24627,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24645,7 +24645,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24663,7 +24663,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24681,7 +24681,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -24699,7 +24699,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -24717,7 +24717,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24735,7 +24735,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -24753,7 +24753,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24771,7 +24771,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -24789,7 +24789,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -24807,7 +24807,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24825,7 +24825,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24847,7 +24847,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-chamonix",
@@ -24865,7 +24865,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24955,7 +24955,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -24991,7 +24991,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -25009,7 +25009,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -25027,7 +25027,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -25045,7 +25045,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -25063,7 +25063,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -25081,7 +25081,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "vandring-chamonix",
@@ -25099,7 +25099,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-chamonix",
@@ -25117,7 +25117,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chamonix-omraden",
@@ -25135,7 +25135,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -25153,7 +25153,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -25171,7 +25171,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "chalet-guide-chamonix",
@@ -25207,7 +25207,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "skidakning-chamonix",
@@ -25225,7 +25225,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aiguille-du-midi",
@@ -25484,7 +25484,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-biennalen-castello",
@@ -25502,7 +25502,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -25520,7 +25520,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -25538,7 +25538,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -25556,7 +25556,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -25574,7 +25574,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dorsoduro-venedig-boende",
@@ -25592,7 +25592,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -25610,7 +25610,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "giudecca-eller-dorsoduro",
@@ -25628,7 +25628,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "santa-croce-venedig-boende",
@@ -25646,7 +25646,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-venedig",
@@ -25664,7 +25664,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "bo-under-karnevalen-venedig",
@@ -25682,7 +25682,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "acqua-alta-venedig",
@@ -25700,7 +25700,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "biennalen-venedig",
@@ -25718,7 +25718,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -25736,7 +25736,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "karnevalen-venedig",
@@ -25754,7 +25754,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -25772,7 +25772,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -25808,7 +25808,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-venedig",
@@ -25952,7 +25952,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-venedig",
@@ -25988,7 +25988,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-venedig",
@@ -26140,7 +26140,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26158,7 +26158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26176,7 +26176,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -26202,7 +26202,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "romantisk-resa-venedig",
@@ -26220,7 +26220,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26238,7 +26238,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26256,7 +26256,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -26274,7 +26274,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26292,7 +26292,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26310,7 +26310,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -26328,7 +26328,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26346,7 +26346,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26368,7 +26368,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26386,7 +26386,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -26404,7 +26404,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannaregio-venedig-boende",
@@ -26422,7 +26422,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26440,7 +26440,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-biennalen-castello",
@@ -26458,7 +26458,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26476,7 +26476,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26494,7 +26494,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "romantisk-resa-venedig",
@@ -26512,7 +26512,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26534,7 +26534,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26552,7 +26552,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -26570,7 +26570,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "2-dagar-i-venedig",
@@ -26588,7 +26588,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -26606,7 +26606,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "venedig-dolomiterna-roadtrip",
@@ -26624,7 +26624,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "2-dagar-i-venedig",
@@ -26642,7 +26642,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26660,7 +26660,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-biennalen-castello",
@@ -26686,7 +26686,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hotell-venedig",
@@ -26704,7 +26704,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "restauranger-venedig",
@@ -26722,7 +26722,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-lagenhet-rum-venedig",
@@ -26740,7 +26740,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "resa-till-venedig",
@@ -26758,7 +26758,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26776,7 +26776,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26794,7 +26794,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26812,7 +26812,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-venedig",
@@ -26830,7 +26830,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "biennalen-venedig",
@@ -26848,7 +26848,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "basta-tiden-venedig",
@@ -26866,7 +26866,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -26884,7 +26884,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -27018,7 +27018,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "oahu",
@@ -27036,7 +27036,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "oahu",
@@ -27054,7 +27054,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luau-hawaii",
@@ -27072,7 +27072,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-21",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "big-island",
@@ -27216,7 +27216,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "oahu",
@@ -27234,7 +27234,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "maui",
@@ -27252,7 +27252,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "kauai",
@@ -27270,7 +27270,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "big-island",
@@ -27288,7 +27288,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -27306,7 +27306,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -27324,7 +27324,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -27342,7 +27342,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "start",
@@ -27466,7 +27466,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-19",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -27484,7 +27484,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-florida",
@@ -27502,7 +27502,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "miami",
@@ -27520,7 +27520,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27538,7 +27538,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "miami",
@@ -27556,7 +27556,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27574,7 +27574,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-florida",
@@ -27592,7 +27592,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyrbil-florida",
@@ -27610,7 +27610,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "miami",
@@ -27628,7 +27628,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27646,7 +27646,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27664,7 +27664,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27682,7 +27682,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27700,7 +27700,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "miami",
@@ -27718,7 +27718,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27736,7 +27736,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "miami",
@@ -27754,7 +27754,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-florida",
@@ -27772,7 +27772,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-florida",
@@ -27790,7 +27790,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-florida",
@@ -27808,7 +27808,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-florida",
@@ -28112,7 +28112,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "bo-nara-sepilok",
@@ -28143,7 +28143,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-pa-borneo",
@@ -28161,7 +28161,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "kuching-bako-semenggoh-guide",
@@ -28179,7 +28179,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "startsida",
@@ -28197,7 +28197,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saker-att-gora-pa-borneo",
@@ -28228,7 +28228,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "boende-kinabatangan-borneo",
@@ -28763,7 +28763,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-07-05",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -28781,7 +28781,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -28799,7 +28799,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -28817,7 +28817,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -28835,7 +28835,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -28853,7 +28853,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -28871,7 +28871,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -28889,7 +28889,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -28907,7 +28907,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -28925,7 +28925,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-guide",
@@ -28943,7 +28943,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -28961,7 +28961,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-hus-provence",
@@ -28979,7 +28979,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -28997,7 +28997,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -29015,7 +29015,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -29033,7 +29033,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-boende",
@@ -29055,7 +29055,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -29073,7 +29073,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29091,7 +29091,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -29109,7 +29109,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -29127,7 +29127,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -29145,7 +29145,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-guide",
@@ -29163,7 +29163,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -29181,7 +29181,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "strander-i-provence",
@@ -29199,7 +29199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -29217,7 +29217,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29235,7 +29235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -29253,7 +29253,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-hus-provence",
@@ -29271,7 +29271,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -29289,7 +29289,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -29307,7 +29307,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-28",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -29338,7 +29338,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-boende",
@@ -29356,7 +29356,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -29374,7 +29374,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -29392,7 +29392,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-vin",
@@ -29410,7 +29410,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-vin",
@@ -29428,7 +29428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -29446,7 +29446,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -29464,7 +29464,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -29482,7 +29482,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29500,7 +29500,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29518,7 +29518,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29536,7 +29536,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29554,7 +29554,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29572,7 +29572,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -29590,7 +29590,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -29608,7 +29608,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "gordes-byguide",
@@ -29626,7 +29626,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "calanques-guide",
@@ -29648,7 +29648,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "calanques-guide",
@@ -29666,7 +29666,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29684,7 +29684,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29702,7 +29702,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -29720,7 +29720,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29738,7 +29738,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -29756,7 +29756,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29774,7 +29774,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -29792,7 +29792,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -29810,7 +29810,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -29828,7 +29828,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -29846,7 +29846,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -29864,7 +29864,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -29882,7 +29882,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -29900,7 +29900,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29918,7 +29918,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -29936,7 +29936,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-25",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -29993,7 +29993,7 @@
     "w": 1535,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -30011,7 +30011,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -30029,7 +30029,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -30047,7 +30047,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -30065,7 +30065,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "roussillon-byguide",
@@ -30083,7 +30083,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -30101,7 +30101,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -30119,7 +30119,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence",
@@ -30137,7 +30137,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -30155,7 +30155,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -30173,7 +30173,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -30191,7 +30191,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -30209,7 +30209,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "luberon",
@@ -30227,7 +30227,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -30245,7 +30245,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-sevardheter",
@@ -30263,7 +30263,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -30281,7 +30281,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "camargue",
@@ -30299,7 +30299,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ventoux-drome",
@@ -30317,7 +30317,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -30335,7 +30335,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -30353,7 +30353,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-restauranger",
@@ -30371,7 +30371,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-22",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "var-verdon",
@@ -31055,7 +31055,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hyra-villa-provence-pool",
@@ -31073,7 +31073,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -31091,7 +31091,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "saint-remy-byguide",
@@ -31109,7 +31109,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alpilles",
@@ -31127,7 +31127,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -31145,7 +31145,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -31163,7 +31163,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -31181,7 +31181,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -31199,7 +31199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -31217,7 +31217,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -31235,7 +31235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -31253,7 +31253,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -31271,7 +31271,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "cannes-guide",
@@ -31289,7 +31289,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "ventoux-drome",
@@ -31307,7 +31307,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "sainte-victoire-vandring",
@@ -31325,7 +31325,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-en-provence-marknader",
@@ -31343,7 +31343,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nice-strander",
@@ -31361,7 +31361,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "lourmarin-byguide",
@@ -31379,7 +31379,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marseille-guide",
@@ -31397,7 +31397,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "aix-avignon",
@@ -31801,7 +31801,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -31819,7 +31819,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -31837,7 +31837,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -31855,7 +31855,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -31873,7 +31873,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "backpacker-rutter-sydamerika",
@@ -31891,7 +31891,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-17",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -31909,7 +31909,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -31927,7 +31927,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "amazonas",
@@ -31945,7 +31945,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "patagonien",
@@ -31963,7 +31963,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -31981,7 +31981,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "salar-de-uyuni",
@@ -31999,7 +31999,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "galapagos",
@@ -32017,7 +32017,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "torres-del-paine",
@@ -32053,7 +32053,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "patagonien",
@@ -32071,7 +32071,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "patagonien",
@@ -32089,7 +32089,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "amazonas",
@@ -32107,7 +32107,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "amazonas",
@@ -32125,7 +32125,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "salar-de-uyuni",
@@ -32143,7 +32143,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "machu-picchu",
@@ -32179,7 +32179,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "iguazu",
@@ -32197,7 +32197,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "iguazu",
@@ -32215,7 +32215,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-06-16",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "torres-del-paine",
