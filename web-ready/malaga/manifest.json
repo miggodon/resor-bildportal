@@ -527,7 +527,12 @@
       "shot_type": "wide neighbourhood overview photograph",
       "alt": "🎳 Laser tag och bowling i Málaga med människor och realistisk resemiljö",
       "caption": "🎳 Laser tag och bowling i Málaga",
-      "seo": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från 🎳 Laser tag och bowling i Málaga. Bilden visar 🎳 Laser tag och bowling i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/laser-tag-och-bowling-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/malaga-med-tonaringar-escape-rooms-malaga.png",
@@ -548,7 +553,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "🏰 Escape rooms i Málaga med människor och realistisk resemiljö",
       "caption": "🏰 Escape rooms i Málaga",
-      "seo": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från 🏰 Escape rooms i Málaga. Bilden visar 🏰 Escape rooms i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/malaga-med-tonaringar-escape-rooms-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/mercadillo-de-malaga-sondagar-malaga.png",
@@ -569,7 +579,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "Mercadillo de Málaga (söndagar) i Málaga med människor och realistisk resemiljö",
       "caption": "Mercadillo de Málaga (söndagar) i Málaga",
-      "seo": "En realistisk resebild från Mercadillo de Málaga (söndagar) i Málaga. Bilden visar Mercadillo de Málaga (söndagar) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Mercadillo de Málaga (söndagar) i Málaga. Bilden visar Mercadillo de Málaga (söndagar) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/mercadillo-de-malaga-sondagar-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/rastro-de-malaga-lordagar-malaga.png",
@@ -590,7 +605,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "Rastro de Málaga (lördagar) i Málaga med människor och realistisk resemiljö",
       "caption": "Rastro de Málaga (lördagar) i Málaga",
-      "seo": "En realistisk resebild från Rastro de Málaga (lördagar) i Málaga. Bilden visar Rastro de Málaga (lördagar) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Rastro de Málaga (lördagar) i Málaga. Bilden visar Rastro de Málaga (lördagar) i Málaga under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/rastro-de-malaga-lordagar-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/1-palacio-solecio-1700-talspalats-mitt-i-gamla-stan-malaga.png",
@@ -612,7 +632,12 @@
       "alt": "Palacio Solecio — 1700-talspalats mitt i gamla stan i Málaga med människor och realistisk resemiljö",
       "caption": "Palacio Solecio — 1700-talspalats mitt i gamla stan i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/1-palacio-solecio-1700-talspalats-mitt-i-gamla-stan-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/1-playa-la-caleta-lugnast-nara-stan-malaga.png",
@@ -634,7 +659,12 @@
       "alt": "Playa la Caleta — lugnast nära stan i Málaga med människor och realistisk resemiljö",
       "caption": "Playa la Caleta — lugnast nära stan i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/1-playa-la-caleta-lugnast-nara-stan-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/2-room-mate-larios-art-deco-pa-paradgatan-malaga.png",
@@ -656,7 +686,12 @@
       "alt": "Room Mate Larios — art déco på paradgatan i Málaga med människor och realistisk resemiljö",
       "caption": "Room Mate Larios — art déco på paradgatan i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/2-room-mate-larios-art-deco-pa-paradgatan-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/3-soho-boutique-castillo-santa-catalina-sov-i-ett-slott-malaga.png",
@@ -678,7 +713,12 @@
       "alt": "Soho Boutique Castillo Santa Catalina — sov i ett slott i Málaga med människor och realistisk resemiljö",
       "caption": "Soho Boutique Castillo Santa Catalina — sov i ett slott i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/3-soho-boutique-castillo-santa-catalina-sov-i-ett-slott-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/4-el-palo-den-autentiska-fiskebyn-malaga.png",
@@ -700,7 +740,12 @@
       "alt": "El Palo — den autentiska fiskebyn i Málaga med människor och realistisk resemiljö",
       "caption": "El Palo — den autentiska fiskebyn i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/4-el-palo-den-autentiska-fiskebyn-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/4-vincci-seleccion-posada-del-patio-romerska-ruiner-i-lobbyn-malaga.png",
@@ -722,7 +767,12 @@
       "alt": "Vincci Selección Posada del Patio — romerska ruiner i lobbyn i Málaga med människor och realistisk resemiljö",
       "caption": "Vincci Selección Posada del Patio — romerska ruiner i lobbyn i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/4-vincci-seleccion-posada-del-patio-romerska-ruiner-i-lobbyn-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/5-playa-del-dedo-familjeviken-malaga.png",
@@ -744,7 +794,12 @@
       "alt": "Playa del Dedo — familjeviken i Málaga med människor och realistisk resemiljö",
       "caption": "Playa del Dedo — familjeviken i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/5-playa-del-dedo-familjeviken-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/6-parador-de-malaga-gibralfaro-utsikten-som-slar-allt-malaga.png",
@@ -766,7 +821,12 @@
       "alt": "Parador de Málaga Gibralfaro — utsikten som slår allt i Málaga med människor och realistisk resemiljö",
       "caption": "Parador de Málaga Gibralfaro — utsikten som slår allt i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/6-parador-de-malaga-gibralfaro-utsikten-som-slar-allt-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/6-penon-del-cuervo-naturviken-med-klippor-malaga.png",
@@ -788,7 +848,12 @@
       "alt": "Peñón del Cuervo — naturviken med klippor i Málaga med människor och realistisk resemiljö",
       "caption": "Peñón del Cuervo — naturviken med klippor i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/6-penon-del-cuervo-naturviken-med-klippor-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/7-la-arana-den-hemliga-viken-malaga.png",
@@ -810,7 +875,12 @@
       "alt": "La Araña — den hemliga viken i Málaga med människor och realistisk resemiljö",
       "caption": "La Araña — den hemliga viken i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/7-la-arana-den-hemliga-viken-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/7-molina-lario-elegant-vid-katedralen-malaga.png",
@@ -832,7 +902,12 @@
       "alt": "Molina Lario — elegant vid katedralen i Málaga med människor och realistisk resemiljö",
       "caption": "Molina Lario — elegant vid katedralen i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/7-molina-lario-elegant-vid-katedralen-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/7-playa-del-chanquete-den-lilla-doldisen-malaga.png",
@@ -854,7 +929,12 @@
       "alt": "Playa del Chanquete — den lilla doldisen i Málaga med människor och realistisk resemiljö",
       "caption": "Playa del Chanquete — den lilla doldisen i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/7-playa-del-chanquete-den-lilla-doldisen-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/8-parador-de-malaga-golf-boutique-vid-greenerna-malaga.png",
@@ -876,7 +956,12 @@
       "alt": "Parador de Málaga Golf — boutique vid greenerna i Málaga med människor och realistisk resemiljö",
       "caption": "Parador de Málaga Golf — boutique vid greenerna i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/8-parador-de-malaga-golf-boutique-vid-greenerna-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/aktiviteter-i-januari-malaga.png",
@@ -898,7 +983,12 @@
       "alt": "Aktiviteter i januari i Málaga med människor och realistisk resemiljö",
       "caption": "Aktiviteter i januari i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/aktiviteter-i-januari-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/aktiviteter-i-juni-malaga.png",
@@ -920,7 +1010,12 @@
       "alt": "Aktiviteter i juni i Málaga med människor och realistisk resemiljö",
       "caption": "Aktiviteter i juni i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/aktiviteter-i-juni-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/aktiviteter-i-mars-malaga.png",
@@ -942,7 +1037,12 @@
       "alt": "Aktiviteter i mars i Málaga med människor och realistisk resemiljö",
       "caption": "Aktiviteter i mars i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/aktiviteter-i-mars-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/aktiviteter-i-september-malaga.png",
@@ -964,7 +1064,12 @@
       "alt": "Aktiviteter i september i Málaga med människor och realistisk resemiljö",
       "caption": "Aktiviteter i september i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/aktiviteter-i-september-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/alegria-flamenco-show-malaga.png",
@@ -986,7 +1091,15 @@
       "alt": "Gatumiljö vid Alegría Flamenco på Málaga",
       "caption": "Alegría Flamenco, Málaga – levande kvällsstämning och lokala restauranger.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/alegria-flamenco-show-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/alternativ-2-guidad-tur-enklast-malaga.png",
@@ -1008,7 +1121,12 @@
       "alt": "Alternativ 2 — Guidad tur (enklast) i Málaga med människor och realistisk resemiljö",
       "caption": "Alternativ 2 — Guidad tur (enklast) i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/alternativ-2-guidad-tur-enklast-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/alternativ-3-tag-buss-malaga.png",
@@ -1030,7 +1148,12 @@
       "alt": "Alternativ 3 — Tåg + buss i Málaga med människor och realistisk resemiljö",
       "caption": "Alternativ 3 — Tåg + buss i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/alternativ-3-tag-buss-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/caminito-del-valle-el-chorro-malaga.png",
@@ -1052,7 +1175,12 @@
       "alt": "Caminito del Valle (El Chorro) i Málaga med människor och realistisk resemiljö",
       "caption": "Caminito del Valle (El Chorro) i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/caminito-del-valle-el-chorro-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/carnaval-de-malaga.png",
@@ -1074,7 +1202,12 @@
       "alt": "Carnaval de Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Carnaval de Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/carnaval-de-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/casa-lola-tapasbar-calle-granada-malaga.png",
@@ -1096,7 +1229,15 @@
       "alt": "Gatumiljö vid Casa Lola på Málaga",
       "caption": "Casa Lola, Málaga – myllrande gator och autentisk atmosfär.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/casa-lola-tapasbar-calle-granada-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-1-malagas-historiska-hjarta-malaga.png",
@@ -1118,7 +1259,12 @@
       "alt": "Dag 1 — Málagas historiska hjärta i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 1 — Málagas historiska hjärta i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-1-malagas-historiska-hjarta-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-2-gamla-stan-och-kulturen-malaga.png",
@@ -1140,7 +1286,12 @@
       "alt": "Dag 2 – Gamla stan och kulturen i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 2 – Gamla stan och kulturen i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-2-gamla-stan-och-kulturen-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-2-picasso-utsikt-och-kvallsliv-malaga.png",
@@ -1162,7 +1313,12 @@
       "alt": "Dag 2 — Picasso, utsikt och kvällsliv i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 2 — Picasso, utsikt och kvällsliv i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-2-picasso-utsikt-och-kvallsliv-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-3-caminito-del-rey-dagens-aventyr-malaga.png",
@@ -1184,7 +1340,12 @@
       "alt": "Dag 3 — Caminito del Rey (dagens äventyr!) i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 3 — Caminito del Rey (dagens äventyr!) i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-3-caminito-del-rey-dagens-aventyr-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-4-stranddag-och-malagas-basta-mat-malaga.png",
@@ -1206,7 +1367,12 @@
       "alt": "Dag 4 — Stranddag och Málagas bästa mat i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 4 — Stranddag och Málagas bästa mat i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-4-stranddag-och-malagas-basta-mat-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-5-granada-och-alhambra-malaga.png",
@@ -1228,7 +1394,12 @@
       "alt": "Dag 5: Granada och Alhambra i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 5: Granada och Alhambra i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-5-granada-och-alhambra-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-5-malaga-uteliv-malaga.png",
@@ -1250,7 +1421,12 @@
       "alt": "Dag 5 – Málaga uteliv i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 5 – Málaga uteliv i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-5-malaga-uteliv-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-5-marknad-takbar-och-avskedsmiddag-malaga.png",
@@ -1272,7 +1448,12 @@
       "alt": "Dag 5 — Marknad, takbar och avskedsmiddag i Málaga med människor och realistisk resemiljö",
       "caption": "Dag 5 — Marknad, takbar och avskedsmiddag i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/dag-5-marknad-takbar-och-avskedsmiddag-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/de-basta-golfbanorna-nara-malaga.png",
@@ -1294,7 +1475,12 @@
       "alt": "De bästa golfbanorna nära Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "De bästa golfbanorna nära Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/de-basta-golfbanorna-nara-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/el-ejido-universitet-takterrasser-malaga.png",
@@ -1316,7 +1502,12 @@
       "alt": "Vy över El Ejido på Málaga",
       "caption": "El Ejido, Málaga – centralt boende med Málaga-känsla.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/el-ejido-universitet-takterrasser-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.png",
@@ -1338,7 +1529,15 @@
       "alt": "Gatumiljö vid El Pimpi på Málaga",
       "caption": "El Pimpi, Málaga – uteserveringar och vardagsliv på nära håll.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/el-pimpi-bodega-romerska-teatern-alcazaba-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "metadata_applied": true,
+        "metadata_source": "manifest.json",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      },
+      "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/forslag-pa-dagsprogram-granada-pa-en-dag-fran-malaga.png",
@@ -1360,7 +1559,12 @@
       "alt": "Förslag på dagsprogram — Granada på en dag från Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Förslag på dagsprogram — Granada på en dag från Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/forslag-pa-dagsprogram-granada-pa-en-dag-fran-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/gibraltar-apor-grottor-brittisk-koloni-malaga.png",
@@ -1382,7 +1586,12 @@
       "alt": "🇬🇮 Gibraltar — apor, grottor & brittisk koloni i Málaga med människor och realistisk resemiljö",
       "caption": "🇬🇮 Gibraltar — apor, grottor & brittisk koloni i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/gibraltar-apor-grottor-brittisk-koloni-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/golfhotell-och-paket-pa-costa-del-sol-malaga.png",
@@ -1404,7 +1613,12 @@
       "alt": "Golfhotell och paket på Costa del Sol i Málaga med människor och realistisk resemiljö",
       "caption": "Golfhotell och paket på Costa del Sol i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/golfhotell-och-paket-pa-costa-del-sol-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/granada-alhambra-unesco-s-kronjuvel-malaga.png",
@@ -1426,7 +1640,12 @@
       "alt": "🕌 Granada & Alhambra — UNESCO:s kronjuvel i Málaga med människor och realistisk resemiljö",
       "caption": "🕌 Granada & Alhambra — UNESCO:s kronjuvel i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/granada-alhambra-unesco-s-kronjuvel-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/hbtq-vanliga-hotell-i-malaga.png",
@@ -1448,7 +1667,12 @@
       "alt": "HBTQ-vänliga hotell i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "HBTQ-vänliga hotell i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/hbtq-vanliga-hotell-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/hbtq-vanliga-kvarter-i-malaga.png",
@@ -1470,7 +1694,12 @@
       "alt": "HBTQ-vänliga kvarter i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "HBTQ-vänliga kvarter i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/hbtq-vanliga-kvarter-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagunillas-gatukonst-distrikt-malaga.png",
@@ -1492,7 +1721,12 @@
       "alt": "Översiktsvy över Lagunillas på Málaga",
       "caption": "Lagunillas, Málaga – nära stränder, butiker och restauranger.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/lagunillas-gatukonst-distrikt-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagunillas-upcoming-kvarteret-malaga.png",
@@ -1514,7 +1748,12 @@
       "alt": "Lagunillas — upcoming-kvarteret i Málaga med människor och realistisk resemiljö",
       "caption": "Lagunillas — upcoming-kvarteret i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/lagunillas-upcoming-kvarteret-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/malagas-viktigaste-festivaler-events-malaga.png",
@@ -1536,7 +1775,12 @@
       "alt": "Málagas viktigaste festivaler & events i Málaga med människor och realistisk resemiljö",
       "caption": "Málagas viktigaste festivaler & events i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/malagas-viktigaste-festivaler-events-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/marbella-puerto-banus-lyx-och-gamla-stan-malaga.png",
@@ -1558,7 +1802,12 @@
       "alt": "🏖️ Marbella & Puerto Banús — lyx och gamla stan i Málaga med människor och realistisk resemiljö",
       "caption": "🏖️ Marbella & Puerto Banús — lyx och gamla stan i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/marbella-puerto-banus-lyx-och-gamla-stan-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/mat-noje-malaga.png",
@@ -1580,7 +1829,12 @@
       "alt": "Mat & nöje i Málaga med människor och realistisk resemiljö",
       "caption": "Mat & nöje i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/mat-noje-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/mijas-pueblo-vitkalkad-bergsby-nara-malaga.png",
@@ -1602,7 +1856,12 @@
       "alt": "⛪ Mijas Pueblo — vitkalkad bergsby nära i Málaga med människor och realistisk resemiljö",
       "caption": "⛪ Mijas Pueblo — vitkalkad bergsby nära i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/mijas-pueblo-vitkalkad-bergsby-nara-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/nerja-grottor-balcon-de-europa-malaga.png",
@@ -1624,7 +1883,12 @@
       "alt": "🌊 Nerja — grottor & Balcón de Europa i Málaga med människor och realistisk resemiljö",
       "caption": "🌊 Nerja — grottor & Balcón de Europa i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/nerja-grottor-balcon-de-europa-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/november-resenarens-malaga.png",
@@ -1646,7 +1910,12 @@
       "alt": "November — resenärens Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "November — resenärens Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/november-resenarens-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/omraden-boende-malaga.png",
@@ -1668,7 +1937,12 @@
       "alt": "Områden & boende i Málaga med människor och realistisk resemiljö",
       "caption": "Områden & boende i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/omraden-boende-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/oversikt-5-dagar-i-malaga.png",
@@ -1690,7 +1964,12 @@
       "alt": "Översikt — 5 dagar i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Översikt — 5 dagar i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/oversikt-5-dagar-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/pedregalejo-och-el-palo-det-autentiska-malaga.png",
@@ -1712,7 +1991,12 @@
       "alt": "Pedregalejo och El Palo — det autentiska Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Pedregalejo och El Palo — det autentiska Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/pedregalejo-och-el-palo-det-autentiska-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/praktiskt-sa-tar-du-dig-till-malagas-dolda-strander-malaga.png",
@@ -1734,7 +2018,12 @@
       "alt": "Praktiskt — så tar du dig till Málagas dolda stränder i Málaga med människor och realistisk resemiljö",
       "caption": "Praktiskt — så tar du dig till Málagas dolda stränder i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/praktiskt-sa-tar-du-dig-till-malagas-dolda-strander-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/priser-och-folkmassor-i-januari-malaga.png",
@@ -1756,7 +2045,12 @@
       "alt": "Priser och folkmassor i januari i Málaga med människor och realistisk resemiljö",
       "caption": "Priser och folkmassor i januari i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/priser-och-folkmassor-i-januari-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/ronda-spaniens-mest-dramatiska-stad-malaga.png",
@@ -1778,7 +2072,12 @@
       "alt": "🏰 Ronda — Spaniens mest dramatiska stad i Málaga med människor och realistisk resemiljö",
       "caption": "🏰 Ronda — Spaniens mest dramatiska stad i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/ronda-spaniens-mest-dramatiska-stad-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/seniorvanliga-aktiviteter-i-malaga.png",
@@ -1800,7 +2099,12 @@
       "alt": "Seniorvänliga aktiviteter i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Seniorvänliga aktiviteter i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/seniorvanliga-aktiviteter-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/september-det-basta-badhavet-malaga.png",
@@ -1822,7 +2126,12 @@
       "alt": "September — det bästa badhavet i Málaga med människor och realistisk resemiljö",
       "caption": "September — det bästa badhavet i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/september-det-basta-badhavet-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/skateparken-vid-stranden-malaga.png",
@@ -1844,7 +2153,12 @@
       "alt": "🛹 Skateparken vid stranden i Málaga med människor och realistisk resemiljö",
       "caption": "🛹 Skateparken vid stranden i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/skateparken-vid-stranden-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/snabbguide-de-dolda-vikarna-i-ordning-centrum-osterut-malaga.png",
@@ -1866,7 +2180,12 @@
       "alt": "Snabbguide — de dolda vikarna i ordning (centrum → österut) i Málaga med människor och realistisk resemiljö",
       "caption": "Snabbguide — de dolda vikarna i ordning (centrum → österut) i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/snabbguide-de-dolda-vikarna-i-ordning-centrum-osterut-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/solo-resplan-for-3-dagar-i-malaga.png",
@@ -1888,7 +2207,12 @@
       "alt": "Solo-resplan för 3 dagar i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Solo-resplan för 3 dagar i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/solo-resplan-for-3-dagar-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/sommar-juni-till-september-malaga.png",
@@ -1910,7 +2234,12 @@
       "alt": "Sommar — juni till september i Málaga med människor och realistisk resemiljö",
       "caption": "Sommar — juni till september i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/sommar-juni-till-september-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/taget-c-1-malaga-basta-transferhemlis-malaga.png",
@@ -1932,7 +2261,12 @@
       "alt": "Tåget C-1 — Málaga bästa transferhemlis i Málaga med människor och realistisk resemiljö",
       "caption": "Tåget C-1 — Málaga bästa transferhemlis i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/taget-c-1-malaga-basta-transferhemlis-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/tapas-crawl-och-nattliv-malaga.png",
@@ -1954,7 +2288,12 @@
       "alt": "Tapas-crawl och nattliv i Málaga med människor och realistisk resemiljö",
       "caption": "Tapas-crawl och nattliv i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/tapas-crawl-och-nattliv-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/tapas-kultur-malaga.png",
@@ -1976,7 +2315,12 @@
       "alt": "Tapas-kultur i Málaga med människor och realistisk resemiljö",
       "caption": "Tapas-kultur i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/tapas-kultur-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/transport-langs-costa-del-sol-med-taget-malaga.png",
@@ -1998,7 +2342,12 @@
       "alt": "Transport längs Costa del Sol med tåget i Málaga med människor och realistisk resemiljö",
       "caption": "Transport längs Costa del Sol med tåget i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/transport-langs-costa-del-sol-med-taget-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/upplevelser-aktiviteter-malaga.png",
@@ -2020,7 +2369,12 @@
       "alt": "Upplevelser & aktiviteter i Málaga med människor och realistisk resemiljö",
       "caption": "Upplevelser & aktiviteter i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/upplevelser-aktiviteter-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/utomhusaktiviteter-malaga-2.png",
@@ -2042,7 +2396,12 @@
       "alt": "Utomhusaktiviteter i Málaga med människor och realistisk resemiljö",
       "caption": "Utomhusaktiviteter i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/utomhusaktiviteter-malaga-2.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/vader-i-juni-i-malaga.png",
@@ -2064,7 +2423,12 @@
       "alt": "Väder i juni i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Väder i juni i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/vader-i-juni-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/vader-i-mars-i-malaga.png",
@@ -2086,7 +2450,12 @@
       "alt": "Väder i mars i Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Väder i mars i Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/vader-i-mars-i-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/vanliga-fragor-om-granada-fran-malaga.png",
@@ -2108,7 +2477,12 @@
       "alt": "Vanliga frågor om Granada från Málaga i Málaga med människor och realistisk resemiljö",
       "caption": "Vanliga frågor om Granada från Málaga i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/vanliga-fragor-om-granada-fran-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     },
     {
       "source": "bilder/inbox/vinter-november-till-mars-malaga.png",
@@ -2130,7 +2504,12 @@
       "alt": "Vinter — november till mars i Málaga med människor och realistisk resemiljö",
       "caption": "Vinter — november till mars i Málaga",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/malaga/redo/vinter-november-till-mars-malaga.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/malaga/redo"
+      }
     }
   ]
 }

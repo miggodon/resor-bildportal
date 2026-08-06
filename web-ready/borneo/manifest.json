@@ -528,7 +528,12 @@
       "alt": "Flodkryssning vid Kinabatangan, Borneo",
       "caption": "Gryningskryssning på Kinabatangan-floden – bäst chans till vilda djur.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/2-eller-3-natter-vid-kinabatangan-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     },
     {
       "source": "bilder/inbox/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.png",
@@ -550,7 +555,12 @@
       "alt": "Bako nationalpark, Borneo",
       "caption": "Bako – dagstur från Kuching med vilda näsapor.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/bako-valj-dagstur-eller-overnattning-med-ratt-forvantan-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     },
     {
       "source": "bilder/inbox/djungel-orangutanger-floder-och-smart-logistik-borneo.png",
@@ -572,7 +582,12 @@
       "alt": "Djungel, orangutanger och floder på Borneo",
       "caption": "",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/djungel-orangutanger-floder-och-smart-logistik-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     },
     {
       "source": "bilder/inbox/kuching-ar-borneos-basta-mjuka-start-borneo.png",
@@ -594,7 +609,12 @@
       "alt": "Kuching vid floden, Sarawak, Borneo",
       "caption": "Kuching – Borneos mest charmiga stad och port till Bako.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/kuching-ar-borneos-basta-mjuka-start-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     },
     {
       "source": "bilder/inbox/sa-valjer-du-hotell-i-kuching-borneo.png",
@@ -616,7 +636,12 @@
       "alt": "Boende i Kuching, Borneo",
       "caption": "Kuching har Borneos bästa utbud av charmiga boutiquehotell.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/sa-valjer-du-hotell-i-kuching-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     },
     {
       "source": "bilder/inbox/sepilok-eller-sandakan-borneo.png",
@@ -638,7 +663,12 @@
       "alt": "Orangutang vid Sepilok, Borneo",
       "caption": "Orangutangerna i Sepilok – Borneos mest kända upplevelse.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/borneo/redo/sepilok-eller-sandakan-borneo.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/borneo/redo"
+      }
     }
   ]
 }

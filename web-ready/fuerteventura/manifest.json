@@ -150,7 +150,12 @@
       "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
       "caption": "Boka din resa i Fuerteventura",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/5-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
+      }
     },
     {
       "source": "bilder/inbox/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.png",
@@ -172,7 +177,12 @@
       "alt": "Boka din resa i Fuerteventura med människor och realistisk resemiljö",
       "caption": "Boka din resa i Fuerteventura",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/fuerteventura/redo/7-dagar-pa-fuerteventura-boka-din-resa-fuerteventura.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/fuerteventura/redo"
+      }
     }
   ]
 }

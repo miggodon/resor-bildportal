@@ -1283,7 +1283,12 @@
       "shot_type": "wide neighbourhood overview photograph",
       "alt": "Santiago Bernabéu — Real Madrid i Madrid med människor och realistisk resemiljö",
       "caption": "Santiago Bernabéu — Real Madrid i Madrid",
-      "seo": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Santiago Bernabéu — Real Madrid i Madrid. Bilden visar Santiago Bernabéu — Real Madrid i Madrid under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/madrid/redo/santiago-bernabeu-real-madrid.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/madrid/redo"
+      }
     }
   ]
 }

@@ -1619,7 +1619,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "Skidåkning i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Skidåkning i Chamonix-Mont-Blanc",
-      "seo": "En realistisk resebild från Skidåkning i Chamonix-Mont-Blanc. Bilden visar Skidåkning i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Skidåkning i Chamonix-Mont-Blanc. Bilden visar Skidåkning i Chamonix-Mont-Blanc under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skidakning-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/aiguille-du-midi-biljetter-linbana-utsikt-2026-chamonix.png",
@@ -1641,7 +1646,12 @@
       "alt": "Aiguille du Midi — biljetter, linbana & utsikt 2026 i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Aiguille du Midi — biljetter, linbana & utsikt 2026 i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/aiguille-du-midi-biljetter-linbana-utsikt-2026-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/aiguille-du-midi-vallee-blanche-3-842-m-chamonix.png",
@@ -1663,7 +1673,12 @@
       "alt": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/aktiviteter-upplevelser-chamonix.png",
@@ -1685,7 +1700,12 @@
       "alt": "Aktiviteter & Upplevelser i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Aktiviteter & Upplevelser i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/aktiviteter-upplevelser-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/annecy-chamonix.png",
@@ -1707,7 +1727,12 @@
       "alt": "Annecy i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Annecy i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/annecy-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/argentiere-chamonix.png",
@@ -1729,7 +1754,12 @@
       "alt": "Argentière i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Argentière i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/argentiere-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-nara-backen-chamonix.png",
@@ -1751,7 +1781,12 @@
       "alt": "Boende nära backen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Boende nära backen i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/boende-nara-backen-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/brevent-flegere-1-0302-525-m-chamonix.png",
@@ -1773,7 +1808,12 @@
       "alt": "Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Brévent-Flégère (1 030–2 525 m) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/brevent-flegere-1-0302-525-m-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-chamonix.png",
@@ -1795,7 +1835,12 @@
       "alt": "Budget i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Budget i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/budget-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-mellanklass-chamonix.png",
@@ -1817,7 +1862,12 @@
       "alt": "Budget & Mellanklass i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Budget & Mellanklass i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/budget-mellanklass-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chalet-guide-chamonix-les-houches-chamonix.png",
@@ -1839,7 +1889,12 @@
       "alt": "Les Houches i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Houches i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chalet-guide-chamonix-les-houches-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chalet-guide-chamonix.png",
@@ -1861,7 +1916,12 @@
       "alt": "Les Houches i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Houches i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chalet-guide-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chalets-lagenheter-chamonix.png",
@@ -1883,7 +1943,12 @@
       "alt": "Chalets & Lägenheter i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chalets & Lägenheter i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chalets-lagenheter-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-centre-chamonix.png",
@@ -1905,7 +1970,12 @@
       "alt": "Chamonix Centre i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix Centre i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-centre-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-centre-hjartat-av-dalen-chamonix.png",
@@ -1927,7 +1997,12 @@
       "alt": "Chamonix Centre — hjärtat av dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix Centre — hjärtat av dalen i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-centre-hjartat-av-dalen-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-centrum-chamonix.png",
@@ -1949,7 +2024,12 @@
       "alt": "Chamonix centrum i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix centrum i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-centrum-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-med-barn-chamonix.png",
@@ -1971,7 +2051,12 @@
       "alt": "Chamonix med barn i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix med barn i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-med-barn-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-omraden-var-ska-man-bo-chamonix.png",
@@ -1993,7 +2078,12 @@
       "alt": "Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix områden — var ska man bo? i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-omraden-var-ska-man-bo-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.png",
@@ -2015,7 +2105,12 @@
       "alt": "Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Chamonix pa sommaren — 15 aktiviteter 2026 i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/chamonix-pa-sommaren-15-aktiviteter-2026-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/courmayeur-italien-chamonix.png",
@@ -2037,7 +2132,12 @@
       "alt": "Courmayeur (Italien) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Courmayeur (Italien) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/courmayeur-italien-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/dagsutflykter-chamonix.png",
@@ -2059,7 +2159,12 @@
       "alt": "Dagsutflykter i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Dagsutflykter i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/dagsutflykter-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/darfor-hyra-chalet-lagenhet-via-hyra-lagenhet-chamonix.png",
@@ -2081,7 +2186,12 @@
       "alt": "Därför hyra chalet/lägenhet via hyra lägenhet i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Därför hyra chalet/lägenhet via hyra lägenhet i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/darfor-hyra-chalet-lagenhet-via-hyra-lagenhet-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.png",
@@ -2103,7 +2213,12 @@
       "alt": "Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Fem anledningar att hyra chalet istället för hotell i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/fem-anledningar-att-hyra-chalet-istallet-for-hotell-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/fler-guider-for-din-chamonix-resa-chamonix.png",
@@ -2125,7 +2240,12 @@
       "alt": "Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Fler guider för din Chamonix-resa i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/fler-guider-for-din-chamonix-resa-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/frihet-i-dalen-chamonix.png",
@@ -2147,7 +2267,12 @@
       "alt": "Frihet i dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Frihet i dalen i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/frihet-i-dalen-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/geneve-saint-gervais-chamonix.png",
@@ -2169,7 +2294,12 @@
       "alt": "Genève → Saint-Gervais i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Genève → Saint-Gervais i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/geneve-saint-gervais-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/glacier-du-tour-chamonix.png",
@@ -2191,7 +2321,12 @@
       "alt": "Glacier du Tour — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Glacier du Tour — ⭐⭐⭐⭐ i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/glacier-du-tour-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/hotell-vardshus-chamonix.png",
@@ -2213,7 +2348,12 @@
       "alt": "Hotell & Värdshus i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Hotell & Värdshus i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/hotell-vardshus-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/ingar-stadning-i-chalet-hyran-chamonix.png",
@@ -2235,7 +2375,12 @@
       "alt": "Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Ingår städning i chalet-hyran? i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/ingar-stadning-i-chalet-hyran-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/jamforelsetabell-alla-byar-i-chamonix.png",
@@ -2257,7 +2402,12 @@
       "alt": "Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Jämförelsetabell — alla byar i Chamonix i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/jamforelsetabell-alla-byar-i-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/kan-man-hyra-chalet-for-bara-en-helg-chamonix.png",
@@ -2279,7 +2429,12 @@
       "alt": "Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Kan man hyra chalet för bara en helg? i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/kan-man-hyra-chalet-for-bara-en-helg-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/las-var-kompletta-chalet-guide-chamonix.png",
@@ -2301,7 +2456,12 @@
       "alt": "📖 Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "📖 Läs vår kompletta chalet-guide i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/las-var-kompletta-chalet-guide-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/le-tour-balme-1-4532-270-m-chamonix.png",
@@ -2323,7 +2483,12 @@
       "alt": "Le Tour / Balme (1 453–2 270 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/le-tour-balme-1-4532-270-m-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/les-grands-montets-argentiere-1-2353-275-m-chamonix.png",
@@ -2345,7 +2510,12 @@
       "alt": "Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Grands Montets (Argentière, 1 235–3 275 m) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-grands-montets-argentiere-1-2353-275-m-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/les-houches-9501-900-m-chamonix.png",
@@ -2367,7 +2537,12 @@
       "alt": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Houches (950–1 900 m) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-houches-9501-900-m-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/les-houches-bast-for-barnfamiljer-chamonix.png",
@@ -2389,7 +2564,12 @@
       "alt": "Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Houches — bäst för barnfamiljer i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-houches-bast-for-barnfamiljer-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/les-praz-flegere-chamonix.png",
@@ -2411,7 +2591,12 @@
       "alt": "Les Praz / Flégère i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Praz / Flégère i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-praz-flegere-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/les-praz-flegere-lugnt-och-naturskont-chamonix.png",
@@ -2433,7 +2618,12 @@
       "alt": "Les Praz / Flégère — lugnt och naturskönt i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Les Praz / Flégère — lugnt och naturskönt i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/les-praz-flegere-lugnt-och-naturskont-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/liftkort-chamonix-2026-priser-chamonix.png",
@@ -2455,7 +2645,12 @@
       "alt": "Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Liftkort Chamonix 2026 — priser i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/liftkort-chamonix-2026-priser-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/lyxhotell-chamonix.png",
@@ -2477,7 +2672,12 @@
       "alt": "Lyxhotell i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Lyxhotell i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/lyxhotell-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/martigny-schweiz-chamonix.png",
@@ -2499,7 +2699,12 @@
       "alt": "Martigny (Schweiz) i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Martigny (Schweiz) i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/martigny-schweiz-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/offpist-chamonix.png",
@@ -2521,7 +2726,12 @@
       "alt": "Offpist i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Offpist i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/offpist-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/oversiktskarta-chamonix-dalen-chamonix.png",
@@ -2543,7 +2753,12 @@
       "alt": "Översiktskarta — Chamonix-dalen i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Översiktskarta — Chamonix-dalen i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/oversiktskarta-chamonix-dalen-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/ovriga-byar-servoz-le-tour-vallorcine-chamonix.png",
@@ -2565,7 +2780,12 @@
       "alt": "Övriga byar — Servoz, Le Tour & Vallorcine i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Övriga byar — Servoz, Le Tour & Vallorcine i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/ovriga-byar-servoz-le-tour-vallorcine-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/populara-shuttle-bolag-chamonix.png",
@@ -2587,7 +2807,12 @@
       "alt": "Populära shuttle-bolag i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Populära shuttle-bolag i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/populara-shuttle-bolag-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/redo-att-boka-boende-i-chamonix.png",
@@ -2609,7 +2834,12 @@
       "alt": "Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Redo att boka boende i Chamonix? i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/redo-att-boka-boende-i-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/resa-till-chamonix-hyrbil-fran-geneve-chamonix.png",
@@ -2631,7 +2861,12 @@
       "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/runt-mont-blanc-chamonix.png",
@@ -2653,7 +2888,12 @@
       "alt": "Runt Mont Blanc i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Runt Mont Blanc i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/runt-mont-blanc-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/skid-in-ski-out-chamonix.png",
@@ -2675,7 +2915,12 @@
       "alt": "Skid-in / Ski-out i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Skid-in / Ski-out i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skid-in-ski-out-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/skidomraden-i-chamonix-komplett-guide-2026-chamonix.png",
@@ -2697,7 +2942,12 @@
       "alt": "Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Skidområden i Chamonix — komplett guide 2026 i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skidomraden-i-chamonix-komplett-guide-2026-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/skipass-chamonix-boka-online-chamonix.png",
@@ -2719,7 +2969,12 @@
       "alt": "SkiPass Chamonix — boka online i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "SkiPass Chamonix — boka online i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/skipass-chamonix-boka-online-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/sommar-i-chamonix.png",
@@ -2741,7 +2996,12 @@
       "alt": "Sommar i Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Sommar i Chamonix i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/sommar-i-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/startsida-hyrbil-fran-geneve-chamonix-2.png",
@@ -2763,7 +3023,12 @@
       "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/startsida-hyrbil-fran-geneve-chamonix-2.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/startsida-hyrbil-fran-geneve-chamonix.png",
@@ -2785,7 +3050,12 @@
       "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/startsida-hyrbil-fran-geneve-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/transfer-geneve-chamonix.png",
@@ -2807,7 +3077,12 @@
       "alt": "Transfer Genève → Chamonix i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Transfer Genève → Chamonix i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/transfer-geneve-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/vandring-chamonix.png",
@@ -2829,7 +3104,12 @@
       "alt": "Vandring i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Vandring i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/vandring-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     },
     {
       "source": "bilder/inbox/varianter-av-vallee-blanche-chamonix.png",
@@ -2851,7 +3131,12 @@
       "alt": "Varianter av Vallée Blanche i Chamonix-Mont-Blanc med människor och realistisk resemiljö",
       "caption": "Varianter av Vallée Blanche i Chamonix-Mont-Blanc",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/chamonix/redo/varianter-av-vallee-blanche-chamonix.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/chamonix/redo"
+      }
     }
   ]
 }

@@ -527,7 +527,12 @@
       "shot_type": "wide neighbourhood overview photograph",
       "alt": "Familjelägenhet, Giudecca i Venedig med människor och realistisk resemiljö",
       "caption": "Familjelägenhet, Giudecca i Venedig",
-      "seo": "En realistisk resebild från Familjelägenhet, Giudecca i Venedig. Bilden visar Familjelägenhet, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Familjelägenhet, Giudecca i Venedig. Bilden visar Familjelägenhet, Giudecca i Venedig under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/familjelagenhet-giudecca-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/118-oar-venedig.png",
@@ -549,7 +554,12 @@
       "alt": "118 öar i Venedig med människor och realistisk resemiljö",
       "caption": "118 öar i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/118-oar-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/6-sestieri-venedig.png",
@@ -571,7 +581,12 @@
       "alt": "6 sestieri i Venedig med människor och realistisk resemiljö",
       "caption": "6 sestieri i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/6-sestieri-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/acqua-alta-vad-du-behover-veta-venedig.png",
@@ -593,7 +608,12 @@
       "alt": "Acqua Alta — vad du behöver veta i Venedig med människor och realistisk resemiljö",
       "caption": "Acqua Alta — vad du behöver veta i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/acqua-alta-vad-du-behover-veta-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/alilaguna-fran-flygplatsen-venedig.png",
@@ -615,7 +635,12 @@
       "alt": "Alilaguna från flygplatsen i Venedig med människor och realistisk resemiljö",
       "caption": "Alilaguna från flygplatsen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/alilaguna-fran-flygplatsen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/basta-fotoplatserna-under-karnevalen-venedig.png",
@@ -637,7 +662,12 @@
       "alt": "Bästa fotoplatserna under karnevalen i Venedig med människor och realistisk resemiljö",
       "caption": "Bästa fotoplatserna under karnevalen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/basta-fotoplatserna-under-karnevalen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/basta-omraden-under-karnevalen-venedig.png",
@@ -659,7 +689,12 @@
       "alt": "Bästa områden under karnevalen i Venedig med människor och realistisk resemiljö",
       "caption": "Bästa områden under karnevalen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/basta-omraden-under-karnevalen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/basta-tiden-for-olika-resor-venedig.png",
@@ -681,7 +716,12 @@
       "alt": "Bästa tiden för olika resor i Venedig med människor och realistisk resemiljö",
       "caption": "Bästa tiden för olika resor i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/basta-tiden-for-olika-resor-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/biennale-2026-vad-du-behover-veta-venedig.png",
@@ -703,7 +743,12 @@
       "alt": "Biennale 2026 — vad du behöver veta i Venedig med människor och realistisk resemiljö",
       "caption": "Biennale 2026 — vad du behöver veta i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/biennale-2026-vad-du-behover-veta-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-nara-giardini-och-arsenale-venedig.png",
@@ -725,7 +770,12 @@
       "alt": "Boende nära Giardini och Arsenale i Venedig med människor och realistisk resemiljö",
       "caption": "Boende nära Giardini och Arsenale i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-nara-giardini-och-arsenale-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-under-host-och-vinter-venedig.png",
@@ -747,7 +797,12 @@
       "alt": "Boende under höst och vinter i Venedig med människor och realistisk resemiljö",
       "caption": "Boende under höst och vinter i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-under-host-och-vinter-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-under-karnevalen-venedig.png",
@@ -769,7 +824,12 @@
       "alt": "Boende under karnevalen i Venedig med människor och realistisk resemiljö",
       "caption": "Boende under karnevalen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-under-karnevalen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-venedig-budgetrum-santa-croce-venedig.png",
@@ -791,7 +851,12 @@
       "alt": "Budgetrum, Santa Croce i Venedig med människor och realistisk resemiljö",
       "caption": "Budgetrum, Santa Croce i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-venedig-budgetrum-santa-croce-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-venedig-cannaregio-venedig.png",
@@ -813,7 +878,12 @@
       "alt": "Cannaregio i Venedig med människor och realistisk resemiljö",
       "caption": "Cannaregio i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-venedig-cannaregio-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-venedig-dorsoduro-venedig.png",
@@ -835,7 +905,12 @@
       "alt": "Dorsoduro i Venedig med människor och realistisk resemiljö",
       "caption": "Dorsoduro i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-venedig-dorsoduro-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
@@ -857,7 +932,12 @@
       "alt": "Lägenhet vid kanal, Cannaregio i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boende-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/boka-aktiviteter-upplevelser-direkt-venedig.png",
@@ -879,7 +959,12 @@
       "alt": "Boka aktiviteter & upplevelser direkt i Venedig med människor och realistisk resemiljö",
       "caption": "Boka aktiviteter & upplevelser direkt i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/boka-aktiviteter-upplevelser-direkt-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/bra-lagen-i-santa-croce-venedig.png",
@@ -901,7 +986,12 @@
       "alt": "Bra lägen i Santa Croce i Venedig med människor och realistisk resemiljö",
       "caption": "Bra lägen i Santa Croce i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/bra-lagen-i-santa-croce-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/buss-till-piazzale-roma-venedig.png",
@@ -923,7 +1013,12 @@
       "alt": "Buss till Piazzale Roma i Venedig med människor och realistisk resemiljö",
       "caption": "Buss till Piazzale Roma i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/buss-till-piazzale-roma-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/cannaregio-basta-allroundvalet-venedig.png",
@@ -945,7 +1040,12 @@
       "alt": "Cannaregio: bästa allroundvalet i Venedig med människor och realistisk resemiljö",
       "caption": "Cannaregio: bästa allroundvalet i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/cannaregio-basta-allroundvalet-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/cannaregio-det-lokala-koket-venedig.png",
@@ -967,7 +1067,12 @@
       "alt": "Cannaregio — det lokala köket i Venedig med människor och realistisk resemiljö",
       "caption": "Cannaregio — det lokala köket i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/cannaregio-det-lokala-koket-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/cannaregio-lokalt-och-prisvart-venedig.png",
@@ -989,7 +1094,12 @@
       "alt": "Cannaregio — lokalt och prisvärt i Venedig med människor och realistisk resemiljö",
       "caption": "Cannaregio — lokalt och prisvärt i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/cannaregio-lokalt-och-prisvart-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/castello-venedig.png",
@@ -1011,7 +1121,12 @@
       "alt": "Vilken del av Castello? i Venedig med människor och realistisk resemiljö",
       "caption": "Vilken del av Castello? i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/castello-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/centralt-lage-san-marco-venedig.png",
@@ -1033,7 +1148,12 @@
       "alt": "Centralt läge, San Marco i Venedig med människor och realistisk resemiljö",
       "caption": "Centralt läge, San Marco i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/centralt-lage-san-marco-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.png",
@@ -1055,7 +1175,12 @@
       "alt": "Dag 1: ankomst, Canal Grande och första kvällen i Venedig med människor och realistisk resemiljö",
       "caption": "Dag 1: ankomst, Canal Grande och första kvällen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/dag-1-ankomst-canal-grande-och-forsta-kvallen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-1-venedig-cortina-dampezzo-venedig.png",
@@ -1077,7 +1202,12 @@
       "alt": "Dag 1: Venedig → Cortina d’Ampezzo i Venedig med människor och realistisk resemiljö",
       "caption": "Dag 1: Venedig → Cortina d’Ampezzo i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/dag-1-venedig-cortina-dampezzo-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.png",
@@ -1099,7 +1229,12 @@
       "alt": "Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig med människor och realistisk resemiljö",
       "caption": "Dag 2: Passo Giau och Tre Cime di Lavaredo i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/dag-2-passo-giau-och-tre-cime-di-lavaredo-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.png",
@@ -1121,7 +1256,12 @@
       "alt": "Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig med människor och realistisk resemiljö",
       "caption": "Dag 2: San Marco tidigt, Dorsoduro efter lunch i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/dag-2-san-marco-tidigt-dorsoduro-efter-lunch-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/dag-3-lago-di-braies-tillbaka-till-venedig.png",
@@ -1143,7 +1283,12 @@
       "alt": "Dag 3: Lago di Braies → tillbaka till Venedig i Venedig med människor och realistisk resemiljö",
       "caption": "Dag 3: Lago di Braies → tillbaka till Venedig i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/dag-3-lago-di-braies-tillbaka-till-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/giudecca-lugnare-men-mer-planerad-resa-venedig.png",
@@ -1165,7 +1310,12 @@
       "alt": "Giudecca: lugnare men mer planerad resa i Venedig med människor och realistisk resemiljö",
       "caption": "Giudecca: lugnare men mer planerad resa i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/giudecca-lugnare-men-mer-planerad-resa-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/giudecca-venedig.png",
@@ -1187,7 +1337,12 @@
       "alt": "Giudecca i Venedig med människor och realistisk resemiljö",
       "caption": "Giudecca i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/giudecca-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/gondoltur-i-solnedgang-venedig.png",
@@ -1209,7 +1364,12 @@
       "alt": "Gondoltur i solnedgång i Venedig med människor och realistisk resemiljö",
       "caption": "Gondoltur i solnedgång i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/gondoltur-i-solnedgang-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/hyr-bil-for-dolomiterna-venedig.png",
@@ -1231,7 +1391,12 @@
       "alt": "Hyr bil för Dolomiterna i Venedig med människor och realistisk resemiljö",
       "caption": "Hyr bil för Dolomiterna i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/hyr-bil-for-dolomiterna-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.png",
@@ -1253,7 +1418,12 @@
       "alt": "Budgetrum, Santa Croce i Venedig med människor och realistisk resemiljö",
       "caption": "Budgetrum, Santa Croce i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/hyra-lagenhet-rum-venedig-budgetrum-santa-croce-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.png",
@@ -1275,7 +1445,12 @@
       "alt": "Lägenhet vid kanal, Cannaregio i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet vid kanal, Cannaregio i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/hyra-lagenhet-rum-venedig-lagenhet-vid-kanal-cannaregio-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagenhet-eller-hotell-i-dorsoduro-venedig.png",
@@ -1297,7 +1472,12 @@
       "alt": "Lägenhet eller hotell i Dorsoduro i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet eller hotell i Dorsoduro i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lagenhet-eller-hotell-i-dorsoduro-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagenhet-i-castello-venedig.png",
@@ -1319,7 +1499,12 @@
       "alt": "Lägenhet i Castello i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet i Castello i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lagenhet-i-castello-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagenhet-med-utsikt-giudecca-venedig.png",
@@ -1341,7 +1526,12 @@
       "alt": "Lägenhet med utsikt, Giudecca i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet med utsikt, Giudecca i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lagenhet-med-utsikt-giudecca-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lagenhet-och-rum-i-cannaregio-venedig.png",
@@ -1363,7 +1553,12 @@
       "alt": "Lägenhet och rum i Cannaregio i Venedig med människor och realistisk resemiljö",
       "caption": "Lägenhet och rum i Cannaregio i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lagenhet-och-rum-i-cannaregio-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lido-di-venezia-strand-och-lugn-venedig.png",
@@ -1385,7 +1580,12 @@
       "alt": "Lido di Venezia — strand och lugn i Venedig med människor och realistisk resemiljö",
       "caption": "Lido di Venezia — strand och lugn i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lido-di-venezia-strand-och-lugn-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/lido-venedig.png",
@@ -1407,7 +1607,12 @@
       "alt": "Lido i Venedig med människor och realistisk resemiljö",
       "caption": "Lido i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/lido-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/mestre-venedig.png",
@@ -1429,7 +1634,12 @@
       "alt": "Mestre i Venedig med människor och realistisk resemiljö",
       "caption": "Mestre i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/mestre-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/praktiska-tips-for-karnevalsresan-venedig.png",
@@ -1451,7 +1661,12 @@
       "alt": "Praktiska tips för karnevalsresan i Venedig med människor och realistisk resemiljö",
       "caption": "Praktiska tips för karnevalsresan i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/praktiska-tips-for-karnevalsresan-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/program-och-hojdpunkter-under-karnevalen-venedig.png",
@@ -1473,7 +1688,12 @@
       "alt": "Program och höjdpunkter under karnevalen i Venedig med människor och realistisk resemiljö",
       "caption": "Program och höjdpunkter under karnevalen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/program-och-hojdpunkter-under-karnevalen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/rum-i-castello-nara-biennalen-venedig.png",
@@ -1495,7 +1715,12 @@
       "alt": "Rum i Castello, nära Biennalen i Venedig med människor och realistisk resemiljö",
       "caption": "Rum i Castello, nära Biennalen i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/rum-i-castello-nara-biennalen-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/san-marco-mitt-i-allt-venedig.png",
@@ -1517,7 +1742,12 @@
       "alt": "San Marco — mitt i allt i Venedig med människor och realistisk resemiljö",
       "caption": "San Marco — mitt i allt i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/san-marco-mitt-i-allt-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/san-marco-och-san-polo-venedig.png",
@@ -1539,7 +1769,12 @@
       "alt": "San Marco och San Polo i Venedig med människor och realistisk resemiljö",
       "caption": "San Marco och San Polo i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/san-marco-och-san-polo-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/san-marco-turistfallor-och-guldkorn-venedig.png",
@@ -1561,7 +1796,12 @@
       "alt": "San Marco — turistfällor och guldkorn i Venedig med människor och realistisk resemiljö",
       "caption": "San Marco — turistfällor och guldkorn i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/san-marco-turistfallor-och-guldkorn-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/san-marco-venedig.png",
@@ -1583,7 +1823,12 @@
       "alt": "Centralt läge, San Marco i Venedig med människor och realistisk resemiljö",
       "caption": "Centralt läge, San Marco i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/san-marco-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/santa-croce-billigt-och-akta-venedig.png",
@@ -1605,7 +1850,12 @@
       "alt": "Santa Croce — billigt och äkta i Venedig med människor och realistisk resemiljö",
       "caption": "Santa Croce — billigt och äkta i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/santa-croce-billigt-och-akta-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/santa-croce-giudecca-och-mestre-venedig.png",
@@ -1627,7 +1877,12 @@
       "alt": "Santa Croce, Giudecca och Mestre i Venedig med människor och realistisk resemiljö",
       "caption": "Santa Croce, Giudecca och Mestre i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/santa-croce-giudecca-och-mestre-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/santa-croce-och-castello-venedig.png",
@@ -1649,7 +1904,12 @@
       "alt": "Santa Croce och Castello i Venedig med människor och realistisk resemiljö",
       "caption": "Santa Croce och Castello i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/santa-croce-och-castello-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/santa-croce-strategiskt-och-prisvart-venedig.png",
@@ -1671,7 +1931,12 @@
       "alt": "Santa Croce — strategiskt och prisvärt i Venedig med människor och realistisk resemiljö",
       "caption": "Santa Croce — strategiskt och prisvärt i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/santa-croce-strategiskt-och-prisvart-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/solnedgang-vid-punta-della-dogana-venedig.png",
@@ -1693,7 +1958,12 @@
       "alt": "Solnedgång vid Punta della Dogana i Venedig med människor och realistisk resemiljö",
       "caption": "Solnedgång vid Punta della Dogana i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/solnedgang-vid-punta-della-dogana-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/startsida-dorsoduro-venedig.png",
@@ -1715,7 +1985,12 @@
       "alt": "Dorsoduro i Venedig med människor och realistisk resemiljö",
       "caption": "Dorsoduro i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/startsida-dorsoduro-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/startsida-var-ska-man-bo-venedig.png",
@@ -1737,7 +2012,12 @@
       "alt": "Var ska man bo? i Venedig med människor och realistisk resemiljö",
       "caption": "Var ska man bo? i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/startsida-var-ska-man-bo-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/studio-nara-accademia-dorsoduro-venedig.png",
@@ -1759,7 +2039,12 @@
       "alt": "Studio nära Accademia, Dorsoduro i Venedig med människor och realistisk resemiljö",
       "caption": "Studio nära Accademia, Dorsoduro i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/studio-nara-accademia-dorsoduro-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/studio-nara-accademia-venedig.png",
@@ -1781,7 +2066,12 @@
       "alt": "Studio nära Accademia i Venedig med människor och realistisk resemiljö",
       "caption": "Studio nära Accademia i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/studio-nara-accademia-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/vad-kostar-en-resa-venedig.png",
@@ -1803,7 +2093,12 @@
       "alt": "Vad kostar en resa? i Venedig med människor och realistisk resemiljö",
       "caption": "Vad kostar en resa? i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/vad-kostar-en-resa-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/vara-basta-roadtrip-rutter-fran-venedig.png",
@@ -1825,7 +2120,12 @@
       "alt": "Våra bästa roadtrip-rutter från Venedig i Venedig med människor och realistisk resemiljö",
       "caption": "Våra bästa roadtrip-rutter från Venedig i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/vara-basta-roadtrip-rutter-fran-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     },
     {
       "source": "bilder/inbox/vilken-del-av-castello-venedig.png",
@@ -1847,7 +2147,12 @@
       "alt": "Vilken del av Castello? i Venedig med människor och realistisk resemiljö",
       "caption": "Vilken del av Castello? i Venedig",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/venedig/redo/vilken-del-av-castello-venedig.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/venedig/redo"
+      }
     }
   ]
 }

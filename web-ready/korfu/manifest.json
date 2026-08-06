@@ -276,7 +276,12 @@
       "alt": "Achilleion — kejsarinnans palats i Korfu med människor och realistisk resemiljö",
       "caption": "Achilleion — kejsarinnans palats i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/achilleion-kejsarinnans-palats-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/albanien-saranda-snabbfarja-30-min-korfu.png",
@@ -298,7 +303,12 @@
       "alt": "Albanien (Saranda) — Snabbfärja 30 min i Korfu med människor och realistisk resemiljö",
       "caption": "Albanien (Saranda) — Snabbfärja 30 min i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/albanien-saranda-snabbfarja-30-min-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/bella-venezia-charm-i-gamla-stan-korfu.png",
@@ -320,7 +330,12 @@
       "alt": "Vy över Bella Venezia, Gamla stan på Korfu",
       "caption": "Bella Venezia, Gamla stan (Korfu) – bekvämt hotell nära strand och stad.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/bella-venezia-charm-i-gamla-stan-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/cape-drastis-nordspetsen-37-km-50-min-korfu.png",
@@ -342,7 +357,12 @@
       "alt": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu med människor och realistisk resemiljö",
       "caption": "Cape Drastis (nordspetsen) — 37 km / 50 min i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/cape-drastis-nordspetsen-37-km-50-min-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/kavos-soder-korfu.png",
@@ -364,7 +384,12 @@
       "alt": "Kavos (söder) i Korfu med människor och realistisk resemiljö",
       "caption": "Kavos (söder) i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/kavos-soder-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/korfu-stad-liston-gamla-hamnen-korfu.png",
@@ -386,7 +411,12 @@
       "alt": "Korfu stad — Liston & Gamla hamnen i Korfu med människor och realistisk resemiljö",
       "caption": "Korfu stad — Liston & Gamla hamnen i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/korfu-stad-liston-gamla-hamnen-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/korfu-trail-220-km-tur-retur-korfu.png",
@@ -408,7 +438,12 @@
       "alt": "Korfu Trail — 220 km tur-retur i Korfu med människor och realistisk resemiljö",
       "caption": "Korfu Trail — 220 km tur-retur i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/korfu-trail-220-km-tur-retur-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     },
     {
       "source": "bilder/inbox/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.png",
@@ -430,7 +465,12 @@
       "alt": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu med människor och realistisk resemiljö",
       "caption": "Paxos och Anti-Paxos — Dagsbåt, 1–1,5 tim i Korfu",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/korfu/redo/paxos-och-anti-paxos-dagsbat-11-5-tim-korfu.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/korfu/redo"
+      }
     }
   ]
 }

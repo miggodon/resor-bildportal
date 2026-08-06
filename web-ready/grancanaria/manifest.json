@@ -317,7 +317,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "Maspalomas i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Maspalomas i Gran Canaria",
-      "seo": "En realistisk resebild från Maspalomas i Gran Canaria. Bilden visar Maspalomas i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Maspalomas i Gran Canaria. Bilden visar Maspalomas i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/gran-canaria-for-forsta-gangen-maspalomas-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/gran-canaria-for-forsta-gangen-playa-del-ingles-grancanaria.png",
@@ -338,7 +343,12 @@
       "shot_type": "coastal travel photograph",
       "alt": "Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Playa del Inglés i Gran Canaria",
-      "seo": "En realistisk resebild från Playa del Inglés i Gran Canaria. Bilden visar Playa del Inglés i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Playa del Inglés i Gran Canaria. Bilden visar Playa del Inglés i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/gran-canaria-for-forsta-gangen-playa-del-ingles-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/gran-canaria-for-forsta-gangen-puerto-de-mogan-grancanaria.png",
@@ -359,7 +369,12 @@
       "shot_type": "editorial travel photograph",
       "alt": "Puerto de Mogán i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Puerto de Mogán i Gran Canaria",
-      "seo": "En realistisk resebild från Puerto de Mogán i Gran Canaria. Bilden visar Puerto de Mogán i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt."
+      "seo": "En realistisk resebild från Puerto de Mogán i Gran Canaria. Bilden visar Puerto de Mogán i Gran Canaria under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/gran-canaria-for-forsta-gangen-puerto-de-mogan-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/5-dagar-utan-hyrbil-grancanaria.png",
@@ -381,7 +396,12 @@
       "alt": "5 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
       "caption": "5 dagar utan hyrbil i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/5-dagar-utan-hyrbil-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/7-dagar-utan-hyrbil-grancanaria.png",
@@ -403,7 +423,12 @@
       "alt": "7 dagar utan hyrbil i Gran Canaria med människor och realistisk resemiljö",
       "caption": "7 dagar utan hyrbil i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/7-dagar-utan-hyrbil-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/amadores-basta-rena-badstranden-for-barn-grancanaria.png",
@@ -425,7 +450,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Amadores: bästa rena badstranden för barn i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/amadores-basta-rena-badstranden-for-barn-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/andra-attraktioner-nara-aqualand-grancanaria.png",
@@ -447,7 +477,12 @@
       "alt": "Andra attraktioner nära Aqualand i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Andra attraktioner nära Aqualand i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/andra-attraktioner-nara-aqualand-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.png",
@@ -469,7 +504,12 @@
       "alt": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Anfi del Mar — lyxstranden med turkost vatten i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/anfi-del-mar-lyxstranden-med-turkost-vatten-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/april-ons-basta-allround-manad-grancanaria.png",
@@ -491,7 +531,12 @@
       "alt": "April — Öns bästa allround-månad ⭐ i Gran Canaria med människor och realistisk resemiljö",
       "caption": "April — Öns bästa allround-månad ⭐ i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/april-ons-basta-allround-manad-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.png",
@@ -513,7 +558,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Aqualand Maspalomas — mer än 40 vattenattraktioner i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/aqualand-maspalomas-mer-an-40-vattenattraktioner-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/bast-for-vandring-och-utflykter-grancanaria.png",
@@ -535,7 +585,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Bäst för vandring och utflykter i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/bast-for-vandring-och-utflykter-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.png",
@@ -557,7 +612,12 @@
       "alt": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Båttur till Puerto de Mogán – Kanarieöarnas Venedig i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/battur-till-puerto-de-mogan-kanarieoarnas-venedig-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/bilhamtning-i-las-palmas-norra-on-grancanaria.png",
@@ -579,7 +639,12 @@
       "alt": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Bilhämtning i Las Palmas (norra ön) i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/bilhamtning-i-las-palmas-norra-on-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-niva-1-sammanfattning-grancanaria.png",
@@ -601,7 +666,12 @@
       "alt": "Budget nivå 1 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Budget nivå 1 – sammanfattning i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/budget-niva-1-sammanfattning-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-niva-2-sammanfattning-grancanaria.png",
@@ -623,7 +693,12 @@
       "alt": "Budget nivå 2 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Budget nivå 2 – sammanfattning i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/budget-niva-2-sammanfattning-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-niva-3-sammanfattning-grancanaria.png",
@@ -645,7 +720,12 @@
       "alt": "Budget nivå 3 – sammanfattning i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Budget nivå 3 – sammanfattning i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/budget-niva-3-sammanfattning-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/budget-solo-7-natter-grancanaria.png",
@@ -667,7 +747,12 @@
       "alt": "Budget — Solo, 7 nätter i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Budget — Solo, 7 nätter i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/budget-solo-7-natter-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/buss-guagua-grancanaria.png",
@@ -689,7 +774,12 @@
       "alt": "Buss (guagua) i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Buss (guagua) i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/buss-guagua-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/club-maspalomas-suites-spa-maspalomas-grancanaria.png",
@@ -711,7 +801,12 @@
       "alt": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Club Maspalomas Suites & Spa — Maspalomas i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/club-maspalomas-suites-spa-maspalomas-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/december-julens-hogsasong-grancanaria.png",
@@ -733,7 +828,12 @@
       "alt": "December — Julens högsäsong i Gran Canaria med människor och realistisk resemiljö",
       "caption": "December — Julens högsäsong i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/december-julens-hogsasong-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/djupare-bergsdag-tejeda-och-artenara-grancanaria.png",
@@ -755,7 +855,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Djupare bergsdag: Tejeda och Artenara i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/djupare-bergsdag-tejeda-och-artenara-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/djurparker-och-vattenparker-grancanaria.png",
@@ -777,7 +882,12 @@
       "alt": "Djurparker och vattenparker i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Djurparker och vattenparker i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/djurparker-och-vattenparker-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/du-klarar-dig-utan-hyrbil-om-grancanaria.png",
@@ -799,7 +909,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Du klarar dig utan hyrbil om: i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/du-klarar-dig-utan-hyrbil-om-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/dynerna-heldag-i-soder-grancanaria.png",
@@ -821,7 +936,12 @@
       "alt": "Dynerna + heldag i söder i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Dynerna + heldag i söder i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/dynerna-heldag-i-soder-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/dynerna-meloneras-grancanaria.png",
@@ -843,7 +963,12 @@
       "alt": "Dynerna + Meloneras i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Dynerna + Meloneras i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/dynerna-meloneras-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/dynerna-playa-del-ingles-grancanaria.png",
@@ -865,7 +990,12 @@
       "alt": "Dynerna + Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Dynerna + Playa del Inglés i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/dynerna-playa-del-ingles-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/februari-karneval-och-sportlov-boka-tidigt-grancanaria.png",
@@ -887,7 +1017,12 @@
       "alt": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Februari — Karneval och sportlov ⚠️ Boka tidigt i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/februari-karneval-och-sportlov-boka-tidigt-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/flygplats-och-transfer-grancanaria.png",
@@ -909,7 +1044,12 @@
       "alt": "Flygplats och transfer i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Flygplats och transfer i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/flygplats-och-transfer-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/glasbat-batturer-langs-sydkusten-grancanaria.png",
@@ -931,7 +1071,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Glasbåt & båtturer längs sydkusten i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/glasbat-batturer-langs-sydkusten-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/gran-canaria-for-forsta-gangen-amadores-grancanaria.png",
@@ -953,7 +1098,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Amadores i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/gran-canaria-for-forsta-gangen-amadores-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/gran-canaria-for-forsta-gangen-las-canteras-grancanaria.png",
@@ -975,7 +1125,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Las Canteras i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/gran-canaria-for-forsta-gangen-las-canteras-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.png",
@@ -997,7 +1152,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Guayadeque ravinen — grottor, mat och kanarier i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/guayadeque-ravinen-grottor-mat-och-kanarier-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/guider-maspalomas-dynerna-grancanaria.png",
@@ -1019,7 +1179,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Maspalomas-dynerna i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/guider-maspalomas-dynerna-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/guider-maspalomas-playa-del-ingles-grancanaria.png",
@@ -1041,7 +1206,12 @@
       "alt": "Maspalomas & Playa del Inglés i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Maspalomas & Playa del Inglés i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/guider-maspalomas-playa-del-ingles-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/guider-puerto-de-mogan-grancanaria.png",
@@ -1063,7 +1233,12 @@
       "alt": "Puerto de Mogán i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Puerto de Mogán i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/guider-puerto-de-mogan-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/januari-vinterflykt-och-mandelblomning-grancanaria.png",
@@ -1085,7 +1260,12 @@
       "alt": "Januari — Vinterflykt och mandelblomning i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Januari — Vinterflykt och mandelblomning i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/januari-vinterflykt-och-mandelblomning-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.png",
@@ -1107,7 +1287,12 @@
       "alt": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Juli–Augusti — Högsommar med europeisk publik i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/juliaugusti-hogsommar-med-europeisk-publik-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/kultur-och-museum-grancanaria.png",
@@ -1129,7 +1314,12 @@
       "alt": "Kultur och museum i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Kultur och museum i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/kultur-och-museum-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/kultur-och-stadsliv-grancanaria.png",
@@ -1151,7 +1341,12 @@
       "alt": "Kultur och stadsliv i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Kultur och stadsliv i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/kultur-och-stadsliv-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/las-canteras-strandguide-grancanaria.png",
@@ -1173,7 +1368,12 @@
       "alt": "Las Canteras strandguide i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Las Canteras strandguide i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/las-canteras-strandguide-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.png",
@@ -1195,7 +1395,12 @@
       "alt": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Las Canteras — surfing, snorkling och stadsstrand i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/las-canteras-surfing-snorkling-och-stadsstrand-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/las-palmas-basta-valet-for-stad-och-strand-grancanaria.png",
@@ -1217,7 +1422,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Las Palmas: bästa valet för stad och strand i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/las-palmas-basta-valet-for-stad-och-strand-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/las-palmas-storstad-pa-dagen-grancanaria.png",
@@ -1239,7 +1449,12 @@
       "alt": "Las Palmas — storstad på dagen i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Las Palmas — storstad på dagen i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/las-palmas-storstad-pa-dagen-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/maspalomas-basta-trygga-allroundvalet-grancanaria.png",
@@ -1261,7 +1476,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Maspalomas: bästa trygga allroundvalet i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/maspalomas-basta-trygga-allroundvalet-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.png",
@@ -1283,7 +1503,12 @@
       "alt": "Maspalomas Pride — Gran Canarias stora HBTQ-festival varje år",
       "caption": "Gran Canaria och Maspalomas är kända som en av Europas mest hbtq-vänliga destinationer",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/maspalomas-pride-maj-2026-25-e-jubileumsupplagan-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/medel-9001-400-person-grancanaria.png",
@@ -1305,7 +1530,12 @@
       "alt": "Medel (~900–1 400 €/person) i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Medel (~900–1 400 €/person) i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/medel-9001-400-person-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/meloneras-shopping-och-strand-i-ett-grancanaria.png",
@@ -1327,7 +1557,12 @@
       "alt": "Meloneras — shopping och strand i ett i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Meloneras — shopping och strand i ett i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/meloneras-shopping-och-strand-i-ett-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/norra-centrala-las-canteras-grancanaria.png",
@@ -1349,7 +1584,12 @@
       "alt": "Norra/centrala Las Canteras i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Norra/centrala Las Canteras i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/norra-centrala-las-canteras-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/norra-gran-canaria-grancanaria.png",
@@ -1371,7 +1611,12 @@
       "alt": "Norra Gran Canaria i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Norra Gran Canaria i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/norra-gran-canaria-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/november-winterpride-och-langliggare-grancanaria.png",
@@ -1393,7 +1638,12 @@
       "alt": "Långliggare och pensionärer på Gran Canaria — mildrare klimat hela vintern",
       "caption": "Gran Canarias milda klimat lockar tusentals pensionärer till längre vistelser",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/november-winterpride-och-langliggare-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/oktober-sista-chansen-till-varmt-hav-grancanaria.png",
@@ -1415,7 +1665,12 @@
       "alt": "Oktober — Sista chansen till varmt hav i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Oktober — Sista chansen till varmt hav i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/oktober-sista-chansen-till-varmt-hav-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/palmitos-park-djur-faglar-och-botanik-grancanaria.png",
@@ -1437,7 +1692,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Palmitos Park — djur, fåglar och botanik i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/palmitos-park-djur-faglar-och-botanik-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.png",
@@ -1459,7 +1719,12 @@
       "alt": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Patalavaca — fiskebyn med bäst snorkling i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/patalavaca-fiskebyn-med-bast-snorkling-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/playa-de-gui-gui-den-vilda-beloningen-grancanaria.png",
@@ -1481,7 +1746,12 @@
       "alt": "Playa de Güi Güi — den vilda belöningen i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Playa de Güi Güi — den vilda belöningen i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/playa-de-gui-gui-den-vilda-beloningen-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.png",
@@ -1503,7 +1773,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Playa del Inglés: mest liv och mest utbud i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/playa-del-ingles-mest-liv-och-mest-utbud-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.png",
@@ -1525,7 +1800,12 @@
       "alt": "Playa del Inglés — stranden som aldrig sover i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Playa del Inglés — stranden som aldrig sover i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/playa-del-ingles-stranden-som-aldrig-sover-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/puerto-de-mogan-charmigast-men-lugnare-grancanaria.png",
@@ -1547,7 +1827,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Puerto de Mogán: charmigast men lugnare i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/puerto-de-mogan-charmigast-men-lugnare-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/puerto-rico-solsakert-och-barnvanligt-grancanaria.png",
@@ -1569,7 +1854,12 @@
       "alt": "Maspalomas-dynerna i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Puerto Rico: solsäkert och barnvanligt i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/puerto-rico-solsakert-och-barnvanligt-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/roque-bentayga-den-heliga-klippan-latt-grancanaria.png",
@@ -1591,7 +1881,12 @@
       "alt": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Roque Bentayga — den heliga klippan (Lätt) i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/roque-bentayga-den-heliga-klippan-latt-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/san-agustin-lugnare-morkare-skonare-grancanaria.png",
@@ -1613,7 +1908,12 @@
       "alt": "San Agustín — lugnare, mörkare, skönare i Gran Canaria med människor och realistisk resemiljö",
       "caption": "San Agustín — lugnare, mörkare, skönare i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/san-agustin-lugnare-morkare-skonare-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/semesterhus-och-villor-med-pool-grancanaria.png",
@@ -1635,7 +1935,12 @@
       "alt": "Semesterhus och villor (med pool) i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Semesterhus och villor (med pool) i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/semesterhus-och-villor-med-pool-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/september-arets-basta-kombination-grancanaria.png",
@@ -1657,7 +1962,12 @@
       "alt": "September — Årets bästa kombination ⭐ i Gran Canaria med människor och realistisk resemiljö",
       "caption": "September — Årets bästa kombination ⭐ i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/september-arets-basta-kombination-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/transfer-fran-flygplatsen-grancanaria.png",
@@ -1679,7 +1989,12 @@
       "alt": "Transfer från flygplatsen i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Transfer från flygplatsen i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/transfer-fran-flygplatsen-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/triana-shopping-och-jugend-grancanaria.png",
@@ -1701,7 +2016,12 @@
       "alt": "Triana — shopping och jugend i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Triana — shopping och jugend i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/triana-shopping-och-jugend-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/upphamtning-direkt-i-resorten-grancanaria.png",
@@ -1723,7 +2043,12 @@
       "alt": "Upphämtning direkt i resorten i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Upphämtning direkt i resorten i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/upphamtning-direkt-i-resorten-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/vanliga-fragor-om-gran-canarias-strander-grancanaria.png",
@@ -1745,7 +2070,12 @@
       "alt": "Vanliga frågor om Gran Canarias stränder i Gran Canaria med människor och realistisk resemiljö",
       "caption": "Vanliga frågor om Gran Canarias stränder i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/vanliga-fragor-om-gran-canarias-strander-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     },
     {
       "source": "bilder/inbox/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.png",
@@ -1767,7 +2097,12 @@
       "alt": "Roque Nublo, den mäktiga klippformationen på Gran Canaria, sett i klart dagsljus",
       "caption": "Vilken stad är bäst i norra Gran Canaria? i Gran Canaria",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/grancanaria/redo/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/grancanaria/redo"
+      }
     }
   ]
 }

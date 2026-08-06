@@ -486,7 +486,12 @@
       "alt": "Vy över Apartamentos Bajondillo på Torremolinos",
       "caption": "Apartamentos Bajondillo, Torremolinos – centralt boende med Torremolinos-känsla.",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/torremolinos/redo/apartamentos-bajondillo-torremolinos.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/torremolinos/redo"
+      }
     },
     {
       "source": "bilder/inbox/casa-de-los-navajas-torremolinos.png",
@@ -508,7 +513,12 @@
       "alt": "Casa de los Navajas i Torremolinos med människor och realistisk resemiljö",
       "caption": "Casa de los Navajas i Torremolinos",
       "seo": {},
-      "aterskapad_fran_live": true
+      "aterskapad_fran_live": true,
+      "handoff": {
+        "web_ready_file": "bilder/web-ready/torremolinos/redo/casa-de-los-navajas-torremolinos.jpg",
+        "publishing_status": "ready_in_redo",
+        "ready_folder": "bilder/web-ready/torremolinos/redo"
+      }
     }
   ]
 }
