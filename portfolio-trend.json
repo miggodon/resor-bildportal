@@ -118,11 +118,11 @@
   },
   {
     "date": "2026-08-06",
-    "pages": 829,
+    "pages": 858,
     "indexed_pct": 99,
-    "monetized_pct": 90,
-    "qa_fail": 74,
+    "monetized_pct": 89,
+    "qa_fail": 75,
     "media": 2508,
-    "need_img": 402
+    "need_img": 431
   }
 ]
