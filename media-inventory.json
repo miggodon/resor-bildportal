@@ -43043,6 +43043,311 @@
   },
   {
     "domain": "barcelonas",
+    "id": 450,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/tibidabo-barcelonas.jpg",
+    "filename": "tibidabo-barcelonas.jpg",
+    "alt": "Tibidabo i Barcelona med människor och realistisk resemiljö",
+    "caption": "Tibidabo i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "barcelona-med-barn",
+        "link": "https://barcelonas.se/barcelona-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 448,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/somorrostro-barcelonas.jpg",
+    "filename": "somorrostro-barcelonas.jpg",
+    "alt": "Somorrostro i Barcelona med människor och realistisk resemiljö",
+    "caption": "Somorrostro i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 446,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sitges-barcelonas.jpg",
+    "filename": "sitges-barcelonas.jpg",
+    "alt": "Sitges i Barcelona med människor och realistisk resemiljö",
+    "caption": "Sitges i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "barcelona-5-dagar",
+        "link": "https://barcelonas.se/barcelona-5-dagar/"
+      },
+      {
+        "slug": "dagsturer-barcelona",
+        "link": "https://barcelonas.se/dagsturer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 445,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/shopping-barcelona-gracia-barcelonas.jpg",
+    "filename": "shopping-barcelona-gracia-barcelonas.jpg",
+    "alt": "Gràcia i Barcelona med människor och realistisk resemiljö",
+    "caption": "Gràcia i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": []
+  },
+  {
+    "domain": "barcelonas",
+    "id": 443,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/shopping-barcelona-el-born-barcelonas.jpg",
+    "filename": "shopping-barcelona-el-born-barcelonas.jpg",
+    "alt": "El Born i Barcelona med människor och realistisk resemiljö",
+    "caption": "El Born i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "shopping-barcelona",
+        "link": "https://barcelonas.se/shopping-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 441,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-tar-du-dig-runt-barcelonas.jpg",
+    "filename": "sa-tar-du-dig-runt-barcelonas.jpg",
+    "alt": "Så tar du dig runt i Barcelona med människor och realistisk resemiljö",
+    "caption": "Så tar du dig runt i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hem",
+        "link": "https://barcelonas.se/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 439,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/restauranger-barcelona-gracia-barcelonas.jpg",
+    "filename": "restauranger-barcelona-gracia-barcelonas.jpg",
+    "alt": "Gràcia i Barcelona med människor och realistisk resemiljö",
+    "caption": "Gràcia i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "restauranger-barcelona",
+        "link": "https://barcelonas.se/restauranger-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 437,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/parc-de-la-ciutadella-barcelonas.jpg",
+    "filename": "parc-de-la-ciutadella-barcelonas.jpg",
+    "alt": "Parc de la Ciutadella i Barcelona med människor och realistisk resemiljö",
+    "caption": "Parc de la Ciutadella i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "barcelona-med-barn",
+        "link": "https://barcelonas.se/barcelona-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 435,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/montjuics-slott-barcelonas.jpg",
+    "filename": "montjuics-slott-barcelonas.jpg",
+    "alt": "Montjuïcs slott i Barcelona med människor och realistisk resemiljö",
+    "caption": "Montjuïcs slott i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montjuic",
+        "link": "https://barcelonas.se/montjuic/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 433,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/la-boqueria-barcelonas.jpg",
+    "filename": "la-boqueria-barcelonas.jpg",
+    "alt": "La Boqueria i Barcelona med människor och realistisk resemiljö",
+    "caption": "La Boqueria i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "marknader-barcelona",
+        "link": "https://barcelonas.se/marknader-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 431,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/girona-barcelonas.jpg",
+    "filename": "girona-barcelonas.jpg",
+    "alt": "Girona i Barcelona med människor och realistisk resemiljö",
+    "caption": "Girona i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-barcelona",
+        "link": "https://barcelonas.se/dagsturer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 429,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/den-magiska-fontanen-barcelonas.jpg",
+    "filename": "den-magiska-fontanen-barcelonas.jpg",
+    "alt": "Den magiska fontänen i Barcelona med människor och realistisk resemiljö",
+    "caption": "Den magiska fontänen i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "montjuic",
+        "link": "https://barcelonas.se/montjuic/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 427,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/costa-brava-barcelonas.jpg",
+    "filename": "costa-brava-barcelonas.jpg",
+    "alt": "Costa Brava i Barcelona med människor och realistisk resemiljö",
+    "caption": "Costa Brava i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-barcelona",
+        "link": "https://barcelonas.se/dagsturer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 425,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/barceloneta-och-sant-sebastia-barcelonas.jpg",
+    "filename": "barceloneta-och-sant-sebastia-barcelonas.jpg",
+    "alt": "Barceloneta och Sant Sebastià i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barceloneta och Sant Sebastià i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-barcelona",
+        "link": "https://barcelonas.se/strander-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 423,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/barcelona-i-korthet-barcelonas.jpg",
+    "filename": "barcelona-i-korthet-barcelonas.jpg",
+    "alt": "Barcelona i korthet i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barcelona i korthet i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hem",
+        "link": "https://barcelonas.se/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 421,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/barca-atletic-samma-arena-annu-billigare-barcelonas.jpg",
+    "filename": "barca-atletic-samma-arena-annu-billigare-barcelonas.jpg",
+    "alt": "Barça Atlètic – samma arena, ännu billigare i Barcelona med människor och realistisk resemiljö",
+    "caption": "Barça Atlètic – samma arena, ännu billigare i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "barca-femeni",
+        "link": "https://barcelonas.se/barca-femeni/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 419,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/alternativ-b-sitges-barcelonas.jpg",
+    "filename": "alternativ-b-sitges-barcelonas.jpg",
+    "alt": "Alternativ B – Sitges i Barcelona med människor och realistisk resemiljö",
+    "caption": "Alternativ B – Sitges i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "barcelona-5-dagar",
+        "link": "https://barcelonas.se/barcelona-5-dagar/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
     "id": 364,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/vindsvaningen-espai-gaudi-barcelonas.jpg",
     "filename": "vindsvaningen-espai-gaudi-barcelonas.jpg",
@@ -43051,7 +43356,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "casa-mila-la-pedrera",
@@ -43069,7 +43374,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lokalfotboll-barcelona",
@@ -43087,7 +43392,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "loppmarknader-barcelona",
@@ -43105,7 +43410,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vader-barcelona",
@@ -43123,7 +43428,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "sevardheter-barcelona",
@@ -43141,7 +43446,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "sevardheter-barcelona",
@@ -43159,7 +43464,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "loppmarknader-barcelona",
@@ -43185,7 +43490,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43203,7 +43508,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "rcd-espanyol",
@@ -43221,7 +43526,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nattliv-barcelona",
@@ -43239,7 +43544,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "shopping-barcelona",
@@ -43257,7 +43562,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43275,7 +43580,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43293,7 +43598,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43311,7 +43616,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43329,7 +43634,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43347,7 +43652,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43365,7 +43670,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marknader-barcelona",
@@ -43383,7 +43688,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marknader-barcelona",
@@ -43401,7 +43706,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marknader-barcelona",
@@ -43419,7 +43724,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43437,7 +43742,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43455,7 +43760,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43473,7 +43778,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "camp-nou-fc-barcelona",
@@ -43491,7 +43796,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43509,7 +43814,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "loppmarknader-barcelona",
@@ -43527,7 +43832,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43545,7 +43850,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "lokalfotboll-barcelona",
@@ -43563,7 +43868,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43581,7 +43886,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "casa-mila-la-pedrera",
@@ -43599,7 +43904,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43617,7 +43922,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gaudi-barcelona",
@@ -43635,7 +43940,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vintage-barcelona",
@@ -43653,7 +43958,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "vintage-barcelona",
@@ -43671,7 +43976,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43689,7 +43994,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-barcelona",
@@ -43707,7 +44012,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-barcelona",
@@ -43725,7 +44030,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montserrat",
@@ -43743,7 +44048,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-barcelona",
@@ -43761,7 +44066,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-barcelona",
@@ -43805,7 +44110,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -43823,7 +44128,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -43841,7 +44146,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -43859,7 +44164,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -43877,7 +44182,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -43895,7 +44200,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -43913,7 +44218,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -43931,7 +44236,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -43949,7 +44254,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -43967,7 +44272,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -43985,7 +44290,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -44003,7 +44308,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -44021,7 +44326,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "shopping-alicante",
@@ -44039,7 +44344,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "tabarca",
@@ -44057,7 +44362,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44075,7 +44380,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44093,7 +44398,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -44111,7 +44416,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -44129,7 +44434,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -44147,7 +44452,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -44165,7 +44470,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -44183,7 +44488,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -44201,7 +44506,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -44219,7 +44524,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -44237,7 +44542,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -44255,7 +44560,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -44273,7 +44578,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -44291,7 +44596,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guadalest-altea",
@@ -44309,7 +44614,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transport-alicante",
@@ -44327,7 +44632,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nattliv-alicante",
@@ -44345,7 +44650,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "elche",
@@ -44363,7 +44668,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44381,7 +44686,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44399,7 +44704,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -44417,11 +44722,303 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guadalest-altea",
         "link": "https://alicantes.se/guadalest-altea/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 135,
+    "url": "https://londons.se/wp-content/uploads/2026/08/windsor-londons.jpg",
+    "filename": "windsor-londons.jpg",
+    "alt": "Windsor i London med människor och realistisk resemiljö",
+    "caption": "Windsor i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-london",
+        "link": "https://londons.se/dagsturer-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 133,
+    "url": "https://londons.se/wp-content/uploads/2026/08/warner-bros-studio-tour-harry-potter-londons.jpg",
+    "filename": "warner-bros-studio-tour-harry-potter-londons.jpg",
+    "alt": "Warner Bros. Studio Tour – Harry Potter i London med människor och realistisk resemiljö",
+    "caption": "Warner Bros. Studio Tour – Harry Potter i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 131,
+    "url": "https://londons.se/wp-content/uploads/2026/08/victoria-and-albert-museum-londons.jpg",
+    "filename": "victoria-and-albert-museum-londons.jpg",
+    "alt": "Victoria and Albert Museum i London med människor och realistisk resemiljö",
+    "caption": "Victoria and Albert Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-london",
+        "link": "https://londons.se/sevardheter-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 129,
+    "url": "https://londons.se/wp-content/uploads/2026/08/tate-modern-londons.jpg",
+    "filename": "tate-modern-londons.jpg",
+    "alt": "Tate Modern i London med människor och realistisk resemiljö",
+    "caption": "Tate Modern i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-london",
+        "link": "https://londons.se/sevardheter-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 127,
+    "url": "https://londons.se/wp-content/uploads/2026/08/stonehenge-londons.jpg",
+    "filename": "stonehenge-londons.jpg",
+    "alt": "Stonehenge i London med människor och realistisk resemiljö",
+    "caption": "Stonehenge i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-london",
+        "link": "https://londons.se/dagsturer-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 125,
+    "url": "https://londons.se/wp-content/uploads/2026/08/south-bank-och-waterloo-londons.jpg",
+    "filename": "south-bank-och-waterloo-londons.jpg",
+    "alt": "South Bank och Waterloo i London med människor och realistisk resemiljö",
+    "caption": "South Bank och Waterloo i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-london",
+        "link": "https://londons.se/bo-i-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 123,
+    "url": "https://londons.se/wp-content/uploads/2026/08/sevardheter-london-british-museum-londons.jpg",
+    "filename": "sevardheter-london-british-museum-londons.jpg",
+    "alt": "British Museum i London med människor och realistisk resemiljö",
+    "caption": "British Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-london",
+        "link": "https://londons.se/sevardheter-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 121,
+    "url": "https://londons.se/wp-content/uploads/2026/08/science-museum-londons.jpg",
+    "filename": "science-museum-londons.jpg",
+    "alt": "Science Museum i London med människor och realistisk resemiljö",
+    "caption": "Science Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 119,
+    "url": "https://londons.se/wp-content/uploads/2026/08/natural-history-museum-londons.jpg",
+    "filename": "natural-history-museum-londons.jpg",
+    "alt": "Natural History Museum i London med människor och realistisk resemiljö",
+    "caption": "Natural History Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 117,
+    "url": "https://londons.se/wp-content/uploads/2026/08/national-gallery-londons.jpg",
+    "filename": "national-gallery-londons.jpg",
+    "alt": "National Gallery i London med människor och realistisk resemiljö",
+    "caption": "National Gallery i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-london",
+        "link": "https://londons.se/sevardheter-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 115,
+    "url": "https://londons.se/wp-content/uploads/2026/08/museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
+    "filename": "museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
+    "alt": "Museum of London Docklands och Imperial War Museum i London med människor och realistisk resemiljö",
+    "caption": "Museum of London Docklands och Imperial War Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 113,
+    "url": "https://londons.se/wp-content/uploads/2026/08/london-med-barn-british-museum-londons.jpg",
+    "filename": "london-med-barn-british-museum-londons.jpg",
+    "alt": "British Museum i London med människor och realistisk resemiljö",
+    "caption": "British Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 111,
+    "url": "https://londons.se/wp-content/uploads/2026/08/imperial-war-museum-londons.jpg",
+    "filename": "imperial-war-museum-londons.jpg",
+    "alt": "Imperial War Museum i London med människor och realistisk resemiljö",
+    "caption": "Imperial War Museum i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-med-barn",
+        "link": "https://londons.se/london-med-barn/"
+      },
+      {
+        "slug": "sevardheter-london",
+        "link": "https://londons.se/sevardheter-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 109,
+    "url": "https://londons.se/wp-content/uploads/2026/08/formiddag-trafalgar-och-covent-garden-londons.jpg",
+    "filename": "formiddag-trafalgar-och-covent-garden-londons.jpg",
+    "alt": "Förmiddag: Trafalgar och Covent Garden i London med människor och realistisk resemiljö",
+    "caption": "Förmiddag: Trafalgar och Covent Garden i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-1-dag",
+        "link": "https://londons.se/london-1-dag/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 107,
+    "url": "https://londons.se/wp-content/uploads/2026/08/dag-1-klassikerna-langs-themsen-londons.jpg",
+    "filename": "dag-1-klassikerna-langs-themsen-londons.jpg",
+    "alt": "Dag 1 – klassikerna längs Themsen i London med människor och realistisk resemiljö",
+    "caption": "Dag 1 – klassikerna längs Themsen i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "london-3-dagar",
+        "link": "https://londons.se/london-3-dagar/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 105,
+    "url": "https://londons.se/wp-content/uploads/2026/08/cambridge-londons.jpg",
+    "filename": "cambridge-londons.jpg",
+    "alt": "Cambridge i London med människor och realistisk resemiljö",
+    "caption": "Cambridge i London",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-10",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-london",
+        "link": "https://londons.se/dagsturer-london/"
       }
     ]
   },
@@ -44461,7 +45058,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "london-1-dag",
@@ -44479,7 +45076,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-london",
@@ -44497,7 +45094,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-london",
@@ -44515,7 +45112,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gratis-i-london",
@@ -44533,7 +45130,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "bo-i-london",
@@ -44551,7 +45148,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "london-i-januari",
@@ -44569,7 +45166,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "greenwich",
@@ -44587,7 +45184,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "london-i-december",
@@ -44605,7 +45202,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-08",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "gratis-i-london",
