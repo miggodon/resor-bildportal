@@ -44427,6 +44427,32 @@
   },
   {
     "domain": "londons",
+    "id": 104,
+    "url": "https://londons.se/wp-content/uploads/2026/08/londons-site-icon.png",
+    "filename": "londons-site-icon.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-08-08",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "londons",
+    "id": 103,
+    "url": "https://londons.se/wp-content/uploads/2026/08/londons-logo-600.png",
+    "filename": "londons-logo-600.png",
+    "alt": "",
+    "caption": "",
+    "w": 600,
+    "h": 215,
+    "date": "2026-08-08",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "londons",
     "id": 101,
     "url": "https://londons.se/wp-content/uploads/2026/08/westminster-st-james-londons.jpg",
     "filename": "westminster-st-james-londons.jpg",
