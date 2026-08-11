@@ -43043,6 +43043,154 @@
   },
   {
     "domain": "barcelonas",
+    "id": 466,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/takterrassen-barcelonas.jpg",
+    "filename": "takterrassen-barcelonas.jpg",
+    "alt": "Takterrassen i Barcelona med människor och realistisk resemiljö",
+    "caption": "Takterrassen i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "casa-mila-la-pedrera",
+        "link": "https://barcelonas.se/casa-mila-la-pedrera/"
+      },
+      {
+        "slug": "casa-batllo",
+        "link": "https://barcelonas.se/casa-batllo/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 464,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/saffran-barcelonas.jpg",
+    "filename": "saffran-barcelonas.jpg",
+    "alt": "Saffran i Barcelona med människor och realistisk resemiljö",
+    "caption": "Saffran i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "souvenirer-barcelona",
+        "link": "https://barcelonas.se/souvenirer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 462,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-planerar-du-resan-i-ratt-ordning-barcelonas.jpg",
+    "filename": "sa-planerar-du-resan-i-ratt-ordning-barcelonas.jpg",
+    "alt": "Så planerar du resan i rätt ordning i Barcelona med människor och realistisk resemiljö",
+    "caption": "Så planerar du resan i rätt ordning i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fotboll-i-barcelona",
+        "link": "https://barcelonas.se/fotboll-i-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 460,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-kanner-du-igen-en-bluff-barcelonas.jpg",
+    "filename": "sa-kanner-du-igen-en-bluff-barcelonas.jpg",
+    "alt": "Så känner du igen en bluff i Barcelona med människor och realistisk resemiljö",
+    "caption": "Så känner du igen en bluff i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fc-barcelona-biljetter",
+        "link": "https://barcelonas.se/fc-barcelona-biljetter/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 458,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/ljusgarden-barcelonas.jpg",
+    "filename": "ljusgarden-barcelonas.jpg",
+    "alt": "Ljusgården i Barcelona med människor och realistisk resemiljö",
+    "caption": "Ljusgården i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "casa-batllo",
+        "link": "https://barcelonas.se/casa-batllo/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 456,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/fran-flygplatsen-till-centrum-barcelonas.jpg",
+    "filename": "fran-flygplatsen-till-centrum-barcelonas.jpg",
+    "alt": "Från flygplatsen till centrum i Barcelona med människor och realistisk resemiljö",
+    "caption": "Från flygplatsen till centrum i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "transport-barcelona",
+        "link": "https://barcelonas.se/transport-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 454,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/basta-tiden-att-komma-barcelonas.jpg",
+    "filename": "basta-tiden-att-komma-barcelonas.jpg",
+    "alt": "Bästa tiden att komma i Barcelona med människor och realistisk resemiljö",
+    "caption": "Bästa tiden att komma i Barcelona",
+    "w": 1535,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "park-guell",
+        "link": "https://barcelonas.se/park-guell/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 452,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/08/alternativ-inne-i-staden-barcelonas.jpg",
+    "filename": "alternativ-inne-i-staden-barcelonas.jpg",
+    "alt": "Alternativ inne i staden i Barcelona med människor och realistisk resemiljö",
+    "caption": "Alternativ inne i staden i Barcelona",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "la-roca-village-outlet",
+        "link": "https://barcelonas.se/la-roca-village-outlet/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
     "id": 450,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/tibidabo-barcelonas.jpg",
     "filename": "tibidabo-barcelonas.jpg",
@@ -43051,7 +43199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "barcelona-med-barn",
@@ -43069,7 +43217,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43087,7 +43235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "barcelona-5-dagar",
@@ -43109,7 +43257,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": []
   },
   {
@@ -43122,7 +43270,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "shopping-barcelona",
@@ -43140,7 +43288,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -43158,7 +43306,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "restauranger-barcelona",
@@ -43176,7 +43324,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "barcelona-med-barn",
@@ -43194,7 +43342,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43212,7 +43360,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "marknader-barcelona",
@@ -43230,7 +43378,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43248,7 +43396,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43266,7 +43414,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43284,7 +43432,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43302,7 +43450,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -43320,7 +43468,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "barca-femeni",
@@ -43338,7 +43486,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "barcelona-5-dagar",
@@ -44102,6 +44250,312 @@
   },
   {
     "domain": "alicantes",
+    "id": 219,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/tre-vagar-upp-och-vilken-du-ska-valja-alicantes.jpg",
+    "filename": "tre-vagar-upp-och-vilken-du-ska-valja-alicantes.jpg",
+    "alt": "Tre vägar upp – och vilken du ska välja i Alicante med människor och realistisk resemiljö",
+    "caption": "Tre vägar upp – och vilken du ska välja i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "santa-barbara-borgen",
+        "link": "https://alicantes.se/santa-barbara-borgen/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 217,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/transport-och-aktiviteter-nastan-gratis-alicantes.jpg",
+    "filename": "transport-och-aktiviteter-nastan-gratis-alicantes.jpg",
+    "alt": "Transport och aktiviteter – nästan gratis i Alicante med människor och realistisk resemiljö",
+    "caption": "Transport och aktiviteter – nästan gratis i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vad-kostar-alicante",
+        "link": "https://alicantes.se/vad-kostar-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 215,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/strander-alicante-playa-de-san-juan-alicantes.jpg",
+    "filename": "strander-alicante-playa-de-san-juan-alicantes.jpg",
+    "alt": "Playa de San Juan i Alicante med människor och realistisk resemiljö",
+    "caption": "Playa de San Juan i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-alicante",
+        "link": "https://alicantes.se/strander-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 213,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/praktiskt-for-tre-dagar-alicantes.jpg",
+    "filename": "praktiskt-for-tre-dagar-alicantes.jpg",
+    "alt": "Praktiskt för tre dagar i Alicante med människor och realistisk resemiljö",
+    "caption": "Praktiskt för tre dagar i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alicante-3-dagar",
+        "link": "https://alicantes.se/alicante-3-dagar/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 211,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/playa-del-postiguet-alicantes.jpg",
+    "filename": "playa-del-postiguet-alicantes.jpg",
+    "alt": "Playa del Postiguet i Alicante med människor och realistisk resemiljö",
+    "caption": "Playa del Postiguet i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "strander-alicante",
+        "link": "https://alicantes.se/strander-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 209,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/hotell-vid-playa-de-san-juan-for-badsemestern-alicantes.jpg",
+    "filename": "hotell-vid-playa-de-san-juan-for-badsemestern-alicantes.jpg",
+    "alt": "Hotell vid Playa de San Juan – för badsemestern i Alicante med människor och realistisk resemiljö",
+    "caption": "Hotell vid Playa de San Juan – för badsemestern i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hotell-alicante",
+        "link": "https://alicantes.se/hotell-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 207,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/hander-i-maj-alicantes.jpg",
+    "filename": "hander-i-maj-alicantes.jpg",
+    "alt": "Händer i maj i Alicante med människor och realistisk resemiljö",
+    "caption": "Händer i maj i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alicante-i-maj",
+        "link": "https://alicantes.se/alicante-i-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 205,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/gamla-stan-casco-antiguo-och-santa-cruz-alicantes.jpg",
+    "filename": "gamla-stan-casco-antiguo-och-santa-cruz-alicantes.jpg",
+    "alt": "Gamla stan – Casco Antiguo och Santa Cruz i Alicante med människor och realistisk resemiljö",
+    "caption": "Gamla stan – Casco Antiguo och Santa Cruz i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-alicante",
+        "link": "https://alicantes.se/sevardheter-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 203,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/flygplatsen-eller-stan-var-ska-du-hamta-bilen-alicantes.jpg",
+    "filename": "flygplatsen-eller-stan-var-ska-du-hamta-bilen-alicantes.jpg",
+    "alt": "Flygplatsen eller stan – var ska du hämta bilen? i Alicante med människor och realistisk resemiljö",
+    "caption": "Flygplatsen eller stan – var ska du hämta bilen? i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-alicante",
+        "link": "https://alicantes.se/hyrbil-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 201,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/flygplatsen-alc-snabbguide-alicantes.jpg",
+    "filename": "flygplatsen-alc-snabbguide-alicantes.jpg",
+    "alt": "Flygplatsen ALC – snabbguide i Alicante med människor och realistisk resemiljö",
+    "caption": "Flygplatsen ALC – snabbguide i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "flyg-till-alicante",
+        "link": "https://alicantes.se/flyg-till-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 199,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/en-dag-med-barn-justerad-rutt-alicantes.jpg",
+    "filename": "en-dag-med-barn-justerad-rutt-alicantes.jpg",
+    "alt": "En dag med barn – justerad rutt i Alicante med människor och realistisk resemiljö",
+    "caption": "En dag med barn – justerad rutt i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "alicante-1-dag",
+        "link": "https://alicantes.se/alicante-1-dag/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 197,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/elche-alicantes.jpg",
+    "filename": "elche-alicantes.jpg",
+    "alt": "Elche i Alicante med människor och realistisk resemiljö",
+    "caption": "Elche i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-alicante",
+        "link": "https://alicantes.se/dagsturer-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 195,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/chokladen-darfor-luktar-staden-kakao-alicantes.jpg",
+    "filename": "chokladen-darfor-luktar-staden-kakao-alicantes.jpg",
+    "alt": "Chokladen – därför luktar staden kakao i Alicante med människor och realistisk resemiljö",
+    "caption": "Chokladen – därför luktar staden kakao i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "villajoyosa",
+        "link": "https://alicantes.se/villajoyosa/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 193,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/centrum-och-explanada-alicantes.jpg",
+    "filename": "centrum-och-explanada-alicantes.jpg",
+    "alt": "Centrum och Explanada i Alicante med människor och realistisk resemiljö",
+    "caption": "Centrum och Explanada i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "bo-i-alicante",
+        "link": "https://alicantes.se/bo-i-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 191,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/castillo-de-santa-barbara-alicantes.jpg",
+    "filename": "castillo-de-santa-barbara-alicantes.jpg",
+    "alt": "Castillo de Santa Bárbara i Alicante med människor och realistisk resemiljö",
+    "caption": "Castillo de Santa Bárbara i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sevardheter-alicante",
+        "link": "https://alicantes.se/sevardheter-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 189,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/bo-vid-stranden-alicantes.jpg",
+    "filename": "bo-vid-stranden-alicantes.jpg",
+    "alt": "Bo vid stranden? i Alicante med människor och realistisk resemiljö",
+    "caption": "Bo vid stranden? i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "playa-de-san-juan",
+        "link": "https://alicantes.se/playa-de-san-juan/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
+    "id": 187,
+    "url": "https://alicantes.se/wp-content/uploads/2026/08/altea-och-calpe-alicantes.jpg",
+    "filename": "altea-och-calpe-alicantes.jpg",
+    "alt": "Altea och Calpe i Alicante med människor och realistisk resemiljö",
+    "caption": "Altea och Calpe i Alicante",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-11",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "dagsturer-alicante",
+        "link": "https://alicantes.se/dagsturer-alicante/"
+      }
+    ]
+  },
+  {
+    "domain": "alicantes",
     "id": 185,
     "url": "https://alicantes.se/wp-content/uploads/2026/08/vadret-i-alicante-i-september-alicantes.jpg",
     "filename": "vadret-i-alicante-i-september-alicantes.jpg",
@@ -44110,7 +44564,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -44128,7 +44582,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -44146,7 +44600,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -44164,7 +44618,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -44182,7 +44636,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -44200,7 +44654,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -44218,7 +44672,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -44236,7 +44690,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -44254,7 +44708,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -44272,7 +44726,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -44290,7 +44744,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -44308,7 +44762,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -44326,7 +44780,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "shopping-alicante",
@@ -44344,7 +44798,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "tabarca",
@@ -44362,7 +44816,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -44380,7 +44834,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -44398,7 +44852,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -44416,7 +44870,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -44434,7 +44888,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -44452,7 +44906,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -44470,7 +44924,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -44488,7 +44942,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -44506,7 +44960,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -44524,7 +44978,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -44542,7 +44996,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -44560,7 +45014,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -44578,7 +45032,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -44596,7 +45050,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guadalest-altea",
@@ -44614,7 +45068,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "transport-alicante",
@@ -44632,7 +45086,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "nattliv-alicante",
@@ -44650,7 +45104,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "elche",
@@ -44668,7 +45122,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -44686,7 +45140,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "hem",
@@ -44704,7 +45158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -44722,7 +45176,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": true,
+    "managed": false,
     "used_on": [
       {
         "slug": "guadalest-altea",

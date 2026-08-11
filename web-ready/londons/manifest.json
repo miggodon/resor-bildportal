@@ -6,7 +6,7 @@
   "items": [
     {
       "source": "bilder/inbox/cambridge-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\cambridge-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/cambridge-londons.jpg",
       "filename": "cambridge-londons.jpg",
       "brief_id": "londons:dagsturer-london:cambridge",
       "domain": "londons",
@@ -26,7 +26,7 @@
       "seo": "En realistisk resebild från Cambridge i London. Bilden visar Cambridge i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/cambridge-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\cambridge-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/cambridge-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/dagsturer-london/",
           "page_slug": "dagsturer-london",
@@ -42,13 +42,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/dag-1-klassikerna-langs-themsen-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\dag-1-klassikerna-langs-themsen-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/dag-1-klassikerna-langs-themsen-londons.jpg",
       "filename": "dag-1-klassikerna-langs-themsen-londons.jpg",
       "brief_id": "londons:london-3-dagar:dag-1-klassikerna-langs-themsen",
       "domain": "londons",
@@ -68,7 +68,7 @@
       "seo": "En realistisk resebild från Dag 1 – klassikerna längs Themsen i London. Bilden visar Dag 1 – klassikerna längs Themsen i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/dag-1-klassikerna-langs-themsen-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\dag-1-klassikerna-langs-themsen-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/dag-1-klassikerna-langs-themsen-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-3-dagar/",
           "page_slug": "london-3-dagar",
@@ -84,13 +84,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/formiddag-trafalgar-och-covent-garden-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\formiddag-trafalgar-och-covent-garden-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/formiddag-trafalgar-och-covent-garden-londons.jpg",
       "filename": "formiddag-trafalgar-och-covent-garden-londons.jpg",
       "brief_id": "londons:london-1-dag:formiddag-trafalgar-och-covent-garden",
       "domain": "londons",
@@ -110,7 +110,7 @@
       "seo": "En realistisk resebild från Förmiddag: Trafalgar och Covent Garden i London. Bilden visar Förmiddag: Trafalgar och Covent Garden i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/formiddag-trafalgar-och-covent-garden-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\formiddag-trafalgar-och-covent-garden-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/formiddag-trafalgar-och-covent-garden-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-1-dag/",
           "page_slug": "london-1-dag",
@@ -126,13 +126,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/imperial-war-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\imperial-war-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/imperial-war-museum-londons.jpg",
       "filename": "imperial-war-museum-londons.jpg",
       "brief_id": "londons:sevardheter-london:imperial-war-museum",
       "domain": "londons",
@@ -152,7 +152,7 @@
       "seo": "En realistisk resebild från Imperial War Museum i London. Bilden visar Imperial War Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/imperial-war-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\imperial-war-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/imperial-war-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/sevardheter-london/",
           "page_slug": "sevardheter-london",
@@ -168,13 +168,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/london-med-barn-british-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\london-med-barn-british-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/london-med-barn-british-museum-londons.jpg",
       "filename": "london-med-barn-british-museum-londons.jpg",
       "brief_id": "londons:london-med-barn:british-museum",
       "domain": "londons",
@@ -194,7 +194,7 @@
       "seo": "En realistisk resebild från British Museum i London. Bilden visar British Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/london-med-barn-british-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\london-med-barn-british-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/london-med-barn-british-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-med-barn/",
           "page_slug": "london-med-barn",
@@ -210,13 +210,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/museum-of-london-docklands-och-imperial-war-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
       "filename": "museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
       "brief_id": "londons:london-med-barn:museum-of-london-docklands-och-imperial-war-museum",
       "domain": "londons",
@@ -236,7 +236,7 @@
       "seo": "En realistisk resebild från Museum of London Docklands och Imperial War Museum i London. Bilden visar Museum of London Docklands och Imperial War Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/museum-of-london-docklands-och-imperial-war-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/museum-of-london-docklands-och-imperial-war-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-med-barn/",
           "page_slug": "london-med-barn",
@@ -252,13 +252,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/national-gallery-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\national-gallery-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/national-gallery-londons.jpg",
       "filename": "national-gallery-londons.jpg",
       "brief_id": "londons:sevardheter-london:national-gallery",
       "domain": "londons",
@@ -278,7 +278,7 @@
       "seo": "En realistisk resebild från National Gallery i London. Bilden visar National Gallery i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/national-gallery-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\national-gallery-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/national-gallery-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/sevardheter-london/",
           "page_slug": "sevardheter-london",
@@ -294,13 +294,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/natural-history-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\natural-history-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/natural-history-museum-londons.jpg",
       "filename": "natural-history-museum-londons.jpg",
       "brief_id": "londons:london-med-barn:natural-history-museum",
       "domain": "londons",
@@ -320,7 +320,7 @@
       "seo": "En realistisk resebild från Natural History Museum i London. Bilden visar Natural History Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/natural-history-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\natural-history-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/natural-history-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-med-barn/",
           "page_slug": "london-med-barn",
@@ -336,13 +336,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/science-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\science-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/science-museum-londons.jpg",
       "filename": "science-museum-londons.jpg",
       "brief_id": "londons:london-med-barn:science-museum",
       "domain": "londons",
@@ -362,7 +362,7 @@
       "seo": "En realistisk resebild från Science Museum i London. Bilden visar Science Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/science-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\science-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/science-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-med-barn/",
           "page_slug": "london-med-barn",
@@ -378,13 +378,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/sevardheter-london-british-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\sevardheter-london-british-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/sevardheter-london-british-museum-londons.jpg",
       "filename": "sevardheter-london-british-museum-londons.jpg",
       "brief_id": "londons:sevardheter-london:british-museum",
       "domain": "londons",
@@ -404,7 +404,7 @@
       "seo": "En realistisk resebild från British Museum i London. Bilden visar British Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/sevardheter-london-british-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\sevardheter-london-british-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/sevardheter-london-british-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/sevardheter-london/",
           "page_slug": "sevardheter-london",
@@ -420,13 +420,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/south-bank-och-waterloo-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\south-bank-och-waterloo-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/south-bank-och-waterloo-londons.jpg",
       "filename": "south-bank-och-waterloo-londons.jpg",
       "brief_id": "londons:bo-i-london:south-bank-och-waterloo",
       "domain": "londons",
@@ -446,7 +446,7 @@
       "seo": "En realistisk resebild från South Bank och Waterloo i London. Bilden visar South Bank och Waterloo i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/south-bank-och-waterloo-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\south-bank-och-waterloo-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/south-bank-och-waterloo-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/bo-i-london/",
           "page_slug": "bo-i-london",
@@ -462,13 +462,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/stonehenge-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\stonehenge-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/stonehenge-londons.jpg",
       "filename": "stonehenge-londons.jpg",
       "brief_id": "londons:dagsturer-london:stonehenge",
       "domain": "londons",
@@ -488,7 +488,7 @@
       "seo": "En realistisk resebild från Stonehenge i London. Bilden visar Stonehenge i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/stonehenge-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\stonehenge-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/stonehenge-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/dagsturer-london/",
           "page_slug": "dagsturer-london",
@@ -504,13 +504,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/tate-modern-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\tate-modern-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/tate-modern-londons.jpg",
       "filename": "tate-modern-londons.jpg",
       "brief_id": "londons:sevardheter-london:tate-modern",
       "domain": "londons",
@@ -530,7 +530,7 @@
       "seo": "En realistisk resebild från Tate Modern i London. Bilden visar Tate Modern i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/tate-modern-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\tate-modern-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/tate-modern-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/sevardheter-london/",
           "page_slug": "sevardheter-london",
@@ -546,13 +546,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/victoria-and-albert-museum-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\victoria-and-albert-museum-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/victoria-and-albert-museum-londons.jpg",
       "filename": "victoria-and-albert-museum-londons.jpg",
       "brief_id": "londons:sevardheter-london:victoria-and-albert-museum",
       "domain": "londons",
@@ -572,7 +572,7 @@
       "seo": "En realistisk resebild från Victoria and Albert Museum i London. Bilden visar Victoria and Albert Museum i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/victoria-and-albert-museum-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\victoria-and-albert-museum-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/victoria-and-albert-museum-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/sevardheter-london/",
           "page_slug": "sevardheter-london",
@@ -588,13 +588,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/warner-bros-studio-tour-harry-potter-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\warner-bros-studio-tour-harry-potter-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/warner-bros-studio-tour-harry-potter-londons.jpg",
       "filename": "warner-bros-studio-tour-harry-potter-londons.jpg",
       "brief_id": "londons:london-med-barn:warner-bros-studio-tour-harry-potter",
       "domain": "londons",
@@ -614,7 +614,7 @@
       "seo": "En realistisk resebild från Warner Bros. Studio Tour – Harry Potter i London. Bilden visar Warner Bros. Studio Tour – Harry Potter i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/warner-bros-studio-tour-harry-potter-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\warner-bros-studio-tour-harry-potter-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/warner-bros-studio-tour-harry-potter-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/london-med-barn/",
           "page_slug": "london-med-barn",
@@ -630,13 +630,13 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     },
     {
       "source": "bilder/inbox/windsor-londons.png",
-      "file": "bilder\\web-ready\\londons\\redo\\windsor-londons.jpg",
+      "file": "bilder/web-ready/londons/redo/windsor-londons.jpg",
       "filename": "windsor-londons.jpg",
       "brief_id": "londons:dagsturer-london:windsor",
       "domain": "londons",
@@ -656,7 +656,7 @@
       "seo": "En realistisk resebild från Windsor i London. Bilden visar Windsor i London under relevant resesäsong med naturligt folkliv och tydliga platsdetaljer som gör reseguideavsnittet mer visuellt trovärdigt.",
       "handoff": {
         "preferred_source_download": "bilder/inbox/windsor-londons.png",
-        "web_ready_file": "bilder\\web-ready\\londons\\redo\\windsor-londons.jpg",
+        "web_ready_file": "bilder/web-ready/londons/redo/windsor-londons.jpg",
         "wordpress_target": {
           "page_url": "https://londons.se/dagsturer-london/",
           "page_slug": "dagsturer-london",
@@ -672,7 +672,7 @@
         "publishing_status": "ready_in_redo",
         "metadata_applied": true,
         "metadata_source": "manifest.json",
-        "ready_folder": "bilder\\web-ready\\londons\\redo"
+        "ready_folder": "bilder/web-ready/londons/redo"
       },
       "inspection": "EXIF/GPS/SEO metadata applied; ready in redo/"
     }
