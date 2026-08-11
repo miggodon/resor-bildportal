@@ -8619,7 +8619,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8662,7 +8662,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8705,7 +8705,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8748,7 +8748,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8791,7 +8791,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8834,7 +8834,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8877,7 +8877,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8920,7 +8920,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8963,7 +8963,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9006,7 +9006,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9049,7 +9049,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9063,7 +9063,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9090,7 +9090,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9104,7 +9104,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9133,7 +9133,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9176,7 +9176,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9219,7 +9219,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9233,7 +9233,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -9262,7 +9262,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9276,7 +9276,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9303,7 +9303,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9317,7 +9317,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9344,7 +9344,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9388,7 +9388,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9402,7 +9402,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9431,7 +9431,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9445,7 +9445,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -9472,7 +9472,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9486,7 +9486,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -9513,7 +9513,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9527,7 +9527,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 84,
     "flags": [
@@ -9558,7 +9558,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9572,7 +9572,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 84,
     "flags": [
@@ -9601,7 +9601,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9615,7 +9615,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9644,7 +9644,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9658,7 +9658,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9685,7 +9685,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9699,7 +9699,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9726,7 +9726,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9740,7 +9740,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9769,7 +9769,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9813,7 +9813,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9857,7 +9857,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9871,7 +9871,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 90,
     "flags": [
@@ -9900,7 +9900,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9914,7 +9914,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9941,7 +9941,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9984,7 +9984,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10028,7 +10028,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10071,7 +10071,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10114,7 +10114,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 2,
@@ -10128,7 +10128,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10155,7 +10155,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10169,7 +10169,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10196,7 +10196,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10210,7 +10210,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10238,7 +10238,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -10252,7 +10252,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10279,7 +10279,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10293,7 +10293,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10320,7 +10320,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10363,7 +10363,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10377,7 +10377,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10404,7 +10404,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10418,7 +10418,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10445,7 +10445,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10459,7 +10459,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10486,7 +10486,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10500,7 +10500,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10527,7 +10527,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10570,7 +10570,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10615,7 +10615,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10629,7 +10629,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10656,7 +10656,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10670,7 +10670,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10697,7 +10697,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10711,7 +10711,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10738,7 +10738,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10752,7 +10752,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10779,7 +10779,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10793,7 +10793,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10820,7 +10820,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10834,7 +10834,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10862,7 +10862,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10876,7 +10876,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10903,7 +10903,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10917,7 +10917,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10944,7 +10944,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10958,7 +10958,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10985,7 +10985,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 4,
@@ -11030,7 +11030,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11044,7 +11044,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -11071,7 +11071,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11116,7 +11116,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11130,7 +11130,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11157,7 +11157,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11171,7 +11171,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11198,7 +11198,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11212,7 +11212,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11239,7 +11239,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11284,7 +11284,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11298,7 +11298,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -11325,7 +11325,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11339,7 +11339,7 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -11366,7 +11366,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11380,7 +11380,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11407,7 +11407,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11421,7 +11421,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11449,7 +11449,7 @@
       "Aktiviteter (GYG)",
       "Reseprodukter"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -11463,7 +11463,7 @@
     "money_total": 9,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11490,7 +11490,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 2,
@@ -11504,7 +11504,7 @@
     "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11533,7 +11533,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 9,
@@ -11576,7 +11576,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -11621,7 +11621,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -11669,7 +11669,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 4,
@@ -44065,6 +44065,1655 @@
       "gyg": 0
     },
     "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 82,
+    "slug": "cookiepolicy",
+    "title": "Cookiepolicy",
+    "link": "https://mallorcas.se/cookiepolicy/",
+    "modified": "2026-08-10",
+    "words": 213,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 0,
+    "external": 0,
+    "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 38,
+    "flags": [
+      "tunt content",
+      "omonetiserad",
+      "få internlänkar",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Rå",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 43,
+    "slug": "om-elin-sandberg",
+    "title": "Om Elin Sandberg – redaktör för Mallorcas.se",
+    "link": "https://mallorcas.se/om-elin-sandberg/",
+    "modified": "2026-08-10",
+    "words": 700,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 6,
+    "external": 0,
+    "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 69,
+    "flags": [
+      "omonetiserad",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 42,
+    "slug": "omraden",
+    "title": "Mallorcas områden – alla orter jämförda 2026",
+    "link": "https://mallorcas.se/omraden/",
+    "modified": "2026-08-10",
+    "words": 763,
+    "h2": 5,
+    "h3": 6,
+    "images": 0,
+    "internal": 17,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 41,
+    "slug": "vandring-mallorca",
+    "title": "Vandring på Mallorca – leder, GR 221 och bästa säsongen 2026",
+    "link": "https://mallorcas.se/vandring-mallorca/",
+    "modified": "2026-08-10",
+    "words": 840,
+    "h2": 6,
+    "h3": 3,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Säsong/väder",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 40,
+    "slug": "cykling-mallorca",
+    "title": "Cykling på Mallorca – guide till träningslägret 2026",
+    "link": "https://mallorcas.se/cykling-mallorca/",
+    "modified": "2026-08-10",
+    "words": 745,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 39,
+    "slug": "dagsutflykter-mallorca",
+    "title": "Dagsutflykter på Mallorca – sju färdiga rundor 2026",
+    "link": "https://mallorcas.se/dagsutflykter-mallorca/",
+    "modified": "2026-08-10",
+    "words": 857,
+    "h2": 9,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 38,
+    "slug": "palma-sevardheter",
+    "title": "Sevärdheter i Palma – vad du ska se och i vilken ordning 2026",
+    "link": "https://mallorcas.se/palma-sevardheter/",
+    "modified": "2026-08-10",
+    "words": 835,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 37,
+    "slug": "serra-de-tramuntana",
+    "title": "Serra de Tramuntana – guide till Mallorcas berg 2026",
+    "link": "https://mallorcas.se/serra-de-tramuntana/",
+    "modified": "2026-08-10",
+    "words": 745,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 36,
+    "slug": "strander-mallorca",
+    "title": "Mallorcas bästa stränder 2026 – med barn, utan folk och de vackraste",
+    "link": "https://mallorcas.se/strander-mallorca/",
+    "modified": "2026-08-10",
+    "words": 822,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 35,
+    "slug": "saker-att-gora-mallorca",
+    "title": "Saker att göra på Mallorca – 20 upplevelser värda tiden 2026",
+    "link": "https://mallorcas.se/saker-att-gora-mallorca/",
+    "modified": "2026-08-10",
+    "words": 872,
+    "h2": 7,
+    "h3": 5,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 34,
+    "slug": "packa-till-mallorca",
+    "title": "Packlista Mallorca – vad du behöver ta med 2026",
+    "link": "https://mallorcas.se/packa-till-mallorca/",
+    "modified": "2026-08-10",
+    "words": 827,
+    "h2": 5,
+    "h3": 4,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 33,
+    "slug": "budget-mallorca",
+    "title": "Vad kostar en vecka på Mallorca? Budget 2026",
+    "link": "https://mallorcas.se/budget-mallorca/",
+    "modified": "2026-08-10",
+    "words": 925,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 32,
+    "slug": "buss-och-tag-mallorca",
+    "title": "Buss och tåg på Mallorca – ta dig runt utan bil 2026",
+    "link": "https://mallorcas.se/buss-och-tag-mallorca/",
+    "modified": "2026-08-10",
+    "words": 872,
+    "h2": 5,
+    "h3": 2,
+    "images": 0,
+    "internal": 22,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 31,
+    "slug": "palma-flygplats-transfer",
+    "title": "Palma flygplats – transfer till hotellet 2026",
+    "link": "https://mallorcas.se/palma-flygplats-transfer/",
+    "modified": "2026-08-10",
+    "words": 863,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 16,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 30,
+    "slug": "flyg-till-mallorca",
+    "title": "Flyg till Mallorca från Sverige 2026 – bolag, priser och restid",
+    "link": "https://mallorcas.se/flyg-till-mallorca/",
+    "modified": "2026-08-10",
+    "words": 840,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 29,
+    "slug": "vader-mallorca",
+    "title": "Väder på Mallorca – temperatur, bad och regn månad för månad",
+    "link": "https://mallorcas.se/vader-mallorca/",
+    "modified": "2026-08-10",
+    "words": 899,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 28,
+    "slug": "basta-tiden-mallorca",
+    "title": "Bästa tiden att åka till Mallorca – månad för månad 2026",
+    "link": "https://mallorcas.se/basta-tiden-mallorca/",
+    "modified": "2026-08-10",
+    "words": 869,
+    "h2": 5,
+    "h3": 4,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 27,
+    "slug": "hyrbil-mallorca",
+    "title": "Hyrbil på Mallorca 2026 – priser, villkor och fallgropar",
+    "link": "https://mallorcas.se/hyrbil-mallorca/",
+    "modified": "2026-08-10",
+    "words": 820,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 26,
+    "slug": "turistskatt-mallorca",
+    "title": "Turistskatt på Mallorca 2026 – tabell, undantag och räkneexempel",
+    "link": "https://mallorcas.se/turistskatt-mallorca/",
+    "modified": "2026-08-10",
+    "words": 972,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 25,
+    "slug": "resa-till-mallorca",
+    "title": "Resa till Mallorca 2026 – flyg, transfer, kostnader och praktiskt",
+    "link": "https://mallorcas.se/resa-till-mallorca/",
+    "modified": "2026-08-10",
+    "words": 814,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 15,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 24,
+    "slug": "deia-och-valldemossa",
+    "title": "Deià och Valldemossa – guide till bergsbyarna 2026",
+    "link": "https://mallorcas.se/deia-och-valldemossa/",
+    "modified": "2026-08-10",
+    "words": 814,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 23,
+    "slug": "magaluf",
+    "title": "Magaluf – guide 2026",
+    "link": "https://mallorcas.se/magaluf/",
+    "modified": "2026-08-10",
+    "words": 768,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 22,
+    "slug": "playa-de-palma",
+    "title": "Playa de Palma och Can Pastilla – guide 2026",
+    "link": "https://mallorcas.se/playa-de-palma/",
+    "modified": "2026-08-10",
+    "words": 755,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 21,
+    "slug": "santa-ponsa",
+    "title": "Santa Ponsa – guide 2026",
+    "link": "https://mallorcas.se/santa-ponsa/",
+    "modified": "2026-08-10",
+    "words": 853,
+    "h2": 6,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 20,
+    "slug": "cala-millor",
+    "title": "Cala Millor – guide 2026",
+    "link": "https://mallorcas.se/cala-millor/",
+    "modified": "2026-08-10",
+    "words": 844,
+    "h2": 6,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 19,
+    "slug": "cala-dor",
+    "title": "Cala d&#8217;Or – guide 2026",
+    "link": "https://mallorcas.se/cala-dor/",
+    "modified": "2026-08-10",
+    "words": 761,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 18,
+    "slug": "port-de-soller",
+    "title": "Port de Sóller – guide 2026",
+    "link": "https://mallorcas.se/port-de-soller/",
+    "modified": "2026-08-10",
+    "words": 825,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 17,
+    "slug": "palma",
+    "title": "Palma de Mallorca – guide till staden 2026",
+    "link": "https://mallorcas.se/palma/",
+    "modified": "2026-08-10",
+    "words": 842,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 16,
+    "slug": "pollenca",
+    "title": "Pollença och Port de Pollença – guide 2026",
+    "link": "https://mallorcas.se/pollenca/",
+    "modified": "2026-08-10",
+    "words": 796,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 15,
+    "slug": "alcudia",
+    "title": "Alcúdia och Playa de Muro – guide 2026",
+    "link": "https://mallorcas.se/alcudia/",
+    "modified": "2026-08-10",
+    "words": 840,
+    "h2": 5,
+    "h3": 1,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 14,
+    "slug": "all-inclusive-mallorca",
+    "title": "All inclusive på Mallorca – lönar det sig? Guide 2026",
+    "link": "https://mallorcas.se/all-inclusive-mallorca/",
+    "modified": "2026-08-10",
+    "words": 902,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 14,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 13,
+    "slug": "boende-mallorca-med-barn",
+    "title": "Boende på Mallorca med barn – bästa områdena och hotellen 2026",
+    "link": "https://mallorcas.se/boende-mallorca-med-barn/",
+    "modified": "2026-08-10",
+    "words": 823,
+    "h2": 6,
+    "h3": 4,
+    "images": 0,
+    "internal": 15,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Hotell",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 12,
+    "slug": "semesterhus-mallorca-pool",
+    "title": "Semesterhus på Mallorca med pool – priser och tips 2026",
+    "link": "https://mallorcas.se/semesterhus-mallorca-pool/",
+    "modified": "2026-08-10",
+    "words": 788,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 10,
+    "slug": "finca-mallorca",
+    "title": "Finca på Mallorca – hyra lantställe med pool 2026",
+    "link": "https://mallorcas.se/finca-mallorca/",
+    "modified": "2026-08-10",
+    "words": 787,
+    "h2": 5,
+    "h3": 4,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 9,
+    "slug": "hyra-villa-mallorca",
+    "title": "Hyra villa på Mallorca 2026 – guide, priser och fallgropar",
+    "link": "https://mallorcas.se/hyra-villa-mallorca/",
+    "modified": "2026-08-10",
+    "words": 833,
+    "h2": 6,
+    "h3": 3,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 8,
+    "slug": "lagligt-boende-mallorca",
+    "title": "Så ser du att semesterboendet på Mallorca är lagligt uthyrt",
+    "link": "https://mallorcas.se/lagligt-boende-mallorca/",
+    "modified": "2026-08-10",
+    "words": 877,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ förbjudet: Airbnb, Booking",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 7,
+    "slug": "boende-mallorca",
+    "title": "Var ska man bo på Mallorca? Områdesguide 2026",
+    "link": "https://mallorcas.se/boende-mallorca/",
+    "modified": "2026-08-10",
+    "words": 1439,
+    "h2": 7,
+    "h3": 10,
+    "images": 0,
+    "internal": 20,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Hotell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "mallorcas",
+    "id": 6,
+    "slug": "hem",
+    "title": "Mallorca – svensk reseguide 2026",
+    "link": "https://mallorcas.se/",
+    "modified": "2026-08-10",
+    "words": 1255,
+    "h2": 7,
+    "h3": 6,
+    "images": 0,
+    "internal": 23,
+    "external": 0,
+    "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",

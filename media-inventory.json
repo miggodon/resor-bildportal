@@ -45689,5 +45689,31 @@
     "date": "2026-08-10",
     "managed": false,
     "used_on": []
+  },
+  {
+    "domain": "mallorcas",
+    "id": 84,
+    "url": "https://mallorcas.se/wp-content/uploads/2026/08/mallorcas-favicon.png",
+    "filename": "mallorcas-favicon.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "mallorcas",
+    "id": 83,
+    "url": "https://mallorcas.se/wp-content/uploads/2026/08/mallorcas-logo.png",
+    "filename": "mallorcas-logo.png",
+    "alt": "",
+    "caption": "",
+    "w": 1180,
+    "h": 300,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
   }
 ]
