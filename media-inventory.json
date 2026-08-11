@@ -34187,6 +34187,1459 @@
     "used_on": []
   },
   {
+    "domain": "florida",
+    "id": 650,
+    "url": "https://florida.se/wp-content/uploads/2026/08/walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "filename": "walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "alt": "Walt Disney World (nr 1, 7, 9, 13) i Florida med människor och realistisk resemiljö",
+    "caption": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 649,
+    "url": "https://florida.se/wp-content/uploads/2026/08/sport-inter-miami-och-miami-heat-florida.jpg",
+    "filename": "sport-inter-miami-och-miami-heat-florida.jpg",
+    "alt": "Sport — Inter Miami och Miami Heat i Florida med människor och realistisk resemiljö",
+    "caption": "Sport — Inter Miami och Miami Heat i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 648,
+    "url": "https://florida.se/wp-content/uploads/2026/08/south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "filename": "south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "alt": "South Beach (SoBe) — strand och Art Deco i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach (SoBe) — strand och Art Deco i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 647,
+    "url": "https://florida.se/wp-content/uploads/2026/08/south-beach-art-deco-och-atlanten-florida.jpg",
+    "filename": "south-beach-art-deco-och-atlanten-florida.jpg",
+    "alt": "South Beach — Art Deco och Atlanten i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach — Art Deco och Atlanten i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 646,
+    "url": "https://florida.se/wp-content/uploads/2026/08/miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "filename": "miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "alt": "Miami Beach (norra delen) och Bal Harbour i Florida med människor och realistisk resemiljö",
+    "caption": "Miami Beach (norra delen) och Bal Harbour i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 645,
+    "url": "https://florida.se/wp-content/uploads/2026/08/mia-miami-international-florida.jpg",
+    "filename": "mia-miami-international-florida.jpg",
+    "alt": "MIA — Miami International i Florida med människor och realistisk resemiljö",
+    "caption": "MIA — Miami International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 644,
+    "url": "https://florida.se/wp-content/uploads/2026/08/mco-orlando-international-florida.jpg",
+    "filename": "mco-orlando-international-florida.jpg",
+    "alt": "MCO — Orlando International i Florida med människor och realistisk resemiljö",
+    "caption": "MCO — Orlando International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 643,
+    "url": "https://florida.se/wp-content/uploads/2026/08/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "filename": "little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "alt": "Little Havana — kubansk själ på Calle Ocho i Florida med människor och realistisk resemiljö",
+    "caption": "Little Havana — kubansk själ på Calle Ocho i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 642,
+    "url": "https://florida.se/wp-content/uploads/2026/08/klassiska-florida-rutter-florida.jpg",
+    "filename": "klassiska-florida-rutter-florida.jpg",
+    "alt": "Klassiska Florida-rutter i Florida med människor och realistisk resemiljö",
+    "caption": "Klassiska Florida-rutter i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 641,
+    "url": "https://florida.se/wp-content/uploads/2026/08/key-west-ons-huvudstad-florida.jpg",
+    "filename": "key-west-ons-huvudstad-florida.jpg",
+    "alt": "Key West — öns huvudstad i Florida med människor och realistisk resemiljö",
+    "caption": "Key West — öns huvudstad i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 640,
+    "url": "https://florida.se/wp-content/uploads/2026/08/key-largo-dykning-och-nationalpark-florida.jpg",
+    "filename": "key-largo-dykning-och-nationalpark-florida.jpg",
+    "alt": "Key Largo — dykning och nationalpark i Florida med människor och realistisk resemiljö",
+    "caption": "Key Largo — dykning och nationalpark i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 639,
+    "url": "https://florida.se/wp-content/uploads/2026/08/islamorada-och-marathon-mellankeys-florida.jpg",
+    "filename": "islamorada-och-marathon-mellankeys-florida.jpg",
+    "alt": "Islamorada och Marathon — mellankeys i Florida med människor och realistisk resemiljö",
+    "caption": "Islamorada och Marathon — mellankeys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 638,
+    "url": "https://florida.se/wp-content/uploads/2026/08/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "filename": "international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "alt": "International Drive och Kissimmee — hotell utanför parken i Florida med människor och realistisk resemiljö",
+    "caption": "International Drive och Kissimmee — hotell utanför parken i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 637,
+    "url": "https://florida.se/wp-content/uploads/2026/08/everglades-dagsutflykt-fran-miami-florida.jpg",
+    "filename": "everglades-dagsutflykt-fran-miami-florida.jpg",
+    "alt": "Everglades — dagsutflykt från Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Everglades — dagsutflykt från Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 636,
+    "url": "https://florida.se/wp-content/uploads/2026/08/disney-resorts-pa-parkomradet-florida.jpg",
+    "filename": "disney-resorts-pa-parkomradet-florida.jpg",
+    "alt": "Disney-resorts på parkområdet i Florida med människor och realistisk resemiljö",
+    "caption": "Disney-resorts på parkområdet i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 635,
+    "url": "https://florida.se/wp-content/uploads/2026/08/brickell-skyline-och-vuxen-miami-florida.jpg",
+    "filename": "brickell-skyline-och-vuxen-miami-florida.jpg",
+    "alt": "Brickell — skyline och vuxen Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell — skyline och vuxen Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 634,
+    "url": "https://florida.se/wp-content/uploads/2026/08/brickell-och-downtown-business-och-skyline-florida.jpg",
+    "filename": "brickell-och-downtown-business-och-skyline-florida.jpg",
+    "alt": "Brickell och Downtown — business och skyline i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell och Downtown — business och skyline i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 633,
+    "url": "https://florida.se/wp-content/uploads/2026/08/7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "filename": "7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "alt": "7 dagar — strand & natur (utan temaparker) i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — strand &#038; natur (utan temaparker) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 632,
+    "url": "https://florida.se/wp-content/uploads/2026/08/7-dagar-orlando-fokus-florida.jpg",
+    "filename": "7-dagar-orlando-fokus-florida.jpg",
+    "alt": "7 dagar — Orlando-fokus i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — Orlando-fokus i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 631,
+    "url": "https://florida.se/wp-content/uploads/2026/08/10-dagar-orlando-miami-keys-florida.jpg",
+    "filename": "10-dagar-orlando-miami-keys-florida.jpg",
+    "alt": "10 dagar — Orlando + Miami/Keys i Florida med människor och realistisk resemiljö",
+    "caption": "10 dagar — Orlando + Miami/Keys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 629,
+    "url": "https://florida.se/wp-content/uploads/2026/08/ybor-city-cigarrer-historia-och-nattliv-florida.jpg",
+    "filename": "ybor-city-cigarrer-historia-och-nattliv-florida.jpg",
+    "alt": "Ybor City — cigarrer, historia och nattliv i Florida med människor och realistisk resemiljö",
+    "caption": "Ybor City — cigarrer, historia och nattliv i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "tampa",
+        "link": "https://florida.se/tampa/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 627,
+    "url": "https://florida.se/wp-content/uploads/2026/08/wynwood-street-art-och-kreativ-energi-florida.jpg",
+    "filename": "wynwood-street-art-och-kreativ-energi-florida.jpg",
+    "alt": "Wynwood — street art och kreativ energi i Florida med människor och realistisk resemiljö",
+    "caption": "Wynwood — street art och kreativ energi i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 625,
+    "url": "https://florida.se/wp-content/uploads/2026/08/wynwood-gatumalningar-och-gallerier-florida.jpg",
+    "filename": "wynwood-gatumalningar-och-gallerier-florida.jpg",
+    "alt": "Wynwood — gatumålningar och gallerier i Florida med människor och realistisk resemiljö",
+    "caption": "Wynwood — gatumålningar och gallerier i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kultur-florida",
+        "link": "https://florida.se/kultur-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 623,
+    "url": "https://florida.se/wp-content/uploads/2026/08/winter-park-orlandos-charmiga-sida-florida.jpg",
+    "filename": "winter-park-orlandos-charmiga-sida-florida.jpg",
+    "alt": "Winter Park — Orlandos charmiga sida i Florida med människor och realistisk resemiljö",
+    "caption": "Winter Park — Orlandos charmiga sida i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 621,
+    "url": "https://florida.se/wp-content/uploads/2026/08/walt-disney-world-varfor-det-dominerar-orlando-florida.jpg",
+    "filename": "walt-disney-world-varfor-det-dominerar-orlando-florida.jpg",
+    "alt": "Walt Disney World — varför det dominerar Orlando i Florida med människor och realistisk resemiljö",
+    "caption": "Walt Disney World — varför det dominerar Orlando i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 619,
+    "url": "https://florida.se/wp-content/uploads/2026/08/vem-passar-florida-for-florida.jpg",
+    "filename": "vem-passar-florida-for-florida.jpg",
+    "alt": "Vem passar Florida för? i Florida med människor och realistisk resemiljö",
+    "caption": "Vem passar Florida för? i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 617,
+    "url": "https://florida.se/wp-content/uploads/2026/08/valj-region-12-destinationer-pa-en-karta-florida.jpg",
+    "filename": "valj-region-12-destinationer-pa-en-karta-florida.jpg",
+    "alt": "Välj region — 12 destinationer på en karta i Florida med människor och realistisk resemiljö",
+    "caption": "Välj region — 12 destinationer på en karta i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 615,
+    "url": "https://florida.se/wp-content/uploads/2026/08/universal-orlando-resort-florida.jpg",
+    "filename": "universal-orlando-resort-florida.jpg",
+    "alt": "Universal Orlando Resort i Florida med människor och realistisk resemiljö",
+    "caption": "Universal Orlando Resort i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 613,
+    "url": "https://florida.se/wp-content/uploads/2026/08/universal-orlando-nr-2-florida.jpg",
+    "filename": "universal-orlando-nr-2-florida.jpg",
+    "alt": "Universal Orlando (nr 2) i Florida med människor och realistisk resemiljö",
+    "caption": "Universal Orlando (nr 2) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 611,
+    "url": "https://florida.se/wp-content/uploads/2026/08/temaparker-toppupplevelser-florida.jpg",
+    "filename": "temaparker-toppupplevelser-florida.jpg",
+    "alt": "Temaparker & toppupplevelser i Florida med människor och realistisk resemiljö",
+    "caption": "Temaparker &#038; toppupplevelser i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "guider",
+        "link": "https://florida.se/guider/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 609,
+    "url": "https://florida.se/wp-content/uploads/2026/08/sport-orlando-magic-och-mer-florida.jpg",
+    "filename": "sport-orlando-magic-och-mer-florida.jpg",
+    "alt": "Sport — Orlando Magic och mer i Florida med människor och realistisk resemiljö",
+    "caption": "Sport — Orlando Magic och mer i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 607,
+    "url": "https://florida.se/wp-content/uploads/2026/08/sevardheter-i-fort-lauderdale-florida.jpg",
+    "filename": "sevardheter-i-fort-lauderdale-florida.jpg",
+    "alt": "Sevärdheter i Fort Lauderdale i Florida med människor och realistisk resemiljö",
+    "caption": "Sevärdheter i Fort Lauderdale i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "fort-lauderdale",
+        "link": "https://florida.se/fort-lauderdale/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 605,
+    "url": "https://florida.se/wp-content/uploads/2026/08/september-florida.jpg",
+    "filename": "september-florida.jpg",
+    "alt": "September i Florida med människor och realistisk resemiljö",
+    "caption": "September i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 603,
+    "url": "https://florida.se/wp-content/uploads/2026/08/restauranger-i-orlando-mer-an-snabbmat-florida.jpg",
+    "filename": "restauranger-i-orlando-mer-an-snabbmat-florida.jpg",
+    "alt": "Restauranger i Orlando — mer än snabbmat i Florida med människor och realistisk resemiljö",
+    "caption": "Restauranger i Orlando — mer än snabbmat i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 601,
+    "url": "https://florida.se/wp-content/uploads/2026/08/oktober-florida.jpg",
+    "filename": "oktober-florida.jpg",
+    "alt": "Oktober i Florida med människor och realistisk resemiljö",
+    "caption": "Oktober i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 599,
+    "url": "https://florida.se/wp-content/uploads/2026/08/november-florida.jpg",
+    "filename": "november-florida.jpg",
+    "alt": "November i Florida med människor och realistisk resemiljö",
+    "caption": "November i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 597,
+    "url": "https://florida.se/wp-content/uploads/2026/08/mat-i-miami-kubanskt-till-stjarnkrog-florida.jpg",
+    "filename": "mat-i-miami-kubanskt-till-stjarnkrog-florida.jpg",
+    "alt": "Mat i Miami — kubanskt till stjärnkrog i Florida med människor och realistisk resemiljö",
+    "caption": "Mat i Miami — kubanskt till stjärnkrog i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 595,
+    "url": "https://florida.se/wp-content/uploads/2026/08/mars-florida.jpg",
+    "filename": "mars-florida.jpg",
+    "alt": "Mars i Florida med människor och realistisk resemiljö",
+    "caption": "Mars i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 593,
+    "url": "https://florida.se/wp-content/uploads/2026/08/maj-florida.jpg",
+    "filename": "maj-florida.jpg",
+    "alt": "Maj i Florida med människor och realistisk resemiljö",
+    "caption": "Maj i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 591,
+    "url": "https://florida.se/wp-content/uploads/2026/08/little-havana-kubansk-kultur-pa-calle-ocho-florida.jpg",
+    "filename": "little-havana-kubansk-kultur-pa-calle-ocho-florida.jpg",
+    "alt": "Little Havana — kubansk kultur på Calle Ocho i Florida med människor och realistisk resemiljö",
+    "caption": "Little Havana — kubansk kultur på Calle Ocho i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kultur-florida",
+        "link": "https://florida.se/kultur-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 589,
+    "url": "https://florida.se/wp-content/uploads/2026/08/key-west-vad-du-inte-ska-missa-florida.jpg",
+    "filename": "key-west-vad-du-inte-ska-missa-florida.jpg",
+    "alt": "Key West — vad du inte ska missa i Florida med människor och realistisk resemiljö",
+    "caption": "Key West — vad du inte ska missa i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "florida-keys",
+        "link": "https://florida.se/florida-keys/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 587,
+    "url": "https://florida.se/wp-content/uploads/2026/08/juniaugusti-florida.jpg",
+    "filename": "juniaugusti-florida.jpg",
+    "alt": "Juni–augusti i Florida med människor och realistisk resemiljö",
+    "caption": "Juni–augusti i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 585,
+    "url": "https://florida.se/wp-content/uploads/2026/08/januari-florida.jpg",
+    "filename": "januari-florida.jpg",
+    "alt": "Januari i Florida med människor och realistisk resemiljö",
+    "caption": "Januari i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 583,
+    "url": "https://florida.se/wp-content/uploads/2026/08/international-drive-orlandos-turistkorridor-florida.jpg",
+    "filename": "international-drive-orlandos-turistkorridor-florida.jpg",
+    "alt": "International Drive — Orlandos turistkorridor i Florida med människor och realistisk resemiljö",
+    "caption": "International Drive — Orlandos turistkorridor i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "orlando",
+        "link": "https://florida.se/orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 581,
+    "url": "https://florida.se/wp-content/uploads/2026/08/guider-planering-florida.jpg",
+    "filename": "guider-planering-florida.jpg",
+    "alt": "Guider & planering i Florida med människor och realistisk resemiljö",
+    "caption": "Guider &#038; planering i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 579,
+    "url": "https://florida.se/wp-content/uploads/2026/08/februari-florida.jpg",
+    "filename": "februari-florida.jpg",
+    "alt": "Februari i Florida med människor och realistisk resemiljö",
+    "caption": "Februari i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 577,
+    "url": "https://florida.se/wp-content/uploads/2026/08/design-district-och-coconut-grove-florida.jpg",
+    "filename": "design-district-och-coconut-grove-florida.jpg",
+    "alt": "Design District och Coconut Grove i Florida med människor och realistisk resemiljö",
+    "caption": "Design District och Coconut Grove i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 575,
+    "url": "https://florida.se/wp-content/uploads/2026/08/december-florida.jpg",
+    "filename": "december-florida.jpg",
+    "alt": "December i Florida med människor och realistisk resemiljö",
+    "caption": "December i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 573,
+    "url": "https://florida.se/wp-content/uploads/2026/08/college-football-gators-seminoles-hurricanes-florida.jpg",
+    "filename": "college-football-gators-seminoles-hurricanes-florida.jpg",
+    "alt": "College football — Gators, Seminoles & Hurricanes i Florida med människor och realistisk resemiljö",
+    "caption": "College football — Gators, Seminoles &#038; Hurricanes i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "sport-florida",
+        "link": "https://florida.se/sport-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 571,
+    "url": "https://florida.se/wp-content/uploads/2026/08/clearwater-beach-vit-sand-och-solnedgang-florida.jpg",
+    "filename": "clearwater-beach-vit-sand-och-solnedgang-florida.jpg",
+    "alt": "Clearwater Beach — vit sand och solnedgång i Florida med människor och realistisk resemiljö",
+    "caption": "Clearwater Beach — vit sand och solnedgång i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "tampa",
+        "link": "https://florida.se/tampa/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 569,
+    "url": "https://florida.se/wp-content/uploads/2026/08/busch-gardens-tampa-bay-florida.jpg",
+    "filename": "busch-gardens-tampa-bay-florida.jpg",
+    "alt": "Busch Gardens Tampa Bay i Florida med människor och realistisk resemiljö",
+    "caption": "Busch Gardens Tampa Bay i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "tampa",
+        "link": "https://florida.se/tampa/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 567,
+    "url": "https://florida.se/wp-content/uploads/2026/08/art-deco-miami-pastell-och-1930-tal-florida.jpg",
+    "filename": "art-deco-miami-pastell-och-1930-tal-florida.jpg",
+    "alt": "Art Deco Miami — pastell och 1930-tal i Florida med människor och realistisk resemiljö",
+    "caption": "Art Deco Miami — pastell och 1930-tal i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "kultur-florida",
+        "link": "https://florida.se/kultur-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 565,
+    "url": "https://florida.se/wp-content/uploads/2026/08/april-florida.jpg",
+    "filename": "april-florida.jpg",
+    "alt": "April i Florida med människor och realistisk resemiljö",
+    "caption": "April i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "basta-tiden-florida",
+        "link": "https://florida.se/basta-tiden-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 563,
+    "url": "https://florida.se/wp-content/uploads/2026/08/aktiviteter-och-upplevelser-i-florida.jpg",
+    "filename": "aktiviteter-och-upplevelser-i-florida.jpg",
+    "alt": "Aktiviteter och upplevelser i Florida i Florida med människor och realistisk resemiljö",
+    "caption": "Aktiviteter och upplevelser i Florida i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-08-05",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 522,
+    "url": "https://florida.se/wp-content/uploads/2026/07/roadtrip-langs-us-1-sa-planerar-du-florida-1.jpg",
+    "filename": "roadtrip-langs-us-1-sa-planerar-du-florida-1.jpg",
+    "alt": "Roadtrip längs US-1 — så planerar du i Florida med människor och realistisk resemiljö",
+    "caption": "Roadtrip längs US-1 — så planerar du i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "florida-keys",
+        "link": "https://florida.se/florida-keys/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 521,
+    "url": "https://florida.se/wp-content/uploads/2026/07/hotell-utanfor-international-drive-lake-buena-vista-florida-1.jpg",
+    "filename": "hotell-utanfor-international-drive-lake-buena-vista-florida-1.jpg",
+    "alt": "Hotell utanför — International Drive, Lake Buena Vista i Florida med människor och realistisk resemiljö",
+    "caption": "Hotell utanför — International Drive, Lake Buena Vista i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "disney-world-orlando",
+        "link": "https://florida.se/disney-world-orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 520,
+    "url": "https://florida.se/wp-content/uploads/2026/07/college-towns-vs-turiststader-florida-1.jpg",
+    "filename": "college-towns-vs-turiststader-florida-1.jpg",
+    "alt": "College towns vs turiststäder i Florida med människor och realistisk resemiljö",
+    "caption": "College towns vs turiststäder i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-10",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "universitet-florida",
+        "link": "https://florida.se/universitet-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 491,
+    "url": "https://florida.se/wp-content/uploads/2026/07/roadtrip-langs-us-1-sa-planerar-du-florida.jpg",
+    "filename": "roadtrip-langs-us-1-sa-planerar-du-florida.jpg",
+    "alt": "Roadtrip längs US-1 — så planerar du i Florida med människor och realistisk resemiljö",
+    "caption": "Roadtrip längs US-1 — så planerar du i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "florida-keys",
+        "link": "https://florida.se/florida-keys/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 489,
+    "url": "https://florida.se/wp-content/uploads/2026/07/hotell-utanfor-international-drive-lake-buena-vista-florida.jpg",
+    "filename": "hotell-utanfor-international-drive-lake-buena-vista-florida.jpg",
+    "alt": "Hotell utanför — International Drive, Lake Buena Vista i Florida med människor och realistisk resemiljö",
+    "caption": "Hotell utanför — International Drive, Lake Buena Vista i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "disney-world-orlando",
+        "link": "https://florida.se/disney-world-orlando/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 487,
+    "url": "https://florida.se/wp-content/uploads/2026/07/college-towns-vs-turiststader-florida.jpg",
+    "filename": "college-towns-vs-turiststader-florida.jpg",
+    "alt": "College towns vs turiststäder i Florida med människor och realistisk resemiljö",
+    "caption": "College towns vs turiststäder i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-07-06",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "universitet-florida",
+        "link": "https://florida.se/universitet-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 355,
+    "url": "https://florida.se/wp-content/uploads/2026/06/klassiska-florida-rutter-florida.jpg",
+    "filename": "klassiska-florida-rutter-florida.jpg",
+    "alt": "Klassiska Florida-rutter i Florida med människor och realistisk resemiljö",
+    "caption": "Klassiska Florida-rutter i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-19",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "startsida",
+        "link": "https://florida.se/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 221,
+    "url": "https://florida.se/wp-content/uploads/2026/06/walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "filename": "walt-disney-world-nr-1-7-9-13-florida.jpg",
+    "alt": "Walt Disney World (nr 1, 7, 9, 13) i Florida med människor och realistisk resemiljö",
+    "caption": "Walt Disney World (nr 1, 7, 9, 13) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 219,
+    "url": "https://florida.se/wp-content/uploads/2026/06/sport-inter-miami-och-miami-heat-florida.jpg",
+    "filename": "sport-inter-miami-och-miami-heat-florida.jpg",
+    "alt": "Sport — Inter Miami och Miami Heat i Florida med människor och realistisk resemiljö",
+    "caption": "Sport — Inter Miami och Miami Heat i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 217,
+    "url": "https://florida.se/wp-content/uploads/2026/06/south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "filename": "south-beach-sobe-strand-och-art-deco-florida.jpg",
+    "alt": "South Beach (SoBe) — strand och Art Deco i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach (SoBe) — strand och Art Deco i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 215,
+    "url": "https://florida.se/wp-content/uploads/2026/06/south-beach-art-deco-och-atlanten-florida.jpg",
+    "filename": "south-beach-art-deco-och-atlanten-florida.jpg",
+    "alt": "South Beach — Art Deco och Atlanten i Florida med människor och realistisk resemiljö",
+    "caption": "South Beach — Art Deco och Atlanten i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 213,
+    "url": "https://florida.se/wp-content/uploads/2026/06/miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "filename": "miami-beach-norra-delen-och-bal-harbour-florida.jpg",
+    "alt": "Miami Beach (norra delen) och Bal Harbour i Florida med människor och realistisk resemiljö",
+    "caption": "Miami Beach (norra delen) och Bal Harbour i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 211,
+    "url": "https://florida.se/wp-content/uploads/2026/06/mia-miami-international-florida.jpg",
+    "filename": "mia-miami-international-florida.jpg",
+    "alt": "MIA — Miami International i Florida med människor och realistisk resemiljö",
+    "caption": "MIA — Miami International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 209,
+    "url": "https://florida.se/wp-content/uploads/2026/06/mco-orlando-international-florida.jpg",
+    "filename": "mco-orlando-international-florida.jpg",
+    "alt": "MCO — Orlando International i Florida med människor och realistisk resemiljö",
+    "caption": "MCO — Orlando International i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "hyrbil-florida",
+        "link": "https://florida.se/hyrbil-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 207,
+    "url": "https://florida.se/wp-content/uploads/2026/06/little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "filename": "little-havana-kubansk-sjal-pa-calle-ocho-florida.jpg",
+    "alt": "Little Havana — kubansk själ på Calle Ocho i Florida med människor och realistisk resemiljö",
+    "caption": "Little Havana — kubansk själ på Calle Ocho i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 205,
+    "url": "https://florida.se/wp-content/uploads/2026/06/key-west-ons-huvudstad-florida.jpg",
+    "filename": "key-west-ons-huvudstad-florida.jpg",
+    "alt": "Key West — öns huvudstad i Florida med människor och realistisk resemiljö",
+    "caption": "Key West — öns huvudstad i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 203,
+    "url": "https://florida.se/wp-content/uploads/2026/06/key-largo-dykning-och-nationalpark-florida.jpg",
+    "filename": "key-largo-dykning-och-nationalpark-florida.jpg",
+    "alt": "Key Largo — dykning och nationalpark i Florida med människor och realistisk resemiljö",
+    "caption": "Key Largo — dykning och nationalpark i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 201,
+    "url": "https://florida.se/wp-content/uploads/2026/06/islamorada-och-marathon-mellankeys-florida.jpg",
+    "filename": "islamorada-och-marathon-mellankeys-florida.jpg",
+    "alt": "Islamorada och Marathon — mellankeys i Florida med människor och realistisk resemiljö",
+    "caption": "Islamorada och Marathon — mellankeys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 199,
+    "url": "https://florida.se/wp-content/uploads/2026/06/international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "filename": "international-drive-och-kissimmee-hotell-utanfor-parken-florida.jpg",
+    "alt": "International Drive och Kissimmee — hotell utanför parken i Florida med människor och realistisk resemiljö",
+    "caption": "International Drive och Kissimmee — hotell utanför parken i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 197,
+    "url": "https://florida.se/wp-content/uploads/2026/06/everglades-dagsutflykt-fran-miami-florida.jpg",
+    "filename": "everglades-dagsutflykt-fran-miami-florida.jpg",
+    "alt": "Everglades — dagsutflykt från Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Everglades — dagsutflykt från Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 195,
+    "url": "https://florida.se/wp-content/uploads/2026/06/disney-resorts-pa-parkomradet-florida.jpg",
+    "filename": "disney-resorts-pa-parkomradet-florida.jpg",
+    "alt": "Disney-resorts på parkområdet i Florida med människor och realistisk resemiljö",
+    "caption": "Disney-resorts på parkområdet i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 193,
+    "url": "https://florida.se/wp-content/uploads/2026/06/brickell-skyline-och-vuxen-miami-florida.jpg",
+    "filename": "brickell-skyline-och-vuxen-miami-florida.jpg",
+    "alt": "Brickell — skyline och vuxen Miami i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell — skyline och vuxen Miami i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "miami",
+        "link": "https://florida.se/miami/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 191,
+    "url": "https://florida.se/wp-content/uploads/2026/06/brickell-och-downtown-business-och-skyline-florida.jpg",
+    "filename": "brickell-och-downtown-business-och-skyline-florida.jpg",
+    "alt": "Brickell och Downtown — business och skyline i Florida med människor och realistisk resemiljö",
+    "caption": "Brickell och Downtown — business och skyline i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "boende-florida",
+        "link": "https://florida.se/boende-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 189,
+    "url": "https://florida.se/wp-content/uploads/2026/06/7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "filename": "7-dagar-strand-natur-utan-temaparker-florida.jpg",
+    "alt": "7 dagar — strand & natur (utan temaparker) i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — strand &#038; natur (utan temaparker) i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 187,
+    "url": "https://florida.se/wp-content/uploads/2026/06/7-dagar-orlando-fokus-florida.jpg",
+    "filename": "7-dagar-orlando-fokus-florida.jpg",
+    "alt": "7 dagar — Orlando-fokus i Florida med människor och realistisk resemiljö",
+    "caption": "7 dagar — Orlando-fokus i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 185,
+    "url": "https://florida.se/wp-content/uploads/2026/06/10-dagar-orlando-miami-keys-florida.jpg",
+    "filename": "10-dagar-orlando-miami-keys-florida.jpg",
+    "alt": "10 dagar — Orlando + Miami/Keys i Florida med människor och realistisk resemiljö",
+    "caption": "10 dagar — Orlando + Miami/Keys i Florida",
+    "w": 1536,
+    "h": 1024,
+    "date": "2026-06-16",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-florida",
+        "link": "https://florida.se/saker-att-gora-florida/"
+      }
+    ]
+  },
+  {
+    "domain": "florida",
+    "id": 184,
+    "url": "https://florida.se/wp-content/uploads/2026/06/favicon-512.png",
+    "filename": "favicon-512.png",
+    "alt": "Florida reseguide favicon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-06-16",
+    "managed": false,
+    "used_on": []
+  },
+  {
     "domain": "borneo",
     "id": 226,
     "url": "https://borneo.se/wp-content/uploads/2026/07/transfer-fran-flygplatsen-borneo.jpg",
@@ -43756,5 +45209,31 @@
         "link": "https://londons.se/gratis-i-london/"
       }
     ]
+  },
+  {
+    "domain": "kretas",
+    "id": 118,
+    "url": "https://kretas.se/wp-content/uploads/2026/08/kretas-favicon.png",
+    "filename": "kretas-favicon.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "kretas",
+    "id": 117,
+    "url": "https://kretas.se/wp-content/uploads/2026/08/kretas-logo.png",
+    "filename": "kretas-logo.png",
+    "alt": "",
+    "caption": "",
+    "w": 900,
+    "h": 300,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
   }
 ]
