@@ -43199,7 +43199,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "barcelona-med-barn",
@@ -43217,7 +43217,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43235,7 +43235,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "barcelona-5-dagar",
@@ -43257,7 +43257,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": []
   },
   {
@@ -43270,7 +43270,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "shopping-barcelona",
@@ -43288,7 +43288,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -43306,7 +43306,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "restauranger-barcelona",
@@ -43324,7 +43324,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "barcelona-med-barn",
@@ -43342,7 +43342,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43360,7 +43360,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "marknader-barcelona",
@@ -43378,7 +43378,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43396,7 +43396,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "montjuic",
@@ -43414,7 +43414,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "dagsturer-barcelona",
@@ -43432,7 +43432,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "strander-barcelona",
@@ -43450,7 +43450,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -43468,7 +43468,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "barca-femeni",
@@ -43486,7 +43486,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "barcelona-5-dagar",
@@ -44564,7 +44564,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -44582,7 +44582,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -44600,7 +44600,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -44618,7 +44618,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -44636,7 +44636,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -44654,7 +44654,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -44672,7 +44672,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -44690,7 +44690,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -44708,7 +44708,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -44726,7 +44726,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -44744,7 +44744,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -44762,7 +44762,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -44780,7 +44780,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "shopping-alicante",
@@ -44798,7 +44798,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "tabarca",
@@ -44816,7 +44816,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44834,7 +44834,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -44852,7 +44852,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-september",
@@ -44870,7 +44870,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-oktober",
@@ -44888,7 +44888,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-november",
@@ -44906,7 +44906,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-mars",
@@ -44924,7 +44924,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juni",
@@ -44942,7 +44942,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-juli",
@@ -44960,7 +44960,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-januari",
@@ -44978,7 +44978,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-februari",
@@ -44996,7 +44996,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-december",
@@ -45014,7 +45014,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-augusti",
@@ -45032,7 +45032,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-i-april",
@@ -45050,7 +45050,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guadalest-altea",
@@ -45068,7 +45068,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "transport-alicante",
@@ -45086,7 +45086,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "nattliv-alicante",
@@ -45104,7 +45104,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "elche",
@@ -45122,7 +45122,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -45140,7 +45140,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "hem",
@@ -45158,7 +45158,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "alicante-med-barn",
@@ -45176,7 +45176,7 @@
     "w": 1536,
     "h": 1024,
     "date": "2026-08-06",
-    "managed": false,
+    "managed": true,
     "used_on": [
       {
         "slug": "guadalest-altea",
@@ -45711,6 +45711,32 @@
     "alt": "",
     "caption": "",
     "w": 1180,
+    "h": 300,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "kretas",
+    "id": 118,
+    "url": "https://kretas.se/wp-content/uploads/2026/08/kretas-favicon.png",
+    "filename": "kretas-favicon.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "kretas",
+    "id": 117,
+    "url": "https://kretas.se/wp-content/uploads/2026/08/kretas-logo.png",
+    "filename": "kretas-logo.png",
+    "alt": "",
+    "caption": "",
+    "w": 900,
     "h": 300,
     "date": "2026-08-10",
     "managed": false,

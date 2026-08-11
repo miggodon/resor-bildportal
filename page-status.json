@@ -8619,7 +8619,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8662,7 +8662,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8705,7 +8705,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8748,7 +8748,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8791,7 +8791,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8834,7 +8834,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8877,7 +8877,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8920,7 +8920,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -8963,7 +8963,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9006,7 +9006,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9049,7 +9049,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9063,7 +9063,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9090,7 +9090,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9104,7 +9104,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9133,7 +9133,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9176,7 +9176,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9219,7 +9219,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9233,7 +9233,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -9262,7 +9262,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9276,7 +9276,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9303,7 +9303,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9317,7 +9317,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9344,7 +9344,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9388,7 +9388,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9402,7 +9402,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9431,7 +9431,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9445,7 +9445,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -9472,7 +9472,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9486,7 +9486,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -9513,7 +9513,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9527,7 +9527,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 84,
     "flags": [
@@ -9558,7 +9558,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -9572,7 +9572,7 @@
     "money_total": 8,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 84,
     "flags": [
@@ -9601,7 +9601,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9615,7 +9615,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9644,7 +9644,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9658,7 +9658,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9685,7 +9685,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9699,7 +9699,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -9726,7 +9726,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9740,7 +9740,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -9769,7 +9769,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9813,7 +9813,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9857,7 +9857,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9871,7 +9871,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": true,
     "score": 90,
     "flags": [
@@ -9900,7 +9900,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9914,7 +9914,7 @@
     "money_total": 6,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -9941,7 +9941,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -9984,7 +9984,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10028,7 +10028,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10071,7 +10071,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10114,7 +10114,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 2,
@@ -10128,7 +10128,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10155,7 +10155,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10169,7 +10169,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10196,7 +10196,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10210,7 +10210,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10238,7 +10238,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -10252,7 +10252,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10279,7 +10279,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10293,7 +10293,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10320,7 +10320,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10363,7 +10363,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10377,7 +10377,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10404,7 +10404,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10418,7 +10418,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10445,7 +10445,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10459,7 +10459,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10486,7 +10486,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10500,7 +10500,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10527,7 +10527,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10570,7 +10570,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10615,7 +10615,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10629,7 +10629,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10656,7 +10656,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10670,7 +10670,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10697,7 +10697,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10711,7 +10711,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10738,7 +10738,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10752,7 +10752,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10779,7 +10779,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10793,7 +10793,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10820,7 +10820,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10834,7 +10834,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10862,7 +10862,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10876,7 +10876,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10903,7 +10903,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10917,7 +10917,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -10944,7 +10944,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -10958,7 +10958,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -10985,7 +10985,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 4,
@@ -11030,7 +11030,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11044,7 +11044,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 89,
     "flags": [],
@@ -11071,7 +11071,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11116,7 +11116,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11130,7 +11130,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11157,7 +11157,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11171,7 +11171,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11198,7 +11198,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11212,7 +11212,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -11239,7 +11239,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11284,7 +11284,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11298,7 +11298,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -11325,7 +11325,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11339,7 +11339,7 @@
     "money_total": 5,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 95,
     "flags": [],
@@ -11366,7 +11366,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11380,7 +11380,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11407,7 +11407,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -11421,7 +11421,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11449,7 +11449,7 @@
       "Aktiviteter (GYG)",
       "Reseprodukter"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -11463,7 +11463,7 @@
     "money_total": 9,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11490,7 +11490,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 2,
@@ -11504,7 +11504,7 @@
     "money_total": 7,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "🟢 Bra",
+    "qa": "✅ Topp",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -11533,7 +11533,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 9,
@@ -11576,7 +11576,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -11621,7 +11621,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 3,
@@ -11669,7 +11669,7 @@
       "Hyrbil",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 4,
@@ -45714,6 +45714,2214 @@
       "gyg": 0
     },
     "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 63,
+    "slug": "cookiepolicy",
+    "title": "Cookiepolicy",
+    "link": "https://kretas.se/cookiepolicy/",
+    "modified": "2026-08-10",
+    "words": 213,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 0,
+    "external": 0,
+    "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 38,
+    "flags": [
+      "tunt content",
+      "omonetiserad",
+      "få internlänkar",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Rå",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 60,
+    "slug": "om-johan-ekstrom",
+    "title": "Om Johan Ekström – redaktör för Kretas.se",
+    "link": "https://kretas.se/om-johan-ekstrom/",
+    "modified": "2026-08-10",
+    "words": 605,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 6,
+    "external": 0,
+    "affiliate": 0,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 69,
+    "flags": [
+      "omonetiserad",
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Påbörjad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 59,
+    "slug": "kreta-for-par",
+    "title": "Kreta för par – var ni ska bo och vad ni ska göra 2026",
+    "link": "https://kretas.se/kreta-for-par/",
+    "modified": "2026-08-10",
+    "words": 780,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 12,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 58,
+    "slug": "kreta-off-season",
+    "title": "Kreta utanför säsong – november till april 2026",
+    "link": "https://kretas.se/kreta-off-season/",
+    "modified": "2026-08-10",
+    "words": 817,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 13,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 57,
+    "slug": "kreta-10-dagar",
+    "title": "Kreta på 10 dagar – två baser och hela ön 2026",
+    "link": "https://kretas.se/kreta-10-dagar/",
+    "modified": "2026-08-10",
+    "words": 773,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 56,
+    "slug": "kreta-en-vecka",
+    "title": "Kreta på en vecka – tre färdiga upplägg 2026",
+    "link": "https://kretas.se/kreta-en-vecka/",
+    "modified": "2026-08-10",
+    "words": 771,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 55,
+    "slug": "kreta-utan-hyrbil",
+    "title": "Kreta utan hyrbil – går det? Guide 2026",
+    "link": "https://kretas.se/kreta-utan-hyrbil/",
+    "modified": "2026-08-10",
+    "words": 754,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 21,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Hyrbil"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 54,
+    "slug": "kreta-med-barn",
+    "title": "Kreta med barn – var ni ska bo och vad som fungerar 2026",
+    "link": "https://kretas.se/kreta-med-barn/",
+    "modified": "2026-08-10",
+    "words": 862,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 16,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Målgruppsguide",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 53,
+    "slug": "byar-pa-kreta",
+    "title": "Kretas byar – bergsbyar och inland värda en dag 2026",
+    "link": "https://kretas.se/byar-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 831,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 52,
+    "slug": "raki-och-vin-kreta",
+    "title": "Raki och vin på Kreta – guide till öns drycker 2026",
+    "link": "https://kretas.se/raki-och-vin-kreta/",
+    "modified": "2026-08-10",
+    "words": 784,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 51,
+    "slug": "mat-pa-kreta",
+    "title": "Mat på Kreta – vad du ska äta och var 2026",
+    "link": "https://kretas.se/mat-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 840,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 50,
+    "slug": "arkeologiska-museet-heraklion",
+    "title": "Arkeologiska museet i Heraklion – guide och höjdpunkter 2026",
+    "link": "https://kretas.se/arkeologiska-museet-heraklion/",
+    "modified": "2026-08-10",
+    "words": 823,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 49,
+    "slug": "minoisk-historia-kreta",
+    "title": "Minoisk historia på Kreta – Europas första högkultur",
+    "link": "https://kretas.se/minoisk-historia-kreta/",
+    "modified": "2026-08-10",
+    "words": 783,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 48,
+    "slug": "knossos",
+    "title": "Knossos – guide till palatset och biljetter 2026",
+    "link": "https://kretas.se/knossos/",
+    "modified": "2026-08-10",
+    "words": 889,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 10,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 47,
+    "slug": "saker-att-gora-pa-kreta",
+    "title": "Saker att göra på Kreta – 20 upplevelser värda tiden 2026",
+    "link": "https://kretas.se/saker-att-gora-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 741,
+    "h2": 6,
+    "h3": 5,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Aktiviteter",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 46,
+    "slug": "packlista-kreta",
+    "title": "Packlista Kreta – vad du behöver ta med 2026",
+    "link": "https://kretas.se/packlista-kreta/",
+    "modified": "2026-08-10",
+    "words": 803,
+    "h2": 6,
+    "h3": 3,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Packlista",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Reseprodukter"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 45,
+    "slug": "budget-kreta",
+    "title": "Vad kostar en vecka på Kreta? Budget 2026",
+    "link": "https://kretas.se/budget-kreta/",
+    "modified": "2026-08-10",
+    "words": 928,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Budget",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 44,
+    "slug": "flyg-till-kreta",
+    "title": "Flyg till Kreta från Sverige 2026 – bolag, priser och flygplatser",
+    "link": "https://kretas.se/flyg-till-kreta/",
+    "modified": "2026-08-10",
+    "words": 849,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 43,
+    "slug": "vader-kreta",
+    "title": "Väder på Kreta – temperatur, bad och meltemi månad för månad",
+    "link": "https://kretas.se/vader-kreta/",
+    "modified": "2026-08-10",
+    "words": 830,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 42,
+    "slug": "basta-tiden-kreta",
+    "title": "Bästa tiden att åka till Kreta – månad för månad 2026",
+    "link": "https://kretas.se/basta-tiden-kreta/",
+    "modified": "2026-08-10",
+    "words": 829,
+    "h2": 5,
+    "h3": 4,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 41,
+    "slug": "klimatavgift-grekland",
+    "title": "Klimatavgiften i Grekland 2026 – belopp, undantag och räkneexempel",
+    "link": "https://kretas.se/klimatavgift-grekland/",
+    "modified": "2026-08-10",
+    "words": 854,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 40,
+    "slug": "resa-till-kreta",
+    "title": "Resa till Kreta 2026 – flyg, kostnader och allt praktiskt",
+    "link": "https://kretas.se/resa-till-kreta/",
+    "modified": "2026-08-10",
+    "words": 906,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 39,
+    "slug": "vandring-pa-kreta",
+    "title": "Vandring på Kreta – raviner, E4 och Vita bergen 2026",
+    "link": "https://kretas.se/vandring-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 914,
+    "h2": 6,
+    "h3": 6,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Aktiva",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 38,
+    "slug": "seitan-limania",
+    "title": "Seitan Limania – Kretas mest dramatiska vik, guide 2026",
+    "link": "https://kretas.se/seitan-limania/",
+    "modified": "2026-08-10",
+    "words": 852,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 37,
+    "slug": "vai",
+    "title": "Vai – Europas största palmlund på Kreta, guide 2026",
+    "link": "https://kretas.se/vai/",
+    "modified": "2026-08-10",
+    "words": 738,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 12,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 36,
+    "slug": "preveli",
+    "title": "Preveli – palmdalen på Kretas sydkust, guide 2026",
+    "link": "https://kretas.se/preveli/",
+    "modified": "2026-08-10",
+    "words": 723,
+    "h2": 3,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 35,
+    "slug": "falassarna",
+    "title": "Falassarna – Kretas bästa sandstrand? Guide 2026",
+    "link": "https://kretas.se/falassarna/",
+    "modified": "2026-08-10",
+    "words": 727,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 34,
+    "slug": "imbros-ravinen",
+    "title": "Imbrosravinen – Samarias enklare alternativ, guide 2026",
+    "link": "https://kretas.se/imbros-ravinen/",
+    "modified": "2026-08-10",
+    "words": 751,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 33,
+    "slug": "samariaravinen",
+    "title": "Samariaravinen – hela logistiken för vandringen 2026",
+    "link": "https://kretas.se/samariaravinen/",
+    "modified": "2026-08-10",
+    "words": 956,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 32,
+    "slug": "elafonisi",
+    "title": "Elafonisi på Kreta – rosa sand och grunt vatten, guide 2026",
+    "link": "https://kretas.se/elafonisi/",
+    "modified": "2026-08-10",
+    "words": 829,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 31,
+    "slug": "balos",
+    "title": "Balos på Kreta – båt eller grusväg? Guide 2026",
+    "link": "https://kretas.se/balos/",
+    "modified": "2026-08-10",
+    "words": 870,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 30,
+    "slug": "strander-pa-kreta",
+    "title": "Kretas bästa stränder 2026 – med logistiken som avgör",
+    "link": "https://kretas.se/strander-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 776,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 22,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 29,
+    "slug": "buss-pa-kreta-ktel",
+    "title": "Buss på Kreta – KTEL, linjer och vad du faktiskt når 2026",
+    "link": "https://kretas.se/buss-pa-kreta-ktel/",
+    "modified": "2026-08-10",
+    "words": 864,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 16,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 28,
+    "slug": "kreta-flygplats-transfer",
+    "title": "Kretas flygplatser – transfer från Chania och Heraklion 2026",
+    "link": "https://kretas.se/kreta-flygplats-transfer/",
+    "modified": "2026-08-10",
+    "words": 783,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 15,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Praktiskt/aktiv",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 27,
+    "slug": "kora-bil-pa-kreta",
+    "title": "Köra bil på Kreta – trafikregler, vägar och vad som överraskar",
+    "link": "https://kretas.se/kora-bil-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 787,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 26,
+    "slug": "avstand-och-restider-kreta",
+    "title": "Avstånd och restider på Kreta – tabell 2026",
+    "link": "https://kretas.se/avstand-och-restider-kreta/",
+    "modified": "2026-08-10",
+    "words": 855,
+    "h2": 5,
+    "h3": 4,
+    "images": 0,
+    "internal": 7,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 25,
+    "slug": "hyrbil-kreta-grusvagar",
+    "title": "Grusvägar och hyrbilsavtal på Kreta – vad försäkringen inte täcker",
+    "link": "https://kretas.se/hyrbil-kreta-grusvagar/",
+    "modified": "2026-08-10",
+    "words": 1003,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Aktiviteter (GYG)",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 24,
+    "slug": "hyrbil-pa-kreta",
+    "title": "Hyrbil på Kreta 2026 – priser, villkor och det avtalet inte täcker",
+    "link": "https://kretas.se/hyrbil-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 1066,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 18,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Hyrbil",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hyrbil",
+      "Försäkring"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 23,
+    "slug": "matala",
+    "title": "Matala – guide 2026",
+    "link": "https://kretas.se/matala/",
+    "modified": "2026-08-10",
+    "words": 919,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 22,
+    "slug": "ierapetra",
+    "title": "Ierapetra – guide 2026",
+    "link": "https://kretas.se/ierapetra/",
+    "modified": "2026-08-10",
+    "words": 871,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 21,
+    "slug": "malia",
+    "title": "Malia – guide 2026",
+    "link": "https://kretas.se/malia/",
+    "modified": "2026-08-10",
+    "words": 858,
+    "h2": 4,
+    "h3": 3,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 20,
+    "slug": "georgioupoli",
+    "title": "Georgioupoli – guide 2026",
+    "link": "https://kretas.se/georgioupoli/",
+    "modified": "2026-08-10",
+    "words": 819,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 19,
+    "slug": "platanias",
+    "title": "Platanias – guide 2026",
+    "link": "https://kretas.se/platanias/",
+    "modified": "2026-08-10",
+    "words": 805,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 18,
+    "slug": "elounda",
+    "title": "Elounda – guide 2026",
+    "link": "https://kretas.se/elounda/",
+    "modified": "2026-08-10",
+    "words": 863,
+    "h2": 4,
+    "h3": 0,
+    "images": 0,
+    "internal": 8,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 17,
+    "slug": "agios-nikolaos",
+    "title": "Agios Nikolaos – guide 2026",
+    "link": "https://kretas.se/agios-nikolaos/",
+    "modified": "2026-08-10",
+    "words": 903,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 9,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 16,
+    "slug": "heraklion",
+    "title": "Heraklion – guide till Kretas huvudstad 2026",
+    "link": "https://kretas.se/heraklion/",
+    "modified": "2026-08-10",
+    "words": 960,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 10,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 0,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 15,
+    "slug": "rethymnon",
+    "title": "Rethymnon – guide 2026",
+    "link": "https://kretas.se/rethymnon/",
+    "modified": "2026-08-10",
+    "words": 846,
+    "h2": 5,
+    "h3": 0,
+    "images": 0,
+    "internal": 11,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 84,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 14,
+    "slug": "chania",
+    "title": "Chania – guide till staden och västra Kreta 2026",
+    "link": "https://kretas.se/chania/",
+    "modified": "2026-08-10",
+    "words": 914,
+    "h2": 5,
+    "h3": 3,
+    "images": 0,
+    "internal": 12,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 90,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 11,
+    "slug": "chania-eller-heraklion",
+    "title": "Chania eller Heraklion? Så väljer du flygplats på Kreta 2026",
+    "link": "https://kretas.se/chania-eller-heraklion/",
+    "modified": "2026-08-10",
+    "words": 840,
+    "h2": 6,
+    "h3": 0,
+    "images": 0,
+    "internal": 21,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Funnel/allmän"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 10,
+    "slug": "var-ska-man-bo-pa-kreta",
+    "title": "Var ska man bo på Kreta? Regionguide 2026",
+    "link": "https://kretas.se/var-ska-man-bo-pa-kreta/",
+    "modified": "2026-08-10",
+    "words": 849,
+    "h2": 7,
+    "h3": 0,
+    "images": 0,
+    "internal": 18,
+    "external": 0,
+    "affiliate": 1,
+    "type": "Områden",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": true,
+    "score": 77,
+    "flags": [
+      "⛔ h1 i body",
+      "📷 väntar bild"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "kretas",
+    "id": 8,
+    "slug": "hem",
+    "title": "Kreta – svensk reseguide 2026",
+    "link": "https://kretas.se/",
+    "modified": "2026-08-10",
+    "words": 1098,
+    "h2": 8,
+    "h3": 6,
+    "images": 0,
+    "internal": 22,
+    "external": 0,
+    "affiliate": 2,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 0,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
