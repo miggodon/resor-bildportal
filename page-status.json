@@ -29223,7 +29223,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29237,7 +29237,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 90,
     "flags": [
@@ -29266,7 +29266,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29280,7 +29280,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29309,7 +29309,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29323,7 +29323,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29352,7 +29352,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29366,7 +29366,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -29393,7 +29393,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29407,7 +29407,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29434,7 +29434,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29448,7 +29448,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29475,7 +29475,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29489,7 +29489,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29516,7 +29516,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29530,7 +29530,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29557,7 +29557,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29571,7 +29571,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29598,7 +29598,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29612,7 +29612,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
@@ -29639,7 +29639,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29653,7 +29653,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -29682,7 +29682,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -29696,7 +29696,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -29725,7 +29725,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29739,7 +29739,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -29768,7 +29768,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29782,7 +29782,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29811,7 +29811,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29825,7 +29825,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29854,7 +29854,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -29868,7 +29868,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29896,7 +29896,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -29910,7 +29910,7 @@
     "money_total": 4,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -29939,7 +29939,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29953,7 +29953,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -29982,7 +29982,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -29996,7 +29996,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -30025,7 +30025,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30039,7 +30039,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -30066,7 +30066,7 @@
       "Hyrbil",
       "Försäkring"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 2,
@@ -30108,7 +30108,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30150,7 +30150,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30191,7 +30191,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30233,7 +30233,7 @@
     "aff_angle": [
       "Hotell"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30275,7 +30275,7 @@
     "aff_angle": [
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -30289,7 +30289,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -30316,7 +30316,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30330,7 +30330,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 94,
     "flags": [],
@@ -30357,7 +30357,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30371,7 +30371,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -30400,7 +30400,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30414,7 +30414,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -30443,7 +30443,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -30457,7 +30457,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -30486,7 +30486,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -30500,7 +30500,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -30529,7 +30529,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30543,7 +30543,7 @@
     "money_total": 3,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -30572,7 +30572,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30586,7 +30586,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 89,
     "flags": [
@@ -30615,7 +30615,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30629,7 +30629,7 @@
     "money_total": 1,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": true,
     "score": 82,
     "flags": [
@@ -30658,7 +30658,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30704,7 +30704,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30747,7 +30747,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": true,
+    "indexed": false,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -30761,7 +30761,7 @@
     "money_total": 2,
     "gyg_issue": [],
     "img_issue": [],
-    "qa": "✅ Topp",
+    "qa": "🟢 Bra",
     "needs_image": false,
     "score": 100,
     "flags": [],
