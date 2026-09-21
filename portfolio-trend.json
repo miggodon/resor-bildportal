@@ -196,5 +196,14 @@
     "qa_fail": 435,
     "media": 2622,
     "need_img": 756
+  },
+  {
+    "date": "2026-09-21",
+    "pages": 455,
+    "indexed_pct": 100,
+    "monetized_pct": 98,
+    "qa_fail": 32,
+    "media": 1655,
+    "need_img": 177
   }
 ]
