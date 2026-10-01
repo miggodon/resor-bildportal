@@ -35906,6 +35906,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "mulu-nationalpark",
+        "link": "https://borneo.se/mulu-nationalpark/"
+      },
+      {
         "slug": "kuching-bako-semenggoh-guide",
         "link": "https://borneo.se/kuching-bako-semenggoh-guide/"
       }
@@ -45934,6 +45938,870 @@
     "w": 1180,
     "h": 300,
     "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 116,
+    "url": "https://madeiras.se/wp-content/uploads/porto-santo-madeiras-2.jpg",
+    "filename": "porto-santo-madeiras-2.jpg",
+    "alt": "Sandstranden på Porto Santo",
+    "caption": "Foto: Asurnipal / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "porto-santo",
+        "link": "https://madeiras.se/porto-santo/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 115,
+    "url": "https://madeiras.se/wp-content/uploads/ponta-do-sol-madeiras-2.jpg",
+    "filename": "ponta-do-sol-madeiras-2.jpg",
+    "alt": "Kusten vid Ponta do Sol",
+    "caption": "Foto: Ximonic (Simo Räsänen) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1142,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "ponta-do-sol",
+        "link": "https://madeiras.se/ponta-do-sol/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 114,
+    "url": "https://madeiras.se/wp-content/uploads/var-ska-man-bo-pa-madeira-madeiras-1.jpg",
+    "filename": "var-ska-man-bo-pa-madeira-madeiras-1.jpg",
+    "alt": "Utsikt över Funchal från Pico dos Barcelos",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 342,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-pa-madeira",
+        "link": "https://madeiras.se/var-ska-man-bo-pa-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 113,
+    "url": "https://madeiras.se/wp-content/uploads/start-madeiras-2.jpg",
+    "filename": "start-madeiras-2.jpg",
+    "alt": "Câmara de Lobos på Madeiras sydkust",
+    "caption": "Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 942,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://madeiras.se/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 112,
+    "url": "https://madeiras.se/wp-content/uploads/madeira-eller-kanarieoarna-madeiras.jpg",
+    "filename": "madeira-eller-kanarieoarna-madeiras.jpg",
+    "alt": "Norra kusten vid Seixal",
+    "caption": "Foto: Ximonic (Simo Räsänen) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madeira-eller-kanarieoarna",
+        "link": "https://madeiras.se/madeira-eller-kanarieoarna/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 111,
+    "url": "https://madeiras.se/wp-content/uploads/porto-santo-madeiras-1.jpg",
+    "filename": "porto-santo-madeiras-1.jpg",
+    "alt": "Stranden på Porto Santo",
+    "caption": "Foto: Nuno Capelo Caldeira / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1446,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 110,
+    "url": "https://madeiras.se/wp-content/uploads/nyar-pa-madeira-madeiras-1.jpg",
+    "filename": "nyar-pa-madeira-madeiras-1.jpg",
+    "alt": "Nyårsfyrverkeri över Funchal",
+    "caption": "Foto: Dr. Thomas Liptak / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "nyar-pa-madeira",
+        "link": "https://madeiras.se/nyar-pa-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 109,
+    "url": "https://madeiras.se/wp-content/uploads/canico-madeiras-1.jpg",
+    "filename": "canico-madeiras-1.jpg",
+    "alt": "Cristo Rei vid Garajau nära Caniço",
+    "caption": "Foto: Ввласенко / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 719,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "canico",
+        "link": "https://madeiras.se/canico/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 108,
+    "url": "https://madeiras.se/wp-content/uploads/ponta-do-sol-madeiras-1.jpg",
+    "filename": "ponta-do-sol-madeiras-1.jpg",
+    "alt": "Ponta do Sol",
+    "caption": "Foto: Christof46 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 107,
+    "url": "https://madeiras.se/wp-content/uploads/vereda-dos-balcoes-madeiras-1.jpg",
+    "filename": "vereda-dos-balcoes-madeiras-1.jpg",
+    "alt": "Utsikten från Balcões",
+    "caption": "Foto: Ricardo Martins / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vereda-dos-balcoes",
+        "link": "https://madeiras.se/vereda-dos-balcoes/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 106,
+    "url": "https://madeiras.se/wp-content/uploads/levadavandring-pa-madeira-madeiras-1.jpg",
+    "filename": "levadavandring-pa-madeira-madeiras-1.jpg",
+    "alt": "Levadavandring i lagerskogen",
+    "caption": "Foto: VillageHero from Ulm, Germany / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1081,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "levadavandring-pa-madeira",
+        "link": "https://madeiras.se/levadavandring-pa-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 105,
+    "url": "https://madeiras.se/wp-content/uploads/funchal-madeiras-1.jpg",
+    "filename": "funchal-madeiras-1.jpg",
+    "alt": "Katedralen i Funchal",
+    "caption": "Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1547,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "funchal",
+        "link": "https://madeiras.se/funchal/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 104,
+    "url": "https://madeiras.se/wp-content/uploads/start-madeiras-1.jpg",
+    "filename": "start-madeiras-1.jpg",
+    "alt": "Funchal och Madeiras sydkust",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1555,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 103,
+    "url": "https://madeiras.se/wp-content/uploads/madeira-pa-en-vecka-madeiras.jpg",
+    "filename": "madeira-pa-en-vecka-madeiras.jpg",
+    "alt": "Cabo Girão",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1262,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madeira-pa-en-vecka",
+        "link": "https://madeiras.se/madeira-pa-en-vecka/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 102,
+    "url": "https://madeiras.se/wp-content/uploads/madeira-med-barn-madeiras.jpg",
+    "filename": "madeira-med-barn-madeiras.jpg",
+    "alt": "Korgslädarna i Monte",
+    "caption": "Foto: Ввласенко / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1387,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madeira-med-barn",
+        "link": "https://madeiras.se/madeira-med-barn/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 101,
+    "url": "https://madeiras.se/wp-content/uploads/nyar-pa-madeira-madeiras.jpg",
+    "filename": "nyar-pa-madeira-madeiras.jpg",
+    "alt": "Nyårsfyrverkeri över Funchal",
+    "caption": "Foto: Michael Gaylard from Horsham, UK / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 100,
+    "url": "https://madeiras.se/wp-content/uploads/porto-santo-madeiras.jpg",
+    "filename": "porto-santo-madeiras.jpg",
+    "alt": "Stranden på Porto Santo",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 960,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 99,
+    "url": "https://madeiras.se/wp-content/uploads/porto-moniz-madeiras.jpg",
+    "filename": "porto-moniz-madeiras.jpg",
+    "alt": "Lavapoolerna i Porto Moniz",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "porto-moniz",
+        "link": "https://madeiras.se/porto-moniz/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 98,
+    "url": "https://madeiras.se/wp-content/uploads/santana-madeiras.jpg",
+    "filename": "santana-madeiras.jpg",
+    "alt": "Traditionella hus i Santana",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1319,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "santana",
+        "link": "https://madeiras.se/santana/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 97,
+    "url": "https://madeiras.se/wp-content/uploads/canico-madeiras.jpg",
+    "filename": "canico-madeiras.jpg",
+    "alt": "Caniço",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1039,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 96,
+    "url": "https://madeiras.se/wp-content/uploads/ponta-do-sol-madeiras.jpg",
+    "filename": "ponta-do-sol-madeiras.jpg",
+    "alt": "Ponta do Sol",
+    "caption": "Foto: Christof46 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 95,
+    "url": "https://madeiras.se/wp-content/uploads/calheta-madeiras.jpg",
+    "filename": "calheta-madeiras.jpg",
+    "alt": "Calheta på Madeiras sydvästkust",
+    "caption": "Foto: Ximonic (Simo Räsänen) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1019,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "calheta",
+        "link": "https://madeiras.se/calheta/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 94,
+    "url": "https://madeiras.se/wp-content/uploads/levada-do-rei-madeiras.jpg",
+    "filename": "levada-do-rei-madeiras.jpg",
+    "alt": "Norra Madeira vid São Jorge",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "levada-do-rei",
+        "link": "https://madeiras.se/levada-do-rei/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 93,
+    "url": "https://madeiras.se/wp-content/uploads/vereda-dos-balcoes-madeiras.jpg",
+    "filename": "vereda-dos-balcoes-madeiras.jpg",
+    "alt": "Ribeiro Frio och lagerskogen",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 92,
+    "url": "https://madeiras.se/wp-content/uploads/ponta-de-sao-lourenco-madeiras.jpg",
+    "filename": "ponta-de-sao-lourenco-madeiras.jpg",
+    "alt": "Ponta de São Lourenço",
+    "caption": "Foto: Richard Bartz / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 878,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "ponta-de-sao-lourenco",
+        "link": "https://madeiras.se/ponta-de-sao-lourenco/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 91,
+    "url": "https://madeiras.se/wp-content/uploads/pico-do-arieiro-pico-ruivo-madeiras.jpg",
+    "filename": "pico-do-arieiro-pico-ruivo-madeiras.jpg",
+    "alt": "Leden mot Pico Ruivo",
+    "caption": "Foto: GerritR / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pico-do-arieiro-pico-ruivo",
+        "link": "https://madeiras.se/pico-do-arieiro-pico-ruivo/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 90,
+    "url": "https://madeiras.se/wp-content/uploads/levada-do-caldeirao-verde-madeiras.jpg",
+    "filename": "levada-do-caldeirao-verde-madeiras.jpg",
+    "alt": "Levada do Caldeirão Verde",
+    "caption": "Foto: Patrice78500 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "levada-do-caldeirao-verde",
+        "link": "https://madeiras.se/levada-do-caldeirao-verde/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 89,
+    "url": "https://madeiras.se/wp-content/uploads/levada-das-25-fontes-madeiras.jpg",
+    "filename": "levada-das-25-fontes-madeiras.jpg",
+    "alt": "Levada das 25 Fontes",
+    "caption": "Foto: Bjørn Christian Tørrissen / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "levada-das-25-fontes",
+        "link": "https://madeiras.se/levada-das-25-fontes/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 88,
+    "url": "https://madeiras.se/wp-content/uploads/hyrbil-pa-madeira-madeiras.jpg",
+    "filename": "hyrbil-pa-madeira-madeiras.jpg",
+    "alt": "Bergsväg på Madeira",
+    "caption": "Foto: Ximonic (Simo Räsänen) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1270,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil-pa-madeira",
+        "link": "https://madeiras.se/hyrbil-pa-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 87,
+    "url": "https://madeiras.se/wp-content/uploads/resa-till-madeira-madeiras.jpg",
+    "filename": "resa-till-madeira-madeiras.jpg",
+    "alt": "Madeiras flygplats vid havet",
+    "caption": "Foto: Richard Bartz / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 623,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "resa-till-madeira",
+        "link": "https://madeiras.se/resa-till-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 86,
+    "url": "https://madeiras.se/wp-content/uploads/basta-tiden-madeira-madeiras.jpg",
+    "filename": "basta-tiden-madeira-madeiras.jpg",
+    "alt": "Lagerskog på Madeira",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-madeira",
+        "link": "https://madeiras.se/basta-tiden-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 85,
+    "url": "https://madeiras.se/wp-content/uploads/saker-att-gora-pa-madeira-madeiras.jpg",
+    "filename": "saker-att-gora-pa-madeira-madeiras.jpg",
+    "alt": "Pico do Arieiro ovanför molnen",
+    "caption": "Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 344,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-pa-madeira",
+        "link": "https://madeiras.se/saker-att-gora-pa-madeira/"
+      }
+    ]
+  },
+  {
+    "domain": "madeiras",
+    "id": 84,
+    "url": "https://madeiras.se/wp-content/uploads/levadavandring-pa-madeira-madeiras.jpg",
+    "filename": "levadavandring-pa-madeira-madeiras.jpg",
+    "alt": "Levadavandring på Madeira",
+    "caption": "Foto: H. Zell / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1564,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 83,
+    "url": "https://madeiras.se/wp-content/uploads/funchal-madeiras.jpg",
+    "filename": "funchal-madeiras.jpg",
+    "alt": "Gamla stan i Funchal",
+    "caption": "Foto: Luis Miguel Bugallo Sánchez (Lmbuga) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 82,
+    "url": "https://madeiras.se/wp-content/uploads/var-ska-man-bo-pa-madeira-madeiras.jpg",
+    "filename": "var-ska-man-bo-pa-madeira-madeiras.jpg",
+    "alt": "Funchal och bukten sedd från ovan",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 81,
+    "url": "https://madeiras.se/wp-content/uploads/start-madeiras.jpg",
+    "filename": "start-madeiras.jpg",
+    "alt": "Utsikt över Madeiras kust",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 30,
+    "url": "https://madeiras.se/wp-content/uploads/madeiras-favicon-512.png",
+    "filename": "madeiras-favicon-512.png",
+    "alt": "Madeiras.se ikon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-10-01",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 29,
+    "url": "https://madeiras.se/wp-content/uploads/madeiras-logo-wide.png",
+    "filename": "madeiras-logo-wide.png",
+    "alt": "Madeiras.se logotyp",
+    "caption": "",
+    "w": 1060,
+    "h": 300,
+    "date": "2026-10-01",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lissabons",
+    "id": 54,
+    "url": "https://lissabons.se/wp-content/uploads/var-ska-man-bo-i-lissabon-lissabons-1.jpg",
+    "filename": "var-ska-man-bo-i-lissabon-lissabons-1.jpg",
+    "alt": "Baixa sett från Chiado",
+    "caption": "Foto: Ввласенко / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1545,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "var-ska-man-bo-i-lissabon",
+        "link": "https://lissabons.se/var-ska-man-bo-i-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 53,
+    "url": "https://lissabons.se/wp-content/uploads/start-lissabons-1.jpg",
+    "filename": "start-lissabons-1.jpg",
+    "alt": "Lissabon sett från Miradouro da Graça",
+    "caption": "Foto: Diego Delso / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 955,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "start",
+        "link": "https://lissabons.se/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 52,
+    "url": "https://lissabons.se/wp-content/uploads/lissabon-pa-3-dagar-lissabons.jpg",
+    "filename": "lissabon-pa-3-dagar-lissabons.jpg",
+    "alt": "Miradouro de Santa Luzia",
+    "caption": "Foto: Jakub Hałun / Wikimedia Commons, CC BY 4.0",
+    "w": 1920,
+    "h": 1281,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "lissabon-pa-3-dagar",
+        "link": "https://lissabons.se/lissabon-pa-3-dagar/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 51,
+    "url": "https://lissabons.se/wp-content/uploads/kollektivtrafik-i-lissabon-lissabons.jpg",
+    "filename": "kollektivtrafik-i-lissabon-lissabons.jpg",
+    "alt": "Spårvagn 28 i Lissabon",
+    "caption": "Foto: Ввласенко / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1203,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kollektivtrafik-i-lissabon",
+        "link": "https://lissabons.se/kollektivtrafik-i-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 50,
+    "url": "https://lissabons.se/wp-content/uploads/basta-tiden-lissabon-lissabons.jpg",
+    "filename": "basta-tiden-lissabon-lissabons.jpg",
+    "alt": "Solnedgång över Tejo",
+    "caption": "Foto: Pedro Simões from Lisboa, Portugal / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1234,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-lissabon",
+        "link": "https://lissabons.se/basta-tiden-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 49,
+    "url": "https://lissabons.se/wp-content/uploads/mat-i-lissabon-lissabons.jpg",
+    "filename": "mat-i-lissabon-lissabons.jpg",
+    "alt": "Pastel de nata",
+    "caption": "Foto: Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "mat-i-lissabon",
+        "link": "https://lissabons.se/mat-i-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 48,
+    "url": "https://lissabons.se/wp-content/uploads/sintra-lissabons.jpg",
+    "filename": "sintra-lissabons.jpg",
+    "alt": "Palácio da Pena i Sintra",
+    "caption": "Foto: CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sintra",
+        "link": "https://lissabons.se/sintra/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 47,
+    "url": "https://lissabons.se/wp-content/uploads/saker-att-gora-i-lissabon-lissabons.jpg",
+    "filename": "saker-att-gora-i-lissabon-lissabons.jpg",
+    "alt": "Castelo de São Jorge",
+    "caption": "Foto: Jakub Hałun / Wikimedia Commons, CC BY 4.0",
+    "w": 1920,
+    "h": 1281,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "saker-att-gora-i-lissabon",
+        "link": "https://lissabons.se/saker-att-gora-i-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 46,
+    "url": "https://lissabons.se/wp-content/uploads/resa-till-lissabon-lissabons.jpg",
+    "filename": "resa-till-lissabon-lissabons.jpg",
+    "alt": "Praça do Comércio i Lissabon",
+    "caption": "Foto: Diego Delso / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1302,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "resa-till-lissabon",
+        "link": "https://lissabons.se/resa-till-lissabon/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 45,
+    "url": "https://lissabons.se/wp-content/uploads/belem-lissabons.jpg",
+    "filename": "belem-lissabons.jpg",
+    "alt": "Jerónimosklostret i Belém",
+    "caption": "Foto: Jakub Hałun / Wikimedia Commons, CC BY 4.0",
+    "w": 1920,
+    "h": 1276,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "belem",
+        "link": "https://lissabons.se/belem/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 44,
+    "url": "https://lissabons.se/wp-content/uploads/alfama-lissabons.jpg",
+    "filename": "alfama-lissabons.jpg",
+    "alt": "Gränder i Alfama",
+    "caption": "Foto: Matti Blume / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1285,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "alfama",
+        "link": "https://lissabons.se/alfama/"
+      }
+    ]
+  },
+  {
+    "domain": "lissabons",
+    "id": 43,
+    "url": "https://lissabons.se/wp-content/uploads/var-ska-man-bo-i-lissabon-lissabons.jpg",
+    "filename": "var-ska-man-bo-i-lissabon-lissabons.jpg",
+    "alt": "Taken över Baixa i Lissabon",
+    "caption": "Foto: Dale Cruse &#8211; 10M views from San Francisco, CA, USA / Wikimedia Commons, CC BY 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lissabons",
+    "id": 42,
+    "url": "https://lissabons.se/wp-content/uploads/start-lissabons.jpg",
+    "filename": "start-lissabons.jpg",
+    "alt": "Utsikt över Lissabon",
+    "caption": "Foto: Vernaccia / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 444,
+    "date": "2026-10-02",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lissabons",
+    "id": 36,
+    "url": "https://lissabons.se/wp-content/uploads/lissabons-favicon-512.png",
+    "filename": "lissabons-favicon-512.png",
+    "alt": "Lissabons.se ikon",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-10-01",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "lissabons",
+    "id": 35,
+    "url": "https://lissabons.se/wp-content/uploads/lissabons-logo-wide.png",
+    "filename": "lissabons-logo-wide.png",
+    "alt": "Lissabons.se logotyp",
+    "caption": "",
+    "w": 1110,
+    "h": 300,
+    "date": "2026-10-01",
     "managed": false,
     "used_on": []
   },
