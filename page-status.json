@@ -47787,12 +47787,12 @@
     "title": "Madeira på en vecka – resplan dag för dag",
     "link": "https://madeiras.se/madeira-pa-en-vecka/",
     "modified": "2026-10-02",
-    "words": 756,
+    "words": 766,
     "h2": 5,
     "h3": 7,
-    "images": 0,
+    "images": 1,
     "internal": 15,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -47800,7 +47800,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -47815,13 +47815,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -47831,12 +47830,12 @@
     "title": "Madeira med barn – boende, aktiviteter och tips",
     "link": "https://madeiras.se/madeira-med-barn/",
     "modified": "2026-10-02",
-    "words": 731,
+    "words": 740,
     "h2": 7,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 12,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Hotell",
     "audience": "Familjer",
@@ -47844,7 +47843,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -47859,11 +47858,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -47875,12 +47873,12 @@
     "title": "Nyår på Madeira – fyrverkerierna över Funchal",
     "link": "https://madeiras.se/nyar-pa-madeira/",
     "modified": "2026-10-02",
-    "words": 745,
+    "words": 756,
     "h2": 7,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
@@ -47888,7 +47886,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -47903,13 +47901,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 84,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -47919,12 +47916,12 @@
     "title": "Madeira eller Kanarieöarna? Jämförelse inför vintern",
     "link": "https://madeiras.se/madeira-eller-kanarieoarna/",
     "modified": "2026-10-02",
-    "words": 734,
+    "words": 745,
     "h2": 7,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Jämförelse",
     "audience": "Bred",
@@ -47932,7 +47929,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -47947,11 +47944,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 77,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -47963,12 +47959,12 @@
     "title": "Porto Santo – grannön med nio kilometer sandstrand",
     "link": "https://madeiras.se/porto-santo/",
     "modified": "2026-10-02",
-    "words": 731,
+    "words": 740,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 7,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Stränder",
     "audience": "Bred",
@@ -47976,7 +47972,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -47991,11 +47987,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 77,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -48007,12 +48002,12 @@
     "title": "Porto Moniz – lavapoolerna på Madeiras nordvästra udde",
     "link": "https://madeiras.se/porto-moniz/",
     "modified": "2026-10-02",
-    "words": 739,
+    "words": 749,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 8,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48020,7 +48015,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48035,13 +48030,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48051,12 +48045,12 @@
     "title": "Santana och norra kusten – Madeiras gröna sida",
     "link": "https://madeiras.se/santana/",
     "modified": "2026-10-02",
-    "words": 733,
+    "words": 743,
     "h2": 5,
     "h3": 4,
-    "images": 0,
+    "images": 1,
     "internal": 11,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48064,7 +48058,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48079,13 +48073,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48095,12 +48088,12 @@
     "title": "Caniço och Caniço de Baixo – lugnt boende nära Funchal",
     "link": "https://madeiras.se/canico/",
     "modified": "2026-10-02",
-    "words": 735,
+    "words": 744,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Hotell",
     "audience": "Bred",
@@ -48108,7 +48101,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48123,11 +48116,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 77,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -48139,12 +48131,12 @@
     "title": "Ponta do Sol – Madeiras solsäkra by för långa vistelser",
     "link": "https://madeiras.se/ponta-do-sol/",
     "modified": "2026-10-02",
-    "words": 732,
+    "words": 743,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 10,
-    "external": 0,
+    "external": 1,
     "affiliate": 4,
     "type": "Generell",
     "audience": "Bred",
@@ -48152,7 +48144,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48167,13 +48159,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 84,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48183,12 +48174,12 @@
     "title": "Calheta – sol, sandstrand och marina på västra Madeira",
     "link": "https://madeiras.se/calheta/",
     "modified": "2026-10-02",
-    "words": 775,
+    "words": 786,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 10,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Stränder",
     "audience": "Bred",
@@ -48196,7 +48187,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48211,11 +48202,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -48227,12 +48217,12 @@
     "title": "Levada do Rei – lugn levada i norra Madeiras lagerskog",
     "link": "https://madeiras.se/levada-do-rei/",
     "modified": "2026-10-02",
-    "words": 742,
+    "words": 752,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48240,7 +48230,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48255,13 +48245,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48271,12 +48260,12 @@
     "title": "Vereda dos Balcões – Madeiras lättaste levada",
     "link": "https://madeiras.se/vereda-dos-balcoes/",
     "modified": "2026-10-02",
-    "words": 758,
+    "words": 768,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48284,7 +48273,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48299,13 +48288,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48315,12 +48303,12 @@
     "title": "Ponta de São Lourenço – vandring på Madeiras östra udde",
     "link": "https://madeiras.se/ponta-de-sao-lourenco/",
     "modified": "2026-10-02",
-    "words": 783,
+    "words": 793,
     "h2": 6,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 4,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
@@ -48328,7 +48316,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48343,13 +48331,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 84,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48359,12 +48346,12 @@
     "title": "Pico do Arieiro till Pico Ruivo – vandring på Madeiras tak",
     "link": "https://madeiras.se/pico-do-arieiro-pico-ruivo/",
     "modified": "2026-10-02",
-    "words": 795,
+    "words": 804,
     "h2": 5,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
@@ -48372,7 +48359,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48387,13 +48374,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48403,12 +48389,12 @@
     "title": "Levada do Caldeirão Verde – tunnlar och lagerskog",
     "link": "https://madeiras.se/levada-do-caldeirao-verde/",
     "modified": "2026-10-02",
-    "words": 798,
+    "words": 807,
     "h2": 5,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 10,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48416,7 +48402,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48431,13 +48417,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48447,12 +48432,12 @@
     "title": "Levada das 25 Fontes och Risco – guide till leden",
     "link": "https://madeiras.se/levada-das-25-fontes/",
     "modified": "2026-10-02",
-    "words": 810,
+    "words": 821,
     "h2": 5,
     "h3": 2,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Generell",
     "audience": "Bred",
@@ -48460,7 +48445,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48475,13 +48460,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -48503,7 +48487,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48551,7 +48535,7 @@
       "Aktiviteter (GYG)",
       "Försäkring"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48594,7 +48578,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48637,7 +48621,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48680,7 +48664,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48723,7 +48707,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48766,7 +48750,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48809,7 +48793,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48877,6 +48861,823 @@
   },
   {
     "domain": "lissabons",
+    "id": 193,
+    "slug": "lissabon-eller-barcelona",
+    "title": "Lissabon eller Barcelona? Jämförelse av städerna",
+    "link": "https://lissabons.se/lissabon-eller-barcelona/",
+    "modified": "2026-10-02",
+    "words": 735,
+    "h2": 9,
+    "h3": 0,
+    "images": 1,
+    "internal": 9,
+    "external": 2,
+    "affiliate": 3,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 192,
+    "slug": "lissabon-pa-5-dagar",
+    "title": "Lissabon på 5 dagar – resplan dag för dag",
+    "link": "https://lissabons.se/lissabon-pa-5-dagar/",
+    "modified": "2026-10-02",
+    "words": 781,
+    "h2": 6,
+    "h3": 5,
+    "images": 1,
+    "internal": 19,
+    "external": 2,
+    "affiliate": 6,
+    "type": "Reseplan",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 191,
+    "slug": "lissabon-for-par",
+    "title": "Lissabon för par – romantiska tips och hotell",
+    "link": "https://lissabons.se/lissabon-for-par/",
+    "modified": "2026-10-02",
+    "words": 751,
+    "h2": 8,
+    "h3": 5,
+    "images": 1,
+    "internal": 12,
+    "external": 2,
+    "affiliate": 6,
+    "type": "Hotell",
+    "audience": "Par",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 190,
+    "slug": "lissabon-pa-vintern",
+    "title": "Lissabon på vintern – väder, priser och tips",
+    "link": "https://lissabons.se/lissabon-pa-vintern/",
+    "modified": "2026-10-02",
+    "words": 786,
+    "h2": 7,
+    "h3": 5,
+    "images": 1,
+    "internal": 13,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 189,
+    "slug": "lissabon-i-december",
+    "title": "Lissabon i december – jul, nyår och väder",
+    "link": "https://lissabons.se/lissabon-i-december/",
+    "modified": "2026-10-02",
+    "words": 779,
+    "h2": 7,
+    "h3": 3,
+    "images": 1,
+    "internal": 9,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Säsong/väder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 188,
+    "slug": "alcantara-och-lx-factory",
+    "title": "Alcântara och LX Factory – guide",
+    "link": "https://lissabons.se/alcantara-och-lx-factory/",
+    "modified": "2026-10-02",
+    "words": 766,
+    "h2": 8,
+    "h3": 0,
+    "images": 1,
+    "internal": 10,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 187,
+    "slug": "parque-das-nacoes",
+    "title": "Parque das Nações – Oceanário och moderna Lissabon",
+    "link": "https://lissabons.se/parque-das-nacoes/",
+    "modified": "2026-10-02",
+    "words": 794,
+    "h2": 4,
+    "h3": 5,
+    "images": 1,
+    "internal": 8,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 186,
+    "slug": "principe-real-och-estrela",
+    "title": "Príncipe Real och Estrela – guide till kvarteren",
+    "link": "https://lissabons.se/principe-real-och-estrela/",
+    "modified": "2026-10-02",
+    "words": 944,
+    "h2": 5,
+    "h3": 8,
+    "images": 1,
+    "internal": 10,
+    "external": 2,
+    "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 100,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 98,
+    "slug": "vad-kostar-lissabon",
+    "title": "Vad kostar Lissabon? Priser, budget och Lisboa Card",
+    "link": "https://lissabons.se/vad-kostar-lissabon/",
+    "modified": "2026-10-02",
+    "words": 767,
+    "h2": 9,
+    "h3": 0,
+    "images": 1,
+    "internal": 10,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 97,
+    "slug": "lissabon-eller-porto",
+    "title": "Lissabon eller Porto? Jämförelse av städerna",
+    "link": "https://lissabons.se/lissabon-eller-porto/",
+    "modified": "2026-10-02",
+    "words": 742,
+    "h2": 8,
+    "h3": 0,
+    "images": 1,
+    "internal": 9,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Jämförelse",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 96,
+    "slug": "lissabon-med-barn",
+    "title": "Lissabon med barn – aktiviteter och praktiska råd",
+    "link": "https://lissabons.se/lissabon-med-barn/",
+    "modified": "2026-10-02",
+    "words": 738,
+    "h2": 6,
+    "h3": 3,
+    "images": 1,
+    "internal": 11,
+    "external": 1,
+    "affiliate": 4,
+    "type": "Aktiviteter",
+    "audience": "Familjer",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 1,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 3,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 95,
+    "slug": "nattliv-i-lissabon",
+    "title": "Nattliv i Lissabon – kvarter, barer och klubbar",
+    "link": "https://lissabons.se/nattliv-i-lissabon/",
+    "modified": "2026-10-02",
+    "words": 761,
+    "h2": 8,
+    "h3": 4,
+    "images": 1,
+    "internal": 9,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Mat & nöje",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 94,
+    "slug": "fado-i-lissabon",
+    "title": "Fado i Lissabon – var du hittar en äkta kväll",
+    "link": "https://lissabons.se/fado-i-lissabon/",
+    "modified": "2026-10-02",
+    "words": 742,
+    "h2": 6,
+    "h3": 3,
+    "images": 1,
+    "internal": 12,
+    "external": 2,
+    "affiliate": 6,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 93,
+    "slug": "dagsutflykter-fran-lissabon",
+    "title": "Dagsutflykter från Lissabon – Sintra, Óbidos, Nazaré med fler",
+    "link": "https://lissabons.se/dagsutflykter-fran-lissabon/",
+    "modified": "2026-10-02",
+    "words": 758,
+    "h2": 8,
+    "h3": 0,
+    "images": 1,
+    "internal": 11,
+    "external": 2,
+    "affiliate": 6,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 1,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 1,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 92,
+    "slug": "strander-nara-lissabon",
+    "title": "Stränder nära Lissabon – Cascais, Caparica och Arrábida",
+    "link": "https://lissabons.se/strander-nara-lissabon/",
+    "modified": "2026-10-02",
+    "words": 750,
+    "h2": 7,
+    "h3": 0,
+    "images": 1,
+    "internal": 10,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 91,
+    "slug": "cascais",
+    "title": "Cascais – dagstur och stränder nära Lissabon",
+    "link": "https://lissabons.se/cascais/",
+    "modified": "2026-10-02",
+    "words": 783,
+    "h2": 8,
+    "h3": 0,
+    "images": 1,
+    "internal": 9,
+    "external": 2,
+    "affiliate": 5,
+    "type": "Stränder",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 87,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Berikad",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 90,
+    "slug": "graca-och-mouraria",
+    "title": "Graça och Mouraria – utsikten och fadons vagga",
+    "link": "https://lissabons.se/graca-och-mouraria/",
+    "modified": "2026-10-02",
+    "words": 801,
+    "h2": 6,
+    "h3": 3,
+    "images": 1,
+    "internal": 11,
+    "external": 2,
+    "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 89,
+    "slug": "baixa",
+    "title": "Baixa – guide till Lissabons platta centrum",
+    "link": "https://lissabons.se/baixa/",
+    "modified": "2026-10-02",
+    "words": 816,
+    "h2": 4,
+    "h3": 5,
+    "images": 1,
+    "internal": 10,
+    "external": 1,
+    "affiliate": 3,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
+    "id": 88,
+    "slug": "chiado-och-bairro-alto",
+    "title": "Chiado och Bairro Alto – guide till kvarteren",
+    "link": "https://lissabons.se/chiado-och-bairro-alto/",
+    "modified": "2026-10-02",
+    "words": 825,
+    "h2": 6,
+    "h3": 4,
+    "images": 1,
+    "internal": 10,
+    "external": 2,
+    "affiliate": 5,
+    "type": "Generell",
+    "audience": "Bred",
+    "aff_angle": [
+      "Hotell",
+      "Aktiviteter (GYG)"
+    ],
+    "indexed": true,
+    "cta": 0,
+    "cta_bd": {
+      "hyrbil": 0,
+      "hcom": 0,
+      "vrbo": 0,
+      "hotell": 2,
+      "boende": 0,
+      "flyg": 0,
+      "gyg": 0
+    },
+    "money_total": 2,
+    "gyg_issue": [],
+    "img_issue": [],
+    "qa": "❌ Fix krävs",
+    "needs_image": false,
+    "score": 94,
+    "flags": [
+      "⛔ h1 i body"
+    ],
+    "tier": "Best-in-class",
+    "contaminated": false
+  },
+  {
+    "domain": "lissabons",
     "id": 19,
     "slug": "om-lissabons",
     "title": "Om Lissabons.se",
@@ -48894,7 +49695,7 @@
     "aff_angle": [
       "Funnel/allmän"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48927,12 +49728,12 @@
     "title": "Lissabon på 3 dagar – resplan dag för dag",
     "link": "https://lissabons.se/lissabon-pa-3-dagar/",
     "modified": "2026-10-02",
-    "words": 756,
+    "words": 766,
     "h2": 8,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 11,
-    "external": 1,
+    "external": 2,
     "affiliate": 6,
     "type": "Reseplan",
     "audience": "Bred",
@@ -48940,7 +49741,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -48955,11 +49756,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -48971,12 +49771,12 @@
     "title": "Kollektivtrafik i Lissabon – spårvagn, metro och reskort",
     "link": "https://lissabons.se/kollektivtrafik-i-lissabon/",
     "modified": "2026-10-02",
-    "words": 751,
+    "words": 760,
     "h2": 9,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Generell",
     "audience": "Bred",
@@ -48984,7 +49784,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 1,
@@ -48999,13 +49799,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 84,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -49015,12 +49814,12 @@
     "title": "Bästa tiden att resa till Lissabon – väder månad för månad",
     "link": "https://lissabons.se/basta-tiden-lissabon/",
     "modified": "2026-10-02",
-    "words": 768,
+    "words": 787,
     "h2": 9,
     "h3": 0,
-    "images": 0,
-    "internal": 9,
-    "external": 0,
+    "images": 1,
+    "internal": 11,
+    "external": 1,
     "affiliate": 3,
     "type": "Säsong/väder",
     "audience": "Bred",
@@ -49028,7 +49827,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49043,11 +49842,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 77,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -49059,12 +49857,12 @@
     "title": "Mat i Lissabon – rätter, restauranger och fällor",
     "link": "https://lissabons.se/mat-i-lissabon/",
     "modified": "2026-10-02",
-    "words": 748,
+    "words": 758,
     "h2": 9,
     "h3": 3,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 5,
     "type": "Mat & nöje",
     "audience": "Bred",
@@ -49072,7 +49870,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49087,11 +49885,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -49103,12 +49900,12 @@
     "title": "Sintra – dagstur från Lissabon med palats och tips",
     "link": "https://lissabons.se/sintra/",
     "modified": "2026-10-02",
-    "words": 774,
+    "words": 785,
     "h2": 6,
     "h3": 3,
-    "images": 0,
+    "images": 1,
     "internal": 7,
-    "external": 1,
+    "external": 2,
     "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
@@ -49116,7 +49913,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49131,13 +49928,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -49147,12 +49943,12 @@
     "title": "Saker att göra i Lissabon – de bästa upplevelserna",
     "link": "https://lissabons.se/saker-att-gora-i-lissabon/",
     "modified": "2026-10-02",
-    "words": 787,
+    "words": 800,
     "h2": 4,
     "h3": 8,
-    "images": 0,
-    "internal": 13,
-    "external": 1,
+    "images": 1,
+    "internal": 16,
+    "external": 2,
     "affiliate": 6,
     "type": "Aktiviteter",
     "audience": "Bred",
@@ -49160,7 +49956,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49175,11 +49971,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -49191,12 +49986,12 @@
     "title": "Resa till Lissabon – flyg, flygplats och praktiska tips",
     "link": "https://lissabons.se/resa-till-lissabon/",
     "modified": "2026-10-02",
-    "words": 783,
+    "words": 793,
     "h2": 9,
     "h3": 0,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 0,
+    "external": 1,
     "affiliate": 3,
     "type": "Praktiskt/aktiv",
     "audience": "Bred",
@@ -49204,7 +49999,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49219,13 +50014,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 84,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -49235,12 +50029,12 @@
     "title": "Belém – guide till klostret, tornet och pastéis de Belém",
     "link": "https://lissabons.se/belem/",
     "modified": "2026-10-02",
-    "words": 787,
+    "words": 797,
     "h2": 6,
     "h3": 4,
-    "images": 0,
+    "images": 1,
     "internal": 10,
-    "external": 1,
+    "external": 2,
     "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
@@ -49248,7 +50042,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49263,13 +50057,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -49279,12 +50072,12 @@
     "title": "Alfama – guide till Lissabons äldsta kvarter",
     "link": "https://lissabons.se/alfama/",
     "modified": "2026-10-02",
-    "words": 750,
+    "words": 760,
     "h2": 5,
     "h3": 5,
-    "images": 0,
+    "images": 1,
     "internal": 9,
-    "external": 1,
+    "external": 2,
     "affiliate": 5,
     "type": "Generell",
     "audience": "Bred",
@@ -49292,7 +50085,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49307,13 +50100,12 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 89,
+    "needs_image": false,
+    "score": 94,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
-    "tier": "Berikad",
+    "tier": "Best-in-class",
     "contaminated": false
   },
   {
@@ -49323,12 +50115,12 @@
     "title": "Var ska man bo i Lissabon? Kvarteren jämförda",
     "link": "https://lissabons.se/var-ska-man-bo-i-lissabon/",
     "modified": "2026-10-02",
-    "words": 841,
+    "words": 863,
     "h2": 6,
     "h3": 0,
-    "images": 0,
-    "internal": 11,
-    "external": 1,
+    "images": 1,
+    "internal": 17,
+    "external": 2,
     "affiliate": 6,
     "type": "Jämförelse",
     "audience": "Bred",
@@ -49336,7 +50128,7 @@
       "Hotell",
       "Aktiviteter (GYG)"
     ],
-    "indexed": false,
+    "indexed": true,
     "cta": 0,
     "cta_bd": {
       "hyrbil": 0,
@@ -49351,11 +50143,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 82,
+    "needs_image": false,
+    "score": 87,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Berikad",
     "contaminated": false
@@ -49367,12 +50158,12 @@
     "title": "Lissabon – svensk reseguide",
     "link": "https://lissabons.se/",
     "modified": "2026-10-02",
-    "words": 921,
+    "words": 957,
     "h2": 7,
     "h3": 4,
-    "images": 0,
-    "internal": 22,
-    "external": 1,
+    "images": 1,
+    "internal": 32,
+    "external": 2,
     "affiliate": 6,
     "type": "Startsida",
     "audience": "Bred",
@@ -49395,11 +50186,10 @@
     "gyg_issue": [],
     "img_issue": [],
     "qa": "❌ Fix krävs",
-    "needs_image": true,
-    "score": 95,
+    "needs_image": false,
+    "score": 100,
     "flags": [
-      "⛔ h1 i body",
-      "📷 väntar bild"
+      "⛔ h1 i body"
     ],
     "tier": "Best-in-class",
     "contaminated": false
