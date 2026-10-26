@@ -13822,12 +13822,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "var-ska-man-bo-pa-gran-canaria",
-        "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -15425,12 +15420,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "var-ska-man-bo-pa-gran-canaria",
-        "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16412,12 +16402,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-hotellen-pa-gran-canaria",
-        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -17497,10 +17482,6 @@
       {
         "slug": "hyrbil-pa-gran-canaria",
         "link": "https://grancanaria.se/hyrbil-pa-gran-canaria/"
-      },
-      {
-        "slug": "var-ska-man-bo-pa-gran-canaria",
-        "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
       }
     ]
   },
@@ -17615,10 +17596,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "maspalomas-dynerna",
-        "link": "https://grancanaria.se/maspalomas-dynerna/"
-      },
-      {
         "slug": "var-ska-man-bo-pa-gran-canaria",
         "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
       }
@@ -17718,12 +17695,7 @@
     "h": 1920,
     "date": "2026-05-24",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-hotellen-pa-gran-canaria",
-        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -18124,10 +18096,6 @@
       {
         "slug": "las-canteras-strandguide",
         "link": "https://grancanaria.se/las-canteras-strandguide/"
-      },
-      {
-        "slug": "omrade-las-palmas",
-        "link": "https://grancanaria.se/omrade-las-palmas/"
       }
     ]
   },
@@ -18143,10 +18111,6 @@
     "date": "2026-05-23",
     "managed": true,
     "used_on": [
-      {
-        "slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
-        "link": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/"
-      },
       {
         "slug": "all-inclusive-gran-canaria",
         "link": "https://grancanaria.se/all-inclusive-gran-canaria/"
@@ -18174,10 +18138,6 @@
       {
         "slug": "basta-stranderna-pa-gran-canaria",
         "link": "https://grancanaria.se/basta-stranderna-pa-gran-canaria/"
-      },
-      {
-        "slug": "basta-hotellen-pa-gran-canaria",
-        "link": "https://grancanaria.se/basta-hotellen-pa-gran-canaria/"
       }
     ]
   },
@@ -18215,10 +18175,6 @@
     "date": "2026-05-23",
     "managed": true,
     "used_on": [
-      {
-        "slug": "nattliv-gran-canaria",
-        "link": "https://grancanaria.se/nattliv-gran-canaria/"
-      },
       {
         "slug": "omrade-maspalomas",
         "link": "https://grancanaria.se/omrade-maspalomas/"
@@ -18482,12 +18438,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-teneriffa",
-        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -18500,12 +18451,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-pa-teneriffa",
-        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -18518,12 +18464,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-teneriffa",
-        "link": "https://teneriffa.se/7-dagar-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -18608,12 +18549,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-par-roadtrip",
-        "link": "https://teneriffa.se/teneriffa-par-roadtrip/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -18842,12 +18778,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "puerto-de-la-cruz-teneriffa",
-        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -18968,12 +18899,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-vandring",
-        "link": "https://teneriffa.se/teneriffa-vandring/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19058,12 +18984,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "5-dagar-pa-teneriffa",
-        "link": "https://teneriffa.se/5-dagar-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19076,12 +18997,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-tiden-att-resa-till-teneriffa",
-        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19094,12 +19010,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-teneriffa-vanner",
-        "link": "https://teneriffa.se/hyrbil-teneriffa-vanner/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19130,12 +19041,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-teneriffa-barnfamilj",
-        "link": "https://teneriffa.se/hyrbil-teneriffa-barnfamilj/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19184,12 +19090,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-teneriffa",
-        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -19889,12 +19790,7 @@
     "h": 1024,
     "date": "2026-06-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-pa-teneriffa",
-        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20243,12 +20139,7 @@
     "h": 1024,
     "date": "2026-06-19",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-teneriffa",
-        "link": "https://teneriffa.se/7-dagar-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20441,12 +20332,7 @@
     "h": 1024,
     "date": "2026-06-19",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-vandring",
-        "link": "https://teneriffa.se/teneriffa-vandring/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20513,12 +20399,7 @@
     "h": 1024,
     "date": "2026-06-19",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "5-dagar-pa-teneriffa",
-        "link": "https://teneriffa.se/5-dagar-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20531,12 +20412,7 @@
     "h": 1024,
     "date": "2026-06-19",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-tiden-att-resa-till-teneriffa",
-        "link": "https://teneriffa.se/basta-tiden-att-resa-till-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20567,12 +20443,7 @@
     "h": 1024,
     "date": "2026-06-19",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-teneriffa-barnfamilj",
-        "link": "https://teneriffa.se/hyrbil-teneriffa-barnfamilj/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20747,12 +20618,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-teneriffa",
-        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20765,12 +20631,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-pa-teneriffa",
-        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20783,12 +20644,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-teneriffa",
-        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -20855,12 +20711,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-par-roadtrip",
-        "link": "https://teneriffa.se/teneriffa-par-roadtrip/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21035,12 +20886,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "puerto-de-la-cruz-teneriffa",
-        "link": "https://teneriffa.se/puerto-de-la-cruz-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21089,12 +20935,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyrbil-teneriffa-vanner",
-        "link": "https://teneriffa.se/hyrbil-teneriffa-vanner/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21125,12 +20966,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-teneriffa",
-        "link": "https://teneriffa.se/basta-stranderna-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21771,12 +21607,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-strandar-guide",
-        "link": "https://teneriffa.se/teneriffa-strandar-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -22826,16 +22657,7 @@
     "h": 1067,
     "date": "2026-05-30",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-flygplats-transfer-ta-sig-runt",
-        "link": "https://teneriffa.se/teneriffa-flygplats-transfer-ta-sig-runt/"
-      },
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -22915,12 +22737,7 @@
     "h": 1024,
     "date": "2026-05-28",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "hyrbil-pa-teneriffa",
-        "link": "https://teneriffa.se/hyrbil-pa-teneriffa/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -23168,12 +22985,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -23204,12 +23016,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -23276,12 +23083,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-lanzarote",
-        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -23294,12 +23096,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-hotellen-pa-lanzarote",
-        "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -23631,12 +23428,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -23927,12 +23719,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "5-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/5-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -24035,12 +23822,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -24071,12 +23853,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-stranderna-pa-lanzarote",
-        "link": "https://lanzarote.se/basta-stranderna-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -24089,12 +23866,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "basta-hotellen-pa-lanzarote",
-        "link": "https://lanzarote.se/basta-hotellen-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -24187,12 +23959,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "7-dagar-pa-lanzarote",
-        "link": "https://lanzarote.se/7-dagar-pa-lanzarote/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "lanzarote",
@@ -28250,12 +28017,7 @@
     "h": 1024,
     "date": "2026-05-31",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "caleta-de-fuste-fuerteventura",
-        "link": "https://fuerteventura.se/caleta-de-fuste-fuerteventura/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "fuerteventura",
@@ -28855,6 +28617,528 @@
   },
   {
     "domain": "chamonix",
+    "id": 965,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-chalets-de-loriaz.jpg",
+    "filename": "chamonix-chalets-de-loriaz.jpg",
+    "alt": "Fäbodarna vid Loriaz med Grands Montets i bakgrunden",
+    "caption": "Fäbodarna vid Loriaz, med Grands Montets i bakgrunden. Foto: Rémih (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sasongsboende-chamonix",
+        "link": "https://chamonix.se/sasongsboende-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 963,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-skarmflyg-start-sno.jpg",
+    "filename": "chamonix-skarmflyg-start-sno.jpg",
+    "alt": "Skärmflygare som startar från snön ovanför Chamonix-dalen",
+    "caption": "Skärmflygstart ovanför dalen — ett av sommarens populäraste äventyr. Foto: Vassil (CC0).",
+    "w": 960,
+    "h": 638,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "topp-10-sommaraktiviteter-chamonix",
+        "link": "https://chamonix.se/topp-10-sommaraktiviteter-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 961,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-stollift-index-flegere.jpg",
+    "filename": "chamonix-stollift-index-flegere.jpg",
+    "alt": "Stolliften L’Index i Flégère-området en snöig dag",
+    "caption": "Stolliften L’Index i Brévent-Flégère. Båda liftkorten gäller här. Foto: T. Thielemans (CC BY 3.0).",
+    "w": 960,
+    "h": 638,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "liftkort-chamonix",
+        "link": "https://chamonix.se/liftkort-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 959,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-saint-gervais-pist-utsikt.jpg",
+    "filename": "chamonix-saint-gervais-pist-utsikt.jpg",
+    "alt": "Snötäckt sluttning med chalet i Saint-Gervais-området",
+    "caption": "Utsikt från pisterna i Saint-Gervais, som ingår i Mont-Blanc Unlimited. Foto: Matti Blume (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidresa-chamonix",
+        "link": "https://chamonix.se/skidresa-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 957,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-mer-de-glace-isgrottan-stig.jpg",
+    "filename": "chamonix-mer-de-glace-isgrottan-stig.jpg",
+    "alt": "Mer de Glace sedd från stigen ner till isgrottan",
+    "caption": "Mer de Glace från stigen ner mot isgrottan. Foto: Christian David (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 640,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "mer-de-glace-chamonix",
+        "link": "https://chamonix.se/mer-de-glace-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 955,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-argentiere-gata-butiker.jpg",
+    "filename": "chamonix-argentiere-gata-butiker.jpg",
+    "alt": "Gata med butiker och hotell i Argentière",
+    "caption": "Butiker och hotell längs gatan i Argentière. Foto: Lure (CC BY-SA 3.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vad-kostar-chamonix",
+        "link": "https://chamonix.se/vad-kostar-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 953,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-stig-mont-blanc-utsikt.jpg",
+    "filename": "chamonix-stig-mont-blanc-utsikt.jpg",
+    "alt": "Stig ovanför Chamonix med utsikt mot Mont Blanc",
+    "caption": "Stig ovanför dalen med utsikt mot Mont Blanc. Foto: Paasikivi (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-vs-val-disere",
+        "link": "https://chamonix.se/chamonix-vs-val-disere/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 951,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-aiguille-verte-aiguille-du-midi.jpg",
+    "filename": "chamonix-aiguille-verte-aiguille-du-midi.jpg",
+    "alt": "Aiguille Verte och Aiguille du Midi sedda från Col des Rognes",
+    "caption": "Aiguille Verte och Aiguille du Midi från Col des Rognes. Foto: Jacek Rużyczka (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 639,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-vs-verbier",
+        "link": "https://chamonix.se/chamonix-vs-verbier/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 949,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-mont-maudit-mont-blanc.jpg",
+    "filename": "chamonix-mont-maudit-mont-blanc.jpg",
+    "alt": "Mont Maudit och Mont Blanc sedda från Aiguille du Midi",
+    "caption": "Mont Maudit och Mont Blanc från Aiguille du Midi. Foto: Christian David (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 640,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-vs-zermatt",
+        "link": "https://chamonix.se/chamonix-vs-zermatt/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 947,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-dalen-fran-flegere.jpg",
+    "filename": "chamonix-dalen-fran-flegere.jpg",
+    "alt": "Chamonix-dalen och Mont Blanc sedda från La Flégère",
+    "caption": "Chamonix-dalen och Mont Blanc från La Flégère. Foto: Simo Räsänen (CC BY-SA 3.0).",
+    "w": 960,
+    "h": 640,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-vs-tre-vallees",
+        "link": "https://chamonix.se/chamonix-vs-tre-vallees/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 945,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-linbana-brevent-utsikt.jpg",
+    "filename": "chamonix-linbana-brevent-utsikt.jpg",
+    "alt": "Utsikt från linbanan ner mot Chamonix med Mont Blanc i bakgrunden",
+    "caption": "På väg upp med linbanan till Brévent. Foto: Quentinusc (CC BY-SA 3.0).",
+    "w": 960,
+    "h": 716,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skiduthyrning-chamonix",
+        "link": "https://chamonix.se/skiduthyrning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 943,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-skidskola-latt-pist.jpg",
+    "filename": "chamonix-skidskola-latt-pist.jpg",
+    "alt": "Skidåkare på en bred och lätt pist i Les Houches–Saint-Gervais",
+    "caption": "Breda, lätta pister i Les Houches–Saint-Gervais passar barn och nybörjare. Foto: Matti Blume (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skidskola-chamonix",
+        "link": "https://chamonix.se/skidskola-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 941,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-centrum-promenade-marie-paradis.jpg",
+    "filename": "chamonix-centrum-promenade-marie-paradis.jpg",
+    "alt": "Promenade Marie Paradis i centrala Chamonix en vinterdag",
+    "caption": "Promenade Marie Paradis i centrum, med bergen alldeles inpå. Foto: Romainbehar (CC0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-stad",
+        "link": "https://chamonix.se/chamonix-stad/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 939,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-argentiere-bygata.jpg",
+    "filename": "chamonix-argentiere-bygata.jpg",
+    "alt": "Trähus och butiker längs gatan i Argentière",
+    "caption": "Byggatan i Argentière. Foto: Tiia Monto (CC BY-SA 3.0).",
+    "w": 960,
+    "h": 519,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "argentiere-chamonix",
+        "link": "https://chamonix.se/argentiere-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 937,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-les-houches-byn-prarion.jpg",
+    "filename": "chamonix-les-houches-byn-prarion.jpg",
+    "alt": "Byn Les Houches med Mont Blanc-massivet i bakgrunden",
+    "caption": "Les Houches sett från Prarion, med Mont Blanc-massivet bakom. Foto: AntonyB (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 651,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "les-houches-chamonix",
+        "link": "https://chamonix.se/les-houches-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 935,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-vallorcine-mont-blanc-express.jpg",
+    "filename": "chamonix-vallorcine-mont-blanc-express.jpg",
+    "alt": "Mont-Blanc Express-tåget vid perrongen i Vallorcine",
+    "caption": "Mont-Blanc Express i Vallorcine. Tåget går genom hela dalen till Chamonix. Foto: Remontees (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vallorcine-chamonix",
+        "link": "https://chamonix.se/vallorcine-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 933,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-hotell-argentiere-huvudgata.jpg",
+    "filename": "chamonix-hotell-argentiere-huvudgata.jpg",
+    "alt": "Klassisk byggnad med balkonger längs huvudgatan i Argentière",
+    "caption": "Klassisk alpbebyggelse längs huvudgatan i Argentière. Foto: Tiia Monto (CC BY-SA 3.0).",
+    "w": 960,
+    "h": 529,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hotell-chamonix",
+        "link": "https://chamonix.se/hotell-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 931,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-december-nysno-argentiere.jpg",
+    "filename": "chamonix-december-nysno-argentiere.jpg",
+    "alt": "Snöig dalgång vid Argentière i början av vintern",
+    "caption": "Nysnö över Argentière, längst upp i Chamonix-dalen. Foto: Falk2 (CC BY-SA 4.0).",
+    "w": 960,
+    "h": 629,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-december",
+        "link": "https://chamonix.se/chamonix-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 929,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-november-forsta-snon.jpg",
+    "filename": "chamonix-november-forsta-snon.jpg",
+    "alt": "Snöpudrad lärkskog och bergskam i Franska alperna",
+    "caption": "Första snön i lärkskogen — november är väntans månad. Foto: Orgio89 (CC0).",
+    "w": 960,
+    "h": 720,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-november",
+        "link": "https://chamonix.se/chamonix-i-november/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 927,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-oktober-aiguille-verte-host.jpg",
+    "filename": "chamonix-oktober-aiguille-verte-host.jpg",
+    "alt": "Aiguille Verte ovanför höstfärgad skog i Argentière",
+    "caption": "Höstfärger under Aiguille Verte i Argentière. Foto: Rémih (CC BY-SA 4.0).",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-oktober",
+        "link": "https://chamonix.se/chamonix-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 925,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-september-argentiereglaciaren.jpg",
+    "filename": "chamonix-september-argentiereglaciaren.jpg",
+    "alt": "Argentièreglaciären sedd från La Chavanne",
+    "caption": "Argentièreglaciären från La Chavanne, ovanför Le Tour. Foto: Rémih (CC BY-SA 4.0).",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-september",
+        "link": "https://chamonix.se/chamonix-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 923,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-augusti-skarmflygare.jpg",
+    "filename": "chamonix-augusti-skarmflygare.jpg",
+    "alt": "Skärmflygare över Chamonix-dalen sedda från Grands Montets",
+    "caption": "Skärmflygare över dalen en sommardag. Foto: Vassil (CC0).",
+    "w": 1600,
+    "h": 1072,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-augusti",
+        "link": "https://chamonix.se/chamonix-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 921,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-juli-vandring-balkongstig.jpg",
+    "filename": "chamonix-juli-vandring-balkongstig.jpg",
+    "alt": "Vandrare på en stig ovanför Chamonix-dalen med glaciärer i bakgrunden",
+    "caption": "Vandring på balkongstigarna ovanför dalen. Foto: Paasikivi (CC BY-SA 4.0).",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-juli",
+        "link": "https://chamonix.se/chamonix-i-juli/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 919,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-juni-lac-blanc.jpg",
+    "filename": "chamonix-juni-lac-blanc.jpg",
+    "alt": "Lac Blanc med Mont Blanc-massivet i bakgrunden",
+    "caption": "Lac Blanc (2 352 m), en av dalens mest populära dagsvandringar. Foto: Tiia Monto (CC BY-SA 3.0).",
+    "w": 1600,
+    "h": 1002,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-juni",
+        "link": "https://chamonix.se/chamonix-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 917,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-maj-col-de-balme-stig.jpg",
+    "filename": "chamonix-maj-col-de-balme-stig.jpg",
+    "alt": "Stig genom lärkskog upp mot Col de Balme",
+    "caption": "Lärkskogen mot Col de Balme. I maj ligger snön kvar högre upp. Foto: Dominicus Johannes Bergsma (CC BY-SA 3.0).",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-maj",
+        "link": "https://chamonix.se/chamonix-i-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 915,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-april-les-houches-prarion.jpg",
+    "filename": "chamonix-april-les-houches-prarion.jpg",
+    "alt": "Nedre delen av Prarion-pisten i Les Houches på våren, med snöklädda toppar",
+    "caption": "Vår i Les Houches: snön drar sig uppåt medan topparna fortfarande är vita. Foto: AntonyB (CC BY-SA 4.0).",
+    "w": 1600,
+    "h": 1228,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-april",
+        "link": "https://chamonix.se/chamonix-i-april/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 913,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-mars-snotackta-pister.jpg",
+    "filename": "chamonix-mars-snotackta-pister.jpg",
+    "alt": "Snötäckta pister och bergstoppar i Chamonix-dalen en solig dag",
+    "caption": "Sol och djup snö — mars ger ofta vinterns bästa balans. Foto: Chris Biron (CC0).",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-mars",
+        "link": "https://chamonix.se/chamonix-i-mars/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 911,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-februari-mont-blanc-linsmoln.jpg",
+    "filename": "chamonix-februari-mont-blanc-linsmoln.jpg",
+    "alt": "Mont Blanc med linsformade moln, sett från Planpraz",
+    "caption": "Mont Blanc under linsmoln, sett från Planpraz i Brévent-området. Foto: Henk Monster (CC BY 3.0).",
+    "w": 1600,
+    "h": 902,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-februari",
+        "link": "https://chamonix.se/chamonix-i-februari/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 909,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-januari-skidbacke.jpg",
+    "filename": "chamonix-januari-skidbacke.jpg",
+    "alt": "Skidåkare i backen ovanför Chamonix en klar januaridag",
+    "caption": "Klar januaridag i backarna ovanför Chamonix. Foto: Daniel Simpson (CC BY 2.0).",
+    "w": 1600,
+    "h": 1065,
+    "date": "2026-10-22",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "chamonix-i-januari",
+        "link": "https://chamonix.se/chamonix-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 726,
     "url": "https://chamonix.se/wp-content/uploads/2026/08/varianter-av-vallee-blanche-chamonix.jpg",
     "filename": "varianter-av-vallee-blanche-chamonix.jpg",
@@ -29052,12 +29336,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -29286,12 +29565,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidakning-chamonix",
-        "link": "https://chamonix.se/skidakning-chamonix/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -29340,12 +29614,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -29448,12 +29717,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -29740,12 +30004,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidakning-chamonix",
-        "link": "https://chamonix.se/skidakning-chamonix/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30108,12 +30367,7 @@
     "h": 1024,
     "date": "2026-06-25",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidguide-chamonix-omraden",
-        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30462,12 +30716,7 @@
     "h": 1024,
     "date": "2026-06-25",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidguide-chamonix-omraden",
-        "link": "https://chamonix.se/skidguide-chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30662,7 +30911,7 @@
     "id": 338,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/skidakning-chamonix.jpg",
     "filename": "skidakning-chamonix.jpg",
-    "alt": "Skidåkning i Chamonix-Mont-Blanc",
+    "alt": "Skidåkare i en bred backe ovanför en bergsby med snöklädda toppar",
     "caption": "Skidåkning i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -30675,7 +30924,7 @@
     "id": 336,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
     "filename": "resa-till-chamonix-hyrbil-fran-geneve-chamonix.jpg",
-    "alt": "Hyrbil från Genève i Chamonix-Mont-Blanc",
+    "alt": "Bil på en väg genom en grön alpdal mot snöklädda toppar",
     "caption": "Hyrbil från Genève i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -30699,12 +30948,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30729,7 +30973,7 @@
     "id": 330,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/lyxhotell-chamonix.jpg",
     "filename": "lyxhotell-chamonix.jpg",
-    "alt": "Lyxhotell i Chamonix-Mont-Blanc",
+    "alt": "Stort hotell med uteservering och trädgård framför snöklädda berg",
     "caption": "Lyxhotell i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -30825,12 +31069,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30879,12 +31118,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "chamonix-omraden",
-        "link": "https://chamonix.se/chamonix-omraden/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30951,12 +31185,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidakning-chamonix",
-        "link": "https://chamonix.se/skidakning-chamonix/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -30999,7 +31228,7 @@
     "id": 283,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/vandring-chamonix.jpg",
     "filename": "vandring-chamonix.jpg",
-    "alt": "Vandring i Chamonix-Mont-Blanc",
+    "alt": "Vandrare på en stenig stig ovanför en dal med snöklädda toppar",
     "caption": "Vandring i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31169,7 +31398,7 @@
     "id": 265,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/offpist-chamonix.jpg",
     "filename": "offpist-chamonix.jpg",
-    "alt": "Offpist i Chamonix-Mont-Blanc",
+    "alt": "Skidåkare i djup snö på en brant sluttning med snöklädda toppar",
     "caption": "Offpist i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31211,12 +31440,7 @@
     "h": 1024,
     "date": "2026-06-17",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "skidakning-chamonix",
-        "link": "https://chamonix.se/skidakning-chamonix/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "chamonix",
@@ -31353,7 +31577,7 @@
     "id": 245,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/budget-mellanklass-chamonix.jpg",
     "filename": "budget-mellanklass-chamonix.jpg",
-    "alt": "Budget & Mellanklass i Chamonix-Mont-Blanc",
+    "alt": "Vandrare längs en flod i en alpstad med hotell och snöklädda berg",
     "caption": "Budget &#038; Mellanklass i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31389,7 +31613,7 @@
     "id": 241,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-tiden-chamonix.jpg",
     "filename": "basta-tiden-chamonix.jpg",
-    "alt": "Bästa tiden i Chamonix-Mont-Blanc",
+    "alt": "Människor på ett promenadstråk med uteserveringar längs en flod i en alpstad",
     "caption": "Bästa tiden i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31407,7 +31631,7 @@
     "id": 239,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/basta-restaurangerna-chamonix.jpg",
     "filename": "basta-restaurangerna-chamonix.jpg",
-    "alt": "Bästa restaurangerna i Chamonix-Mont-Blanc",
+    "alt": "Människor äter på en uteservering vid en flod i en alpstad",
     "caption": "Bästa restaurangerna i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31492,7 +31716,7 @@
     "id": 213,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/runt-mont-blanc-chamonix.jpg",
     "filename": "runt-mont-blanc-chamonix.jpg",
-    "alt": "Runt Mont Blanc i Chamonix-Mont-Blanc",
+    "alt": "Två vandrare på en stig längs en bäck mot snöklädda berg",
     "caption": "Runt Mont Blanc i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -31708,7 +31932,7 @@
     "id": 189,
     "url": "https://chamonix.se/wp-content/uploads/2026/06/aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg",
     "filename": "aiguille-du-midi-vallee-blanche-3-842-m-chamonix.jpg",
-    "alt": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc",
+    "alt": "Besökare på en terrass vid en toppstation högt över en lång glaciär och snöklädda toppar",
     "caption": "Aiguille du Midi / Vallée Blanche (3 842 m) i Chamonix-Mont-Blanc",
     "w": 1536,
     "h": 1024,
@@ -45966,12 +46190,7 @@
     "h": 784,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "basta-tiden-paris",
-        "link": "https://parisguide.se/basta-tiden-paris/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "parisguide",
@@ -45984,12 +46203,7 @@
     "h": 912,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-paris",
-        "link": "https://parisguide.se/saker-att-gora-i-paris/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "parisguide",
@@ -46002,12 +46216,7 @@
     "h": 1038,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "louvren",
-        "link": "https://parisguide.se/louvren/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "parisguide",
@@ -46020,12 +46229,7 @@
     "h": 1028,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "hem",
-        "link": "https://parisguide.se/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "kretas",
