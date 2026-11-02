@@ -1,6 +1,294 @@
 [
   {
     "domain": "malaga",
+    "id": 1952,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/malaga-i-oktober-malaga.jpg",
+    "filename": "malaga-i-oktober-malaga.jpg",
+    "alt": "Stranden La Malagueta med bergen bakom staden",
+    "caption": "Stranden La Malagueta med bergen bakom staden. Foto: Benjamin Smith / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 960,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-i-oktober",
+        "link": "https://malaga.se/malaga-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1950,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/malaga-i-december-malaga.jpg",
+    "filename": "malaga-i-december-malaga.jpg",
+    "alt": "Julbelysningen på Calle Larios",
+    "caption": "Julbelysningen på Calle Larios. Foto: Maximo88 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malaga-i-december",
+        "link": "https://malaga.se/malaga-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1948,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/marknader-i-malaga-malaga.jpg",
+    "filename": "marknader-i-malaga-malaga.jpg",
+    "alt": "Det stora glasfönstret på saluhallen Mercado de Atarazanas",
+    "caption": "Det stora glasfönstret på saluhallen Mercado de Atarazanas. Foto: Rafa Esteve / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "marknader-i-malaga",
+        "link": "https://malaga.se/marknader-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1946,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/frigiliana-och-nerja-malaga.jpg",
+    "filename": "frigiliana-och-nerja-malaga.jpg",
+    "alt": "Frigiliana med bougainvillea och utsikt mot havet",
+    "caption": "Frigiliana med bougainvillea och utsikt mot havet. Foto: Jaroslav Polacek / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "frigiliana-och-nerja",
+        "link": "https://malaga.se/frigiliana-och-nerja/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1944,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/ronda-dagsutflykt-malaga.jpg",
+    "filename": "ronda-dagsutflykt-malaga.jpg",
+    "alt": "Bron Puente Nuevo över ravinen El Tajo i Ronda",
+    "caption": "Bron Puente Nuevo över ravinen El Tajo i Ronda. Foto: Benjamin Smith / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1281,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "ronda-dagsutflykt",
+        "link": "https://malaga.se/ronda-dagsutflykt/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1942,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/antequera-och-el-torcal-malaga.jpg",
+    "filename": "antequera-och-el-torcal-malaga.jpg",
+    "alt": "Kalkstensformationerna i naturreservatet El Torcal",
+    "caption": "Kalkstensformationerna i naturreservatet El Torcal. Foto: Jebulon / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1278,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "antequera-och-el-torcal",
+        "link": "https://malaga.se/antequera-och-el-torcal/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1940,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/fuengirola-mijas-benalmadena-malaga.jpg",
+    "filename": "fuengirola-mijas-benalmadena-malaga.jpg",
+    "alt": "Vita hus i Mijas Pueblo på bergssluttningen",
+    "caption": "Vita hus i Mijas Pueblo på bergssluttningen. Foto: Olaf Tausch / Wikimedia Commons, CC BY 3.0",
+    "w": 1920,
+    "h": 1441,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "fuengirola-mijas-benalmadena",
+        "link": "https://malaga.se/fuengirola-mijas-benalmadena/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1938,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/marbella-fran-malaga-malaga.jpg",
+    "filename": "marbella-fran-malaga-malaga.jpg",
+    "alt": "Gränd i Marbellas gamla stad med kyrktornet i bakgrunden",
+    "caption": "Gränd i Marbellas gamla stad med kyrktornet i bakgrunden. Foto: Milan Trninic (www.wedesignmarbella.com) / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1536,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "marbella-fran-malaga",
+        "link": "https://malaga.se/marbella-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1936,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/lokala-tips-malaga-malaga.jpg",
+    "filename": "lokala-tips-malaga-malaga.jpg",
+    "alt": "Bronsstatyn av Picasso på en bänk på Plaza de la Merced",
+    "caption": "Bronsstatyn av Picasso på en bänk på Plaza de la Merced. Foto: Berthold Werner / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1253,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "lokala-tips-malaga",
+        "link": "https://malaga.se/lokala-tips-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1934,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/batturer-malaga-malaga.jpg",
+    "filename": "batturer-malaga-malaga.jpg",
+    "alt": "Småbåtshamnen i Málaga med fyren La Farola",
+    "caption": "Småbåtshamnen i Málaga med fyren La Farola. Foto: Zarateman / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1149,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "batturer-malaga",
+        "link": "https://malaga.se/batturer-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1932,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/gibraltar-fran-malaga-malaga.jpg",
+    "filename": "gibraltar-fran-malaga-malaga.jpg",
+    "alt": "Gibraltarklippan sedd från vägen som korsar flygplatsen",
+    "caption": "Gibraltarklippan sedd från vägen som korsar flygplatsen. Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1267,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "gibraltar-fran-malaga",
+        "link": "https://malaga.se/gibraltar-fran-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1930,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/nerjagrottan-malaga.jpg",
+    "filename": "nerjagrottan-malaga.jpg",
+    "alt": "Droppstenar i en av salarna i Nerjagrottan",
+    "caption": "Droppstenar i en av salarna i Nerjagrottan. Foto: Jl FilpoC / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "nerjagrottan",
+        "link": "https://malaga.se/nerjagrottan/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1928,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/flamenco-i-malaga-malaga.jpg",
+    "filename": "flamenco-i-malaga-malaga.jpg",
+    "alt": "Flamencodansare i röd klänning på scen med sångare och gitarrist",
+    "caption": "Flamencodansare i röd klänning på scen med sångare och gitarrist. Foto: IssamBarhoumi / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1228,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "flamenco-i-malaga",
+        "link": "https://malaga.se/flamenco-i-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1926,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/picassomuseet-malaga-malaga.jpg",
+    "filename": "picassomuseet-malaga-malaga.jpg",
+    "alt": "Innergården i Palacio de Buenavista, där Picassomuseet ligger",
+    "caption": "Innergården i Palacio de Buenavista, där Picassomuseet ligger. Foto: Javier Valero Iglesias / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1278,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "picassomuseet-malaga",
+        "link": "https://malaga.se/picassomuseet-malaga/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1924,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/caminito-del-rey-malaga.jpg",
+    "filename": "caminito-del-rey-malaga.jpg",
+    "alt": "Ravinen Desfiladero de los Gaitanes med gångbron längs klippväggen",
+    "caption": "Ravinen Desfiladero de los Gaitanes med gångbron längs klippväggen. Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "caminito-del-rey",
+        "link": "https://malaga.se/caminito-del-rey/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
+    "id": 1922,
+    "url": "https://malaga.se/wp-content/uploads/2026/10/alcazaba-och-gibralfaro-malaga.jpg",
+    "filename": "alcazaba-och-gibralfaro-malaga.jpg",
+    "alt": "Trädgård med häckar och pergola innanför murarna i Alcazaba",
+    "caption": "Trädgård med häckar och pergola innanför murarna i Alcazaba. Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1420,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "alcazaba-och-gibralfaro",
+        "link": "https://malaga.se/alcazaba-och-gibralfaro/"
+      }
+    ]
+  },
+  {
+    "domain": "malaga",
     "id": 1574,
     "url": "https://malaga.se/wp-content/uploads/2026/08/vinter-november-till-mars-malaga.jpg",
     "filename": "vinter-november-till-mars-malaga.jpg",
@@ -1240,12 +1528,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "shopping-malaga-guide",
-        "link": "https://malaga.se/shopping-malaga-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -2780,12 +3063,7 @@
     "h": 1024,
     "date": "2026-06-18",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "shopping-malaga-guide",
-        "link": "https://malaga.se/shopping-malaga-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -3368,12 +3646,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "sevardheter-malaga-topp-10",
-        "link": "https://malaga.se/sevardheter-malaga-topp-10/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -4560,12 +4833,7 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -4604,7 +4872,16 @@
     "h": 1024,
     "date": "2026-05-29",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "malaga-i-december",
+        "link": "https://malaga.se/malaga-i-december/"
+      },
+      {
+        "slug": "malaga-i-oktober",
+        "link": "https://malaga.se/malaga-i-oktober/"
+      }
+    ]
   },
   {
     "domain": "malaga",
@@ -4618,6 +4895,26 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
+      {
+        "slug": "batturer-malaga",
+        "link": "https://malaga.se/batturer-malaga/"
+      },
+      {
+        "slug": "gibraltar-fran-malaga",
+        "link": "https://malaga.se/gibraltar-fran-malaga/"
+      },
+      {
+        "slug": "nerjagrottan",
+        "link": "https://malaga.se/nerjagrottan/"
+      },
+      {
+        "slug": "lokala-tips-malaga",
+        "link": "https://malaga.se/lokala-tips-malaga/"
+      },
+      {
+        "slug": "marbella-fran-malaga",
+        "link": "https://malaga.se/marbella-fran-malaga/"
+      },
       {
         "slug": "startsida",
         "link": "https://malaga.se/"
@@ -4636,6 +4933,22 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
+      {
+        "slug": "flamenco-i-malaga",
+        "link": "https://malaga.se/flamenco-i-malaga/"
+      },
+      {
+        "slug": "picassomuseet-malaga",
+        "link": "https://malaga.se/picassomuseet-malaga/"
+      },
+      {
+        "slug": "caminito-del-rey",
+        "link": "https://malaga.se/caminito-del-rey/"
+      },
+      {
+        "slug": "alcazaba-och-gibralfaro",
+        "link": "https://malaga.se/alcazaba-och-gibralfaro/"
+      },
       {
         "slug": "sevardheter-malaga-topp-10",
         "link": "https://malaga.se/sevardheter-malaga-topp-10/"
@@ -4668,10 +4981,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
-      },
-      {
         "slug": "startsida",
         "link": "https://malaga.se/"
       }
@@ -4689,10 +4998,6 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
-      },
       {
         "slug": "startsida",
         "link": "https://malaga.se/"
@@ -4723,12 +5028,7 @@
     "h": 941,
     "date": "2026-05-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "malaga",
@@ -4745,10 +5045,6 @@
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
         "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
-      },
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
       }
     ]
   },
@@ -4767,10 +5063,6 @@
       {
         "slug": "malaga-uteliv-barer-klubbar-flamenco",
         "link": "https://malaga.se/malaga-uteliv-barer-klubbar-flamenco/"
-      },
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
       }
     ]
   },
@@ -4853,10 +5145,6 @@
       {
         "slug": "malaga-for-seniorer",
         "link": "https://malaga.se/malaga-for-seniorer/"
-      },
-      {
-        "slug": "saker-att-gora-i-malaga",
-        "link": "https://malaga.se/saker-att-gora-i-malaga/"
       }
     ]
   },
@@ -9448,6 +9736,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "rhodos-stad",
+        "link": "https://rhodos.se/rhodos-stad/"
+      },
+      {
         "slug": "basta-stranderna-pa-rhodos",
         "link": "https://rhodos.se/basta-stranderna-pa-rhodos/"
       },
@@ -9657,6 +9949,10 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
+      {
+        "slug": "rhodos-stad",
+        "link": "https://rhodos.se/rhodos-stad/"
+      },
       {
         "slug": "saker-att-gora-pa-rhodos",
         "link": "https://rhodos.se/saker-att-gora-pa-rhodos/"
@@ -10122,6 +10418,230 @@
   },
   {
     "domain": "korfu",
+    "id": 817,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/pelekas-korfu.jpg",
+    "filename": "pelekas-korfu.jpg",
+    "alt": "Färgglada hus i byn Pelekas på Korfu",
+    "caption": "Bygatan i Pelekas",
+    "w": 1920,
+    "h": 1325,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pelekas-korfu",
+        "link": "https://korfu.se/pelekas-korfu/"
+      },
+      {
+        "slug": "mat-pa-korfu",
+        "link": "https://korfu.se/mat-pa-korfu/"
+      },
+      {
+        "slug": "saker-att-gora-pa-korfu",
+        "link": "https://korfu.se/saker-att-gora-pa-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 815,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/pask-pa-korfu.jpg",
+    "filename": "pask-pa-korfu.jpg",
+    "alt": "Balkonger med röda tyger och folk som väntar på krukkastningen i Korfu stad",
+    "caption": "Påskafton vid Pentofanaro i Korfu stad, strax före krukkastningen",
+    "w": 1005,
+    "h": 1096,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pask-pa-korfu",
+        "link": "https://korfu.se/pask-pa-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 813,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/kavos-korfu.jpg",
+    "filename": "kavos-korfu.jpg",
+    "alt": "Den långa stranden i Kavos på södra Korfu",
+    "caption": "Stranden i Kavos med utsikt norrut längs östkusten",
+    "w": 1530,
+    "h": 2040,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kavos-korfu",
+        "link": "https://korfu.se/kavos-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 794,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/dagsutflykt-timoni.jpg",
+    "filename": "dagsutflykt-timoni.jpg",
+    "alt": "Tvillingvikarna Porto Timoni nedanför Afionas",
+    "caption": "Porto Timoni sett från stigen från Afionas",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-korfu",
+        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 793,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/dagsutflykt-drastis.jpg",
+    "filename": "dagsutflykt-drastis.jpg",
+    "alt": "Vita kalkklippor och klippöar vid Cape Drastis på norra Korfu",
+    "caption": "Cape Drastis vid Peroulades",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-korfu",
+        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 792,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/dagsutflykt-albanien.jpg",
+    "filename": "dagsutflykt-albanien.jpg",
+    "alt": "Turkost vatten och små öar vid Ksamil i Albanien",
+    "caption": "Ksamil, söder om Sarandë i Albanien",
+    "w": 1920,
+    "h": 1446,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-korfu",
+        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 791,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/dagsutflykt-paxos.jpg",
+    "filename": "dagsutflykt-paxos.jpg",
+    "alt": "Vit sandstrand och turkost vatten vid Vrika på Antipaxos",
+    "caption": "Vrika-stranden på Antipaxos",
+    "w": 1920,
+    "h": 933,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-korfu",
+        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 789,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/battur-pa-korfu.jpg",
+    "filename": "battur-pa-korfu.jpg",
+    "alt": "Små båtar på väg till grottorna vid Paleokastritsa",
+    "caption": "Båtar på väg till grottorna i Paleokastritsa",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "battur-pa-korfu",
+        "link": "https://korfu.se/battur-pa-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 787,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/kassiopi-korfu.jpg",
+    "filename": "kassiopi-korfu.jpg",
+    "alt": "Fiskebåtar i hamnen i Kassiopi på nordöstra Korfu",
+    "caption": "Hamnen i Kassiopi",
+    "w": 1920,
+    "h": 1274,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kassiopi-korfu",
+        "link": "https://korfu.se/kassiopi-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 785,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/achilleion-korfu.jpg",
+    "filename": "achilleion-korfu.jpg",
+    "alt": "Achilleion-palatsets fasad med cypresser och palmer i Gastouri",
+    "caption": "Achilleion, Sisis palats i Gastouri",
+    "w": 1920,
+    "h": 1420,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "achilleion-korfu",
+        "link": "https://korfu.se/achilleion-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 783,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/albanien-fran-korfu.jpg",
+    "filename": "albanien-fran-korfu.jpg",
+    "alt": "Den antika teatern i Butrint i Albanien",
+    "caption": "Teatern i Butrint, Albaniens främsta fornlämning",
+    "w": 1920,
+    "h": 1285,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "albanien-fran-korfu",
+        "link": "https://korfu.se/albanien-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
+    "id": 781,
+    "url": "https://korfu.se/wp-content/uploads/2026/10/paxos-antipaxos-fran-korfu.jpg",
+    "filename": "paxos-antipaxos-fran-korfu.jpg",
+    "alt": "Utflyktsbåt vid de vita kalkklipporna på Paxos västkust",
+    "caption": "Utflyktsbåt längs klipporna vid de blå grottorna på Paxos",
+    "w": 1920,
+    "h": 1437,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "paxos-antipaxos-fran-korfu",
+        "link": "https://korfu.se/paxos-antipaxos-fran-korfu/"
+      }
+    ]
+  },
+  {
+    "domain": "korfu",
     "id": 547,
     "url": "https://korfu.se/wp-content/uploads/2026/07/utflykter-fran-sidari-korfu.jpg",
     "filename": "utflykter-fran-sidari-korfu.jpg",
@@ -10304,12 +10824,7 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": false,
-    "used_on": [
-      {
-        "slug": "dagsutflykter-fran-korfu",
-        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "korfu",
@@ -10340,12 +10855,7 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "dagsutflykter-fran-korfu",
-        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "korfu",
@@ -10412,12 +10922,7 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "dagsutflykter-fran-korfu",
-        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "korfu",
@@ -10430,12 +10935,7 @@
     "h": 1024,
     "date": "2026-07-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "dagsutflykter-fran-korfu",
-        "link": "https://korfu.se/dagsutflykter-fran-korfu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "korfu",
@@ -13297,6 +13797,156 @@
   },
   {
     "domain": "grancanaria",
+    "id": 2323,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/pico-de-las-nieves-bandama.jpg",
+    "filename": "pico-de-las-nieves-bandama.jpg",
+    "alt": "Utsiktsplatsen på Pico de las Nieves med tallskog och Roque Nublo i bakgrunden",
+    "caption": "Foto: Oktoober / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pico-de-las-nieves-bandama",
+        "link": "https://grancanaria.se/pico-de-las-nieves-bandama/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2321,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/dykning-snorkling-gran-canaria.jpg",
+    "filename": "dykning-snorkling-gran-canaria.jpg",
+    "alt": "Stim av saupe och sargo under vattnet vid Las Canteras i Las Palmas",
+    "caption": "Foto: Gino maccanti from spain / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1439,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dykning-snorkling-gran-canaria",
+        "link": "https://grancanaria.se/dykning-snorkling-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2319,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/batturer-puerto-de-mogan.jpg",
+    "filename": "batturer-puerto-de-mogan.jpg",
+    "alt": "Hamnen i Puerto de Mogán med segelbåtar och strandpromenad",
+    "caption": "Foto: TimOve / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1238,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "batturer-puerto-de-mogan",
+        "link": "https://grancanaria.se/batturer-puerto-de-mogan/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2317,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/stjarnskadning-gran-canaria.jpg",
+    "filename": "stjarnskadning-gran-canaria.jpg",
+    "alt": "Planeter och stjärnor över horisonten, fotograferat från Arinaga på Gran Canaria",
+    "caption": "Foto: Victor R. Ruiz from Arinaga, Canary Islands, Spain / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "stjarnskadning-gran-canaria",
+        "link": "https://grancanaria.se/stjarnskadning-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2315,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/vegueta-las-palmas.jpg",
+    "filename": "vegueta-las-palmas.jpg",
+    "alt": "Katedralen Santa Ana i Vegueta, Las Palmas gamla stad",
+    "caption": "Foto: Bengt Nyman / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1422,
+    "date": "2026-10-28",
+    "managed": true,
+    "used_on": [
+      {
+        "slug": "vegueta-las-palmas",
+        "link": "https://grancanaria.se/vegueta-las-palmas/"
+      },
+      {
+        "slug": "buss-gran-canaria",
+        "link": "https://grancanaria.se/buss-gran-canaria/"
+      },
+      {
+        "slug": "gran-canaria-digitala-nomader",
+        "link": "https://grancanaria.se/gran-canaria-digitala-nomader/"
+      },
+      {
+        "slug": "gran-canaria-utan-hyrbil",
+        "link": "https://grancanaria.se/gran-canaria-utan-hyrbil/"
+      },
+      {
+        "slug": "saker-att-gora-pa-gran-canaria",
+        "link": "https://grancanaria.se/saker-att-gora-pa-gran-canaria/"
+      },
+      {
+        "slug": "omrade-las-palmas",
+        "link": "https://grancanaria.se/omrade-las-palmas/"
+      },
+      {
+        "slug": "var-ska-man-bo-pa-gran-canaria",
+        "link": "https://grancanaria.se/var-ska-man-bo-pa-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2313,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/jeepsafari-gran-canaria.jpg",
+    "filename": "jeepsafari-gran-canaria.jpg",
+    "alt": "Byn Fataga med vita hus och palmer i dalen norr om Maspalomas",
+    "caption": "Foto: Szombat78 / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "jeepsafari-gran-canaria",
+        "link": "https://grancanaria.se/jeepsafari-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
+    "id": 2310,
+    "url": "https://grancanaria.se/wp-content/uploads/2026/10/palmitos-park-gran-canaria.jpg",
+    "filename": "palmitos-park-gran-canaria.jpg",
+    "alt": "Palmitos Park i Barranco de los Palmitos med delfinariet och palmerna i ravinen",
+    "caption": "Foto: El Coleccionista de Instantes  Fotografía &#038; Video / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "palmitos-park-gran-canaria",
+        "link": "https://grancanaria.se/palmitos-park-gran-canaria/"
+      }
+    ]
+  },
+  {
+    "domain": "grancanaria",
     "id": 1915,
     "url": "https://grancanaria.se/wp-content/uploads/2026/08/vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
     "filename": "vilken-stad-ar-bast-i-norra-gran-canaria-grancanaria.jpg",
@@ -13415,10 +14065,6 @@
     "date": "2026-08-05",
     "managed": true,
     "used_on": [
-      {
-        "slug": "var-ska-man-bo-grancanaria",
-        "link": "https://grancanaria.se/var-ska-man-bo-grancanaria/"
-      },
       {
         "slug": "hyra-lagenhet-gran-canaria",
         "link": "https://grancanaria.se/hyra-lagenhet-gran-canaria/"
@@ -13696,12 +14342,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -13835,12 +14476,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -14171,12 +14807,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -14243,12 +14874,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -14261,12 +14887,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -14794,12 +15415,7 @@
     "h": 1024,
     "date": "2026-06-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -14989,12 +15605,7 @@
     "h": 1024,
     "date": "2026-06-28",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -15116,10 +15727,6 @@
     "date": "2026-06-21",
     "managed": true,
     "used_on": [
-      {
-        "slug": "var-ska-man-bo-grancanaria",
-        "link": "https://grancanaria.se/var-ska-man-bo-grancanaria/"
-      },
       {
         "slug": "hyra-lagenhet-gran-canaria",
         "link": "https://grancanaria.se/hyra-lagenhet-gran-canaria/"
@@ -15330,12 +15937,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -15667,12 +16269,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -15685,12 +16282,7 @@
     "h": 1024,
     "date": "2026-06-21",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16196,12 +16788,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyra-i-puerto-mogan",
-        "link": "https://grancanaria.se/hyra-i-puerto-mogan/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16232,12 +16819,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyra-i-puerto-mogan",
-        "link": "https://grancanaria.se/hyra-i-puerto-mogan/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16330,12 +16912,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16758,12 +17335,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -16776,12 +17348,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -17072,12 +17639,7 @@
     "h": 1024,
     "date": "2026-06-04",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "hyra-i-maspalomas",
-        "link": "https://grancanaria.se/hyra-i-maspalomas/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "grancanaria",
@@ -17962,6 +18524,10 @@
     "managed": true,
     "used_on": [
       {
+        "slug": "vegueta-las-palmas",
+        "link": "https://grancanaria.se/vegueta-las-palmas/"
+      },
+      {
         "slug": "buss-gran-canaria",
         "link": "https://grancanaria.se/buss-gran-canaria/"
       },
@@ -18000,10 +18566,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "hyrbil-grancanaria-vandring-surf",
-        "link": "https://grancanaria.se/hyrbil-grancanaria-vandring-surf/"
-      },
-      {
         "slug": "basta-dagsutflykterna-gran-canaria-hyrbil",
         "link": "https://grancanaria.se/basta-dagsutflykterna-gran-canaria-hyrbil/"
       }
@@ -18028,10 +18590,6 @@
       {
         "slug": "billigaste-sattet-att-resa-till-gran-canaria",
         "link": "https://grancanaria.se/billigaste-sattet-att-resa-till-gran-canaria/"
-      },
-      {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
       },
       {
         "slug": "vad-ska-man-packa-till-gran-canaria",
@@ -18154,8 +18712,8 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "grancanaria-par-roadtrip",
-        "link": "https://grancanaria.se/grancanaria-par-roadtrip/"
+        "slug": "batturer-puerto-de-mogan",
+        "link": "https://grancanaria.se/batturer-puerto-de-mogan/"
       },
       {
         "slug": "hotell-puerto-rico-gran-canaria",
@@ -18180,10 +18738,6 @@
         "link": "https://grancanaria.se/omrade-maspalomas/"
       },
       {
-        "slug": "vad-kostar-en-vecka-pa-gran-canaria",
-        "link": "https://grancanaria.se/vad-kostar-en-vecka-pa-gran-canaria/"
-      },
-      {
         "slug": "7-dagar-pa-gran-canaria",
         "link": "https://grancanaria.se/7-dagar-pa-gran-canaria/"
       }
@@ -18204,6 +18758,172 @@
       {
         "slug": "gran-canaria-for-par",
         "link": "https://grancanaria.se/gran-canaria-for-par/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2201,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/skarmflygning-teneriffa.jpg",
+    "filename": "skarmflygning-teneriffa.jpg",
+    "alt": "Skärmflygare landar vid kusten i Costa Adeje",
+    "caption": "Landning vid kusten i Costa Adeje",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skarmflygning-teneriffa",
+        "link": "https://teneriffa.se/skarmflygning-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2199,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/la-gomera-dagstur-teneriffa.jpg",
+    "filename": "la-gomera-dagstur-teneriffa.jpg",
+    "alt": "Roque de Agando i Garajonay nationalpark på La Gomera",
+    "caption": "Roque de Agando, Garajonay nationalpark",
+    "w": 1920,
+    "h": 1302,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "la-gomera-dagstur-teneriffa",
+        "link": "https://teneriffa.se/la-gomera-dagstur-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2197,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/kajak-snorkling-teneriffa.jpg",
+    "filename": "kajak-snorkling-teneriffa.jpg",
+    "alt": "Klart vatten i viken vid La Caleta i Costa Adeje",
+    "caption": "La Caleta i Costa Adeje – en populär start för kajakturer",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kajak-snorkling-teneriffa",
+        "link": "https://teneriffa.se/kajak-snorkling-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2195,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/garachico-la-orotava-teneriffa.jpg",
+    "filename": "garachico-la-orotava-teneriffa.jpg",
+    "alt": "Garachico vid havet med klippön Roque de Garachico",
+    "caption": "Garachico, byggt på lavan från 1706, med Roque de Garachico",
+    "w": 1920,
+    "h": 1133,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "garachico-la-orotava-teneriffa",
+        "link": "https://teneriffa.se/garachico-la-orotava-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2193,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/la-laguna-teneriffa.jpg",
+    "filename": "la-laguna-teneriffa.jpg",
+    "alt": "Innergården i Casa Salazar i La Laguna",
+    "caption": "Innergården i Casa Salazar, La Laguna",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "la-laguna-teneriffa",
+        "link": "https://teneriffa.se/la-laguna-teneriffa/"
+      },
+      {
+        "slug": "teneriffa-utan-hyrbil",
+        "link": "https://teneriffa.se/teneriffa-utan-hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2191,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/stjarnskadning-teneriffa.jpg",
+    "filename": "stjarnskadning-teneriffa.jpg",
+    "alt": "Vintergatan över observatoriet i Izaña på Teneriffa",
+    "caption": "Vintergatan över Teide-observatoriet i Izaña",
+    "w": 1920,
+    "h": 960,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "stjarnskadning-teneriffa",
+        "link": "https://teneriffa.se/stjarnskadning-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2189,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/valsafari-teneriffa.jpg",
+    "filename": "valsafari-teneriffa.jpg",
+    "alt": "Grindval vid Teneriffas kust med Teide i bakgrunden",
+    "caption": "Grindval utanför Teneriffa – Teide syns i bakgrunden",
+    "w": 1920,
+    "h": 1275,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "valsafari-teneriffa",
+        "link": "https://teneriffa.se/valsafari-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2187,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/masca-ravinen-teneriffa.jpg",
+    "filename": "masca-ravinen-teneriffa.jpg",
+    "alt": "Bergsbyn Masca i Tenomassivet på Teneriffa",
+    "caption": "Byn Masca med ravinen nedanför",
+    "w": 1920,
+    "h": 1312,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "masca-ravinen-teneriffa",
+        "link": "https://teneriffa.se/masca-ravinen-teneriffa/"
+      }
+    ]
+  },
+  {
+    "domain": "teneriffa",
+    "id": 2185,
+    "url": "https://teneriffa.se/wp-content/uploads/2026/10/loro-parque-teneriffa.jpg",
+    "filename": "loro-parque-teneriffa.jpg",
+    "alt": "Kungspingviner i Planet Penguin på Loro Parque",
+    "caption": "Kungspingvinerna i Planet Penguin, Loro Parque",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "loro-parque-teneriffa",
+        "link": "https://teneriffa.se/loro-parque-teneriffa/"
       }
     ]
   },
@@ -28617,6 +29337,114 @@
   },
   {
     "domain": "chamonix",
+    "id": 1133,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-vallee-blanche-chamonix.jpg",
+    "filename": "chamonix-vallee-blanche-chamonix.jpg",
+    "alt": "Utgången till snöryggen vid Aiguille du Midi mot Vallée Blanche",
+    "caption": "Grinden ut mot snöryggen på Aiguille du Midi, där Vallée Blanche börjar. Foto: Patrick Nouhailler (CC BY-SA 3.0).",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vallee-blanche-chamonix",
+        "link": "https://chamonix.se/vallee-blanche-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 1131,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-le-brevent-chamonix.jpg",
+    "filename": "chamonix-le-brevent-chamonix.jpg",
+    "alt": "Utsikt från Brévent ner över Chamonix",
+    "caption": "Chamonix sett från Brévent. Foto: Zairon (CC BY-SA 4.0).",
+    "w": 1920,
+    "h": 1285,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "le-brevent-chamonix",
+        "link": "https://chamonix.se/le-brevent-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 1129,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-lac-blanc-chamonix.jpg",
+    "filename": "chamonix-lac-blanc-chamonix.jpg",
+    "alt": "Lac Blanc med vandrare runt sjön och glaciären i bakgrunden",
+    "caption": "Lac Blanc på 2 352 meter, med Mer de Glace i bakgrunden. Foto: Tiia Monto (CC BY-SA 3.0).",
+    "w": 1920,
+    "h": 1202,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "lac-blanc-chamonix",
+        "link": "https://chamonix.se/lac-blanc-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 1127,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-tour-du-mont-blanc.jpg",
+    "filename": "chamonix-tour-du-mont-blanc.jpg",
+    "alt": "Stig på Tour du Mont Blanc genom Val Ferret",
+    "caption": "Tour du Mont Blanc genom Val Ferret på den italienska sidan. Foto: Rémih (CC BY-SA 4.0).",
+    "w": 1920,
+    "h": 2560,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "tour-du-mont-blanc",
+        "link": "https://chamonix.se/tour-du-mont-blanc/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 1125,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-skyway-monte-bianco-courmayeur.jpg",
+    "filename": "chamonix-skyway-monte-bianco-courmayeur.jpg",
+    "alt": "Kabin på Skyway Monte Bianco framför Mont Blanc-massivet",
+    "caption": "Skyway Monte Bianco på väg upp mot Punta Helbronner. Foto: Stefano Venturini (CC BY-SA 4.0).",
+    "w": 1920,
+    "h": 1281,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skyway-monte-bianco-courmayeur",
+        "link": "https://chamonix.se/skyway-monte-bianco-courmayeur/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
+    "id": 1123,
+    "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-skarmflygning-chamonix.jpg",
+    "filename": "chamonix-skarmflygning-chamonix.jpg",
+    "alt": "Skärmflygare i luften över Brévent ovanför Chamonix",
+    "caption": "Skärmflygare över Brévent en klar sommardag. Foto: Tangopaso (public domain).",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "skarmflygning-chamonix",
+        "link": "https://chamonix.se/skarmflygning-chamonix/"
+      }
+    ]
+  },
+  {
+    "domain": "chamonix",
     "id": 965,
     "url": "https://chamonix.se/wp-content/uploads/2026/10/chamonix-chalets-de-loriaz.jpg",
     "filename": "chamonix-chalets-de-loriaz.jpg",
@@ -33740,6 +34568,208 @@
   },
   {
     "domain": "hawaii",
+    "id": 425,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/vulkan-hawaii-hawaii.jpg",
+    "filename": "vulkan-hawaii-hawaii.jpg",
+    "alt": "Lavafontän i Halemaʻumaʻu-kratern på Kīlauea",
+    "caption": "Foto: USGS/M. Patrick / Wikimedia Commons, Public domain",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vulkan-hawaii",
+        "link": "https://hawaii.se/vulkan-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 423,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/helikopter-hawaii-hawaii.jpg",
+    "filename": "helikopter-hawaii-hawaii.jpg",
+    "alt": "Manawaiopuna-fallet på Kauai, sett från helikopter",
+    "caption": "Foto: Julian Fong / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "helikopter-hawaii",
+        "link": "https://hawaii.se/helikopter-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 421,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/valar-hawaii-hawaii.jpg",
+    "filename": "valar-hawaii-hawaii.jpg",
+    "alt": "Knölval som hoppar ur vattnet utanför Maui",
+    "caption": "Foto: Jkrauska / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "valar-hawaii",
+        "link": "https://hawaii.se/valar-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 419,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/snorkling-hawaii-hawaii.jpg",
+    "filename": "snorkling-hawaii-hawaii.jpg",
+    "alt": "Hanauma Bay på Oahu med korallrevet synligt från luften",
+    "caption": "Foto: ErgoSum88 / Wikimedia Commons, Public domain",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "snorkling-hawaii",
+        "link": "https://hawaii.se/snorkling-hawaii/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 417,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/na-pali-coast-hawaii.jpg",
+    "filename": "na-pali-coast-hawaii.jpg",
+    "alt": "Nā Pali-kustens gröna klippor sedda från havet",
+    "caption": "Foto: MEBurkhart / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "na-pali-coast",
+        "link": "https://hawaii.se/na-pali-coast/"
+      },
+      {
+        "slug": "start",
+        "link": "https://hawaii.se/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 415,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/mauna-kea-hawaii.jpg",
+    "filename": "mauna-kea-hawaii.jpg",
+    "alt": "Solnedgång ovanför molnen med observatorierna på Mauna Kea",
+    "caption": "Foto: Sparkywiki1701 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "mauna-kea",
+        "link": "https://hawaii.se/mauna-kea/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 413,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/manta-snorkling-kona-hawaii.jpg",
+    "filename": "manta-snorkling-kona-hawaii.jpg",
+    "alt": "Revmanta och dykare under vattnet utanför Kona",
+    "caption": "Foto: Steve Dunleavy from Lake Tahoe, NV, United States / Wikimedia Commons, CC BY 2.0",
+    "w": 1744,
+    "h": 1162,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "manta-snorkling-kona",
+        "link": "https://hawaii.se/manta-snorkling-kona/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 411,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/molokini-hawaii.jpg",
+    "filename": "molokini-hawaii.jpg",
+    "alt": "Molokini, den halvmåneformade kratern utanför Maui, sedd från luften",
+    "caption": "Foto: Bossfrog / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 995,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "molokini",
+        "link": "https://hawaii.se/molokini/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 409,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/haleakala-soluppgang-hawaii.jpg",
+    "filename": "haleakala-soluppgang-hawaii.jpg",
+    "alt": "Haleakalās krater med röda askkoner i morgonljus",
+    "caption": "Foto: ImagePerson / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1277,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "haleakala-soluppgang",
+        "link": "https://hawaii.se/haleakala-soluppgang/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 407,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/road-to-hana-hawaii.jpg",
+    "filename": "road-to-hana-hawaii.jpg",
+    "alt": "Palmer och svarta lavaklippor vid Waiʻānapanapa längs Road to Hana",
+    "caption": "Foto: dronepicr / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "road-to-hana",
+        "link": "https://hawaii.se/road-to-hana/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
+    "id": 405,
+    "url": "https://hawaii.se/wp-content/uploads/2026/10/pearl-harbor-hawaii.jpg",
+    "filename": "pearl-harbor-hawaii.jpg",
+    "alt": "USS Arizona Memorial, den vita bron över vraket i Pearl Harbor",
+    "caption": "Foto: Reweaver33 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1484,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pearl-harbor",
+        "link": "https://hawaii.se/pearl-harbor/"
+      }
+    ]
+  },
+  {
+    "domain": "hawaii",
     "id": 320,
     "url": "https://hawaii.se/wp-content/uploads/2026/08/sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
     "filename": "sju-saker-du-maste-gora-pa-oahu-hawaii.jpg",
@@ -33767,12 +34797,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "oahu",
-        "link": "https://hawaii.se/oahu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -33785,12 +34810,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "maui",
-        "link": "https://hawaii.se/maui/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -33803,12 +34823,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "kauai",
-        "link": "https://hawaii.se/kauai/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -33821,12 +34836,7 @@
     "h": 1024,
     "date": "2026-08-05",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "big-island",
-        "link": "https://hawaii.se/big-island/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -34427,12 +35437,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "oahu",
-        "link": "https://hawaii.se/oahu/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -34445,12 +35450,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "maui",
-        "link": "https://hawaii.se/maui/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -34463,12 +35463,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "kauai",
-        "link": "https://hawaii.se/kauai/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -34481,12 +35476,7 @@
     "h": 1024,
     "date": "2026-06-16",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "big-island",
-        "link": "https://hawaii.se/big-island/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "hawaii",
@@ -42238,6 +43228,294 @@
   },
   {
     "domain": "sydamerika",
+    "id": 664,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/atacamaoknen-karta.jpg",
+    "filename": "atacamaoknen-karta.jpg",
+    "alt": "Reliefkarta över norra Chile med Atacamaöknens utbredning från Arica till söder om Antofagasta, där Calama och San Pedro de Atacama är utmärkta",
+    "caption": "Karta: Z3lvs (gränsdata RESOLVE Ecoregions 2017), CC BY 4.0, Wikimedia Commons. Ortnamn tillagda av sydamerika.se",
+    "w": 1920,
+    "h": 1175,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "atacama",
+        "link": "https://sydamerika.se/atacama/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 663,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/strander-sydamerika-sydamerika.jpg",
+    "filename": "strander-sydamerika-sydamerika.jpg",
+    "alt": "Ipanemastranden i solnedgång med berget Dois Irmãos i bakgrunden, Rio de Janeiro",
+    "caption": "Foto: Chensiyuan, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1191,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "strander-sydamerika",
+        "link": "https://sydamerika.se/strander-sydamerika/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 662,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/mendoza-vin-sydamerika.jpg",
+    "filename": "mendoza-vin-sydamerika.jpg",
+    "alt": "Vinrader och popplar vid vingården Dante Robino i Mendoza",
+    "caption": "Foto: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "mendoza-vin",
+        "link": "https://sydamerika.se/mendoza-vin/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 661,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/ushuaia-sydamerika.jpg",
+    "filename": "ushuaia-sydamerika.jpg",
+    "alt": "Ushuaia sett från Beaglekanalen med snöklädda berg bakom staden",
+    "caption": "Foto: Skavier2222, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "ushuaia",
+        "link": "https://sydamerika.se/ushuaia/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 660,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/paskon-rapa-nui-sydamerika.jpg",
+    "filename": "paskon-rapa-nui-sydamerika.jpg",
+    "alt": "Moaistaty vid Rano Raraku på Påskön, två personer sitter på en bänk i bakgrunden",
+    "caption": "Foto: Javier Ramos Pinochet, CC BY-SA 3.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1285,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "paskon-rapa-nui",
+        "link": "https://sydamerika.se/paskon-rapa-nui/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 659,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/cocoradalen-salento-sydamerika.jpg",
+    "filename": "cocoradalen-salento-sydamerika.jpg",
+    "alt": "Höga vaxpalmer på gröna kullar i dimman i Cocoradalen",
+    "caption": "Foto: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "cocoradalen-salento",
+        "link": "https://sydamerika.se/cocoradalen-salento/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 658,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/paracas-huacachina-sydamerika.jpg",
+    "filename": "paracas-huacachina-sydamerika.jpg",
+    "alt": "Oasen Huacachina med lagun och palmer omgiven av höga sanddyner",
+    "caption": "Foto: Diego Delso, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1020,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "paracas-huacachina",
+        "link": "https://sydamerika.se/paracas-huacachina/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 657,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/tango-buenos-aires-sydamerika.jpg",
+    "filename": "tango-buenos-aires-sydamerika.jpg",
+    "alt": "Tangopar dansar på Avenida Corrientes i Buenos Aires med Obelisken i bakgrunden",
+    "caption": "Foto: Manticora87, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1274,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "tango-buenos-aires",
+        "link": "https://sydamerika.se/tango-buenos-aires/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 656,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/medellin-sydamerika.jpg",
+    "filename": "medellin-sydamerika.jpg",
+    "alt": "Färgglada hus i sluttningen i Comuna 13 i Medellín",
+    "caption": "Foto: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "medellin",
+        "link": "https://sydamerika.se/medellin/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 655,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/rosarioarna-cartagena-sydamerika.jpg",
+    "filename": "rosarioarna-cartagena-sydamerika.jpg",
+    "alt": "Vit sandstrand med palmer och turkost vatten på Playa Blanca på Barú utanför Cartagena",
+    "caption": "Foto: Jorge Láscar, CC BY 2.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1275,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "rosarioarna-cartagena",
+        "link": "https://sydamerika.se/rosarioarna-cartagena/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 654,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/kristusstatyn-sockertoppen-sydamerika.jpg",
+    "filename": "kristusstatyn-sockertoppen-sydamerika.jpg",
+    "alt": "Utsikt från Sockertoppen över Botafogobukten och Rio de Janeiro mot Corcovado med Kristusstatyn i kvällsljus",
+    "caption": "Foto: Wilfredor, CC0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1174,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kristusstatyn-sockertoppen",
+        "link": "https://sydamerika.se/kristusstatyn-sockertoppen/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 653,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/colca-kanjonen-sydamerika.jpg",
+    "filename": "colca-kanjonen-sydamerika.jpg",
+    "alt": "Utsikt ner i den djupa Colcakanjonen med branta gröna sidor och moln över topparna",
+    "caption": "Foto: World Wide Gifts, CC BY-SA 2.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1277,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "colca-kanjonen",
+        "link": "https://sydamerika.se/colca-kanjonen/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 652,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/death-road-bolivia-sydamerika.jpg",
+    "filename": "death-road-bolivia-sydamerika.jpg",
+    "alt": "Death Road, en smal grusväg inhuggen i en brant grön bergssida i Yungas",
+    "caption": "Foto: Alicia Nijdam, CC BY 2.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "death-road-bolivia",
+        "link": "https://sydamerika.se/death-road-bolivia/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 651,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/titicacasjon-sydamerika.jpg",
+    "filename": "titicacasjon-sydamerika.jpg",
+    "alt": "Uros flytande vassöar med vasshus på Titicacasjön utanför Puno",
+    "caption": "Foto: Diego Delso, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 987,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "titicacasjon",
+        "link": "https://sydamerika.se/titicacasjon/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 650,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/heliga-dalen-peru-sydamerika.jpg",
+    "filename": "heliga-dalen-peru-sydamerika.jpg",
+    "alt": "Gröna inkaterrasser och en gångstig vid ruinerna i Pisac i Heliga dalen",
+    "caption": "Foto: Kuruman, CC BY 2.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "heliga-dalen-peru",
+        "link": "https://sydamerika.se/heliga-dalen-peru/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
+    "id": 649,
+    "url": "https://sydamerika.se/wp-content/uploads/2026/10/regnbagsberget-vinicunca-sydamerika.jpg",
+    "filename": "regnbagsberget-vinicunca-sydamerika.jpg",
+    "alt": "Vandrare på stigen vid Vinicunca med randiga röda, gröna och gula bergssluttningar i bakgrunden",
+    "caption": "Foto: Steve Fung, CC BY-SA 4.0, Wikimedia Commons",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "regnbagsberget-vinicunca",
+        "link": "https://sydamerika.se/regnbagsberget-vinicunca/"
+      }
+    ]
+  },
+  {
+    "domain": "sydamerika",
     "id": 463,
     "url": "https://sydamerika.se/wp-content/uploads/2026/08/populara-stader-sydamerika.jpg",
     "filename": "populara-stader-sydamerika.jpg",
@@ -42949,11 +44227,757 @@
   },
   {
     "domain": "madrid",
+    "id": 446,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/weekend-i-madrid-madrid-foto.jpg",
+    "filename": "weekend-i-madrid-madrid-foto.jpg",
+    "alt": "Puerta de Alcalá",
+    "caption": "Puerta de Alcalá. Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1248,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "weekend-i-madrid",
+        "link": "https://madrid.se/weekend-i-madrid/"
+      },
+      {
+        "slug": "guidade-turer-i-madrid",
+        "link": "https://madrid.se/guidade-turer-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 445,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/avila-fran-madrid-madrid-foto.jpg",
+    "filename": "avila-fran-madrid-madrid-foto.jpg",
+    "alt": "Ávilas medeltida stadsmur",
+    "caption": "Ávilas medeltida stadsmur. Foto: Carlos Delgado / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "avila-fran-madrid",
+        "link": "https://madrid.se/avila-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 444,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/el-escorial-fran-madrid-madrid-foto.jpg",
+    "filename": "el-escorial-fran-madrid-madrid-foto.jpg",
+    "alt": "Biblioteket i El Escorial med takfresker",
+    "caption": "Biblioteket i El Escorial med takfresker. Foto: Jose Luis Filpo Cabana / Wikimedia Commons, CC BY 3.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "el-escorial-fran-madrid",
+        "link": "https://madrid.se/el-escorial-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 443,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/templo-de-debod-madrid-foto.jpg",
+    "filename": "templo-de-debod-madrid-foto.jpg",
+    "alt": "Templo de Debod speglat i dammen",
+    "caption": "Templo de Debod speglat i dammen. Foto: Diego Delso / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "templo-de-debod",
+        "link": "https://madrid.se/templo-de-debod/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 442,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/mercado-san-miguel-bild-madrid-foto.jpg",
+    "filename": "mercado-san-miguel-bild-madrid-foto.jpg",
+    "alt": "Inne i Mercado de San Miguel",
+    "caption": "Inne i Mercado de San Miguel. Foto: Steven Lek / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1272,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "plaza-mayor-och-san-miguel",
+        "link": "https://madrid.se/plaza-mayor-och-san-miguel/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 441,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/plaza-mayor-och-san-miguel-madrid-foto.jpg",
+    "filename": "plaza-mayor-och-san-miguel-madrid-foto.jpg",
+    "alt": "Arco de Cuchilleros, trappan ner från Plaza Mayor",
+    "caption": "Arco de Cuchilleros, trappan ner från Plaza Mayor. Foto: Concepcion AMAT ORTA… / Wikimedia Commons, CC BY 3.0",
+    "w": 1920,
+    "h": 1285,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "plaza-mayor-och-san-miguel",
+        "link": "https://madrid.se/plaza-mayor-och-san-miguel/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 440,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/flamenco-i-madrid-madrid-foto.jpg",
+    "filename": "flamenco-i-madrid-madrid-foto.jpg",
+    "alt": "Flamencodansare på Corral de la Morería",
+    "caption": "Flamencodansare på Corral de la Morería. Foto: Carlos Ramón Bonilla… / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "flamenco-i-madrid",
+        "link": "https://madrid.se/flamenco-i-madrid/"
+      },
+      {
+        "slug": "nattliv-och-flamenco-i-madrid",
+        "link": "https://madrid.se/nattliv-och-flamenco-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 439,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/thyssen-museet-madrid-foto.jpg",
+    "filename": "thyssen-museet-madrid-foto.jpg",
+    "alt": "Palacio de Villahermosa, där Thyssen-Bornemisza-museet ligger",
+    "caption": "Palacio de Villahermosa, där Thyssen-Bornemisza-museet ligger. Foto: Luis García (Zaqarbal) / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1104,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "thyssen-museet",
+        "link": "https://madrid.se/thyssen-museet/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 438,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/retiro-parken-madrid-foto.jpg",
+    "filename": "retiro-parken-madrid-foto.jpg",
+    "alt": "Roddbåtar på Estanque Grande med Alfonso XII-monumentet",
+    "caption": "Roddbåtar på Estanque Grande med Alfonso XII-monumentet. Foto: Carlos Delgado / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1152,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "retiro-parken",
+        "link": "https://madrid.se/retiro-parken/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 394,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/la-latina-madrid-foto.jpg",
+    "filename": "la-latina-madrid-foto.jpg",
+    "alt": "Cava Baja under Fiestas de la Paloma",
+    "caption": "Cava Baja under Fiestas de la Paloma. Foto: Javier Perez Montes / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1281,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "la-latina",
+        "link": "https://madrid.se/la-latina/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 393,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-oktober-madrid-foto.jpg",
+    "filename": "madrid-i-oktober-madrid-foto.jpg",
+    "alt": "Fårdriften Fiesta de la Trashumancia genom centrala Madrid",
+    "caption": "Fårdriften Fiesta de la Trashumancia genom centrala Madrid. Foto: Barcex / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-oktober",
+        "link": "https://madrid.se/madrid-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 392,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-september-madrid-foto.jpg",
+    "filename": "madrid-i-september-madrid-foto.jpg",
+    "alt": "Roddbåtar vid Alfonso XII-monumentet i Retiro",
+    "caption": "Roddbåtar vid Alfonso XII-monumentet i Retiro. Foto: Javier Perez Montes / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-september",
+        "link": "https://madrid.se/madrid-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 391,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-juli-madrid-foto.jpg",
+    "filename": "madrid-i-juli-madrid-foto.jpg",
+    "alt": "Sommarkväll med uteserveringar på Plaza de Santa Ana",
+    "caption": "Sommarkväll med uteserveringar på Plaza de Santa Ana. Foto: Edgardo W. Olivera from Montevideo, Uruguay / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-juli",
+        "link": "https://madrid.se/madrid-i-juli/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 390,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-juni-madrid-foto.jpg",
+    "filename": "madrid-i-juni-madrid-foto.jpg",
+    "alt": "Kvällsliv på Plaza del Dos de Mayo",
+    "caption": "Kvällsliv på Plaza del Dos de Mayo. Foto: Nicolas Vigier / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1282,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-juni",
+        "link": "https://madrid.se/madrid-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 389,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/real-madrid-biljetter-madrid-foto.jpg",
+    "filename": "real-madrid-biljetter-madrid-foto.jpg",
+    "alt": "Match på Santiago Bernabéu",
+    "caption": "Match på Santiago Bernabéu. Foto: David Cornejo from Spain / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1278,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "real-madrid-biljetter",
+        "link": "https://madrid.se/real-madrid-biljetter/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 388,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-augusti-madrid-foto.jpg",
+    "filename": "madrid-i-augusti-madrid-foto.jpg",
+    "alt": "Chotis-tävling på Plaza de la Paja under Fiestas de la Paloma",
+    "caption": "Chotis-tävling på Plaza de la Paja under Fiestas de la Paloma. Foto: Javier Perez Montes / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-augusti",
+        "link": "https://madrid.se/madrid-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 387,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-maj-madrid-foto.jpg",
+    "filename": "madrid-i-maj-madrid-foto.jpg",
+    "alt": "Chulapos dansar chotis under San Isidro",
+    "caption": "Chulapos dansar chotis under San Isidro. Foto: Barcex / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1282,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-maj",
+        "link": "https://madrid.se/madrid-i-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 386,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-april-madrid-foto.jpg",
+    "filename": "madrid-i-april-madrid-foto.jpg",
+    "alt": "Påskprocession i Madrid",
+    "caption": "Påskprocession i Madrid. Foto: Barcex / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-april",
+        "link": "https://madrid.se/madrid-i-april/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 385,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-mars-madrid-foto.jpg",
+    "filename": "madrid-i-mars-madrid-foto.jpg",
+    "alt": "Kungliga botaniska trädgården vid Prado",
+    "caption": "Kungliga botaniska trädgården vid Prado. Foto: Gerda Arendt / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-mars",
+        "link": "https://madrid.se/madrid-i-mars/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 384,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-februari-madrid-foto.jpg",
+    "filename": "madrid-i-februari-madrid-foto.jpg",
+    "alt": "Utklädd vid karnevalen i Madrid",
+    "caption": "Utklädd vid karnevalen i Madrid. Foto: J.Ligero &#038; I.Barrios / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1548,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-februari",
+        "link": "https://madrid.se/madrid-i-februari/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 383,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-i-januari-madrid-foto.jpg",
+    "filename": "madrid-i-januari-madrid-foto.jpg",
+    "alt": "Madrid en klar vinterdag, med snö på Sierra de Guadarrama",
+    "caption": "Madrid en klar vinterdag, med snö på Sierra de Guadarrama. Foto: Álvaro Ureta / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-i-januari",
+        "link": "https://madrid.se/madrid-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 382,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/dagsutflykter-fran-madrid-madrid-foto.jpg",
+    "filename": "dagsutflykter-fran-madrid-madrid-foto.jpg",
+    "alt": "Klosterpalatset El Escorial",
+    "caption": "Klosterpalatset El Escorial. Foto: Bernard Gagnon / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1425,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykter-fran-madrid",
+        "link": "https://madrid.se/dagsutflykter-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 381,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-eller-barcelona-madrid-foto.jpg",
+    "filename": "madrid-eller-barcelona-madrid-foto.jpg",
+    "alt": "Utsikt över Gran Vía och Madrids tak",
+    "caption": "Utsikt över Gran Vía och Madrids tak. Foto: Tomás Fano / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-eller-barcelona",
+        "link": "https://madrid.se/madrid-eller-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 380,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/tunnelbana-i-madrid-madrid-foto.jpg",
+    "filename": "tunnelbana-i-madrid-madrid-foto.jpg",
+    "alt": "Perrong i Madrids tunnelbana",
+    "caption": "Perrong i Madrids tunnelbana. Foto: Draceane / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "tunnelbana-i-madrid",
+        "link": "https://madrid.se/tunnelbana-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 379,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/lavapies-las-letras-madrid-foto.jpg",
+    "filename": "lavapies-las-letras-madrid-foto.jpg",
+    "alt": "Plaza de Santa Ana i Barrio de las Letras",
+    "caption": "Plaza de Santa Ana i Barrio de las Letras. Foto: Sjaak Kempe from Groningen, The Netherlands / Wikimedia Commons, CC BY 2.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "lavapies-las-letras",
+        "link": "https://madrid.se/lavapies-las-letras/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 378,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/hyrbil-madrid-foto.jpg",
+    "filename": "hyrbil-madrid-foto.jpg",
+    "alt": "Motorvägstunneln genom Sierra de Guadarrama",
+    "caption": "Motorvägstunneln genom Sierra de Guadarrama. Foto: Xemenendura / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "hyrbil",
+        "link": "https://madrid.se/hyrbil/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 377,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/basta-hotellen-i-madrid-madrid-foto.jpg",
+    "filename": "basta-hotellen-i-madrid-madrid-foto.jpg",
+    "alt": "Hotel Ritz vid Plaza de la Lealtad",
+    "caption": "Hotel Ritz vid Plaza de la Lealtad. Foto: Luis García (Zaqarbal) / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1470,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-hotellen-i-madrid",
+        "link": "https://madrid.se/basta-hotellen-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 376,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/basta-tiden-att-besoka-madrid-madrid-foto.jpg",
+    "filename": "basta-tiden-att-besoka-madrid-madrid-foto.jpg",
+    "alt": "Retiro-parken i höstfärger",
+    "caption": "Retiro-parken i höstfärger. Foto: Josefito123 / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "basta-tiden-att-besoka-madrid",
+        "link": "https://madrid.se/basta-tiden-att-besoka-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 375,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/budget-vad-kostar-det-madrid-foto.jpg",
+    "filename": "budget-vad-kostar-det-madrid-foto.jpg",
+    "alt": "Plaza Mayor med Casa de la Panadería",
+    "caption": "Plaza Mayor med Casa de la Panadería. Foto: Carlos Delgado / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "budget-vad-kostar-det",
+        "link": "https://madrid.se/budget-vad-kostar-det/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 374,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/madrid-pride-hbtq-madrid-foto.jpg",
+    "filename": "madrid-pride-hbtq-madrid-foto.jpg",
+    "alt": "Paradvagn under Madrid Orgullo",
+    "caption": "Paradvagn under Madrid Orgullo. Foto: Barcex / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "madrid-pride-hbtq",
+        "link": "https://madrid.se/madrid-pride-hbtq/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 373,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/nattliv-och-flamenco-i-madrid-madrid-foto.jpg",
+    "filename": "nattliv-och-flamenco-i-madrid-madrid-foto.jpg",
+    "alt": "Flamencoföreställning i Madrid",
+    "caption": "Flamencoföreställning i Madrid. Foto: Gerda Arendt / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1432,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "nattliv-och-flamenco-i-madrid",
+        "link": "https://madrid.se/nattliv-och-flamenco-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 372,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/shopping-i-madrid-madrid-foto.jpg",
+    "filename": "shopping-i-madrid-madrid-foto.jpg",
+    "alt": "Söndagsmarknaden El Rastro",
+    "caption": "Söndagsmarknaden El Rastro. Foto: Nicolas Vigier / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1282,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "shopping-i-madrid",
+        "link": "https://madrid.se/shopping-i-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 371,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/salamanca-madrid-madrid-foto.jpg",
+    "filename": "salamanca-madrid-madrid-foto.jpg",
+    "alt": "Calle de Serrano i Barrio de Salamanca",
+    "caption": "Calle de Serrano i Barrio de Salamanca. Foto: Lourdes Cardenal / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "salamanca-madrid",
+        "link": "https://madrid.se/salamanca-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 370,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/reina-sofia-madrid-foto.jpg",
+    "filename": "reina-sofia-madrid-foto.jpg",
+    "alt": "Museo Reina Sofía med glashissarna på fasaden",
+    "caption": "Museo Reina Sofía med glashissarna på fasaden. Foto: Nemo / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1112,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "reina-sofia",
+        "link": "https://madrid.se/reina-sofia/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 369,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/dagsutflykt-segovia-fran-madrid-madrid-foto.jpg",
+    "filename": "dagsutflykt-segovia-fran-madrid-madrid-foto.jpg",
+    "alt": "Alcázar de Segovia på klippan, med katedralen i bakgrunden",
+    "caption": "Alcázar de Segovia på klippan, med katedralen i bakgrunden. Foto: Rafa Esteve / Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "dagsutflykt-segovia-fran-madrid",
+        "link": "https://madrid.se/dagsutflykt-segovia-fran-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 368,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/malasana-chueca-madrid-foto.jpg",
+    "filename": "malasana-chueca-madrid-foto.jpg",
+    "alt": "Plaza del Dos de Mayo i Malasaña",
+    "caption": "Plaza del Dos de Mayo i Malasaña. Foto: Nicolas Vigier from Paris, France / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1434,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "malasana-chueca",
+        "link": "https://madrid.se/malasana-chueca/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 367,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/sol-gran-via-madrid-foto.jpg",
+    "filename": "sol-gran-via-madrid-foto.jpg",
+    "alt": "Metrópolis-byggnaden där Gran Vía möter Calle de Alcalá",
+    "caption": "Metrópolis-byggnaden där Gran Vía möter Calle de Alcalá. Foto: AudaCity3371 / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1156,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sol-gran-via",
+        "link": "https://madrid.se/sol-gran-via/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 366,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/atletico-madrid-biljetter-madrid-foto.jpg",
+    "filename": "atletico-madrid-biljetter-madrid-foto.jpg",
+    "alt": "Atlético Madrids arena Metropolitano utifrån",
+    "caption": "Atlético Madrids arena Metropolitano utifrån. Foto: Zarateman / Wikimedia Commons, CC0",
+    "w": 1920,
+    "h": 1193,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "atletico-madrid-biljetter",
+        "link": "https://madrid.se/atletico-madrid-biljetter/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 365,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/bernabeu-stadiontur-madrid-foto.jpg",
+    "filename": "bernabeu-stadiontur-madrid-foto.jpg",
+    "alt": "Santiago Bernabéu inifrån efter ombyggnaden",
+    "caption": "Santiago Bernabéu inifrån efter ombyggnaden. Foto: Zoser / Wikimedia Commons, CC BY 4.0",
+    "w": 1920,
+    "h": 1080,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "bernabeu-stadiontur",
+        "link": "https://madrid.se/bernabeu-stadiontur/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 364,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/pradomuseet-madrid-foto.jpg",
+    "filename": "pradomuseet-madrid-foto.jpg",
+    "alt": "Pradomuseets fasad och Puerta de Velázquez",
+    "caption": "Pradomuseets fasad och Puerta de Velázquez. Foto: Fernando Bueno / Wikimedia Commons, CC BY-SA 2.0",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "pradomuseet",
+        "link": "https://madrid.se/pradomuseet/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
+    "id": 363,
+    "url": "https://madrid.se/wp-content/uploads/2026/10/kungliga-slottet-madrid-madrid-foto.jpg",
+    "filename": "kungliga-slottet-madrid-madrid-foto.jpg",
+    "alt": "Kungliga slottets södra fasad mot Plaza de la Armería",
+    "caption": "Kungliga slottets södra fasad mot Plaza de la Armería. Foto: Carlos Delgado / Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "kungliga-slottet-madrid",
+        "link": "https://madrid.se/kungliga-slottet-madrid/"
+      }
+    ]
+  },
+  {
+    "domain": "madrid",
     "id": 200,
     "url": "https://madrid.se/wp-content/uploads/2026/08/santiago-bernabeu-real-madrid.jpg",
     "filename": "santiago-bernabeu-real-madrid.jpg",
-    "alt": "Santiago Bernabéu — Real Madrid",
-    "caption": "Santiago Bernabéu — Real Madrid i Madrid",
+    "alt": "Santiago Bernabéu med den nya fasaden, sett från ovan",
+    "caption": "Santiago Bernabéu med den nya fasaden, sett från ovan",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-05",
@@ -42970,8 +44994,8 @@
     "id": 160,
     "url": "https://madrid.se/wp-content/uploads/2026/07/trettondagen-spaniens-riktiga-julafton-madrid.jpg",
     "filename": "trettondagen-spaniens-riktiga-julafton-madrid.jpg",
-    "alt": "Trettondagen — Spaniens riktiga julafton i Madrid",
-    "caption": "Trettondagen — Spaniens riktiga julafton i Madrid",
+    "alt": "Trettondagsparaden vid Cibeles",
+    "caption": "Trettondagsparaden vid Cibeles",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -42988,8 +45012,8 @@
     "id": 158,
     "url": "https://madrid.se/wp-content/uploads/2026/07/thyssen-bornemisza-madrid.jpg",
     "filename": "thyssen-bornemisza-madrid.jpg",
-    "alt": "🖌️ Thyssen-Bornemisza i Madrid",
-    "caption": "🖌️ Thyssen-Bornemisza i Madrid",
+    "alt": "Thyssen-Bornemisza-museet vid Paseo del Prado",
+    "caption": "Thyssen-Bornemisza-museet vid Paseo del Prado",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43006,8 +45030,8 @@
     "id": 156,
     "url": "https://madrid.se/wp-content/uploads/2026/07/templo-de-debod-i-solnedgang-madrid.jpg",
     "filename": "templo-de-debod-i-solnedgang-madrid.jpg",
-    "alt": "🏛️ Templo de Debod i solnedgång i Madrid",
-    "caption": "🏛️ Templo de Debod i solnedgång i Madrid",
+    "alt": "Templo de Debod i solnedgång",
+    "caption": "Templo de Debod i solnedgång",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43024,8 +45048,8 @@
     "id": 154,
     "url": "https://madrid.se/wp-content/uploads/2026/07/tapas-lokal-mat-i-madrid.jpg",
     "filename": "tapas-lokal-mat-i-madrid.jpg",
-    "alt": "Tapas & lokal mat i Madrid",
-    "caption": "Tapas &#038; lokal mat i Madrid i Madrid",
+    "alt": "Tapasbar i gamla stan",
+    "caption": "Tapasbar i gamla stan",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43042,8 +45066,8 @@
     "id": 152,
     "url": "https://madrid.se/wp-content/uploads/2026/07/sol-gran-via-mitt-i-allt-madrid.jpg",
     "filename": "sol-gran-via-mitt-i-allt-madrid.jpg",
-    "alt": "Sol & Gran Vía — mitt i allt i Madrid",
-    "caption": "Sol &#038; Gran Vía — mitt i allt i Madrid",
+    "alt": "Puerta del Sol",
+    "caption": "Puerta del Sol",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43060,8 +45084,8 @@
     "id": 150,
     "url": "https://madrid.se/wp-content/uploads/2026/07/salamanca-lyx-och-lugn-madrid.jpg",
     "filename": "salamanca-lyx-och-lugn-madrid.jpg",
-    "alt": "Salamanca — lyx och lugn i Madrid",
-    "caption": "Salamanca — lyx och lugn i Madrid",
+    "alt": "Allé i Barrio de Salamanca",
+    "caption": "Allé i Barrio de Salamanca",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43078,8 +45102,8 @@
     "id": 148,
     "url": "https://madrid.se/wp-content/uploads/2026/07/reina-sofia-madrid.jpg",
     "filename": "reina-sofia-madrid.jpg",
-    "alt": "🎨 Reina Sofía i Madrid",
-    "caption": "🎨 Reina Sofía i Madrid",
+    "alt": "Museo Reina Sofía med glashissarna",
+    "caption": "Museo Reina Sofía med glashissarna",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43096,8 +45120,8 @@
     "id": 146,
     "url": "https://madrid.se/wp-content/uploads/2026/07/nyarsafton-vid-puerta-del-sol-madrid.jpg",
     "filename": "nyarsafton-vid-puerta-del-sol-madrid.jpg",
-    "alt": "Nyårsafton vid Puerta del Sol i Madrid",
-    "caption": "Nyårsafton vid Puerta del Sol i Madrid",
+    "alt": "Nyårsafton vid Puerta del Sol",
+    "caption": "Nyårsafton vid Puerta del Sol",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43114,8 +45138,8 @@
     "id": 144,
     "url": "https://madrid.se/wp-content/uploads/2026/07/mitt-pa-dagen-el-greco-och-judiska-kvarteret-madrid.jpg",
     "filename": "mitt-pa-dagen-el-greco-och-judiska-kvarteret-madrid.jpg",
-    "alt": "Mitt på dagen: El Greco och judiska kvarteret i Madrid",
-    "caption": "Mitt på dagen: El Greco och judiska kvarteret i Madrid",
+    "alt": "Gränd i Toledos gamla stad",
+    "caption": "Gränd i Toledos gamla stad",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43132,8 +45156,8 @@
     "id": 142,
     "url": "https://madrid.se/wp-content/uploads/2026/07/mercado-de-san-miguel-tapaskvarteren-madrid.jpg",
     "filename": "mercado-de-san-miguel-tapaskvarteren-madrid.jpg",
-    "alt": "🥘 Mercado de San Miguel & tapaskvarteren i Madrid",
-    "caption": "🥘 Mercado de San Miguel &#038; tapaskvarteren i Madrid",
+    "alt": "Mercado de San Miguel och tapas",
+    "caption": "Mercado de San Miguel och tapas",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43150,8 +45174,8 @@
     "id": 140,
     "url": "https://madrid.se/wp-content/uploads/2026/07/linbanan-till-casa-de-campo-madrid.jpg",
     "filename": "linbanan-till-casa-de-campo-madrid.jpg",
-    "alt": "🚡 Linbanan till Casa de Campo i Madrid",
-    "caption": "🚡 Linbanan till Casa de Campo i Madrid",
+    "alt": "Linbanan Teleférico över Casa de Campo",
+    "caption": "Linbanan Teleférico över Casa de Campo",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43168,8 +45192,8 @@
     "id": 138,
     "url": "https://madrid.se/wp-content/uploads/2026/07/lavapies-budget-och-streetart-madrid.jpg",
     "filename": "lavapies-budget-och-streetart-madrid.jpg",
-    "alt": "Lavapiés — budget och streetart i Madrid",
-    "caption": "Lavapiés — budget och streetart i Madrid",
+    "alt": "Gatukonst i Lavapiés",
+    "caption": "Gatukonst i Lavapiés",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43186,8 +45210,8 @@
     "id": 136,
     "url": "https://madrid.se/wp-content/uploads/2026/07/julmarknaden-pa-plaza-mayor-madrid.jpg",
     "filename": "julmarknaden-pa-plaza-mayor-madrid.jpg",
-    "alt": "Julmarknaden på Plaza Mayor i Madrid",
-    "caption": "Julmarknaden på Plaza Mayor i Madrid",
+    "alt": "Julmarknaden på Plaza Mayor",
+    "caption": "Julmarknaden på Plaza Mayor",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43204,8 +45228,8 @@
     "id": 134,
     "url": "https://madrid.se/wp-content/uploads/2026/07/jamon-iberico-tortilla-gambas-al-ajillo-madrid.jpg",
     "filename": "jamon-iberico-tortilla-gambas-al-ajillo-madrid.jpg",
-    "alt": "Jamón ibérico, tortilla & gambas al ajillo i Madrid",
-    "caption": "Jamón ibérico, tortilla &#038; gambas al ajillo i Madrid",
+    "alt": "Jamón ibérico, tortilla och gambas al ajillo",
+    "caption": "Jamón ibérico, tortilla och gambas al ajillo",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43222,8 +45246,8 @@
     "id": 132,
     "url": "https://madrid.se/wp-content/uploads/2026/07/fran-flygplatsen-till-centrum-fyra-satt-madrid.jpg",
     "filename": "fran-flygplatsen-till-centrum-fyra-satt-madrid.jpg",
-    "alt": "Från flygplatsen till centrum — fyra sätt i Madrid",
-    "caption": "Från flygplatsen till centrum — fyra sätt i Madrid",
+    "alt": "Buss, taxi och tåg vid Madrid-Barajas",
+    "caption": "Buss, taxi och tåg vid Madrid-Barajas",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43240,8 +45264,8 @@
     "id": 130,
     "url": "https://madrid.se/wp-content/uploads/2026/07/formiddag-katedralen-och-plaza-de-zocodover-madrid.jpg",
     "filename": "formiddag-katedralen-och-plaza-de-zocodover-madrid.jpg",
-    "alt": "Förmiddag: katedralen och Plaza de Zocodover i Madrid",
-    "caption": "Förmiddag: katedralen och Plaza de Zocodover i Madrid",
+    "alt": "Katedralen i Toledo",
+    "caption": "Katedralen i Toledo",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43258,8 +45282,8 @@
     "id": 128,
     "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-toledo-madrid.jpg",
     "filename": "dagsutflykt-toledo-madrid.jpg",
-    "alt": "Dagsutflykt: Toledo i Madrid",
-    "caption": "Dagsutflykt: Toledo i Madrid",
+    "alt": "Toledo sett från andra sidan floden Tajo",
+    "caption": "Toledo sett från andra sidan floden Tajo",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43276,8 +45300,8 @@
     "id": 126,
     "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-toledo-eller-segovia-madrid.jpg",
     "filename": "dagsutflykt-toledo-eller-segovia-madrid.jpg",
-    "alt": "🏰 Dagsutflykt: Toledo eller Segovia i Madrid",
-    "caption": "🏰 Dagsutflykt: Toledo eller Segovia i Madrid",
+    "alt": "Toledo och akvedukten i Segovia",
+    "caption": "Toledo och akvedukten i Segovia",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43294,8 +45318,8 @@
     "id": 124,
     "url": "https://madrid.se/wp-content/uploads/2026/07/dagsutflykt-segovia-madrid.jpg",
     "filename": "dagsutflykt-segovia-madrid.jpg",
-    "alt": "Dagsutflykt: Segovia i Madrid",
-    "caption": "Dagsutflykt: Segovia i Madrid",
+    "alt": "Akvedukten i Segovia",
+    "caption": "Akvedukten i Segovia",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43312,8 +45336,8 @@
     "id": 122,
     "url": "https://madrid.se/wp-content/uploads/2026/07/dag-1-kungliga-madrid-tapasdop-madrid.jpg",
     "filename": "dag-1-kungliga-madrid-tapasdop-madrid.jpg",
-    "alt": "Dag 1 — Kungliga Madrid & tapasdop",
-    "caption": "Dag 1 — Kungliga Madrid &#038; tapasdop i Madrid",
+    "alt": "Kungliga slottet, Retiro och tapas",
+    "caption": "Kungliga slottet, Retiro och tapas",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43330,8 +45354,8 @@
     "id": 120,
     "url": "https://madrid.se/wp-content/uploads/2026/07/churros-con-chocolate-madrid.jpg",
     "filename": "churros-con-chocolate-madrid.jpg",
-    "alt": "Churros con chocolate i Madrid",
-    "caption": "Churros con chocolate i Madrid",
+    "alt": "Churros con chocolate",
+    "caption": "Churros con chocolate",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43348,8 +45372,8 @@
     "id": 118,
     "url": "https://madrid.se/wp-content/uploads/2026/07/bo-nara-metron-sov-nara-matchen-madrid.jpg",
     "filename": "bo-nara-metron-sov-nara-matchen-madrid.jpg",
-    "alt": "Bo nära metron — sov nära matchen i Madrid",
-    "caption": "Bo nära metron — sov nära matchen i Madrid",
+    "alt": "Tunnelbaneuppgång vid en av Madrids fotbollsarenor",
+    "caption": "Tunnelbaneuppgång vid en av Madrids fotbollsarenor",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43366,8 +45390,8 @@
     "id": 116,
     "url": "https://madrid.se/wp-content/uploads/2026/07/almudena-katedralen-plaza-mayor-madrid.jpg",
     "filename": "almudena-katedralen-plaza-mayor-madrid.jpg",
-    "alt": "⛪ Almudena-katedralen & Plaza Mayor i Madrid",
-    "caption": "⛪ Almudena-katedralen &#038; Plaza Mayor i Madrid",
+    "alt": "Almudena-katedralen och Plaza Mayor",
+    "caption": "Almudena-katedralen och Plaza Mayor",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43390,20 +45414,15 @@
     "h": 1024,
     "date": "2026-07-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "dagsutflykt-segovia-fran-madrid",
-        "link": "https://madrid.se/dagsutflykt-segovia-fran-madrid/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "madrid",
     "id": 112,
     "url": "https://madrid.se/wp-content/uploads/2026/07/5-slottet-museerna-i-barndos-madrid.jpg",
     "filename": "5-slottet-museerna-i-barndos-madrid.jpg",
-    "alt": "Slottet & museerna — i barndos i Madrid",
-    "caption": "Slottet &#038; museerna — i barndos i Madrid",
+    "alt": "Kungliga slottet i kvällsljus",
+    "caption": "Kungliga slottet i kvällsljus",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43420,8 +45439,8 @@
     "id": 110,
     "url": "https://madrid.se/wp-content/uploads/2026/07/4-bernabeu-for-fotbollsbarnen-madrid.jpg",
     "filename": "4-bernabeu-for-fotbollsbarnen-madrid.jpg",
-    "alt": "Bernabéu — för fotbollsbarnen i Madrid",
-    "caption": "Bernabéu — för fotbollsbarnen i Madrid",
+    "alt": "Santiago Bernabéu",
+    "caption": "Santiago Bernabéu",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43438,8 +45457,8 @@
     "id": 108,
     "url": "https://madrid.se/wp-content/uploads/2026/07/3-naturvetenskapliga-museet-tagmuseet-madrid.jpg",
     "filename": "3-naturvetenskapliga-museet-tagmuseet-madrid.jpg",
-    "alt": "Naturvetenskapliga museet & tågmuseet i Madrid",
-    "caption": "Naturvetenskapliga museet &#038; tågmuseet i Madrid",
+    "alt": "Ånglok i Järnvägsmuseet i Delicias-stationen",
+    "caption": "Ånglok i Järnvägsmuseet i Delicias-stationen",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43456,8 +45475,8 @@
     "id": 106,
     "url": "https://madrid.se/wp-content/uploads/2026/07/3-dagar-i-madrid-optimal-plan-madrid.jpg",
     "filename": "3-dagar-i-madrid-optimal-plan-madrid.jpg",
-    "alt": "3 dagar i Madrid — optimal plan",
-    "caption": "3 dagar i Madrid — optimal plan i Madrid",
+    "alt": "Utsikt över centrala Madrid",
+    "caption": "Utsikt över centrala Madrid",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43474,8 +45493,8 @@
     "id": 104,
     "url": "https://madrid.se/wp-content/uploads/2026/07/2-linbanan-casa-de-campo-madrid.jpg",
     "filename": "2-linbanan-casa-de-campo-madrid.jpg",
-    "alt": "Linbanan + Casa de Campo i Madrid",
-    "caption": "Linbanan + Casa de Campo i Madrid",
+    "alt": "Linbanan Teleférico",
+    "caption": "Linbanan Teleférico",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43492,8 +45511,8 @@
     "id": 102,
     "url": "https://madrid.se/wp-content/uploads/2026/07/1-retiro-parken-borja-har-varje-dag-madrid.jpg",
     "filename": "1-retiro-parken-borja-har-varje-dag-madrid.jpg",
-    "alt": "Retiro-parken — börja här varje dag i Madrid",
-    "caption": "Retiro-parken — börja här varje dag i Madrid",
+    "alt": "Dammen i Retiro med Alfonso XII-monumentet",
+    "caption": "Dammen i Retiro med Alfonso XII-monumentet",
     "w": 1536,
     "h": 1024,
     "date": "2026-07-06",
@@ -43559,6 +45578,402 @@
   },
   {
     "domain": "barcelonas",
+    "id": 611,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/casa-batllo-tak.jpg",
+    "filename": "casa-batllo-tak.jpg",
+    "alt": "Casa Batllós tak med drakryggen och korset",
+    "caption": "Taket på Casa Batlló, drakryggen med korset. Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1186,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "casa-batllo",
+        "link": "https://barcelonas.se/casa-batllo/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 610,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/casa-batllo-ljusgard.jpg",
+    "filename": "casa-batllo-ljusgard.jpg",
+    "alt": "Ljusgården i Casa Batlló sedd uppifrån, med kakel som blir mörkare uppåt",
+    "caption": "Ljusgården: kaklet går från ljust till mörkblått uppåt så att ljuset fördelas jämnt. Foto: Simon Burchell, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "casa-batllo",
+        "link": "https://barcelonas.se/casa-batllo/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 584,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/julmarknaden-fira-de-santa-llucia-vid-katedralen-en-december-barcelonas.jpg",
+    "filename": "julmarknaden-fira-de-santa-llucia-vid-katedralen-en-december-barcelonas.jpg",
+    "alt": "Julmarknaden Fira de Santa Llúcia vid katedralen en decemberkväll",
+    "caption": "Fira de Santa Llúcia vid katedralen. Foto: Pere López Brosa, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-december",
+        "link": "https://barcelonas.se/barcelona-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 583,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/passeig-de-gracia-i-eixample-med-bilar-och-trad-i-hostljus-barcelonas.jpg",
+    "filename": "passeig-de-gracia-i-eixample-med-bilar-och-trad-i-hostljus-barcelonas.jpg",
+    "alt": "Passeig de Gràcia i Eixample med bilar och träd i höstljus",
+    "caption": "Passeig de Gràcia, Barcelonas stora shoppinggata. Foto: Txllxt TxllxT, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1067,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-november",
+        "link": "https://barcelonas.se/barcelona-i-november/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 582,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/placa-de-garriga-i-bachs-vid-katedralen-i-barri-gotic-barcelonas.jpg",
+    "filename": "placa-de-garriga-i-bachs-vid-katedralen-i-barri-gotic-barcelonas.jpg",
+    "alt": "Plaça de Garriga i Bachs vid katedralen i Barri Gòtic",
+    "caption": "Plaça de Garriga i Bachs, bakom katedralen. Foto: trolvag, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1067,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-oktober",
+        "link": "https://barcelonas.se/barcelona-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 581,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/jattefiguren-lejonet-i-la-merces-festtag-vid-regomir-i-gotis-barcelonas.jpg",
+    "filename": "jattefiguren-lejonet-i-la-merces-festtag-vid-regomir-i-gotis-barcelonas.jpg",
+    "alt": "Jättefiguren lejonet i La Mercès festtåg vid Regomir i gotiska kvarteren",
+    "caption": "Festtåget under La Mercè i september. Foto: Pere López Brosa, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 900,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-september",
+        "link": "https://barcelonas.se/barcelona-i-september/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 580,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/dekorerad-gata-i-gracia-under-festa-major-med-figurer-i-ater-barcelonas.jpg",
+    "filename": "dekorerad-gata-i-gracia-under-festa-major-med-figurer-i-ater-barcelonas.jpg",
+    "alt": "Dekorerad gata i Gràcia under Festa Major med figurer i återvunnet material",
+    "caption": "Carrer del Progrés under Festa Major de Gràcia 2023. Foto: KRLS, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-augusti",
+        "link": "https://barcelonas.se/barcelona-i-augusti/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 579,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/badgaster-pa-barcelonetastranden-en-solig-sommardag-barcelonas.jpg",
+    "filename": "badgaster-pa-barcelonetastranden-en-solig-sommardag-barcelonas.jpg",
+    "alt": "Badgäster på Barcelonetastranden en solig sommardag",
+    "caption": "Barcelonetastranden i högsommar. Foto: CPG83, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-juli",
+        "link": "https://barcelonas.se/barcelona-i-juli/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 578,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/folkmassa-pa-placa-universitat-under-midsommarnatten-revetll-barcelonas.jpg",
+    "filename": "folkmassa-pa-placa-universitat-under-midsommarnatten-revetll-barcelonas.jpg",
+    "alt": "Folkmassa på Plaça Universitat under midsommarnatten Revetlla de Sant Joan",
+    "caption": "Revetlla de Sant Joan, natten till den 24 juni. Foto: Pere López Brosa, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-juni",
+        "link": "https://barcelonas.se/barcelona-i-juni/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 577,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/paviljongerna-vid-entren-till-park-guell-med-utsikt-over-sta-barcelonas.jpg",
+    "filename": "paviljongerna-vid-entren-till-park-guell-med-utsikt-over-sta-barcelonas.jpg",
+    "alt": "Paviljongerna vid entrén till Park Güell med utsikt över staden",
+    "caption": "Entrépaviljongerna i Park Güell. Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1206,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-maj",
+        "link": "https://barcelonas.se/barcelona-i-maj/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 576,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/roda-rosor-till-forsaljning-pa-sant-jordis-dag-i-barcelona-barcelonas.jpg",
+    "filename": "roda-rosor-till-forsaljning-pa-sant-jordis-dag-i-barcelona-barcelonas.jpg",
+    "alt": "Röda rosor till försäljning på Sant Jordis dag i Barcelona",
+    "caption": "Rosor till Sant Jordi den 23 april. Foto: Alberto-g-rovi, Wikimedia Commons, CC BY 3.0",
+    "w": 1600,
+    "h": 1051,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-april",
+        "link": "https://barcelonas.se/barcelona-i-april/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 575,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/kaskadfontanen-i-parc-de-la-ciutadella-under-bla-himmel-barcelonas.jpg",
+    "filename": "kaskadfontanen-i-parc-de-la-ciutadella-under-bla-himmel-barcelonas.jpg",
+    "alt": "Kaskadfontänen i Parc de la Ciutadella under blå himmel",
+    "caption": "Kaskadfontänen i Ciutadellaparken. Foto: Isiwal, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1063,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-mars",
+        "link": "https://barcelonas.se/barcelona-i-mars/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 574,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/barcelonas-katedral-tillagnad-stadens-skyddshelgon-santa-eul-barcelonas.jpg",
+    "filename": "barcelonas-katedral-tillagnad-stadens-skyddshelgon-santa-eul-barcelonas.jpg",
+    "alt": "Barcelonas katedral, tillägnad stadens skyddshelgon Santa Eulàlia",
+    "caption": "Katedralen är tillägnad Santa Eulàlia, som firas den 12 februari. Foto: Jose María Ligero Loarte, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1031,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-februari",
+        "link": "https://barcelonas.se/barcelona-i-februari/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 573,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/trettondagstagets-vagnar-pa-vag-genom-barcelona-pa-kvallen-d-barcelonas.jpg",
+    "filename": "trettondagstagets-vagnar-pa-vag-genom-barcelona-pa-kvallen-d-barcelonas.jpg",
+    "alt": "Trettondagstågets vagnar på väg genom Barcelona på kvällen den 5 januari",
+    "caption": "Cavalcada de Reis, trettondagståget, den 5 januari. Foto: pere prlpz, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-i-januari",
+        "link": "https://barcelonas.se/barcelona-i-januari/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 572,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/tunnelbanetag-pa-stationen-parallel-i-barcelona-barcelonas.jpg",
+    "filename": "tunnelbanetag-pa-stationen-parallel-i-barcelona-barcelonas.jpg",
+    "alt": "Tunnelbanetåg på stationen Paral·lel i Barcelona",
+    "caption": "Metron på Paral·lel. Lokaltrafiken är en av de billigaste posterna i budgeten. Foto: Tony Hisgett from Birmingham, UK, Wikimedia Commons, CC BY 2.0",
+    "w": 1600,
+    "h": 1169,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "vad-kostar-barcelona",
+        "link": "https://barcelonas.se/vad-kostar-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 571,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/garden-i-palau-finestres-en-av-de-medeltida-palatsbyggnadern-barcelonas.jpg",
+    "filename": "garden-i-palau-finestres-en-av-de-medeltida-palatsbyggnadern-barcelonas.jpg",
+    "alt": "Gården i Palau Finestres, en av de medeltida palatsbyggnaderna som Picassomuseet använder på Carrer de Montcada",
+    "caption": "Gården i Palau Finestres, en del av Picassomuseet på Carrer de Montcada. Foto: Enric, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "picassomuseet-barcelona",
+        "link": "https://barcelonas.se/picassomuseet-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 570,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/palau-nacional-pa-montjuic-som-rymmer-konstmuseet-mnac-barcelonas.jpg",
+    "filename": "palau-nacional-pa-montjuic-som-rymmer-konstmuseet-mnac-barcelonas.jpg",
+    "alt": "Palau Nacional på Montjuïc, som rymmer konstmuseet MNAC",
+    "caption": "Palau Nacional på Montjuïc, hem för MNAC. Foto: patano, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1197,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "museer-barcelona",
+        "link": "https://barcelonas.se/museer-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 569,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/forsaljare-packar-fruktbagare-i-ett-stand-pa-la-boqueria-barcelonas.jpg",
+    "filename": "forsaljare-packar-fruktbagare-i-ett-stand-pa-la-boqueria-barcelonas.jpg",
+    "alt": "Försäljare packar fruktbägare i ett stånd på La Boqueria",
+    "caption": "Fruktstånden närmast entrén på La Boqueria. Foto: Jorge Franganillo, Wikimedia Commons, CC BY 2.0",
+    "w": 1600,
+    "h": 1067,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "la-boqueria",
+        "link": "https://barcelonas.se/la-boqueria/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 568,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/terminal-1-pa-barcelonas-flygplats-el-prat-barcelonas.jpg",
+    "filename": "terminal-1-pa-barcelonas-flygplats-el-prat-barcelonas.jpg",
+    "alt": "Terminal 1 på Barcelonas flygplats El Prat",
+    "caption": "Terminal 1 på El Prat, där de flesta flyg från Sverige landar. Foto: ktanaka, Wikimedia Commons, CC BY 3.0",
+    "w": 1600,
+    "h": 1200,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "flyg-till-barcelona",
+        "link": "https://barcelonas.se/flyg-till-barcelona/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 567,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/besokare-pa-bunkers-del-carmel-med-utsikt-over-barcelona-och-barcelonas.jpg",
+    "filename": "besokare-pa-bunkers-del-carmel-med-utsikt-over-barcelona-och-barcelonas.jpg",
+    "alt": "Besökare på Bunkers del Carmel med utsikt över Barcelona och havet",
+    "caption": "Utsikten från Bunkers del Carmel, dag 2:s avslutning. Foto: Thingstodoinbarcelona, Wikimedia Commons, CC BY-SA 4.0",
+    "w": 1600,
+    "h": 1063,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-3-dagar",
+        "link": "https://barcelonas.se/barcelona-3-dagar/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 566,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/placa-de-sant-josep-oriol-i-barri-gotic-med-statyn-av-angel-barcelonas.jpg",
+    "filename": "placa-de-sant-josep-oriol-i-barri-gotic-med-statyn-av-angel-barcelonas.jpg",
+    "alt": "Plaça de Sant Josep Oriol i Barri Gòtic med statyn av Àngel Guimerà",
+    "caption": "Plaça de Sant Josep Oriol i gotiska kvarteren – ett av torgen du passerar till fots. Foto: trolvag, Wikimedia Commons, CC BY-SA 3.0",
+    "w": 1600,
+    "h": 1067,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "barcelona-1-dag",
+        "link": "https://barcelonas.se/barcelona-1-dag/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
+    "id": 557,
+    "url": "https://barcelonas.se/wp-content/uploads/2026/10/sagrada-familia-interior-barcelonas.jpg",
+    "filename": "sagrada-familia-interior-barcelonas.jpg",
+    "alt": "Sagrada Famílias tak och pelare sedda rakt underifrån",
+    "caption": "Pelarskogen i Sagrada Família.",
+    "w": 1920,
+    "h": 1443,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "sagrada-familia",
+        "link": "https://barcelonas.se/sagrada-familia/"
+      }
+    ]
+  },
+  {
+    "domain": "barcelonas",
     "id": 466,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/takterrassen-barcelonas.jpg",
     "filename": "takterrassen-barcelonas.jpg",
@@ -43572,10 +45987,6 @@
       {
         "slug": "casa-mila-la-pedrera",
         "link": "https://barcelonas.se/casa-mila-la-pedrera/"
-      },
-      {
-        "slug": "casa-batllo",
-        "link": "https://barcelonas.se/casa-batllo/"
       }
     ]
   },
@@ -43584,8 +45995,8 @@
     "id": 464,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/saffran-barcelonas.jpg",
     "filename": "saffran-barcelonas.jpg",
-    "alt": "Saffran i Barcelona",
-    "caption": "Saffran i Barcelona",
+    "alt": "Souvenirer från Barcelona: saffran, cava, mosaik och delikatesser",
+    "caption": "Saffran, cava och mosaik, de vanligaste souvenirerna.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-11",
@@ -43602,8 +46013,8 @@
     "id": 462,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-planerar-du-resan-i-ratt-ordning-barcelonas.jpg",
     "filename": "sa-planerar-du-resan-i-ratt-ordning-barcelonas.jpg",
-    "alt": "Så planerar du resan i rätt ordning i Barcelona",
-    "caption": "Så planerar du resan i rätt ordning i Barcelona",
+    "alt": "Fullsatt fotbollsarena i solnedgång",
+    "caption": "Matchkväll på Camp Nou.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-11",
@@ -43620,8 +46031,8 @@
     "id": 460,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-kanner-du-igen-en-bluff-barcelonas.jpg",
     "filename": "sa-kanner-du-igen-en-bluff-barcelonas.jpg",
-    "alt": "Så känner du igen en bluff i Barcelona",
-    "caption": "Så känner du igen en bluff i Barcelona",
+    "alt": "Supportrar och souvenirstånd utanför Camp Nou",
+    "caption": "Matchdag utanför Camp Nou. Köp aldrig biljetter av försäljare här.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-11",
@@ -43644,20 +46055,15 @@
     "h": 1024,
     "date": "2026-08-11",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "casa-batllo",
-        "link": "https://barcelonas.se/casa-batllo/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "barcelonas",
     "id": 456,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/fran-flygplatsen-till-centrum-barcelonas.jpg",
     "filename": "fran-flygplatsen-till-centrum-barcelonas.jpg",
-    "alt": "Från flygplatsen till centrum i Barcelona",
-    "caption": "Från flygplatsen till centrum i Barcelona",
+    "alt": "Aerobús A1 vid flygplatsens hållplats",
+    "caption": "Aerobús från flygplatsen till Plaça de Catalunya.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-11",
@@ -43674,8 +46080,8 @@
     "id": 454,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/basta-tiden-att-komma-barcelonas.jpg",
     "filename": "basta-tiden-att-komma-barcelonas.jpg",
-    "alt": "Bästa tiden att komma i Barcelona",
-    "caption": "Bästa tiden att komma i Barcelona",
+    "alt": "Folk vid mosaikbänken i Park Güell en solig förmiddag",
+    "caption": "Park Güell på förmiddagen.",
     "w": 1535,
     "h": 1024,
     "date": "2026-08-11",
@@ -43692,8 +46098,8 @@
     "id": 452,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/alternativ-inne-i-staden-barcelonas.jpg",
     "filename": "alternativ-inne-i-staden-barcelonas.jpg",
-    "alt": "Alternativ inne i staden i Barcelona",
-    "caption": "Alternativ inne i staden i Barcelona",
+    "alt": "Butiksgatan i La Roca Village",
+    "caption": "La Roca Village, 40 minuter utanför Barcelona.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-11",
@@ -43710,8 +46116,8 @@
     "id": 450,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/tibidabo-barcelonas.jpg",
     "filename": "tibidabo-barcelonas.jpg",
-    "alt": "Tibidabo i Barcelona",
-    "caption": "Tibidabo i Barcelona",
+    "alt": "Tibidabos kyrka och nöjesparkens pariserhjul på berget ovanför Barcelona",
+    "caption": "Tibidabo: nöjespark och utsikt på samma topp.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43728,8 +46134,8 @@
     "id": 448,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/somorrostro-barcelonas.jpg",
     "filename": "somorrostro-barcelonas.jpg",
-    "alt": "Somorrostro i Barcelona",
-    "caption": "Somorrostro i Barcelona",
+    "alt": "Strandbar och badgäster på Somorrostro",
+    "caption": "Somorrostro, mellan Barceloneta och Port Olímpic.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43746,8 +46152,8 @@
     "id": 446,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sitges-barcelonas.jpg",
     "filename": "sitges-barcelonas.jpg",
-    "alt": "Sitges i Barcelona",
-    "caption": "Sitges i Barcelona",
+    "alt": "Sitges sett från luften med stranden och gamla stan",
+    "caption": "Sitges från ovan.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43781,8 +46187,8 @@
     "id": 443,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/shopping-barcelona-el-born-barcelonas.jpg",
     "filename": "shopping-barcelona-el-born-barcelonas.jpg",
-    "alt": "El Born i Barcelona",
-    "caption": "El Born i Barcelona",
+    "alt": "Shoppare på en smal gata i El Born med hantverksbutiker",
+    "caption": "Småbutikerna i El Born.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43799,8 +46205,8 @@
     "id": 441,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sa-tar-du-dig-runt-barcelonas.jpg",
     "filename": "sa-tar-du-dig-runt-barcelonas.jpg",
-    "alt": "Så tar du dig runt i Barcelona",
-    "caption": "Så tar du dig runt i Barcelona",
+    "alt": "Buss, taxi och metronedgång vid en gata i Barcelona",
+    "caption": "Buss, taxi och metro, tre sätt att ta sig runt.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43817,8 +46223,8 @@
     "id": 439,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/restauranger-barcelona-gracia-barcelonas.jpg",
     "filename": "restauranger-barcelona-gracia-barcelonas.jpg",
-    "alt": "Gràcia i Barcelona",
-    "caption": "Gràcia i Barcelona",
+    "alt": "Uteservering på en smal gata i Gràcia",
+    "caption": "Kvarterskrog i Gràcia.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43835,8 +46241,8 @@
     "id": 437,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/parc-de-la-ciutadella-barcelonas.jpg",
     "filename": "parc-de-la-ciutadella-barcelonas.jpg",
-    "alt": "Parc de la Ciutadella i Barcelona",
-    "caption": "Parc de la Ciutadella i Barcelona",
+    "alt": "Kaskadfontänen i Parc de la Ciutadella med folk i gräset",
+    "caption": "Ciutadellaparken, stadens bästa park för en paus med barn.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43853,8 +46259,8 @@
     "id": 435,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/montjuics-slott-barcelonas.jpg",
     "filename": "montjuics-slott-barcelonas.jpg",
-    "alt": "Montjuïcs slott i Barcelona",
-    "caption": "Montjuïcs slott i Barcelona",
+    "alt": "Montjuïcs slott med vallgrav och utsikt mot hamnen",
+    "caption": "Montjuïcs slott högst upp på berget.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43871,8 +46277,8 @@
     "id": 433,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/la-boqueria-barcelonas.jpg",
     "filename": "la-boqueria-barcelonas.jpg",
-    "alt": "La Boqueria i Barcelona",
-    "caption": "La Boqueria i Barcelona",
+    "alt": "Entrén till La Boqueria på Las Ramblas med folkmassa",
+    "caption": "Entrén till La Boqueria från Las Ramblas.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43889,8 +46295,8 @@
     "id": 431,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/girona-barcelonas.jpg",
     "filename": "girona-barcelonas.jpg",
-    "alt": "Girona i Barcelona",
-    "caption": "Girona i Barcelona",
+    "alt": "Färgglada hus längs floden Onyar i Girona",
+    "caption": "Girona och husen längs Onyar, 38 minuter med snabbtåg.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43907,8 +46313,8 @@
     "id": 429,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/den-magiska-fontanen-barcelonas.jpg",
     "filename": "den-magiska-fontanen-barcelonas.jpg",
-    "alt": "Den magiska fontänen i Barcelona",
-    "caption": "Den magiska fontänen i Barcelona",
+    "alt": "Den magiska fontänen på Montjuïc med publik",
+    "caption": "Magiska fontänen vid Plaça d&#8217;Espanya.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43925,8 +46331,8 @@
     "id": 427,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/costa-brava-barcelonas.jpg",
     "filename": "costa-brava-barcelonas.jpg",
-    "alt": "Costa Brava i Barcelona",
-    "caption": "Costa Brava i Barcelona",
+    "alt": "Klippkust och kustby på Costa Brava",
+    "caption": "Costa Brava, närmaste klippkusten norr om Barcelona.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43943,8 +46349,8 @@
     "id": 425,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/barceloneta-och-sant-sebastia-barcelonas.jpg",
     "filename": "barceloneta-och-sant-sebastia-barcelonas.jpg",
-    "alt": "Barceloneta och Sant Sebastià i Barcelona",
-    "caption": "Barceloneta och Sant Sebastià i Barcelona",
+    "alt": "Barceloneta och Sant Sebastià med strandpromenaden och Hotel W",
+    "caption": "Barceloneta och Sant Sebastià.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43961,8 +46367,8 @@
     "id": 423,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/barcelona-i-korthet-barcelonas.jpg",
     "filename": "barcelona-i-korthet-barcelonas.jpg",
-    "alt": "Barcelona i korthet",
-    "caption": "Barcelona i korthet i Barcelona",
+    "alt": "Park Güell med paviljongerna och utsikt över Barcelona",
+    "caption": "Barcelona sett från Park Güell.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43979,8 +46385,8 @@
     "id": 421,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/barca-atletic-samma-arena-annu-billigare-barcelonas.jpg",
     "filename": "barca-atletic-samma-arena-annu-billigare-barcelonas.jpg",
-    "alt": "Barça Atlètic – samma arena, ännu billigare i Barcelona",
-    "caption": "Barça Atlètic – samma arena, ännu billigare i Barcelona",
+    "alt": "Publik på väg till Estadi Johan Cruyff i Sant Joan Despí i kvällsljus",
+    "caption": "Matchkväll vid Estadi Johan Cruyff, Barça Femenís hemmaarena.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -43997,8 +46403,8 @@
     "id": 419,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/alternativ-b-sitges-barcelonas.jpg",
     "filename": "alternativ-b-sitges-barcelonas.jpg",
-    "alt": "Alternativ B – Sitges i Barcelona",
-    "caption": "Alternativ B – Sitges i Barcelona",
+    "alt": "Strandpromenaden i Sitges med kyrkan Sant Bartomeu i bakgrunden",
+    "caption": "Sitges, fyrtio minuter söderut med tåg.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-10",
@@ -44015,8 +46421,8 @@
     "id": 364,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/vindsvaningen-espai-gaudi-barcelonas.jpg",
     "filename": "vindsvaningen-espai-gaudi-barcelonas.jpg",
-    "alt": "Vindsvåningen – Espai Gaudí i Barcelona",
-    "caption": "Vindsvåningen – Espai Gaudí i Barcelona",
+    "alt": "Kvällsbesökare på en takterrass i Barcelona med Sagrada Família i fjärran",
+    "caption": "Kvällsljus över Eixample från en takterrass.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44033,8 +46439,8 @@
     "id": 362,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/ue-sant-andreu-barcelonas.jpg",
     "filename": "ue-sant-andreu-barcelonas.jpg",
-    "alt": "UE Sant Andreu i Barcelona",
-    "caption": "UE Sant Andreu i Barcelona",
+    "alt": "Publik vid en match på UE Sant Andreus arena",
+    "caption": "UE Sant Andreu, lokalfotboll i norra Barcelona.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44051,8 +46457,8 @@
     "id": 360,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sondagsmarknaden-i-sant-antoni-barcelonas.jpg",
     "filename": "sondagsmarknaden-i-sant-antoni-barcelonas.jpg",
-    "alt": "Söndagsmarknaden i Sant Antoni i Barcelona",
-    "caption": "Söndagsmarknaden i Sant Antoni i Barcelona",
+    "alt": "Söndagsmarknad med böcker och samlarsaker vid Mercat de Sant Antoni",
+    "caption": "Söndagsmarknaden vid Sant Antoni.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44069,8 +46475,8 @@
     "id": 358,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sommaren-juni-till-augusti-barcelonas.jpg",
     "filename": "sommaren-juni-till-augusti-barcelonas.jpg",
-    "alt": "Sommaren: juni till augusti i Barcelona",
-    "caption": "Sommaren: juni till augusti i Barcelona",
+    "alt": "Barcelona sett från ovan med stranden och Sagrada Família",
+    "caption": "Barcelona en sommardag.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44087,8 +46493,8 @@
     "id": 356,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sevardheter-barcelona-el-born-barcelonas.jpg",
     "filename": "sevardheter-barcelona-el-born-barcelonas.jpg",
-    "alt": "El Born i Barcelona",
-    "caption": "El Born i Barcelona",
+    "alt": "Gata i El Born med uteserveringar",
+    "caption": "El Born mellan Santa Maria del Mar och Ciutadella.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44105,8 +46511,8 @@
     "id": 354,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sevardheter-barcelona-barri-gotic-barcelonas.jpg",
     "filename": "sevardheter-barcelona-barri-gotic-barcelonas.jpg",
-    "alt": "Barri Gòtic i Barcelona",
-    "caption": "Barri Gòtic i Barcelona",
+    "alt": "Carrer del Bisbe med bron i Barri Gòtic",
+    "caption": "Carrer del Bisbe i gotiska kvarteren.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44123,8 +46529,8 @@
     "id": 352,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sant-antoni-barcelonas.jpg",
     "filename": "sant-antoni-barcelonas.jpg",
-    "alt": "Sant Antoni i Barcelona",
-    "caption": "Sant Antoni i Barcelona",
+    "alt": "Gathörn i Sant Antoni med cyklister och kaféer",
+    "caption": "Sant Antoni, en av stadens bästa matstadsdelar.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44149,8 +46555,8 @@
     "id": 350,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/sagrada-familia-barcelonas.jpg",
     "filename": "sagrada-familia-barcelonas.jpg",
-    "alt": "Sagrada Família i Barcelona",
-    "caption": "Sagrada Família i Barcelona",
+    "alt": "Sagrada Família med byggkranar sedd från gatan",
+    "caption": "Sagrada Família, fortfarande under byggnad.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44167,8 +46573,8 @@
     "id": 348,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/rcde-stadium-barcelonas.jpg",
     "filename": "rcde-stadium-barcelonas.jpg",
-    "alt": "RCDE Stadium i Barcelona",
-    "caption": "RCDE Stadium i Barcelona",
+    "alt": "RCDE Stadium med supportrar på väg in",
+    "caption": "RCDE Stadium i Cornellà, Espanyols arena.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44185,8 +46591,8 @@
     "id": 346,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/poblenou-och-razzmatazz-barcelonas.jpg",
     "filename": "poblenou-och-razzmatazz-barcelonas.jpg",
-    "alt": "Poblenou och Razzmatazz i Barcelona",
-    "caption": "Poblenou och Razzmatazz i Barcelona",
+    "alt": "Gata i Poblenou med skylt mot klubben Razzmatazz",
+    "caption": "Poblenou, där Razzmatazz ligger.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44203,8 +46609,8 @@
     "id": 344,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/passeig-de-gracia-barcelonas.jpg",
     "filename": "passeig-de-gracia-barcelonas.jpg",
-    "alt": "Passeig de Gràcia i Barcelona",
-    "caption": "Passeig de Gràcia i Barcelona",
+    "alt": "Passeig de Gràcia med träd och modernistiska hus",
+    "caption": "Passeig de Gràcia.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44221,8 +46627,8 @@
     "id": 342,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/park-guell-barcelonas.jpg",
     "filename": "park-guell-barcelonas.jpg",
-    "alt": "Park Güell i Barcelona",
-    "caption": "Park Güell i Barcelona",
+    "alt": "Mosaikbänken i Park Güell med entrépaviljongerna",
+    "caption": "Mosaikbänken och paviljongerna i Park Güell.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44239,8 +46645,8 @@
     "id": 340,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/palau-guell-barcelonas.jpg",
     "filename": "palau-guell-barcelonas.jpg",
-    "alt": "Palau Güell i Barcelona",
-    "caption": "Palau Güell i Barcelona",
+    "alt": "Palau Güells smala gata i El Raval på kvällen",
+    "caption": "Palau Güell ligger på Carrer Nou de la Rambla.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44257,8 +46663,8 @@
     "id": 338,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/nova-mar-bella-och-llevant-barcelonas.jpg",
     "filename": "nova-mar-bella-och-llevant-barcelonas.jpg",
-    "alt": "Nova Mar Bella och Llevant i Barcelona",
-    "caption": "Nova Mar Bella och Llevant i Barcelona",
+    "alt": "Strandpromenaden vid Nova Mar Bella och Llevant",
+    "caption": "Nova Mar Bella och Llevant längst norrut.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44275,8 +46681,8 @@
     "id": 336,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/nova-icaria-barcelonas.jpg",
     "filename": "nova-icaria-barcelonas.jpg",
-    "alt": "Nova Icària i Barcelona",
-    "caption": "Nova Icària i Barcelona",
+    "alt": "Strandpromenaden vid Nova Icària med tvillingtornen",
+    "caption": "Nova Icària.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44293,8 +46699,8 @@
     "id": 334,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/montserrat-barcelonas.jpg",
     "filename": "montserrat-barcelonas.jpg",
-    "alt": "Montserrat i Barcelona",
-    "caption": "Montserrat i Barcelona",
+    "alt": "Klostret Montserrat med de taggiga bergstopparna bakom",
+    "caption": "Klostret på Montserrat, en timme från Barcelona.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44311,8 +46717,8 @@
     "id": 332,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/mnac-kataloniens-nationalmuseum-barcelonas.jpg",
     "filename": "mnac-kataloniens-nationalmuseum-barcelonas.jpg",
-    "alt": "MNAC – Kataloniens nationalmuseum i Barcelona",
-    "caption": "MNAC – Kataloniens nationalmuseum i Barcelona",
+    "alt": "Palau Nacional med MNAC på Montjuïc och trapporna nedanför",
+    "caption": "MNAC i Palau Nacional på Montjuïc.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44329,8 +46735,8 @@
     "id": 330,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-santa-caterina-barcelonas.jpg",
     "filename": "mercat-de-santa-caterina-barcelonas.jpg",
-    "alt": "Mercat de Santa Caterina i Barcelona",
-    "caption": "Mercat de Santa Caterina i Barcelona",
+    "alt": "Mercat de Santa Caterina med sitt färgglada vågiga tak",
+    "caption": "Santa Caterina och det mosaiktäckta taket.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44347,8 +46753,8 @@
     "id": 328,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-sant-antoni-barcelonas.jpg",
     "filename": "mercat-de-sant-antoni-barcelonas.jpg",
-    "alt": "Mercat de Sant Antoni i Barcelona",
-    "caption": "Mercat de Sant Antoni i Barcelona",
+    "alt": "Mercat de Sant Antoni i rött tegel",
+    "caption": "Mercat de Sant Antoni efter renoveringen.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44365,8 +46771,8 @@
     "id": 326,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/mercat-de-la-llibertat-barcelonas.jpg",
     "filename": "mercat-de-la-llibertat-barcelonas.jpg",
-    "alt": "Mercat de la Llibertat i Barcelona",
-    "caption": "Mercat de la Llibertat i Barcelona",
+    "alt": "Mercat de la Llibertat i Gràcia med järnfasad",
+    "caption": "Mercat de la Llibertat i Gràcia.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44383,8 +46789,8 @@
     "id": 324,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/mar-bella-barcelonas.jpg",
     "filename": "mar-bella-barcelonas.jpg",
-    "alt": "Mar Bella i Barcelona",
-    "caption": "Mar Bella i Barcelona",
+    "alt": "Mar Bella i solnedgång med cyklist på promenaden",
+    "caption": "Mar Bella i kvällsljus.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44401,8 +46807,8 @@
     "id": 322,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/fundacio-joan-miro-barcelonas.jpg",
     "filename": "fundacio-joan-miro-barcelonas.jpg",
-    "alt": "Fundació Joan Miró i Barcelona",
-    "caption": "Fundació Joan Miró i Barcelona",
+    "alt": "Miróskulptur i trädgården vid Fundació Joan Miró",
+    "caption": "Fundació Joan Miró på Montjuïc.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44419,8 +46825,8 @@
     "id": 320,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/figueres-och-dali-barcelonas.jpg",
     "filename": "figueres-och-dali-barcelonas.jpg",
-    "alt": "Figueres och Dalí i Barcelona",
-    "caption": "Figueres och Dalí i Barcelona",
+    "alt": "Dalímuseet i Figueres med äggen på taket",
+    "caption": "Teatre-Museu Dalí i Figueres.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44437,8 +46843,8 @@
     "id": 318,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/estadi-olimpic-arenan-barca-lamnade-barcelonas.jpg",
     "filename": "estadi-olimpic-arenan-barca-lamnade-barcelonas.jpg",
-    "alt": "Estadi Olímpic – arenan Barça lämnade i Barcelona",
-    "caption": "Estadi Olímpic – arenan Barça lämnade i Barcelona",
+    "alt": "Estadi Olímpic Lluís Companys på Montjuïc",
+    "caption": "Olympiastadion på Montjuïc, där Barça spelade medan Camp Nou byggdes om.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44455,8 +46861,8 @@
     "id": 316,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/en-dag-pa-montjuic-barcelonas.jpg",
     "filename": "en-dag-pa-montjuic-barcelonas.jpg",
-    "alt": "En dag på Montjuïc i Barcelona",
-    "caption": "En dag på Montjuïc i Barcelona",
+    "alt": "Kollage från Montjuïc: museet, linbanan, utsikten och tornet",
+    "caption": "Montjuïc på en dag.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44473,8 +46879,8 @@
     "id": 314,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/els-encants-vells-barcelonas.jpg",
     "filename": "els-encants-vells-barcelonas.jpg",
-    "alt": "Els Encants Vells i Barcelona",
-    "caption": "Els Encants Vells i Barcelona",
+    "alt": "Loppmarknaden Els Encants under det speglande taket",
+    "caption": "Els Encants vid Plaça de les Glòries.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44491,8 +46897,8 @@
     "id": 312,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/colonia-guell-barcelonas.jpg",
     "filename": "colonia-guell-barcelonas.jpg",
-    "alt": "Colònia Güell i Barcelona",
-    "caption": "Colònia Güell i Barcelona",
+    "alt": "Kryptan i Colònia Güell med sina lutande pelare",
+    "caption": "Kryptan i Colònia Güell, utanför staden.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44509,8 +46915,8 @@
     "id": 310,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/ce-europa-gracia-barcelonas.jpg",
     "filename": "ce-europa-gracia-barcelonas.jpg",
-    "alt": "CE Europa – Gràcia i Barcelona",
-    "caption": "CE Europa – Gràcia i Barcelona",
+    "alt": "Entrén till CE Europas arena i Gràcia",
+    "caption": "CE Europa, Gràcias eget lag.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44527,8 +46933,8 @@
     "id": 308,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-vicens-barcelonas.jpg",
     "filename": "casa-vicens-barcelonas.jpg",
-    "alt": "Casa Vicens i Barcelona",
-    "caption": "Casa Vicens i Barcelona",
+    "alt": "Casa Vicens med sina gröna och vita kakelfasader",
+    "caption": "Casa Vicens i Gràcia, Gaudís första stora hus.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44545,8 +46951,8 @@
     "id": 306,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-mila-la-pedrera-takterrassen-barcelonas.jpg",
     "filename": "casa-mila-la-pedrera-takterrassen-barcelonas.jpg",
-    "alt": "Takterrassen i Barcelona",
-    "caption": "Takterrassen i Barcelona",
+    "alt": "Skorstensskulpturerna på taket till Casa Milà i solnedgång",
+    "caption": "Taket på La Pedrera med Gaudís skorstenar.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44563,8 +46969,8 @@
     "id": 304,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-mila-la-pedrera-barcelonas.jpg",
     "filename": "casa-mila-la-pedrera-barcelonas.jpg",
-    "alt": "Casa Milà – La Pedrera i Barcelona",
-    "caption": "Casa Milà – La Pedrera i Barcelona",
+    "alt": "Casa Milà, La Pedrera, upplyst i skymningen",
+    "caption": "Casa Milà i kvällsbelysning.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44581,8 +46987,8 @@
     "id": 302,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/casa-batllo-barcelonas.jpg",
     "filename": "casa-batllo-barcelonas.jpg",
-    "alt": "Casa Batlló i Barcelona",
-    "caption": "Casa Batlló i Barcelona",
+    "alt": "Casa Batllós fasad på Passeig de Gràcia",
+    "caption": "Casa Batlló på Passeig de Gràcia.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44599,8 +47005,8 @@
     "id": 300,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/carrer-dels-tallers-barcelonas.jpg",
     "filename": "carrer-dels-tallers-barcelonas.jpg",
-    "alt": "Carrer dels Tallers i Barcelona",
-    "caption": "Carrer dels Tallers i Barcelona",
+    "alt": "Carrer dels Tallers med skivbutiker och klädaffärer",
+    "caption": "Carrer dels Tallers.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44617,8 +47023,8 @@
     "id": 298,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/carrer-de-la-riera-baixa-el-raval-barcelonas.jpg",
     "filename": "carrer-de-la-riera-baixa-el-raval-barcelonas.jpg",
-    "alt": "Carrer de la Riera Baixa – El Raval i Barcelona",
-    "caption": "Carrer de la Riera Baixa – El Raval i Barcelona",
+    "alt": "Carrer de la Riera Baixa i El Raval med vintagebutiker",
+    "caption": "Riera Baixa, vintagegatan i El Raval.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44635,8 +47041,8 @@
     "id": 296,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/bogatell-barcelonas.jpg",
     "filename": "bogatell-barcelonas.jpg",
-    "alt": "Bogatell i Barcelona",
-    "caption": "Bogatell i Barcelona",
+    "alt": "Bogatellstranden med palmer och tvillingtornen",
+    "caption": "Bogatell, bredare och lugnare än Barceloneta.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44653,8 +47059,8 @@
     "id": 294,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/bo-i-barcelona-gracia-barcelonas.jpg",
     "filename": "bo-i-barcelona-gracia-barcelonas.jpg",
-    "alt": "Gràcia i Barcelona",
-    "caption": "Gràcia i Barcelona",
+    "alt": "Uteserveringar på en gågata i Gràcia",
+    "caption": "Gràcia: torg, kvarterskrogar och lokalt liv.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44671,8 +47077,8 @@
     "id": 292,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/bo-i-barcelona-eixample-barcelonas.jpg",
     "filename": "bo-i-barcelona-eixample-barcelonas.jpg",
-    "alt": "Eixample i Barcelona",
-    "caption": "Eixample i Barcelona",
+    "alt": "Bred gata i Eixample med modernistiska hus och träd",
+    "caption": "Eixamples raka gator och modernistiska fasader.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44689,8 +47095,8 @@
     "id": 290,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/basilikan-och-la-moreneta-barcelonas.jpg",
     "filename": "basilikan-och-la-moreneta-barcelonas.jpg",
-    "alt": "Basilikan och La Moreneta i Barcelona",
-    "caption": "Basilikan och La Moreneta i Barcelona",
+    "alt": "Besökare vid den svarta madonnan i Montserrats basilika",
+    "caption": "La Moreneta i Montserrats basilika.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44707,8 +47113,8 @@
     "id": 288,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/barri-gotic-och-el-raval-barcelonas.jpg",
     "filename": "barri-gotic-och-el-raval-barcelonas.jpg",
-    "alt": "Barri Gòtic och El Raval i Barcelona",
-    "caption": "Barri Gòtic och El Raval i Barcelona",
+    "alt": "En gränd med bro i Barri Gòtic och en gatumålning i El Raval",
+    "caption": "Barri Gòtic till vänster, El Raval till höger.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -44725,8 +47131,8 @@
     "id": 286,
     "url": "https://barcelonas.se/wp-content/uploads/2026/08/barceloneta-och-stranden-barcelonas.jpg",
     "filename": "barceloneta-och-stranden-barcelonas.jpg",
-    "alt": "Barceloneta och stranden i Barcelona",
-    "caption": "Barceloneta och stranden i Barcelona",
+    "alt": "Strandpromenaden i Barceloneta med Hotel Arts och Mapfretornet",
+    "caption": "Barceloneta, närmast havet av alla kvarter.",
     "w": 1536,
     "h": 1024,
     "date": "2026-08-01",
@@ -45647,6 +48053,100 @@
   },
   {
     "domain": "londons",
+    "id": 221,
+    "url": "https://londons.se/wp-content/uploads/2026/10/julpynt-covent-garden-november-londons.jpg",
+    "filename": "julpynt-covent-garden-november-londons.jpg",
+    "alt": "Julpyntet i Covent Garden i november",
+    "caption": "",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "london-i-november",
+        "link": "https://londons.se/london-i-november/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 218,
+    "url": "https://londons.se/wp-content/uploads/2026/10/winter-wonderland-hyde-park-londons.jpg",
+    "filename": "winter-wonderland-hyde-park-londons.jpg",
+    "alt": "Winter Wonderland i Hyde Park i december",
+    "caption": "Photos taken at Winter Wonderland in Hyde Park, London, in 2011.",
+    "w": 1920,
+    "h": 1272,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "london-i-december",
+        "link": "https://londons.se/london-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 217,
+    "url": "https://londons.se/wp-content/uploads/2026/10/julbelysning-regent-street-londons.jpg",
+    "filename": "julbelysning-regent-street-londons.jpg",
+    "alt": "Julbelysningen på Regent Street i London",
+    "caption": "OLYMPUS DIGITAL CAMERA",
+    "w": 1920,
+    "h": 1419,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "london-i-december",
+        "link": "https://londons.se/london-i-december/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 215,
+    "url": "https://londons.se/wp-content/uploads/2026/10/tower-of-london-londons.jpg",
+    "filename": "tower-of-london-londons.jpg",
+    "alt": "Tower of London vid Themsen",
+    "caption": "",
+    "w": 1920,
+    "h": 1280,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "london-i-oktober",
+        "link": "https://londons.se/london-i-oktober/"
+      },
+      {
+        "slug": "vad-kostar-london",
+        "link": "https://londons.se/vad-kostar-london/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
+    "id": 214,
+    "url": "https://londons.se/wp-content/uploads/2026/10/hostfarger-hyde-park-londons.jpg",
+    "filename": "hostfarger-hyde-park-londons.jpg",
+    "alt": "Höstfärger i Hyde Park i London i oktober",
+    "caption": "",
+    "w": 1920,
+    "h": 1440,
+    "date": "2026-10-27",
+    "managed": false,
+    "used_on": [
+      {
+        "slug": "london-i-oktober",
+        "link": "https://londons.se/london-i-oktober/"
+      }
+    ]
+  },
+  {
+    "domain": "londons",
     "id": 135,
     "url": "https://londons.se/wp-content/uploads/2026/08/windsor-londons.jpg",
     "filename": "windsor-londons.jpg",
@@ -46190,7 +48690,12 @@
     "h": 784,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "basta-tiden-paris",
+        "link": "https://parisguide.se/basta-tiden-paris/"
+      }
+    ]
   },
   {
     "domain": "parisguide",
@@ -46203,7 +48708,12 @@
     "h": 912,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "saker-att-gora-i-paris",
+        "link": "https://parisguide.se/saker-att-gora-i-paris/"
+      }
+    ]
   },
   {
     "domain": "parisguide",
@@ -46216,7 +48726,12 @@
     "h": 1038,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "louvren",
+        "link": "https://parisguide.se/louvren/"
+      }
+    ]
   },
   {
     "domain": "parisguide",
@@ -46229,7 +48744,12 @@
     "h": 1028,
     "date": "2026-10-20",
     "managed": false,
-    "used_on": []
+    "used_on": [
+      {
+        "slug": "hem",
+        "link": "https://parisguide.se/"
+      }
+    ]
   },
   {
     "domain": "kretas",
@@ -46280,6 +48800,32 @@
     "w": 1180,
     "h": 300,
     "date": "2026-08-10",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 191,
+    "url": "https://madeiras.se/wp-content/uploads/madeiras-favicon-512-1.png",
+    "filename": "madeiras-favicon-512-1.png",
+    "alt": "",
+    "caption": "",
+    "w": 512,
+    "h": 512,
+    "date": "2026-10-28",
+    "managed": false,
+    "used_on": []
+  },
+  {
+    "domain": "madeiras",
+    "id": 190,
+    "url": "https://madeiras.se/wp-content/uploads/madeiras-logo-wide-1.png",
+    "filename": "madeiras-logo-wide-1.png",
+    "alt": "",
+    "caption": "",
+    "w": 1060,
+    "h": 300,
+    "date": "2026-10-28",
     "managed": false,
     "used_on": []
   },
