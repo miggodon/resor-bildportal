@@ -12197,10 +12197,6 @@
       {
         "slug": "torremolinos-vs-fuengirola",
         "link": "https://torremolinos.se/torremolinos-vs-fuengirola/"
-      },
-      {
-        "slug": "hyrbil-i-torremolinos",
-        "link": "https://torremolinos.se/hyrbil-i-torremolinos/"
       }
     ]
   },
@@ -12388,12 +12384,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "torremolinos-med-barn",
-        "link": "https://torremolinos.se/torremolinos-med-barn/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -12508,12 +12499,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -12705,12 +12691,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -12821,10 +12802,6 @@
       {
         "slug": "la-carihuela-torremolinos",
         "link": "https://torremolinos.se/la-carihuela-torremolinos/"
-      },
-      {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
       },
       {
         "slug": "var-ska-man-bo-i-torremolinos",
@@ -13034,12 +13011,7 @@
     "h": 1024,
     "date": "2026-06-06",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "torremolinos",
@@ -13277,10 +13249,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      },
-      {
         "slug": "var-ska-man-bo-i-torremolinos",
         "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
       },
@@ -13443,10 +13411,6 @@
         "link": "https://torremolinos.se/bajondillo-torremolinos/"
       },
       {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      },
-      {
         "slug": "var-ska-man-bo-i-torremolinos",
         "link": "https://torremolinos.se/var-ska-man-bo-i-torremolinos/"
       }
@@ -13601,10 +13565,6 @@
     "date": "2026-05-29",
     "managed": true,
     "used_on": [
-      {
-        "slug": "omraden-torremolinos",
-        "link": "https://torremolinos.se/omraden-torremolinos/"
-      },
       {
         "slug": "basta-stranderna-i-torremolinos",
         "link": "https://torremolinos.se/basta-stranderna-i-torremolinos/"
