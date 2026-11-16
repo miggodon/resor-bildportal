@@ -21934,12 +21934,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21952,12 +21947,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -21970,12 +21960,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -22001,12 +21986,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
@@ -22409,10 +22389,6 @@
     "managed": true,
     "used_on": [
       {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      },
-      {
         "slug": "teneriffa-se",
         "link": "https://teneriffa.se/"
       }
@@ -22429,12 +22405,7 @@
     "h": 1024,
     "date": "2026-06-01",
     "managed": true,
-    "used_on": [
-      {
-        "slug": "teneriffa-hyrbil-guide",
-        "link": "https://teneriffa.se/teneriffa-hyrbil-guide/"
-      }
-    ]
+    "used_on": []
   },
   {
     "domain": "teneriffa",
